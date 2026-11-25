@@ -1,0 +1,35 @@
+name: mw_english
+description: "MW English — 离线背单词 App"
+publish_to: 'none'
+
+version: 0.2.0+2
+
+environment:
+  sdk: ^3.14.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  material_ui: ^1.1.0
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  # 全量字体：Noto Sans CJK SC 官方 OTF，44,810 字符（CJK 20,976）。
+  # 不用子集，避免生僻字缺字；体积约 32 MB，用户确认可接受。
+  fonts:
+    - family: NotoSansSC
+      fonts:
+        - asset: assets/fonts/NotoSansSC-Regular.otf
+          weight: 400
+        - asset: assets/fonts/NotoSansSC-Bold.otf
+          weight: 700
+
+  assets:
+    - assets/db/
