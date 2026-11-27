@@ -1,0 +1,40 @@
+# ---- Flutter / Dart ----
+app/.dart_tool/
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+app/.packages
+app/build/
+app/.pub-cache/
+app/.pub/
+app/*.iml
+**/generated_plugin_registrant.dart
+
+# ---- Android ----
+app/android/.gradle/
+app/android/local.properties
+app/android/.kotlin/
+app/android/captures/
+app/android/key.properties
+**/*.jks
+**/*.keystore
+app/android/app/release/
+
+# ---- 原始数据与中间产物（体积大或可重新生成）----
+_source/ecdict.csv
+_source/_probe*.sqlite
+_source/_fl.json
+_source/_doctor*.txt
+_source/fonts/*.woff2
+_source/fonts/tmp-*.ttf
+_source/__pycache__/
+
+# ---- 系统 ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 原始词表 PDF（用户私有资料，不入库）
+_source/*.pdf
+
+# pdfium 的 Windows dll 只给 flutter test 用，不进 git（三份 Android .so 要进）
+app/.pdfium/
