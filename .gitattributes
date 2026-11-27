@@ -1,0 +1,15 @@
+# 二进制文件一律不做换行转换。
+#
+# 为什么需要这个：本机 `core.autocrlf=true`，git 默认按内容判断文本/二进制。
+# 测试用的 `app/test/fixtures/sample_words.pdf` 是手写的纯 ASCII PDF（不含 NUL），
+# git 会判成文本，签出时把 LF 换成 CRLF —— PDF 的 xref 偏移写死的是字节下标，
+# 多出来的字节会让它打不开，测试在别的机器上直接挂。这里显式标 binary。
+#
+# 只标真正需要保护的类型，不写 `* text=auto`（那会把全仓库历史文件的换行重刷一遍）。
+*.pdf    binary
+*.so     binary
+*.otf    binary
+*.ttf    binary
+*.sqlite binary
+*.jks    binary
+*.keystore binary
