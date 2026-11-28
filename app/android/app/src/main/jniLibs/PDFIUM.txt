@@ -1,0 +1,7 @@
+pdfium 158.0.8125.0
+release chromium/8125
+source https://github.com/bblanchon/pdfium-binaries
+
+arm64-v8a/libpdfium.so  6598376  de19db1c0fb33579bca6ace903af7ccb9d03ad1d3f6c5202970d8d79d7538303
+armeabi-v7a/libpdfium.so  4324288  03bd9d13060401fe4e40625b935d1a8281edac2a4788e98994df1d8a82e9f577
+x86_64/libpdfium.so  6886848  5f7e47f76b5c11107f6b451690b97f78f576ab3552441603d8d52b374e6ac33a

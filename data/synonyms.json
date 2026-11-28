@@ -1,0 +1,11482 @@
+{
+ "transmit": [
+  {
+   "w": "broadcast",
+   "dist": "专指电台电视播送节目，transmit 更泛，可指信号传播。"
+  },
+  {
+   "w": "convey",
+   "dist": "侧重传递信息、情感，transmit 更强调物理或信号传输。"
+  },
+  {
+   "w": "spread",
+   "dist": "强调扩散范围，transmit 强调从一处传到另一处。"
+  }
+ ],
+ "conscious": [
+  {
+   "w": "aware",
+   "dist": "aware 更常用，搭配 of；conscious 更强调内心知觉。"
+  },
+  {
+   "w": "mindful",
+   "dist": "mindful 侧重留心注意，conscious 仅指意识到。"
+  },
+  {
+   "w": "alert",
+   "dist": "alert 指警觉敏锐，conscious 语气更中性平缓。"
+  }
+ ],
+ "prompt": [
+  {
+   "w": "spur",
+   "dist": "spur 强调激励推动，prompt 侧重促使某事发生。"
+  },
+  {
+   "w": "trigger",
+   "dist": "trigger 指引发突发事件，prompt 更偏敦促、促成。"
+  },
+  {
+   "w": "swift",
+   "dist": "作形容词时 swift 指动作快，prompt 强调及时不拖延。"
+  }
+ ],
+ "eliminate": [
+  {
+   "w": "remove",
+   "dist": "remove 泛指移除，eliminate 强调彻底清除。"
+  },
+  {
+   "w": "eradicate",
+   "dist": "eradicate 语气更强，指根除顽疾，eliminate 更通用。"
+  },
+  {
+   "w": "exclude",
+   "dist": "exclude 指排除在外，eliminate 侧重消灭或淘汰。"
+  }
+ ],
+ "equivalent": [
+  {
+   "w": "counterpart",
+   "dist": "counterpart 指对应的人或物，equivalent 强调价值相等。"
+  },
+  {
+   "w": "equal",
+   "dist": "equal 指数量地位相等，equivalent 强调可互换等价。"
+  },
+  {
+   "w": "parallel",
+   "dist": "parallel 指类似对应之物，equivalent 更强调等值。"
+  }
+ ],
+ "invade": [
+  {
+   "w": "intrude",
+   "dist": "intrude 指擅自闯入，invade 强调武力侵略或大批涌入。"
+  },
+  {
+   "w": "encroach",
+   "dist": "encroach 指逐步侵占，invade 动作更直接猛烈。"
+  },
+  {
+   "w": "raid",
+   "dist": "raid 指突袭，invade 指全面入侵占领。"
+  }
+ ],
+ "immune": [
+  {
+   "w": "resistant",
+   "dist": "resistant 指有抵抗力，immune 强调完全不受影响。"
+  },
+  {
+   "w": "exempt",
+   "dist": "exempt 指被免除义务，immune 侧重免受伤害影响。"
+  },
+  {
+   "w": "protected",
+   "dist": "protected 指受保护，immune 强调内在免疫不受侵扰。"
+  }
+ ],
+ "concrete": [
+  {
+   "w": "specific",
+   "dist": "specific 指明确具体，concrete 强调有实例可触摸。"
+  },
+  {
+   "w": "tangible",
+   "dist": "tangible 指可触摸的实在，concrete 更常用于抽象具体化。"
+  },
+  {
+   "w": "definite",
+   "dist": "definite 指确定无疑，concrete 侧重不空泛。"
+  }
+ ],
+ "elaborate": [
+  {
+   "w": "expound",
+   "dist": "expound 指系统阐述学说，elaborate 强调详细展开。"
+  },
+  {
+   "w": "detail",
+   "dist": "detail 作动词指详述，elaborate 更强调层层展开。"
+  },
+  {
+   "w": "explain",
+   "dist": "explain 泛指解释，elaborate 强调详尽深入。"
+  }
+ ],
+ "assemble": [
+  {
+   "w": "gather",
+   "dist": "gather 指聚集人或物，assemble 更正式，也指组装。"
+  },
+  {
+   "w": "congregate",
+   "dist": "congregate 指人群聚集，assemble 可用于零件装配。"
+  },
+  {
+   "w": "construct",
+   "dist": "construct 指建造，assemble 强调把部件组合起来。"
+  }
+ ],
+ "sketch": [
+  {
+   "w": "draw",
+   "dist": "泛指用笔画，sketch 特指快速粗略的素描或草图"
+  },
+  {
+   "w": "outline",
+   "dist": "侧重勾画轮廓，sketch 更强调快速简略的整体描绘"
+  },
+  {
+   "w": "draft",
+   "dist": "指起草文稿或方案，sketch 多用于绘画或初步构想"
+  }
+ ],
+ "harsh": [
+  {
+   "w": "severe",
+   "dist": "侧重严厉或严酷程度，harsh 更强调令人难受的恶劣"
+  },
+  {
+   "w": "stern",
+   "dist": "多形容人的表情态度严厉，harsh 可指环境条件恶劣"
+  },
+  {
+   "w": "bitter",
+   "dist": "指严寒或痛苦刺骨，harsh 范围更广含严酷苛刻"
+  }
+ ],
+ "hook": [
+  {
+   "w": "fasten",
+   "dist": "泛指系紧固定，hook 特指用钩子钩住连接"
+  },
+  {
+   "w": "attach",
+   "dist": "指连接附着，hook 强调以钩状物勾连"
+  },
+  {
+   "w": "catch",
+   "dist": "指抓住钩住，hook 更侧重用钩子勾住的动作"
+  }
+ ],
+ "prevail": [
+  {
+   "w": "dominate",
+   "dist": "指占主导支配地位，prevail 侧重普遍流行存在"
+  },
+  {
+   "w": "persist",
+   "dist": "指持续存在，prevail 强调广泛盛行占优势"
+  },
+  {
+   "w": "abound",
+   "dist": "指大量存在，prevail 更强调普遍流行成风"
+  }
+ ],
+ "brief": [
+  {
+   "w": "short",
+   "dist": "最通用指时间短，brief 更正式且强调简短紧凑"
+  },
+  {
+   "w": "fleeting",
+   "dist": "指转瞬即逝，brief 仅客观表示时间短暂"
+  },
+  {
+   "w": "momentary",
+   "dist": "指片刻瞬间的，brief 时间跨度可稍长些"
+  }
+ ],
+ "permanent": [
+  {
+   "w": "lasting",
+   "dist": "指持续长久，permanent 强调永久不变不会消失"
+  },
+  {
+   "w": "enduring",
+   "dist": "指经久不衰，permanent 更强调无期限的永久性"
+  },
+  {
+   "w": "perpetual",
+   "dist": "指永无止境持续，permanent 侧重状态固定不变"
+  }
+ ],
+ "instruct": [
+  {
+   "w": "direct",
+   "dist": "指指示命令，instruct 更正式含教导吩咐意味"
+  },
+  {
+   "w": "order",
+   "dist": "指命令，instruct 语气较缓和且含具体指导"
+  },
+  {
+   "w": "command",
+   "dist": "指权威命令，instruct 侧重给出明确指示步骤"
+  }
+ ],
+ "reverse": [
+  {
+   "w": "invert",
+   "dist": "指颠倒上下内外，reverse 侧重方向顺序的相反"
+  },
+  {
+   "w": "overturn",
+   "dist": "指推翻撤销决定，reverse 更广含使逆转反转"
+  },
+  {
+   "w": "undo",
+   "dist": "指取消抵消，reverse 强调使朝相反方向转变"
+  }
+ ],
+ "magnificent": [
+  {
+   "w": "splendid",
+   "dist": "指辉煌华丽，magnificent 更强调宏伟壮丽的气势"
+  },
+  {
+   "w": "grand",
+   "dist": "指宏大雄伟，magnificent 更含华丽精美之意"
+  },
+  {
+   "w": "majestic",
+   "dist": "指威严庄重，magnificent 侧重壮丽华美壮观"
+  }
+ ],
+ "render": [
+  {
+   "w": "make",
+   "dist": "最通用使成为，render 更正式常接形容词表状态"
+  },
+  {
+   "w": "cause",
+   "dist": "指导致造成，render 侧重使某人某物变成某状态"
+  },
+  {
+   "w": "transform",
+   "dist": "指彻底改变形态，render 仅强调使成为某状态"
+  }
+ ],
+ "violate": [
+  {
+   "w": "breach",
+   "dist": "breach 多指违反合同、协议等正式约定。"
+  },
+  {
+   "w": "infringe",
+   "dist": "infringe 侧重侵犯权利、法规，较正式。"
+  },
+  {
+   "w": "transgress",
+   "dist": "transgress 强调越过道德或法律界限，书面语。"
+  }
+ ],
+ "pitch": [
+  {
+   "w": "promote",
+   "dist": "promote 泛指推广宣传，pitch 特指当面推销游说。"
+  },
+  {
+   "w": "hawk",
+   "dist": "hawk 指沿街兜售，语气更口语、带叫卖感。"
+  },
+  {
+   "w": "tar",
+   "dist": "tar 指柏油，作名词时与 pitch 近义但更常用。"
+  }
+ ],
+ "abundant": [
+  {
+   "w": "plentiful",
+   "dist": "plentiful 强调数量充足，口语常用。"
+  },
+  {
+   "w": "ample",
+   "dist": "ample 侧重足够有余，常修饰空间、时间。"
+  },
+  {
+   "w": "copious",
+   "dist": "copious 强调量大，多修饰文字、流量，较正式。"
+  }
+ ],
+ "slip": [
+  {
+   "w": "lapse",
+   "dist": "lapse 指一时疏忽或失误，较正式。"
+  },
+  {
+   "w": "error",
+   "dist": "error 泛指错误，不强调疏忽的偶然性。"
+  },
+  {
+   "w": "slide",
+   "dist": "slide 指滑动、下滑，作动词与 slip 近义。"
+  }
+ ],
+ "deceive": [
+  {
+   "w": "trick",
+   "dist": "trick 指用计谋哄骗，口语色彩强。"
+  },
+  {
+   "w": "mislead",
+   "dist": "mislead 侧重使人误信，未必有恶意。"
+  },
+  {
+   "w": "cheat",
+   "dist": "cheat 指作弊或骗取钱财，贬义更重。"
+  }
+ ],
+ "dissolve": [
+  {
+   "w": "melt",
+   "dist": "melt 指受热融化，dissolve 指溶入液体。"
+  },
+  {
+   "w": "disband",
+   "dist": "disband 专指团体解散，不用于溶解。"
+  },
+  {
+   "w": "disintegrate",
+   "dist": "disintegrate 指崩解碎裂，强调结构瓦解。"
+  }
+ ],
+ "resort": [
+  {
+   "w": "turn",
+   "dist": "turn to 结构，turn 单用可表求助于，较口语。"
+  },
+  {
+   "w": "appeal",
+   "dist": "appeal 指诉诸、求助，常接 to，较正式。"
+  }
+ ],
+ "burst": [
+  {
+   "w": "explode",
+   "dist": "explode 指爆炸，burst 更强调胀破、迸发。"
+  },
+  {
+   "w": "rupture",
+   "dist": "rupture 指破裂、断裂，多用于管道、关系。"
+  },
+  {
+   "w": "outbreak",
+   "dist": "outbreak 作名词指爆发，多用于疾病、战争。"
+  }
+ ],
+ "dim": [
+  {
+   "w": "darken",
+   "dist": "darken 指变暗，dim 强调使光线减弱。"
+  },
+  {
+   "w": "fade",
+   "dist": "fade 指逐渐褪色、变淡，侧重渐变过程。"
+  },
+  {
+   "w": "gloomy",
+   "dist": "gloomy 指阴暗忧郁，作形容词与 dim 近义。"
+  }
+ ],
+ "spoil": [
+  {
+   "w": "ruin",
+   "dist": "ruin 指彻底毁掉，语气比 spoil 更重。"
+  },
+  {
+   "w": "pamper",
+   "dist": "pamper 指娇惯溺爱，与 spoil 此义近。"
+  },
+  {
+   "w": "mar",
+   "dist": "mar 指损害外观或完美，较书面。"
+  }
+ ],
+ "reluctant": [
+  {
+   "w": "unwilling",
+   "dist": "最通用，直接表不愿意，语域中性"
+  },
+  {
+   "w": "hesitant",
+   "dist": "侧重犹豫不决，非坚决拒绝"
+  },
+  {
+   "w": "loath",
+   "dist": "书面较强，强调厌恶而不愿"
+  }
+ ],
+ "cultivate": [
+  {
+   "w": "foster",
+   "dist": "侧重促进发展，常搭关系、能力"
+  },
+  {
+   "w": "nurture",
+   "dist": "强调长期悉心培育、滋养"
+  },
+  {
+   "w": "develop",
+   "dist": "最宽泛，指逐步形成或增强"
+  }
+ ],
+ "emit": [
+  {
+   "w": "discharge",
+   "dist": "侧重排放液体、气体或电流"
+  },
+  {
+   "w": "release",
+   "dist": "强调释放出，语域较宽"
+  },
+  {
+   "w": "radiate",
+   "dist": "专指散发光、热或辐射"
+  }
+ ],
+ "insert": [
+  {
+   "w": "embed",
+   "dist": "强调牢牢嵌入某物内部"
+  },
+  {
+   "w": "implant",
+   "dist": "多指植入体内或观念"
+  },
+  {
+   "w": "introduce",
+   "dist": "较正式，指把某物放入其中"
+  }
+ ],
+ "boast": [
+  {
+   "w": "possess",
+   "dist": "中性表拥有，无自豪炫耀义"
+  },
+  {
+   "w": "feature",
+   "dist": "指以某物为特色，主语多为事物"
+  },
+  {
+   "w": "brag",
+   "dist": "口语贬义，纯指吹嘘自己"
+  }
+ ],
+ "remote": [
+  {
+   "w": "distant",
+   "dist": "侧重空间或时间上远离"
+  },
+  {
+   "w": "isolated",
+   "dist": "强调偏僻隔绝、少有人至"
+  },
+  {
+   "w": "faraway",
+   "dist": "文学色彩，指遥远的地方"
+  }
+ ],
+ "circumstance": [
+  {
+   "w": "situation",
+   "dist": "最通用，指所处状况或局面"
+  },
+  {
+   "w": "condition",
+   "dist": "侧重条件、状态，常复数"
+  },
+  {
+   "w": "context",
+   "dist": "强调事情发生的背景环境"
+  }
+ ],
+ "drift": [
+  {
+   "w": "wander",
+   "dist": "指无目的走动，人为主语"
+  },
+  {
+   "w": "roam",
+   "dist": "强调漫游范围广，较随意"
+  },
+  {
+   "w": "float",
+   "dist": "指漂浮移动，多用于物"
+  }
+ ],
+ "appropriate": [
+  {
+   "w": "suitable",
+   "dist": "最通用，指适合某用途或场合"
+  },
+  {
+   "w": "proper",
+   "dist": "含合乎规范、得体之意"
+  },
+  {
+   "w": "fitting",
+   "dist": "较正式，强调恰如其分"
+  }
+ ],
+ "estate": [
+  {
+   "w": "property",
+   "dist": "最宽泛，指房产、地产等财产"
+  },
+  {
+   "w": "land",
+   "dist": "侧重土地本身，不含建筑"
+  },
+  {
+   "w": "manor",
+   "dist": "指带庄园的大宅邸，较具体"
+  }
+ ],
+ "drain": [
+  {
+   "w": "deplete",
+   "dist": "强调大量消耗资源，比drain更正式"
+  },
+  {
+   "w": "exhaust",
+   "dist": "侧重使彻底用尽，语气比drain强"
+  },
+  {
+   "w": "consume",
+   "dist": "指消耗掉，中性，不如drain强调流失"
+  }
+ ],
+ "consistent": [
+  {
+   "w": "steady",
+   "dist": "侧重稳定不变，多形容速度、状态"
+  },
+  {
+   "w": "constant",
+   "dist": "强调持续不断，可指反复发生"
+  },
+  {
+   "w": "uniform",
+   "dist": "侧重前后一致、无差异，较正式"
+  }
+ ],
+ "indispensable": [
+  {
+   "w": "essential",
+   "dist": "最常用，强调必不可少，语域更广"
+  },
+  {
+   "w": "vital",
+   "dist": "强调对生存或成功至关重要"
+  },
+  {
+   "w": "crucial",
+   "dist": "侧重决定性的关键作用"
+  }
+ ],
+ "beam": [
+  {
+   "w": "ray",
+   "dist": "指细窄光线，比beam更具体细小"
+  },
+  {
+   "w": "girder",
+   "dist": "专指建筑钢梁，比beam窄义"
+  },
+  {
+   "w": "glow",
+   "dist": "指柔和持续发光，不如beam强调照射"
+  }
+ ],
+ "crack": [
+  {
+   "w": "split",
+   "dist": "指沿纹理裂开，比crack更强调分开"
+  },
+  {
+   "w": "fracture",
+   "dist": "较正式，多指骨头或材料断裂"
+  },
+  {
+   "w": "solve",
+   "dist": "仅对应“解决”义，比crack直白"
+  }
+ ],
+ "hint": [
+  {
+   "w": "clue",
+   "dist": "指破案线索，比hint更具体有用"
+  },
+  {
+   "w": "suggestion",
+   "dist": "语气更直接，暗示意味弱于hint"
+  },
+  {
+   "w": "implication",
+   "dist": "指含蓄的言外之意，较正式"
+  }
+ ],
+ "adequate": [
+  {
+   "w": "sufficient",
+   "dist": "强调数量够用，比adequate更正式"
+  },
+  {
+   "w": "enough",
+   "dist": "最口语化，仅指数量足够"
+  },
+  {
+   "w": "satisfactory",
+   "dist": "侧重令人满意，含质量达标义"
+  }
+ ],
+ "squeeze": [
+  {
+   "w": "press",
+   "dist": "泛指按压，不如squeeze强调从两侧挤"
+  },
+  {
+   "w": "cut",
+   "dist": "对应“削减”义，比squeeze更直接"
+  },
+  {
+   "w": "crush",
+   "dist": "指压碎压扁，力度强于squeeze"
+  }
+ ],
+ "accuse": [
+  {
+   "w": "blame",
+   "dist": "侧重归咎责任，不一定要正式指控"
+  },
+  {
+   "w": "charge",
+   "dist": "多指法律正式控告，比accuse正式"
+  },
+  {
+   "w": "condemn",
+   "dist": "语气强，含强烈谴责意味"
+  }
+ ],
+ "insurance": [
+  {
+   "w": "coverage",
+   "dist": "指保险覆盖范围，比insurance更具体"
+  },
+  {
+   "w": "protection",
+   "dist": "泛指保障，语域宽于insurance"
+  },
+  {
+   "w": "assurance",
+   "dist": "英式多指人寿保险，用法较窄"
+  }
+ ],
+ "feasible": [
+  {
+   "w": "viable",
+   "dist": "强调能存活、可持续，多用于方案、企业"
+  },
+  {
+   "w": "practicable",
+   "dist": "偏正式，强调实际可操作而非理论可行"
+  },
+  {
+   "w": "workable",
+   "dist": "口语些，指办法、安排能运转起来"
+  }
+ ],
+ "divorce": [
+  {
+   "w": "separation",
+   "dist": "指分居或分离，不含法律离婚含义"
+  },
+  {
+   "w": "split",
+   "dist": "口语，指分手、离异，语域随意"
+  },
+  {
+   "w": "dissolution",
+   "dist": "正式法律用语，指婚姻或组织的解除"
+  }
+ ],
+ "coordinate": [
+  {
+   "w": "match",
+   "dist": "强调颜色、款式相配，最常用"
+  },
+  {
+   "w": "harmonize",
+   "dist": "强调整体和谐协调，语域稍正式"
+  },
+  {
+   "w": "blend",
+   "dist": "侧重融合、混搭得自然，多用于色彩"
+  }
+ ],
+ "inflation": [
+  {
+   "w": "expansion",
+   "dist": "指膨胀、扩张，不特指物价上涨"
+  },
+  {
+   "w": "swelling",
+   "dist": "指物理上的肿胀、鼓起"
+  },
+  {
+   "w": "distension",
+   "dist": "医学用语，指胀大、膨胀"
+  }
+ ],
+ "representative": [
+  {
+   "w": "delegate",
+   "dist": "指受派参加会议或谈判的代表"
+  },
+  {
+   "w": "envoy",
+   "dist": "外交语境，指特使、使者"
+  },
+  {
+   "w": "spokesperson",
+   "dist": "指对外发言、传达立场的人"
+  }
+ ],
+ "advocate": [
+  {
+   "w": "support",
+   "dist": "最通用，泛指支持，语气较弱"
+  },
+  {
+   "w": "champion",
+   "dist": "强调积极捍卫、为某事业奔走"
+  },
+  {
+   "w": "promote",
+   "dist": "侧重推动、宣传以促其发展"
+  }
+ ],
+ "implement": [
+  {
+   "w": "execute",
+   "dist": "强调按计划执行，偏正式"
+  },
+  {
+   "w": "enforce",
+   "dist": "指强制执行法律、规定"
+  },
+  {
+   "w": "apply",
+   "dist": "泛指应用、施用，范围更广"
+  }
+ ],
+ "convention": [
+  {
+   "w": "conference",
+   "dist": "指正式会议，规模较大、有议程"
+  },
+  {
+   "w": "custom",
+   "dist": "指长期形成的习俗，非正式集会"
+  },
+  {
+   "w": "assembly",
+   "dist": "指集会、议会，强调人群聚集"
+  }
+ ],
+ "liable": [
+  {
+   "w": "prone",
+   "dist": "指易患、易犯，多接不良倾向"
+  },
+  {
+   "w": "apt",
+   "dist": "指有…倾向，中性且较书面"
+  },
+  {
+   "w": "responsible",
+   "dist": "指负有责任，法律语境常用"
+  }
+ ],
+ "insult": [
+  {
+   "w": "offend",
+   "dist": "动词，指冒犯他人感情，语气稍轻"
+  },
+  {
+   "w": "affront",
+   "dist": "正式，指当众冒犯、侮辱"
+  },
+  {
+   "w": "slur",
+   "dist": "指诋毁性言论，多针对群体"
+  }
+ ],
+ "overtake": [
+  {
+   "w": "surpass",
+   "dist": "侧重能力或数量上胜过，较正式"
+  },
+  {
+   "w": "exceed",
+   "dist": "指超出限度或数量，不带追赶意味"
+  },
+  {
+   "w": "outstrip",
+   "dist": "强调拉开距离地超过，语域偏正式"
+  }
+ ],
+ "shrink": [
+  {
+   "w": "contract",
+   "dist": "指体积收缩，多用于物理或经济"
+  },
+  {
+   "w": "diminish",
+   "dist": "指数量减少，较正式"
+  },
+  {
+   "w": "dwindle",
+   "dist": "强调逐渐变少变小"
+  }
+ ],
+ "executive": [
+  {
+   "w": "manager",
+   "dist": "泛指管理者，不含决策权意味"
+  },
+  {
+   "w": "administrator",
+   "dist": "侧重行政管理，语域较正式"
+  },
+  {
+   "w": "director",
+   "dist": "指董事或部门主管，职位更高"
+  }
+ ],
+ "perceive": [
+  {
+   "w": "notice",
+   "dist": "指注意到，强调感官察觉"
+  },
+  {
+   "w": "discern",
+   "dist": "指辨明细微之处，较正式"
+  },
+  {
+   "w": "regard",
+   "dist": "指把…看作，侧重判断态度"
+  }
+ ],
+ "abortion": [
+  {
+   "w": "miscarriage",
+   "dist": "指自然流产，非人为终止"
+  },
+  {
+   "w": "termination",
+   "dist": "委婉语，指终止妊娠"
+  }
+ ],
+ "commercial": [
+  {
+   "w": "business",
+   "dist": "作定语泛指商务，口语常用"
+  },
+  {
+   "w": "mercantile",
+   "dist": "指贸易的，语域正式偏旧"
+  },
+  {
+   "w": "advertisement",
+   "dist": "指广告，对应名词义"
+  }
+ ],
+ "primitive": [
+  {
+   "w": "ancient",
+   "dist": "指古代的，侧重年代久远"
+  },
+  {
+   "w": "crude",
+   "dist": "指粗糙简陋，侧重做工"
+  },
+  {
+   "w": "rudimentary",
+   "dist": "指初步未发展的，较正式"
+  }
+ ],
+ "assume": [
+  {
+   "w": "presume",
+   "dist": "指据理推测，语气比 assume 强"
+  },
+  {
+   "w": "suppose",
+   "dist": "口语常用，指姑且认为"
+  },
+  {
+   "w": "postulate",
+   "dist": "指作为前提提出，学术语域"
+  }
+ ],
+ "evaluate": [
+  {
+   "w": "assess",
+   "dist": "指评估价值或状况，最常用"
+  },
+  {
+   "w": "appraise",
+   "dist": "指估价，偏正式、专业"
+  },
+  {
+   "w": "judge",
+   "dist": "指作出判断，主观色彩较强"
+  }
+ ],
+ "disorder": [
+  {
+   "w": "disease",
+   "dist": "指具体疾病，医学常用"
+  },
+  {
+   "w": "illness",
+   "dist": "泛指生病状态，较口语"
+  },
+  {
+   "w": "chaos",
+   "dist": "指混乱无序，非医学义"
+  }
+ ],
+ "possess": [
+  {
+   "w": "own",
+   "dist": "强调法律所有权，口语常用；possess 更正式，可指拥有品质。"
+  },
+  {
+   "w": "hold",
+   "dist": "指持有、掌握，常搭配股份、职位；possess 侧重归属。"
+  },
+  {
+   "w": "have",
+   "dist": "最通用中性；possess 更书面，且可指具有特性。"
+  }
+ ],
+ "asset": [
+  {
+   "w": "property",
+   "dist": "指具体财物房产；asset 可指抽象优势或会计资产。"
+  },
+  {
+   "w": "resource",
+   "dist": "强调可利用的资源；asset 更强调有价值之物。"
+  },
+  {
+   "w": "advantage",
+   "dist": "指有利条件；asset 指人或事物本身是优势。"
+  }
+ ],
+ "resolution": [
+  {
+   "w": "determination",
+   "dist": "强调坚定意志；resolution 还可指正式决议或解决。"
+  },
+  {
+   "w": "resolve",
+   "dist": "指决心、决意，较正式；resolution 更常指决心本身。"
+  },
+  {
+   "w": "decision",
+   "dist": "指决定；resolution 侧重果断或正式表决结果。"
+  }
+ ],
+ "minor": [
+  {
+   "w": "small",
+   "dist": "泛指小；minor 强调不重要、次要，常修饰问题差异。"
+  },
+  {
+   "w": "slight",
+   "dist": "指轻微细小；minor 更常用于等级、重要性对比。"
+  },
+  {
+   "w": "lesser",
+   "dist": "指较小的、次要的，较正式；minor 更通用。"
+  }
+ ],
+ "lease": [
+  {
+   "w": "rent",
+   "dist": "泛指租用；lease 特指依租约长期租得，法律色彩强。"
+  },
+  {
+   "w": "hire",
+   "dist": "英式指租用物品；lease 多用于房地产长期租赁。"
+  },
+  {
+   "w": "charter",
+   "dist": "指包租车船飞机；lease 指按合同租用不动产。"
+  }
+ ],
+ "crude": [
+  {
+   "w": "raw",
+   "dist": "指未加工的原料；crude 可指原油，也指粗鲁粗糙。"
+  },
+  {
+   "w": "rough",
+   "dist": "指粗糙、粗略；crude 更强调未精制或举止粗俗。"
+  },
+  {
+   "w": "rude",
+   "dist": "指粗鲁无礼；crude 还可指制作粗糙、未加工。"
+  }
+ ],
+ "sector": [
+  {
+   "w": "industry",
+   "dist": "指具体产业；sector 指经济中较大门类，如公共部门。"
+  },
+  {
+   "w": "segment",
+   "dist": "指划分出的部分；sector 常用于经济、社会领域。"
+  },
+  {
+   "w": "area",
+   "dist": "泛指区域领域；sector 更强调系统性划分的部分。"
+  }
+ ],
+ "combat": [
+  {
+   "w": "fight",
+   "dist": "最通用，指打斗争斗；combat 更正式，常指对抗问题。"
+  },
+  {
+   "w": "battle",
+   "dist": "指战役或长期奋斗；combat 作动词强调积极对付。"
+  },
+  {
+   "w": "oppose",
+   "dist": "指反对；combat 强调采取行动遏制、打击。"
+  }
+ ],
+ "scene": [
+  {
+   "w": "site",
+   "dist": "指地点场所；scene 强调事发当场或戏剧场面。"
+  },
+  {
+   "w": "setting",
+   "dist": "指背景环境；scene 指具体情景或现场画面。"
+  },
+  {
+   "w": "spot",
+   "dist": "指具体地点；scene 更强调现场情景与氛围。"
+  }
+ ],
+ "rigid": [
+  {
+   "w": "stiff",
+   "dist": "指僵硬不弯；rigid 可指规则死板、不灵活。"
+  },
+  {
+   "w": "inflexible",
+   "dist": "指不可变通；rigid 更强调僵硬刻板，常修饰制度。"
+  },
+  {
+   "w": "strict",
+   "dist": "指严格；rigid 贬义更强，指死板缺乏弹性。"
+  }
+ ],
+ "scope": [
+  {
+   "w": "range",
+   "dist": "range更强调跨度与变动幅度，scope侧重活动或研究涉及的领域。"
+  },
+  {
+   "w": "extent",
+   "dist": "extent指程度或广度，scope更指可覆盖的领域边界。"
+  },
+  {
+   "w": "reach",
+   "dist": "reach强调影响或能力所及，scope偏指内容范围。"
+  }
+ ],
+ "inquire": [
+  {
+   "w": "ask",
+   "dist": "ask最通用口语；inquire较正式，多用于打听信息。"
+  },
+  {
+   "w": "query",
+   "dist": "query侧重提出疑问或质疑，inquire更中性礼貌。"
+  },
+  {
+   "w": "question",
+   "dist": "question强调连续追问，inquire仅一般询问。"
+  }
+ ],
+ "suppose": [
+  {
+   "w": "assume",
+   "dist": "assume指无证据地认定，suppose语气更弱、更口语。"
+  },
+  {
+   "w": "presume",
+   "dist": "presume含凭经验推断且较正式，suppose更随意。"
+  },
+  {
+   "w": "guess",
+   "dist": "guess偏凭感觉猜测，suppose更接近有依据的设想。"
+  }
+ ],
+ "conceal": [
+  {
+   "w": "hide",
+   "dist": "hide最通用；conceal更正式，强调有意不让人发现。"
+  },
+  {
+   "w": "cover",
+   "dist": "cover指遮盖表面，conceal强调使真相或物体不被察觉。"
+  },
+  {
+   "w": "mask",
+   "dist": "mask侧重掩饰情绪或真相，conceal范围更广。"
+  }
+ ],
+ "sensible": [
+  {
+   "w": "wise",
+   "dist": "wise强调智慧与判断力，sensible侧重务实、合乎常理。"
+  },
+  {
+   "w": "practical",
+   "dist": "practical强调可行实用，sensible还含明智不冲动之意。"
+  },
+  {
+   "w": "rational",
+   "dist": "rational强调合乎逻辑，sensible更贴近生活常识。"
+  }
+ ],
+ "scale": [
+  {
+   "w": "size",
+   "dist": "size指具体大小尺寸，scale强调相对规模或等级。"
+  },
+  {
+   "w": "extent",
+   "dist": "extent指程度范围，scale更强调规模大小。"
+  },
+  {
+   "w": "magnitude",
+   "dist": "magnitude较正式，指巨大程度，scale更中性通用。"
+  }
+ ],
+ "journal": [
+  {
+   "w": "periodical",
+   "dist": "periodical泛指定期刊物，journal多指学术或专业期刊。"
+  },
+  {
+   "w": "diary",
+   "dist": "diary指私人日记，journal可指日记也可指期刊。"
+  },
+  {
+   "w": "magazine",
+   "dist": "magazine偏大众杂志，journal更学术专业。"
+  }
+ ],
+ "dispute": [
+  {
+   "w": "argument",
+   "dist": "argument多指口头争吵，dispute更正式，常指争端。"
+  },
+  {
+   "w": "conflict",
+   "dist": "conflict指冲突对抗，dispute侧重意见分歧的争论。"
+  },
+  {
+   "w": "quarrel",
+   "dist": "quarrel偏私人争吵，dispute可指正式或公共争议。"
+  }
+ ],
+ "reception": [
+  {
+   "w": "desk",
+   "dist": "desk指服务台本身，reception指前台区域及接待职能。"
+  },
+  {
+   "w": "lobby",
+   "dist": "lobby指大堂空间，reception特指接待处。"
+  },
+  {
+   "w": "welcome",
+   "dist": "welcome指欢迎行为，reception更指接待处或招待会。"
+  }
+ ],
+ "controversy": [
+  {
+   "w": "dispute",
+   "dist": "dispute可指一般争端，controversy多指公众长期争论。"
+  },
+  {
+   "w": "debate",
+   "dist": "debate指有组织的辩论，controversy强调争议性。"
+  },
+  {
+   "w": "argument",
+   "dist": "argument偏个人争吵，controversy更正式且涉及公众。"
+  }
+ ],
+ "liberal": [
+  {
+   "w": "progressive",
+   "dist": "偏政治进步立场，liberal更泛指自由宽容"
+  },
+  {
+   "w": "tolerant",
+   "dist": "强调宽容态度，liberal还含慷慨、开放义"
+  },
+  {
+   "w": "humanistic",
+   "dist": "指人文主义，liberal education侧重博雅"
+  }
+ ],
+ "slender": [
+  {
+   "w": "slim",
+   "dist": "slim更口语常用，slender更书面优雅"
+  },
+  {
+   "w": "thin",
+   "dist": "thin中性甚至含瘦弱，slender褒义苗条"
+  },
+  {
+   "w": "slight",
+   "dist": "slight强调体格单薄，slender侧重匀称细长"
+  }
+ ],
+ "interval": [
+  {
+   "w": "gap",
+   "dist": "gap指空隙缺口，interval指时间或空间间隔"
+  },
+  {
+   "w": "break",
+   "dist": "break泛指休息，interval特指幕间中场"
+  },
+  {
+   "w": "pause",
+   "dist": "pause指短暂停顿，interval间隔更规律"
+  }
+ ],
+ "keen": [
+  {
+   "w": "eager",
+   "dist": "eager最常用，keen更强调兴趣浓厚"
+  },
+  {
+   "w": "enthusiastic",
+   "dist": "enthusiastic热情外露，keen偏急切渴望"
+  },
+  {
+   "w": "avid",
+   "dist": "avid含贪婪热衷，keen语域更日常"
+  }
+ ],
+ "spouse": [
+  {
+   "w": "partner",
+   "dist": "partner泛指伴侣，spouse限法律婚姻配偶"
+  },
+  {
+   "w": "mate",
+   "dist": "mate口语且可指动物，spouse正式法律用语"
+  }
+ ],
+ "regulate": [
+  {
+   "w": "control",
+   "dist": "control泛指控制，regulate强调按规则调节"
+  },
+  {
+   "w": "adjust",
+   "dist": "adjust指微调，regulate含系统管理规范"
+  },
+  {
+   "w": "govern",
+   "dist": "govern偏治理统治，regulate侧重机制调控"
+  }
+ ],
+ "via": [
+  {
+   "w": "through",
+   "dist": "through更通用，via更书面且强调经由"
+  },
+  {
+   "w": "by",
+   "dist": "by表手段方式，via强调路线或媒介"
+  }
+ ],
+ "disguise": [
+  {
+   "w": "camouflage",
+   "dist": "camouflage偏军事隐蔽，disguise重身份伪装"
+  },
+  {
+   "w": "costume",
+   "dist": "costume指戏服装束，disguise强调掩饰真面目"
+  },
+  {
+   "w": "mask",
+   "dist": "mask指面具或掩饰，disguise更整体化装"
+  }
+ ],
+ "aspect": [
+  {
+   "w": "facet",
+   "dist": "facet强调多面之一，aspect更泛指方面"
+  },
+  {
+   "w": "side",
+   "dist": "side口语泛指一面，aspect更正式抽象"
+  },
+  {
+   "w": "dimension",
+   "dist": "dimension强调维度层面，aspect侧重观察角度"
+  }
+ ],
+ "exaggerate": [
+  {
+   "w": "overstate",
+   "dist": "overstate偏正式陈述夸大，exaggerate更通用"
+  },
+  {
+   "w": "inflate",
+   "dist": "inflate含膨胀虚增，exaggerate指言过其实"
+  },
+  {
+   "w": "magnify",
+   "dist": "magnify强调放大，exaggerate侧重夸大事实"
+  }
+ ],
+ "scheme": [
+  {
+   "w": "plan",
+   "dist": "plan最通用中性，scheme常含系统性或隐秘意图"
+  },
+  {
+   "w": "plot",
+   "dist": "plot多指阴谋，scheme可指正当方案"
+  },
+  {
+   "w": "design",
+   "dist": "design侧重精心构思，scheme更强调体系安排"
+  },
+  {
+   "w": "conspiracy",
+   "dist": "conspiracy专指多人合谋，scheme可单指计谋"
+  }
+ ],
+ "preserve": [
+  {
+   "w": "protect",
+   "dist": "protect防伤害，preserve强调维持原状不腐坏"
+  },
+  {
+   "w": "maintain",
+   "dist": "maintain侧重持续保持，preserve含防损坏意味"
+  },
+  {
+   "w": "conserve",
+   "dist": "conserve多用于资源能源，preserve范围更广"
+  },
+  {
+   "w": "retain",
+   "dist": "retain指保留不失去，preserve强调保护免变质"
+  }
+ ],
+ "perspective": [
+  {
+   "w": "viewpoint",
+   "dist": "viewpoint指个人看法，perspective强调观察角度"
+  },
+  {
+   "w": "outlook",
+   "dist": "outlook偏对未来的态度，perspective偏认知框架"
+  },
+  {
+   "w": "stance",
+   "dist": "stance指明确立场，perspective更中性宽泛"
+  },
+  {
+   "w": "angle",
+   "dist": "angle口语化指切入角度，perspective更正式"
+  }
+ ],
+ "provoke": [
+  {
+   "w": "arouse",
+   "dist": "arouse多指唤起情感，provoke常含故意刺激"
+  },
+  {
+   "w": "irritate",
+   "dist": "irritate指使人烦躁，provoke程度更重含激怒"
+  },
+  {
+   "w": "trigger",
+   "dist": "trigger指引发事件，provoke强调刺激反应"
+  },
+  {
+   "w": "incite",
+   "dist": "incite多指煽动行为，provoke可仅指激怒"
+  }
+ ],
+ "radical": [
+  {
+   "w": "fundamental",
+   "dist": "fundamental指根本基础，radical强调彻底变革"
+  },
+  {
+   "w": "extreme",
+   "dist": "extreme指极端，radical含追根溯源意味"
+  },
+  {
+   "w": "drastic",
+   "dist": "drastic多修饰措施，radical可修饰思想变革"
+  },
+  {
+   "w": "thorough",
+   "dist": "thorough指全面细致，radical强调根本性"
+  }
+ ],
+ "abstract": [
+  {
+   "w": "theoretical",
+   "dist": "theoretical指理论层面，abstract强调非具体"
+  },
+  {
+   "w": "conceptual",
+   "dist": "conceptual指概念性，abstract更泛含脱离实际"
+  },
+  {
+   "w": "summary",
+   "dist": "summary指内容概要，abstract多指论文摘要"
+  }
+ ],
+ "institution": [
+  {
+   "w": "organization",
+   "dist": "organization泛指组织，institution多指公共机构"
+  },
+  {
+   "w": "establishment",
+   "dist": "establishment指建制机构，institution含制度义"
+  },
+  {
+   "w": "foundation",
+   "dist": "foundation多指基金会，institution范围更广"
+  },
+  {
+   "w": "system",
+   "dist": "system指体系，institution侧重成文制度机构"
+  }
+ ],
+ "format": [
+  {
+   "w": "layout",
+   "dist": "layout指版面布局，format含整体格式规范"
+  },
+  {
+   "w": "arrangement",
+   "dist": "arrangement泛指安排，format强调既定样式"
+  },
+  {
+   "w": "structure",
+   "dist": "structure指结构，format偏外在呈现形式"
+  },
+  {
+   "w": "design",
+   "dist": "design指设计，format作动词偏版式设定"
+  }
+ ],
+ "plot": [
+  {
+   "w": "storyline",
+   "dist": "storyline指故事主线，plot含情节起伏设计"
+  },
+  {
+   "w": "narrative",
+   "dist": "narrative指叙述整体，plot侧重事件安排"
+  },
+  {
+   "w": "scenario",
+   "dist": "scenario指设想情节，plot多指作品情节"
+  }
+ ],
+ "patch": [
+  {
+   "w": "plot",
+   "dist": "plot指小块地，patch更强调零星小片"
+  },
+  {
+   "w": "piece",
+   "dist": "piece泛指一片，patch指补丁状小块"
+  },
+  {
+   "w": "area",
+   "dist": "area泛指区域，patch指小范围地块"
+  }
+ ],
+ "appliance": [
+  {
+   "w": "device",
+   "dist": "device更泛指各种装置，appliance多指家用电器"
+  },
+  {
+   "w": "instrument",
+   "dist": "instrument侧重精密工具或仪器，appliance指日常器具"
+  },
+  {
+   "w": "tool",
+   "dist": "tool指手工工具，appliance指需用电的器具"
+  }
+ ],
+ "pop": [
+  {
+   "w": "hit",
+   "dist": "hit指热门单曲，pop指流行音乐这一类型"
+  },
+  {
+   "w": "song",
+   "dist": "song泛指歌曲，pop特指流行风格歌曲"
+  }
+ ],
+ "altitude": [
+  {
+   "w": "height",
+   "dist": "height泛指高度，altitude专指海拔或飞行高度"
+  },
+  {
+   "w": "elevation",
+   "dist": "elevation多指地势海拔，较正式；altitude更常用"
+  }
+ ],
+ "attempt": [
+  {
+   "w": "try",
+   "dist": "try更口语常用，attempt较正式，含努力尝试意"
+  },
+  {
+   "w": "endeavor",
+   "dist": "endeavor更正式，强调付出努力，attempt侧重动作本身"
+  },
+  {
+   "w": "strive",
+   "dist": "strive强调奋斗过程，attempt指一次具体尝试"
+  }
+ ],
+ "grant": [
+  {
+   "w": "award",
+   "dist": "award指奖项或裁定给予，grant指拨款或正式授予"
+  },
+  {
+   "w": "subsidy",
+   "dist": "subsidy专指补贴，grant指专项拨款，用途更广"
+  },
+  {
+   "w": "bestow",
+   "dist": "bestow很正式，指授予荣誉；grant更通用"
+  },
+  {
+   "w": "confer",
+   "dist": "confer指授予学位荣誉，较正式；grant范围更广"
+  }
+ ],
+ "circuit": [
+  {
+   "w": "loop",
+   "dist": "loop指环形回路，circuit可指电路或巡回路线"
+  },
+  {
+   "w": "tour",
+   "dist": "tour指旅游观光，circuit指巡回演出或巡游"
+  },
+  {
+   "w": "route",
+   "dist": "route指路线，circuit强调环行一周的线路"
+  }
+ ],
+ "rear": [
+  {
+   "w": "back",
+   "dist": "back更口语泛指后面，rear较正式，多作定语"
+  },
+  {
+   "w": "raise",
+   "dist": "raise指抚养孩子，最常用；rear较正式，同义"
+  },
+  {
+   "w": "hind",
+   "dist": "hind专指动物后部，rear可指人或物后部"
+  }
+ ],
+ "victim": [
+  {
+   "w": "casualty",
+   "dist": "casualty多指伤亡者，victim指受害或牺牲者"
+  },
+  {
+   "w": "prey",
+   "dist": "prey指被捕食的猎物，victim指受伤害的人"
+  },
+  {
+   "w": "sufferer",
+   "dist": "sufferer指患病受苦者，victim强调遭侵害"
+  }
+ ],
+ "division": [
+  {
+   "w": "difference",
+   "dist": "difference泛指差别，division强调分歧或隔阂"
+  },
+  {
+   "w": "gap",
+   "dist": "gap指差距或隔阂，division指分裂对立"
+  },
+  {
+   "w": "split",
+   "dist": "split指分裂状态，division更正式，指分歧"
+  }
+ ],
+ "spur": [
+  {
+   "w": "stimulate",
+   "dist": "stimulate指激发兴趣或反应，spur强调催促推动"
+  },
+  {
+   "w": "prompt",
+   "dist": "prompt指促使某人做某事，spur含鞭策意味"
+  },
+  {
+   "w": "incite",
+   "dist": "incite多指煽动不良行为，spur中性，指激励"
+  },
+  {
+   "w": "goad",
+   "dist": "goad指不断刺激驱使，语气比spur更强"
+  }
+ ],
+ "trace": [
+  {
+   "w": "track",
+   "dist": "track 强调循迹跟踪，trace 侧重追溯来源或发展过程"
+  },
+  {
+   "w": "trail",
+   "dist": "trail 指尾随追踪，trace 更常用于抽象线索的追溯"
+  },
+  {
+   "w": "pursue",
+   "dist": "pursue 强调持续追求，trace 侧重沿线索查明"
+  }
+ ],
+ "discourage": [
+  {
+   "w": "deter",
+   "dist": "deter 侧重以威慑阻止，discourage 更泛指使人泄气"
+  },
+  {
+   "w": "dissuade",
+   "dist": "dissuade 指劝人打消念头，discourage 语气更宽泛"
+  },
+  {
+   "w": "prevent",
+   "dist": "prevent 强调阻止发生，discourage 侧重削弱意愿"
+  }
+ ],
+ "manufacture": [
+  {
+   "w": "production",
+   "dist": "production 泛指生产，manufacture 特指工业制造"
+  },
+  {
+   "w": "fabrication",
+   "dist": "fabrication 偏指加工装配，manufacture 更强调批量制造"
+  },
+  {
+   "w": "making",
+   "dist": "making 泛指制作，manufacture 语域更正式、规模更大"
+  }
+ ],
+ "clumsy": [
+  {
+   "w": "awkward",
+   "dist": "awkward 泛指不自然，clumsy 更强调动作笨重不灵巧"
+  },
+  {
+   "w": "ungainly",
+   "dist": "ungainly 侧重姿态笨拙难看，clumsy 更常用且含动作义"
+  },
+  {
+   "w": "inept",
+   "dist": "inept 强调无能不当，clumsy 侧重手脚不灵活"
+  }
+ ],
+ "offend": [
+  {
+   "w": "insult",
+   "dist": "insult 指有意侮辱，offend 可指无意冒犯"
+  },
+  {
+   "w": "upset",
+   "dist": "upset 指使人心烦，offend 更强调触怒伤感情"
+  },
+  {
+   "w": "displease",
+   "dist": "displease 语气较轻，offend 程度更重、更伤感情"
+  }
+ ],
+ "faculty": [
+  {
+   "w": "staff",
+   "dist": "staff 泛指全体职员，faculty 特指高校教员"
+  },
+  {
+   "w": "personnel",
+   "dist": "personnel 指人事全体人员，faculty 专指教学科研人员"
+  }
+ ],
+ "competent": [
+  {
+   "w": "capable",
+   "dist": "capable 强调有潜力能力，competent 侧重胜任够格"
+  },
+  {
+   "w": "qualified",
+   "dist": "qualified 强调资格合格，competent 更侧重实际能力"
+  },
+  {
+   "w": "skilled",
+   "dist": "skilled 指技术熟练，competent 指达到胜任水平"
+  }
+ ],
+ "pension": [
+  {
+   "w": "annuity",
+   "dist": "annuity 指按年支付的年金，pension 多指退休养老金"
+  },
+  {
+   "w": "allowance",
+   "dist": "allowance 泛指补贴，pension 特指退休或抚恤金"
+  },
+  {
+   "w": "benefit",
+   "dist": "benefit 泛指福利给付，pension 专指养老金"
+  }
+ ],
+ "sole": [
+  {
+   "w": "only",
+   "dist": "only 最通用，sole 更正式且强调唯一性"
+  },
+  {
+   "w": "single",
+   "dist": "single 强调单个，sole 强调仅此一个、排他"
+  },
+  {
+   "w": "exclusive",
+   "dist": "exclusive 强调独享独占，sole 侧重唯一仅有"
+  }
+ ],
+ "declare": [
+  {
+   "w": "announce",
+   "dist": "announce 指公开宣布消息，declare 更正式、带权威性"
+  },
+  {
+   "w": "proclaim",
+   "dist": "proclaim 强调郑重宣告，declare 更常用于正式声明"
+  },
+  {
+   "w": "assert",
+   "dist": "assert 指断言主张，declare 侧重明确宣布判断"
+  }
+ ],
+ "statistics": [
+  {
+   "w": "data",
+   "dist": "data泛指数据资料，statistics强调经系统收集整理的统计数字"
+  },
+  {
+   "w": "figures",
+   "dist": "figures指具体数字，口语常用；statistics更正式、成体系"
+  }
+ ],
+ "access": [
+  {
+   "w": "entry",
+   "dist": "entry指进入的行为或入口，access强调进入或使用的权利机会"
+  },
+  {
+   "w": "admission",
+   "dist": "admission指获准进入场所，access范围更广，含使用权"
+  },
+  {
+   "w": "entrance",
+   "dist": "entrance指入口或进入动作，access侧重可接近使用的条件"
+  }
+ ],
+ "estimate": [
+  {
+   "w": "assess",
+   "dist": "assess偏评估价值或性质，estimate侧重粗略算出数量"
+  },
+  {
+   "w": "gauge",
+   "dist": "gauge指用工具或经验测量判断，estimate更强调主观推算"
+  },
+  {
+   "w": "reckon",
+   "dist": "reckon口语化，凭经验认为；estimate更正式、有依据"
+  }
+ ],
+ "initiative": [
+  {
+   "w": "proposal",
+   "dist": "proposal指提出的具体建议方案，initiative常指率先发起的行动"
+  },
+  {
+   "w": "drive",
+   "dist": "drive指有组织的运动或努力，initiative强调主动开创性"
+  },
+  {
+   "w": "enterprise",
+   "dist": "enterprise指事业或进取心，initiative侧重主动权和首创精神"
+  }
+ ],
+ "refine": [
+  {
+   "w": "improve",
+   "dist": "improve泛指改进提高，refine强调精细打磨、去除杂质"
+  },
+  {
+   "w": "purify",
+   "dist": "purify指去除杂质使纯净，refine还可指方法工艺的改进"
+  }
+ ],
+ "deposit": [
+  {
+   "w": "place",
+   "dist": "place泛指放置，deposit强调小心放下或存放于某处"
+  },
+  {
+   "w": "lay",
+   "dist": "lay指平放、铺设，deposit侧重存放沉淀或交存"
+  },
+  {
+   "w": "store",
+   "dist": "store指储藏备用，deposit强调存入银行或自然沉积"
+  }
+ ],
+ "lobby": [
+  {
+   "w": "persuade",
+   "dist": "persuade泛指说服，lobby特指对议员或官员进行游说"
+  },
+  {
+   "w": "urge",
+   "dist": "urge指力劝敦促，lobby强调有组织地向决策者施压"
+  },
+  {
+   "w": "foyer",
+   "dist": "foyer指剧院旅馆的门厅，lobby还可指议会走廊及游说活动"
+  }
+ ],
+ "utter": [
+  {
+   "w": "complete",
+   "dist": "complete指完全的、彻底的，utter语气更强，含十足贬义"
+  },
+  {
+   "w": "absolute",
+   "dist": "absolute指绝对的，utter更强调极端、毫无保留"
+  },
+  {
+   "w": "total",
+   "dist": "total指全部的、彻底的，utter多修饰负面事物"
+  },
+  {
+   "w": "say",
+   "dist": "say为一般说话，utter较正式，指发出声音或说出话语"
+  }
+ ],
+ "retreat": [
+  {
+   "w": "withdraw",
+   "dist": "withdraw指撤离、收回，retreat强调因不利而退却"
+  },
+  {
+   "w": "refuge",
+   "dist": "refuge指避难处，retreat指退隐休养的安静处所"
+  },
+  {
+   "w": "sanctuary",
+   "dist": "sanctuary指神圣庇护所，retreat侧重静修休养之地"
+  }
+ ],
+ "occasion": [
+  {
+   "w": "event",
+   "dist": "event指发生的事件或活动，occasion强调特定时刻场合"
+  },
+  {
+   "w": "moment",
+   "dist": "moment指片刻时间，occasion指有特殊意义的时机"
+  },
+  {
+   "w": "instance",
+   "dist": "instance指例子或事例，occasion指某次具体场合"
+  }
+ ],
+ "enforce": [
+  {
+   "w": "implement",
+   "dist": "implement侧重落实政策计划，enforce强调强制服从"
+  },
+  {
+   "w": "impose",
+   "dist": "impose指强加于人，enforce指使法规生效"
+  },
+  {
+   "w": "execute",
+   "dist": "execute偏执行命令计划，enforce偏强制遵守"
+  }
+ ],
+ "prospect": [
+  {
+   "w": "outlook",
+   "dist": "outlook指总体形势展望，prospect更指未来可能性"
+  },
+  {
+   "w": "likelihood",
+   "dist": "likelihood指可能性大小，prospect含前景希望义"
+  },
+  {
+   "w": "potential",
+   "dist": "potential指潜在能力，prospect指未来前景"
+  }
+ ],
+ "burden": [
+  {
+   "w": "load",
+   "dist": "load指具体负荷，burden多指精神或责任重担"
+  },
+  {
+   "w": "weight",
+   "dist": "weight泛指重量压力，burden强调难以承受"
+  },
+  {
+   "w": "encumber",
+   "dist": "encumber为动词使受累，burden可名可动更常用"
+  }
+ ],
+ "verify": [
+  {
+   "w": "confirm",
+   "dist": "confirm指确认属实，verify强调核对查证过程"
+  },
+  {
+   "w": "validate",
+   "dist": "validate指使有效或证实，verify偏核查数据"
+  },
+  {
+   "w": "check",
+   "dist": "check泛指检查，verify更正式强调证实"
+  }
+ ],
+ "private": [
+  {
+   "w": "personal",
+   "dist": "personal指个人的，private强调私密不公开"
+  },
+  {
+   "w": "confidential",
+   "dist": "confidential指需保密的，private指私人领域"
+  },
+  {
+   "w": "individual",
+   "dist": "individual指个体的，private强调非公共"
+  }
+ ],
+ "accumulate": [
+  {
+   "w": "amass",
+   "dist": "amass多指大量积聚财富，accumulate泛指逐渐积累"
+  },
+  {
+   "w": "gather",
+   "dist": "gather指聚集人或物，accumulate强调渐增"
+  },
+  {
+   "w": "collect",
+   "dist": "collect指有选择收集，accumulate指自然累积"
+  }
+ ],
+ "accord": [
+  {
+   "w": "conform",
+   "dist": "conform指遵从规则，accord指与某事物相符"
+  },
+  {
+   "w": "correspond",
+   "dist": "correspond指相对应一致，accord更正式"
+  },
+  {
+   "w": "agree",
+   "dist": "agree泛指同意一致，accord偏书面与…相符"
+  }
+ ],
+ "term": [
+  {
+   "w": "period",
+   "dist": "period泛指时期，term指规定期限或学期"
+  },
+  {
+   "w": "expression",
+   "dist": "expression指表达用语，term指专业术语"
+  },
+  {
+   "w": "clause",
+   "dist": "clause指合同条款，term复数泛指条款条件"
+  }
+ ],
+ "remain": [
+  {
+   "w": "stay",
+   "dist": "stay指停留保持，remain更正式强调仍旧"
+  },
+  {
+   "w": "persist",
+   "dist": "persist指持续存在，remain指保持不变剩下"
+  },
+  {
+   "w": "continue",
+   "dist": "continue指继续，remain强调状态未变"
+  }
+ ],
+ "instinct": [
+  {
+   "w": "intuition",
+   "dist": "intuition指直觉判断，instinct指本能反应"
+  },
+  {
+   "w": "impulse",
+   "dist": "impulse指一时冲动，instinct指天生本能"
+  },
+  {
+   "w": "urge",
+   "dist": "urge指强烈欲望，instinct指内在本能倾向"
+  }
+ ],
+ "particle": [
+  {
+   "w": "atom",
+   "dist": "指原子，比particle更具体，多用于物理化学"
+  },
+  {
+   "w": "mote",
+   "dist": "指微粒、尘埃，文学色彩浓，日常少用"
+  },
+  {
+   "w": "speck",
+   "dist": "指小点、微粒，侧重可见的细小痕迹"
+  }
+ ],
+ "supervise": [
+  {
+   "w": "oversee",
+   "dist": "最接近，强调全程监管，语域稍正式"
+  },
+  {
+   "w": "monitor",
+   "dist": "侧重持续观察监视，不一定直接指导"
+  },
+  {
+   "w": "direct",
+   "dist": "侧重发号施令、指导方向，权力感更强"
+  }
+ ],
+ "wit": [
+  {
+   "w": "humor",
+   "dist": "指幽默感，侧重逗乐，不含智力义"
+  },
+  {
+   "w": "intellect",
+   "dist": "指智力、思维能力，较正式，不含风趣义"
+  },
+  {
+   "w": "cleverness",
+   "dist": "指聪明机敏，口语些，不含诙谐义"
+  }
+ ],
+ "vanish": [
+  {
+   "w": "disappear",
+   "dist": "最通用，可指消失或失踪，语气较平"
+  },
+  {
+   "w": "evaporate",
+   "dist": "比喻悄然消散，多用于希望、资金等"
+  },
+  {
+   "w": "fade",
+   "dist": "指逐渐变淡消失，强调过程而非突然"
+  }
+ ],
+ "vain": [
+  {
+   "w": "futile",
+   "dist": "指徒劳无效，较正式，不含自负义"
+  },
+  {
+   "w": "fruitless",
+   "dist": "指无成果，多修饰努力、尝试"
+  },
+  {
+   "w": "conceited",
+   "dist": "指自负，只对应vain的自负义，口语"
+  }
+ ],
+ "vacant": [
+  {
+   "w": "empty",
+   "dist": "最通用，指空无一物，不含茫然义"
+  },
+  {
+   "w": "unoccupied",
+   "dist": "指未被占用，较正式，多用于房屋座位"
+  },
+  {
+   "w": "blank",
+   "dist": "指空白的、茫然的，侧重表情或表面"
+  }
+ ],
+ "conserve": [
+  {
+   "w": "preserve",
+   "dist": "侧重保护免遭损坏，多用于文物、自然"
+  },
+  {
+   "w": "save",
+   "dist": "最通用，指节省或储蓄，口语"
+  },
+  {
+   "w": "protect",
+   "dist": "指保护免受伤害，范围比conserve广"
+  }
+ ],
+ "nutrient": [
+  {
+   "w": "nourishment",
+   "dist": "指滋养物，较正式，强调供给营养"
+  },
+  {
+   "w": "food",
+   "dist": "泛指食物，范围更广，不特指营养成分"
+  }
+ ],
+ "reservoir": [
+  {
+   "w": "store",
+   "dist": "泛指储备、储存，最通用，不含水体义"
+  },
+  {
+   "w": "pool",
+   "dist": "指水池或资源集中处，比reservoir小"
+  },
+  {
+   "w": "stock",
+   "dist": "指库存、储备，侧重备用物资"
+  }
+ ],
+ "stake": [
+  {
+   "w": "bet",
+   "dist": "指赌注、打赌，口语，不含股份义"
+  },
+  {
+   "w": "share",
+   "dist": "指股份、份额，商业语境常用"
+  },
+  {
+   "w": "post",
+   "dist": "指桩、柱，对应stake的木桩义"
+  }
+ ],
+ "summit": [
+  {
+   "w": "peak",
+   "dist": "peak指山峰顶点，也可喻最高点；summit更常用于峰会"
+  },
+  {
+   "w": "top",
+   "dist": "top泛指顶部，口语化；summit较正式，多指山巅或巅峰"
+  },
+  {
+   "w": "apex",
+   "dist": "apex强调几何或发展顶点，较正式；summit侧重山与会议"
+  }
+ ],
+ "rival": [
+  {
+   "w": "competitor",
+   "dist": "competitor泛指参赛或商业竞争者；rival含长期对抗意味"
+  },
+  {
+   "w": "opponent",
+   "dist": "opponent指比赛或辩论对手；rival强调争夺同一目标的敌手"
+  },
+  {
+   "w": "adversary",
+   "dist": "adversary较正式，指敌对方；rival语气中性，多指竞争"
+  }
+ ],
+ "spectacle": [
+  {
+   "w": "sight",
+   "dist": "sight泛指所见景象；spectacle强调壮观、引人注目"
+  },
+  {
+   "w": "scene",
+   "dist": "scene指场景或现场；spectacle侧重震撼的视觉奇观"
+  },
+  {
+   "w": "show",
+   "dist": "show指表演或展览；spectacle强调宏大场面与视觉冲击"
+  }
+ ],
+ "speculate": [
+  {
+   "w": "guess",
+   "dist": "guess口语化，凭直觉猜测；speculate指基于线索的推理"
+  },
+  {
+   "w": "conjecture",
+   "dist": "conjecture较正式，指推测；speculate还含投机义"
+  },
+  {
+   "w": "surmise",
+   "dist": "surmise书面语，凭少量证据推断；speculate更常用"
+  }
+ ],
+ "interior": [
+  {
+   "w": "inner",
+   "dist": "inner指内部的、内心的；interior多指建筑物或国家内部"
+  },
+  {
+   "w": "internal",
+   "dist": "internal强调组织或身体内部；interior侧重空间内侧"
+  },
+  {
+   "w": "inside",
+   "dist": "inside口语化，指里面；interior较正式，作定语"
+  }
+ ],
+ "intimacy": [
+  {
+   "w": "closeness",
+   "dist": "closeness泛指亲近；intimacy强调私密、深层的亲密"
+  },
+  {
+   "w": "familiarity",
+   "dist": "familiarity指熟悉；intimacy程度更深，含情感私密"
+  },
+  {
+   "w": "affection",
+   "dist": "affection指爱慕之情；intimacy侧重关系的亲近私密"
+  }
+ ],
+ "specify": [
+  {
+   "w": "state",
+   "dist": "state指陈述、说明；specify强调明确具体地指出"
+  },
+  {
+   "w": "detail",
+   "dist": "detail指详述细节；specify侧重具体指明某项要求"
+  },
+  {
+   "w": "define",
+   "dist": "define指界定含义；specify强调明确规定或说明"
+  }
+ ],
+ "profound": [
+  {
+   "w": "deep",
+   "dist": "deep通用，指深或深刻；profound更正式，强调思想深远"
+  },
+  {
+   "w": "intense",
+   "dist": "intense指强烈；profound侧重深刻、深远的影响"
+  },
+  {
+   "w": "learned",
+   "dist": "learned指博学；profound还可指深奥难懂"
+  }
+ ],
+ "norm": [
+  {
+   "w": "standard",
+   "dist": "standard指标准、水准；norm指群体公认的行为规范"
+  },
+  {
+   "w": "rule",
+   "dist": "rule指规则；norm多为不成文的社会常态"
+  },
+  {
+   "w": "average",
+   "dist": "average指平均、一般水平；norm强调常态与规范"
+  }
+ ],
+ "circulate": [
+  {
+   "w": "spread",
+   "dist": "spread泛指传播扩散；circulate强调在人群中循环流传"
+  },
+  {
+   "w": "flow",
+   "dist": "flow指液体流动；circulate强调循环往复的流通"
+  },
+  {
+   "w": "distribute",
+   "dist": "distribute指分发；circulate侧重信息或物品的流传"
+  }
+ ],
+ "subtract": [
+  {
+   "w": "remove",
+   "dist": "通用词，指移走某物，不限于数学运算"
+  },
+  {
+   "w": "deduct",
+   "dist": "多指从总额中扣除款项或分数"
+  },
+  {
+   "w": "eliminate",
+   "dist": "强调彻底清除，语气比 subtract 强"
+  }
+ ],
+ "treaty": [
+  {
+   "w": "pact",
+   "dist": "多指双边协定，语域较 treaty 随意"
+  },
+  {
+   "w": "accord",
+   "dist": "正式协议，常指国家间友好协定"
+  },
+  {
+   "w": "agreement",
+   "dist": "最泛用，可指任何层面的共识文件"
+  }
+ ],
+ "administer": [
+  {
+   "w": "give",
+   "dist": "最通用，搭配药时不如 administer 正式"
+  },
+  {
+   "w": "dispense",
+   "dist": "强调按处方配发药物，含分发义"
+  },
+  {
+   "w": "apply",
+   "dist": "指外用涂抹药物，不指口服给予"
+  }
+ ],
+ "cape": [
+  {
+   "w": "headland",
+   "dist": "指伸入海中的岬角，地理色彩更浓"
+  },
+  {
+   "w": "promontory",
+   "dist": "正式地理词，指高耸海角，较生僻"
+  },
+  {
+   "w": "cloak",
+   "dist": "指无袖披风，侧重宽松外披，非短披肩"
+  }
+ ],
+ "assembly": [
+  {
+   "w": "construction",
+   "dist": "侧重建造过程，不特指零件组装"
+  },
+  {
+   "w": "fitting",
+   "dist": "指安装配件，范围比 assembly 窄"
+  }
+ ],
+ "transparent": [
+  {
+   "w": "obvious",
+   "dist": "强调一目了然，不含有坦白之意"
+  },
+  {
+   "w": "clear",
+   "dist": "最通用，可指清楚易懂或透明"
+  },
+  {
+   "w": "candid",
+   "dist": "侧重人坦率直言，不指事物显而易见"
+  }
+ ],
+ "consensus": [
+  {
+   "w": "agreement",
+   "dist": "泛指一致，consensus 强调群体共识过程"
+  },
+  {
+   "w": "unanimity",
+   "dist": "强调全体无异议，程度比 consensus 强"
+  },
+  {
+   "w": "accord",
+   "dist": "多指正式达成的一致，语域较正式"
+  }
+ ],
+ "consent": [
+  {
+   "w": "approve",
+   "dist": "指正式批准，语气比 consent 主动"
+  },
+  {
+   "w": "permit",
+   "dist": "指准许他人做某事，含授权意味"
+  },
+  {
+   "w": "assent",
+   "dist": "正式书面词，指同意提议，语域较高"
+  }
+ ],
+ "controversial": [
+  {
+   "w": "disputed",
+   "dist": "指有争议未定，侧重争论状态"
+  },
+  {
+   "w": "contentious",
+   "dist": "强调易引发争吵，语气比 controversial 强"
+  },
+  {
+   "w": "debatable",
+   "dist": "指可争论、尚无定论，程度较轻"
+  }
+ ],
+ "infrastructure": [
+  {
+   "w": "framework",
+   "dist": "指结构框架，不特指公共设施系统"
+  },
+  {
+   "w": "foundation",
+   "dist": "侧重基础部分，抽象义多于实体设施"
+  },
+  {
+   "w": "facilities",
+   "dist": "指具体设施设备，范围比 infrastructure 窄"
+  }
+ ],
+ "deputy": [
+  {
+   "w": "assistant",
+   "dist": "assistant 泛指助手，deputy 强调可代行职权。"
+  },
+  {
+   "w": "substitute",
+   "dist": "substitute 侧重替补顶替，deputy 是常设副职。"
+  },
+  {
+   "w": "delegate",
+   "dist": "delegate 指受派代表，deputy 侧重副手代理身份。"
+  }
+ ],
+ "ancestral": [
+  {
+   "w": "hereditary",
+   "dist": "hereditary 强调遗传继承，ancestral 侧重祖先传下。"
+  },
+  {
+   "w": "inherited",
+   "dist": "inherited 泛指继承所得，ancestral 特指祖辈遗留。"
+  },
+  {
+   "w": "familial",
+   "dist": "familial 指家庭的，ancestral 强调祖先渊源。"
+  }
+ ],
+ "antique": [
+  {
+   "w": "relic",
+   "dist": "relic 指遗物遗迹，antique 指有年代价值的古玩。"
+  },
+  {
+   "w": "vintage",
+   "dist": "vintage 多指年份佳酿或旧物，antique 更强调古董价值。"
+  },
+  {
+   "w": "ancient",
+   "dist": "ancient 泛指古老久远，antique 指具体古董器物。"
+  }
+ ],
+ "preliminary": [
+  {
+   "w": "initial",
+   "dist": "initial 指最初阶段，preliminary 强调正式前的预备。"
+  },
+  {
+   "w": "preparatory",
+   "dist": "preparatory 侧重准备性质，preliminary 常指预赛预考。"
+  },
+  {
+   "w": "introductory",
+   "dist": "introductory 指引导入门，preliminary 强调初步试探。"
+  }
+ ],
+ "setback": [
+  {
+   "w": "reverse",
+   "dist": "reverse 指逆转失败，setback 指进程受挫倒退。"
+  },
+  {
+   "w": "obstacle",
+   "dist": "obstacle 指障碍物，setback 指已造成的挫折。"
+  },
+  {
+   "w": "hitch",
+   "dist": "hitch 指小故障耽搁，setback 程度更重。"
+  }
+ ],
+ "sacrifice": [
+  {
+   "w": "forfeit",
+   "dist": "forfeit 指因违规或代价丧失，sacrifice 强调主动舍弃。"
+  },
+  {
+   "w": "offer",
+   "dist": "offer 泛指奉献献上，sacrifice 含牺牲代价意味。"
+  },
+  {
+   "w": "surrender",
+   "dist": "surrender 指被迫放弃，sacrifice 多为自愿牺牲。"
+  }
+ ],
+ "incline": [
+  {
+   "w": "tend",
+   "dist": "tend 指有某种倾向，incline 更强调意愿偏向。"
+  },
+  {
+   "w": "lean",
+   "dist": "lean 可指身体倾斜或倾向，incline 更正式。"
+  },
+  {
+   "w": "slope",
+   "dist": "slope 指地面倾斜，incline 可指物体或态度倾向。"
+  }
+ ],
+ "devour": [
+  {
+   "w": "consume",
+   "dist": "consume 泛指消耗吃喝，devour 强调狼吞虎咽。"
+  },
+  {
+   "w": "gobble",
+   "dist": "gobble 指急促吞食，devour 更书面且可喻贪婪阅读。"
+  },
+  {
+   "w": "ravage",
+   "dist": "ravage 指毁坏蹂躏，devour 侧重吞噬耗尽。"
+  }
+ ],
+ "glory": [
+  {
+   "w": "honor",
+   "dist": "honor 指荣誉尊敬，glory 强调辉煌荣耀。"
+  },
+  {
+   "w": "splendor",
+   "dist": "splendor 指壮丽光彩，glory 更含功勋声望。"
+  },
+  {
+   "w": "fame",
+   "dist": "fame 指名声，glory 侧重因成就而得的荣光。"
+  }
+ ],
+ "spontaneous": [
+  {
+   "w": "impulsive",
+   "dist": "impulsive 偏冲动欠考虑，spontaneous 更中性自然"
+  },
+  {
+   "w": "unplanned",
+   "dist": "unplanned 强调未计划，spontaneous 强调内心自发"
+  },
+  {
+   "w": "instinctive",
+   "dist": "instinctive 侧重本能反应，spontaneous 含自然流露"
+  },
+  {
+   "w": "voluntary",
+   "dist": "voluntary 强调自愿主动，spontaneous 强调不由自主"
+  }
+ ],
+ "duple": [
+  {
+   "w": "binary",
+   "dist": "binary 泛指二元的，duple 专指双拍子节奏"
+  },
+  {
+   "w": "double",
+   "dist": "double 泛指双倍，duple 仅用于音乐节拍"
+  }
+ ],
+ "diplomat": [
+  {
+   "w": "envoy",
+   "dist": "envoy 指特使，diplomat 泛指外交官"
+  },
+  {
+   "w": "ambassador",
+   "dist": "ambassador 指大使，级别高于一般 diplomat"
+  },
+  {
+   "w": "negotiator",
+   "dist": "negotiator 侧重谈判者，diplomat 含外交身份"
+  },
+  {
+   "w": "tactful",
+   "dist": "tactful 是形容词指圆滑，diplomat 指人"
+  }
+ ],
+ "contemptible": [
+  {
+   "w": "despicable",
+   "dist": "despicable 语气更强，指令人憎恶"
+  },
+  {
+   "w": "base",
+   "dist": "base 偏文雅，指卑劣自私"
+  },
+  {
+   "w": "vile",
+   "dist": "vile 强调恶心可憎，程度更重"
+  },
+  {
+   "w": "mean",
+   "dist": "mean 口语化，指小气卑劣"
+  }
+ ],
+ "indigenous": [
+  {
+   "w": "native",
+   "dist": "native 最常用，指本地出生；indigenous 更学术"
+  },
+  {
+   "w": "aboriginal",
+   "dist": "aboriginal 特指原住民，范围窄"
+  },
+  {
+   "w": "endemic",
+   "dist": "endemic 指某地特有（物种疾病），偏专业"
+  },
+  {
+   "w": "local",
+   "dist": "local 泛指本地，indigenous 强调土生土长"
+  }
+ ],
+ "tribute": [
+  {
+   "w": "homage",
+   "dist": "homage 正式，指公开敬意；tribute 可指颂词礼物"
+  },
+  {
+   "w": "praise",
+   "dist": "praise 泛指赞扬，tribute 更庄重含致敬"
+  },
+  {
+   "w": "offering",
+   "dist": "offering 指献礼贡品，tribute 兼指颂词"
+  },
+  {
+   "w": "testament",
+   "dist": "testament 指证明体现，tribute 侧重致敬"
+  }
+ ],
+ "approximate": [
+  {
+   "w": "approach",
+   "dist": "approach 指接近某值，approximate 更强调近似"
+  },
+  {
+   "w": "resemble",
+   "dist": "resemble 指相似，approximate 指数量接近"
+  },
+  {
+   "w": "near",
+   "dist": "near 口语常用，approximate 更正式书面"
+  },
+  {
+   "w": "rough",
+   "dist": "rough 作形容词指粗略，approximate 可作动词"
+  }
+ ],
+ "deception": [
+  {
+   "w": "deceit",
+   "dist": "deceit 指惯于欺骗的品性，deception 指行为"
+  },
+  {
+   "w": "fraud",
+   "dist": "fraud 多指法律上的欺诈，deception 范围更广"
+  },
+  {
+   "w": "trickery",
+   "dist": "trickery 指耍花招，deception 更正式"
+  },
+  {
+   "w": "hoax",
+   "dist": "hoax 指恶作剧式骗局，deception 泛指欺骗"
+  }
+ ],
+ "transact": [
+  {
+   "w": "conduct",
+   "dist": "conduct 搭配 business，transact 更正式指交易"
+  },
+  {
+   "w": "negotiate",
+   "dist": "negotiate 侧重商议，transact 侧重处理成交"
+  },
+  {
+   "w": "handle",
+   "dist": "handle 口语泛指处理，transact 偏商务正式"
+  },
+  {
+   "w": "perform",
+   "dist": "perform 指执行事务，transact 特指业务往来"
+  }
+ ],
+ "explicitly": [
+  {
+   "w": "clearly",
+   "dist": "clearly 泛指清楚，explicitly 强调明确不含糊"
+  },
+  {
+   "w": "plainly",
+   "dist": "plainly 指直白，explicitly 更强调明说"
+  },
+  {
+   "w": "directly",
+   "dist": "directly 指直接，explicitly 侧重表达明确"
+  },
+  {
+   "w": "openly",
+   "dist": "openly 指公开坦率，explicitly 侧重明确陈述"
+  }
+ ],
+ "forum": [
+  {
+   "w": "symposium",
+   "dist": "学术专题讨论会，比 forum 更正式、规模小"
+  },
+  {
+   "w": "panel",
+   "dist": "专家小组讨论，侧重台上嘉宾发言"
+  },
+  {
+   "w": "seminar",
+   "dist": "研讨课，重参与和教学，非公开论坛"
+  }
+ ],
+ "reconcile": [
+  {
+   "w": "harmonize",
+   "dist": "强调使协调一致，少含和解意味"
+  },
+  {
+   "w": "settle",
+   "dist": "解决争端，侧重了结而非恢复关系"
+  },
+  {
+   "w": "mediate",
+   "dist": "居间调停，主语是第三方而非当事人"
+  }
+ ],
+ "counsel": [
+  {
+   "w": "advise",
+   "dist": "动词劝告，最通用，无 counsel 的正式感"
+  },
+  {
+   "w": "attorney",
+   "dist": "美式律师，仅名词，无劝告义"
+  },
+  {
+   "w": "lawyer",
+   "dist": "律师通称，口语常用，不含建议义"
+  }
+ ],
+ "intact": [
+  {
+   "w": "undamaged",
+   "dist": "未被损坏，侧重物理完好，语域较平"
+  },
+  {
+   "w": "whole",
+   "dist": "完整未缺，强调部分齐全而非无损"
+  },
+  {
+   "w": "unbroken",
+   "dist": "未中断或未破损，多用于连续、完整之物"
+  }
+ ],
+ "terminal": [
+  {
+   "w": "station",
+   "dist": "车站通称，terminal 特指终点或枢纽站"
+  },
+  {
+   "w": "depot",
+   "dist": "美式小站或仓库，规模小于 terminal"
+  },
+  {
+   "w": "airport",
+   "dist": "专指航空站，terminal 还可指码头、终点"
+  }
+ ],
+ "terminate": [
+  {
+   "w": "end",
+   "dist": "最通用的结束，无 terminate 的正式与法律味"
+  },
+  {
+   "w": "conclude",
+   "dist": "正式结束，多用于会议、演讲、条约"
+  },
+  {
+   "w": "cease",
+   "dist": "停止，偏书面，常接抽象动作或状态"
+  }
+ ],
+ "implication": [
+  {
+   "w": "consequence",
+   "dist": "后果，中性直白，不含暗示义"
+  },
+  {
+   "w": "hint",
+   "dist": "暗示，轻淡含蓄，无牵连、后果义"
+  },
+  {
+   "w": "inference",
+   "dist": "推论，侧重听者推出而非言者暗含"
+  }
+ ],
+ "implicit": [
+  {
+   "w": "implied",
+   "dist": "被暗示的，直白对应，无绝对、内在义"
+  },
+  {
+   "w": "inherent",
+   "dist": "内在固有的，强调本质属性而非未明说"
+  },
+  {
+   "w": "tacit",
+   "dist": "心照不宣的，多修饰同意、理解等"
+  }
+ ],
+ "explicate": [
+  {
+   "w": "explain",
+   "dist": "最通用解释，无 explicate 的逐层细解味"
+  },
+  {
+   "w": "elucidate",
+   "dist": "阐明，正式书面，侧重使晦涩变清晰"
+  },
+  {
+   "w": "interpret",
+   "dist": "阐释含义，多用于文本、作品、行为"
+  }
+ ],
+ "conscientious": [
+  {
+   "w": "diligent",
+   "dist": "勤勉，侧重努力不懈，不含认真细致义"
+  },
+  {
+   "w": "meticulous",
+   "dist": "一丝不苟，强调细节精确，程度更强"
+  },
+  {
+   "w": "scrupulous",
+   "dist": "严谨守正，含道德谨慎，比原词更正式"
+  }
+ ],
+ "consolidate": [
+  {
+   "w": "strengthen",
+   "dist": "侧重使力量增强，不涉及合并义"
+  },
+  {
+   "w": "merge",
+   "dist": "强调合并为一体，无巩固之意"
+  },
+  {
+   "w": "reinforce",
+   "dist": "侧重加固、增援，多用于防御或观点"
+  },
+  {
+   "w": "unify",
+   "dist": "强调统一，多指国家、组织层面"
+  }
+ ],
+ "contaminate": [
+  {
+   "w": "pollute",
+   "dist": "多指环境污染，语域较宽泛"
+  },
+  {
+   "w": "taint",
+   "dist": "侧重玷污名声或品质，较文雅"
+  },
+  {
+   "w": "infect",
+   "dist": "强调病菌传染，含扩散义"
+  },
+  {
+   "w": "soil",
+   "dist": "指弄脏表面，较具体、口语"
+  }
+ ],
+ "counterpart": [
+  {
+   "w": "equivalent",
+   "dist": "强调价值、功能对等，可指物"
+  },
+  {
+   "w": "peer",
+   "dist": "指地位相当的同侪，多用于人"
+  },
+  {
+   "w": "analogue",
+   "dist": "指类似对应物，偏技术语域"
+  },
+  {
+   "w": "twin",
+   "dist": "指极为相似的对等者，含比喻"
+  }
+ ],
+ "criterion": [
+  {
+   "w": "standard",
+   "dist": "最通用，指衡量标准，可数"
+  },
+  {
+   "w": "benchmark",
+   "dist": "指参照基准，多用于评估比较"
+  },
+  {
+   "w": "yardstick",
+   "dist": "比喻衡量尺度，口语色彩较浓"
+  },
+  {
+   "w": "measure",
+   "dist": "指衡量尺度或措施，含义较宽"
+  }
+ ],
+ "damp": [
+  {
+   "w": "moist",
+   "dist": "指微湿，常含宜人意味，程度轻"
+  },
+  {
+   "w": "humid",
+   "dist": "指空气潮湿闷热，多用于气候"
+  },
+  {
+   "w": "wet",
+   "dist": "程度更强，指湿透，较口语"
+  },
+  {
+   "w": "dampen",
+   "dist": "动词，指使微湿或抑制，与原词近"
+  }
+ ],
+ "deed": [
+  {
+   "w": "act",
+   "dist": "泛指行为，中性，不含有意善恶"
+  },
+  {
+   "w": "action",
+   "dist": "指行动过程，较抽象、正式"
+  },
+  {
+   "w": "exploit",
+   "dist": "指英勇或惊人举动，常含褒义"
+  },
+  {
+   "w": "feat",
+   "dist": "指技艺或勇气的壮举，强调难度"
+  }
+ ],
+ "illuminate": [
+  {
+   "w": "light",
+   "dist": "最通用，指照亮，无阐释义"
+  },
+  {
+   "w": "brighten",
+   "dist": "指使变亮，程度较轻、口语"
+  },
+  {
+   "w": "clarify",
+   "dist": "侧重澄清说明，不指物理照亮"
+  },
+  {
+   "w": "elucidate",
+   "dist": "指详细阐释，正式书面语域"
+  }
+ ],
+ "explicit": [
+  {
+   "w": "clear",
+   "dist": "最通用，指清楚易懂，语气较弱"
+  },
+  {
+   "w": "definite",
+   "dist": "强调确定无疑，不含露骨义"
+  },
+  {
+   "w": "unambiguous",
+   "dist": "强调无歧义，较正式、精确"
+  },
+  {
+   "w": "frank",
+   "dist": "指坦率直言，侧重态度而非表述"
+  }
+ ],
+ "constrain": [
+  {
+   "w": "restrict",
+   "dist": "指限定范围，最通用，中性"
+  },
+  {
+   "w": "limit",
+   "dist": "指设定界限，含义宽泛"
+  },
+  {
+   "w": "compel",
+   "dist": "强调强迫，语气强于原词"
+  },
+  {
+   "w": "confine",
+   "dist": "指限制在空间或范围内"
+  }
+ ],
+ "mold": [
+  {
+   "w": "shape",
+   "dist": "最通用，指塑造外形，中性"
+  },
+  {
+   "w": "form",
+   "dist": "指形成结构，较正式、抽象"
+  },
+  {
+   "w": "fashion",
+   "dist": "指精心制作塑造，含技巧义"
+  },
+  {
+   "w": "cast",
+   "dist": "指用模子浇铸，偏具体工艺"
+  }
+ ],
+ "restrain": [
+  {
+   "w": "curb",
+   "dist": "curb 侧重限制、约束，常搭配权力、欲望"
+  },
+  {
+   "w": "check",
+   "dist": "check 强调突然制止，多用于势头、冲动"
+  },
+  {
+   "w": "suppress",
+   "dist": "suppress 侧重压制情绪或信息，语气更强"
+  }
+ ],
+ "convert": [
+  {
+   "w": "transform",
+   "dist": "transform 强调彻底改变形态，语气更重"
+  },
+  {
+   "w": "change",
+   "dist": "change 最通用，convert 多指用途或信仰转变"
+  },
+  {
+   "w": "turn",
+   "dist": "turn 口语化，常搭配 into，convert 更正式"
+  }
+ ],
+ "converse": [
+  {
+   "w": "talk",
+   "dist": "talk 最通用，converse 更正式，指交流思想"
+  },
+  {
+   "w": "chat",
+   "dist": "chat 指轻松闲聊，converse 语域更正式"
+  },
+  {
+   "w": "communicate",
+   "dist": "communicate 侧重信息传递，converse 强调双向交谈"
+  }
+ ],
+ "conversely": [
+  {
+   "w": "inversely",
+   "dist": "inversely 多指比例或方向相反，更技术化"
+  },
+  {
+   "w": "oppositely",
+   "dist": "oppositely 强调位置或方向对立，较少用"
+  },
+  {
+   "w": "contrarily",
+   "dist": "contrarily 强调相反地，语气较生硬"
+  }
+ ],
+ "versus": [
+  {
+   "w": "against",
+   "dist": "against 表对抗，versus 多用于比较或比赛双方"
+  },
+  {
+   "w": "contrast",
+   "dist": "contrast 作名词表对比，versus 为介词表相对"
+  }
+ ],
+ "erect": [
+  {
+   "w": "build",
+   "dist": "build 泛指建造，erect 侧重竖立高大结构"
+  },
+  {
+   "w": "raise",
+   "dist": "raise 强调举起，erect 强调竖立成直立状态"
+  },
+  {
+   "w": "construct",
+   "dist": "construct 强调按设计施工，erect 更强调竖立动作"
+  }
+ ],
+ "static": [
+  {
+   "w": "stationary",
+   "dist": "stationary 指位置不动，static 强调无变化、停滞"
+  },
+  {
+   "w": "motionless",
+   "dist": "motionless 指完全不动，static 可指状态停滞"
+  },
+  {
+   "w": "fixed",
+   "dist": "fixed 指固定不变，static 强调缺乏动态"
+  }
+ ],
+ "obstacle": [
+  {
+   "w": "barrier",
+   "dist": "barrier 指阻隔通行的屏障，obstacle 多指抽象阻碍"
+  },
+  {
+   "w": "hurdle",
+   "dist": "hurdle 喻指需克服的困难，obstacle 更泛指障碍"
+  },
+  {
+   "w": "impediment",
+   "dist": "impediment 较正式，多指妨碍进展的因素"
+  }
+ ],
+ "statute": [
+  {
+   "w": "law",
+   "dist": "law 最通用，statute 特指立法机关制定的成文法"
+  },
+  {
+   "w": "act",
+   "dist": "act 指具体法案，statute 指成文法规整体"
+  },
+  {
+   "w": "regulation",
+   "dist": "regulation 多指行政规章，statute 由立法机关制定"
+  }
+ ],
+ "constitution": [
+  {
+   "w": "charter",
+   "dist": "charter 指组织章程或特许状，constitution 指国家根本法"
+  },
+  {
+   "w": "composition",
+   "dist": "composition 指构成成分，constitution 可指体质或结构"
+  },
+  {
+   "w": "structure",
+   "dist": "structure 强调构造方式，constitution 侧重组成整体"
+  }
+ ],
+ "substitute": [
+  {
+   "w": "replacement",
+   "dist": "replacement指替换的人或物，substitute更强调临时顶替"
+  },
+  {
+   "w": "alternate",
+   "dist": "alternate指备选者，substitute侧重替代功能"
+  },
+  {
+   "w": "backup",
+   "dist": "backup指后备支援，substitute泛指任何替代品"
+  },
+  {
+   "w": "replace",
+   "dist": "replace是动词替换，substitute可作名词且含临时性"
+  }
+ ],
+ "humid": [
+  {
+   "w": "damp",
+   "dist": "damp指轻微潮湿，humid指空气湿热闷人"
+  },
+  {
+   "w": "moist",
+   "dist": "moist常含宜人湿润，humid多指闷热潮湿"
+  },
+  {
+   "w": "muggy",
+   "dist": "muggy强调闷热潮湿，humid更中性"
+  },
+  {
+   "w": "wet",
+   "dist": "wet泛指湿，humid特指空气湿度大"
+  }
+ ],
+ "caption": [
+  {
+   "w": "heading",
+   "dist": "heading指标题，caption指图片下的说明文字"
+  },
+  {
+   "w": "legend",
+   "dist": "legend指图表图例，caption泛指图片说明"
+  },
+  {
+   "w": "subtitle",
+   "dist": "subtitle指字幕或副标题，caption指图片说明"
+  },
+  {
+   "w": "label",
+   "dist": "label指标签，caption是成句的说明文字"
+  }
+ ],
+ "principal": [
+  {
+   "w": "headmaster",
+   "dist": "headmaster英式指中小学校长，principal美式通用"
+  },
+  {
+   "w": "head",
+   "dist": "head泛指负责人，principal特指校长"
+  },
+  {
+   "w": "director",
+   "dist": "director指董事或主管，principal专指学校校长"
+  },
+  {
+   "w": "dean",
+   "dist": "dean指学院院长，principal指中小学校长"
+  }
+ ],
+ "punctual": [
+  {
+   "w": "prompt",
+   "dist": "prompt强调迅速及时，punctual强调准时守约"
+  },
+  {
+   "w": "timely",
+   "dist": "timely指及时适时，punctual指按约定时间"
+  },
+  {
+   "w": "regular",
+   "dist": "regular指规律定时，punctual强调不迟到"
+  },
+  {
+   "w": "exact",
+   "dist": "exact指精确，punctual专指时间上守时"
+  }
+ ],
+ "punch": [
+  {
+   "w": "blow",
+   "dist": "blow泛指打击，punch特指用拳猛击"
+  },
+  {
+   "w": "hit",
+   "dist": "hit泛指击中，punch强调握拳击打"
+  },
+  {
+   "w": "strike",
+   "dist": "strike可指各种打击，punch专指拳击"
+  },
+  {
+   "w": "thump",
+   "dist": "thump指重击发出闷响，punch侧重拳打"
+  }
+ ],
+ "adolescent": [
+  {
+   "w": "teenager",
+   "dist": "teenager指13至19岁者，adolescent更正式含发育义"
+  },
+  {
+   "w": "youth",
+   "dist": "youth泛指青年，adolescent特指青春期少年"
+  },
+  {
+   "w": "juvenile",
+   "dist": "juvenile多法律用语指未成年，adolescent较中性"
+  },
+  {
+   "w": "minor",
+   "dist": "minor法律指未成年人，adolescent强调青春期阶段"
+  }
+ ],
+ "abolition": [
+  {
+   "w": "elimination",
+   "dist": "elimination指消除，abolition多指制度法律废除"
+  },
+  {
+   "w": "repeal",
+   "dist": "repeal指撤销法令，abolition指彻底废除"
+  },
+  {
+   "w": "cancellation",
+   "dist": "cancellation指取消活动，abolition指废除制度"
+  },
+  {
+   "w": "removal",
+   "dist": "removal指移除，abolition强调正式废止"
+  }
+ ],
+ "abolish": [
+  {
+   "w": "eliminate",
+   "dist": "eliminate指消除，abolish指正式废除制度法律"
+  },
+  {
+   "w": "repeal",
+   "dist": "repeal专指撤销法令，abolish范围更广"
+  },
+  {
+   "w": "cancel",
+   "dist": "cancel指取消安排，abolish指彻底废止"
+  },
+  {
+   "w": "annul",
+   "dist": "annul指宣告无效，abolish指废除存在的事物"
+  }
+ ],
+ "convict": [
+  {
+   "w": "prisoner",
+   "dist": "prisoner泛指囚犯，convict指已定罪的犯人"
+  },
+  {
+   "w": "inmate",
+   "dist": "inmate指监狱在押者，convict强调已被判罪"
+  },
+  {
+   "w": "criminal",
+   "dist": "criminal泛指罪犯，convict特指服刑犯人"
+  },
+  {
+   "w": "condemn",
+   "dist": "condemn指判刑谴责，convict指判定有罪"
+  }
+ ],
+ "contend": [
+  {
+   "w": "argue",
+   "dist": "argue侧重论证争辩，contend更正式地主张观点"
+  },
+  {
+   "w": "assert",
+   "dist": "assert强调坚定断言，contend含与他人争辩意味"
+  },
+  {
+   "w": "compete",
+   "dist": "compete指竞争比赛，contend可指争夺或对付困难"
+  },
+  {
+   "w": "cope",
+   "dist": "cope常接with表应付，contend更书面且含抗争"
+  }
+ ],
+ "intensify": [
+  {
+   "w": "strengthen",
+   "dist": "strengthen侧重使更强固，intensify强调程度加剧"
+  },
+  {
+   "w": "heighten",
+   "dist": "heighten多指情绪感受增强，intensify范围更广"
+  },
+  {
+   "w": "escalate",
+   "dist": "escalate指事态逐步升级，intensify强调强度加大"
+  },
+  {
+   "w": "augment",
+   "dist": "augment指数量增加，intensify侧重强度程度"
+  }
+ ],
+ "pregnant": [
+  {
+   "w": "meaningful",
+   "dist": "meaningful指有意义，pregnant喻指意味深长更文学"
+  },
+  {
+   "w": "fraught",
+   "dist": "fraught常接with表充满，pregnant含孕育意味更雅"
+  }
+ ],
+ "script": [
+  {
+   "w": "screenplay",
+   "dist": "screenplay专指电影剧本，script泛指各类脚本"
+  },
+  {
+   "w": "manuscript",
+   "dist": "manuscript指手稿原稿，script侧重演出脚本"
+  },
+  {
+   "w": "text",
+   "dist": "text指文字内容，script强调台词脚本形式"
+  }
+ ],
+ "scrape": [
+  {
+   "w": "scratch",
+   "dist": "scratch指抓挠留痕，scrape强调刮擦摩擦动作"
+  },
+  {
+   "w": "graze",
+   "dist": "graze指轻擦伤皮肤，scrape可指刮除或刮出声"
+  },
+  {
+   "w": "abrade",
+   "dist": "abrade较专业指磨损，scrape更日常通用"
+  }
+ ],
+ "literacy": [
+  {
+   "w": "competence",
+   "dist": "competence泛指能力，literacy特指读写或专业素养"
+  },
+  {
+   "w": "proficiency",
+   "dist": "proficiency指熟练程度，literacy强调基本读写素养"
+  }
+ ],
+ "facile": [
+  {
+   "w": "glib",
+   "dist": "glib指油嘴滑舌不诚恳，facile侧重轻率肤浅"
+  },
+  {
+   "w": "effortless",
+   "dist": "effortless褒义指毫不费力，facile常含贬义轻率"
+  },
+  {
+   "w": "superficial",
+   "dist": "superficial指表面肤浅，facile强调轻易得来欠深度"
+  }
+ ],
+ "defect": [
+  {
+   "w": "flaw",
+   "dist": "flaw指瑕疵缺陷，defect更强调功能或本质缺失"
+  },
+  {
+   "w": "fault",
+   "dist": "fault指过错或毛病，defect偏产品结构缺陷"
+  },
+  {
+   "w": "desert",
+   "dist": "desert作动词指叛离，defect特指投敌叛变"
+  },
+  {
+   "w": "blemish",
+   "dist": "blemish指表面污点瑕疵，defect程度更重"
+  }
+ ],
+ "saddle": [
+  {
+   "w": "burden",
+   "dist": "burden指使负担，saddle喻指强加负担更形象"
+  },
+  {
+   "w": "load",
+   "dist": "load指装载重物，saddle强调给人压上责任"
+  }
+ ],
+ "composure": [
+  {
+   "w": "calmness",
+   "dist": "calmness指平静状态，composure强调受刺激后仍镇定"
+  },
+  {
+   "w": "poise",
+   "dist": "poise指优雅从容仪态，composure侧重情绪自控"
+  },
+  {
+   "w": "equanimity",
+   "dist": "equanimity较正式指心境平和，composure更常用"
+  }
+ ],
+ "dispose": [
+  {
+   "w": "arrange",
+   "dist": "arrange侧重有序摆放，dispose强调按计划布置或处理掉"
+  },
+  {
+   "w": "discard",
+   "dist": "discard指丢弃无用物，dispose常与of连用表处理"
+  },
+  {
+   "w": "incline",
+   "dist": "incline指使人倾向，dispose更正式，含使有意愿"
+  }
+ ],
+ "disposition": [
+  {
+   "w": "temperament",
+   "dist": "temperament指天生性情，disposition更含意向倾向"
+  },
+  {
+   "w": "inclination",
+   "dist": "inclination侧重意愿倾向，disposition兼指性格与安排"
+  },
+  {
+   "w": "arrangement",
+   "dist": "arrangement指排列安排，disposition更正式且含部署义"
+  }
+ ],
+ "disposal": [
+  {
+   "w": "removal",
+   "dist": "removal指清除移走，disposal强调处理掉或处置权"
+  },
+  {
+   "w": "sale",
+   "dist": "sale指出售行为，disposal含处理与变卖两义"
+  }
+ ],
+ "epidemic": [
+  {
+   "w": "contagious",
+   "dist": "contagious指接触传染，epidemic强调疾病流行范围广"
+  },
+  {
+   "w": "widespread",
+   "dist": "widespread泛指广泛分布，epidemic特指疾病流行"
+  },
+  {
+   "w": "rampant",
+   "dist": "rampant指泛滥猖獗，epidemic侧重传染病流行"
+  }
+ ],
+ "pandemic": [
+  {
+   "w": "global",
+   "dist": "global泛指全球的，pandemic专指疾病全球大流行"
+  },
+  {
+   "w": "widespread",
+   "dist": "widespread仅表分布广，pandemic强调跨洲大流行"
+  }
+ ],
+ "utilize": [
+  {
+   "w": "use",
+   "dist": "use最通用，utilize更正式，强调有效利用"
+  },
+  {
+   "w": "employ",
+   "dist": "employ指使用工具或方法，utilize侧重发挥效用"
+  },
+  {
+   "w": "exploit",
+   "dist": "exploit含充分利用甚至剥削义，utilize较中性"
+  }
+ ],
+ "take": [
+  {
+   "w": "exploit",
+   "dist": "exploit指利用他人或资源，take advantage of更口语"
+  },
+  {
+   "w": "abuse",
+   "dist": "abuse指滥用或欺压，take advantage of侧重占便宜"
+  }
+ ],
+ "tremendous": [
+  {
+   "w": "enormous",
+   "dist": "enormous指体积数量巨大，tremendous含强烈惊人感"
+  },
+  {
+   "w": "immense",
+   "dist": "immense强调广阔无限，tremendous更口语且含精彩义"
+  },
+  {
+   "w": "fantastic",
+   "dist": "fantastic指极好或离奇，tremendous兼表极大与出色"
+  }
+ ],
+ "suitcase": [
+  {
+   "w": "case",
+   "dist": "case泛指箱盒，suitcase专指旅行手提箱"
+  },
+  {
+   "w": "bag",
+   "dist": "bag泛指包袋，suitcase特指硬质手提箱"
+  },
+  {
+   "w": "luggage",
+   "dist": "luggage是行李总称，suitcase指单件手提箱"
+  }
+ ],
+ "graver": [
+  {
+   "w": "engraver",
+   "dist": "engraver指雕刻师，graver更常指雕刻刀具"
+  },
+  {
+   "w": "chisel",
+   "dist": "chisel指凿子，graver是细刻用的雕刻工具"
+  }
+ ],
+ "naked": [
+  {
+   "w": "bare",
+   "dist": "bare 强调无覆盖物，naked 多指人裸体"
+  },
+  {
+   "w": "nude",
+   "dist": "nude 多用于艺术语境，naked 更日常直白"
+  },
+  {
+   "w": "exposed",
+   "dist": "exposed 侧重暴露无保护，naked 侧重无遮蔽"
+  },
+  {
+   "w": "unclothed",
+   "dist": "unclothed 较正式书面，naked 更口语常用"
+  }
+ ],
+ "scandal": [
+  {
+   "w": "disgrace",
+   "dist": "disgrace 指丢脸之事，scandal 强调丑闻引发公愤"
+  },
+  {
+   "w": "outrage",
+   "dist": "outrage 侧重愤慨情绪，scandal 侧重丑事本身"
+  },
+  {
+   "w": "gossip",
+   "dist": "gossip 指流言闲话，scandal 多指确有其事的丑行"
+  },
+  {
+   "w": "discredit",
+   "dist": "discredit 指名誉受损，scandal 指丑闻事件"
+  }
+ ],
+ "skeptic": [
+  {
+   "w": "doubter",
+   "dist": "doubter 泛指怀疑者，skeptic 更强调系统性质疑"
+  },
+  {
+   "w": "cynic",
+   "dist": "cynic 指愤世嫉俗者，skeptic 仅指持怀疑态度"
+  }
+ ],
+ "sophistication": [
+  {
+   "w": "refinement",
+   "dist": "refinement 侧重举止文雅，sophistication 含世故老练"
+  },
+  {
+   "w": "complexity",
+   "dist": "complexity 指复杂程度，sophistication 指精密先进"
+  },
+  {
+   "w": "elegance",
+   "dist": "elegance 侧重优雅品味，sophistication 侧重阅历老练"
+  }
+ ],
+ "deprive": [
+  {
+   "w": "strip",
+   "dist": "strip 指强行剥夺，deprive 常与 of 搭配较正式"
+  },
+  {
+   "w": "rob",
+   "dist": "rob 指抢劫夺走，deprive 指使人失去享有"
+  },
+  {
+   "w": "deny",
+   "dist": "deny 指拒绝给予，deprive 强调剥夺已有之物"
+  }
+ ],
+ "prominent": [
+  {
+   "w": "conspicuous",
+   "dist": "conspicuous 强调惹眼易见，prominent 含突出重要"
+  },
+  {
+   "w": "eminent",
+   "dist": "eminent 多指人声望卓著，prominent 更宽泛"
+  },
+  {
+   "w": "notable",
+   "dist": "notable 指值得注意，prominent 指地位显要"
+  },
+  {
+   "w": "distinguished",
+   "dist": "distinguished 侧重成就卓著，prominent 侧重显眼"
+  }
+ ],
+ "postpone": [
+  {
+   "w": "delay",
+   "dist": "delay 指延误或推迟，postpone 多指主动改期"
+  },
+  {
+   "w": "defer",
+   "dist": "defer 较正式，常指延后决定，postpone 泛指推迟"
+  },
+  {
+   "w": "suspend",
+   "dist": "suspend 指暂停中止，postpone 指延后仍将进行"
+  }
+ ],
+ "compatible": [
+  {
+   "w": "harmonious",
+   "dist": "harmonious 强调和谐融洽，compatible 强调能共存"
+  },
+  {
+   "w": "consistent",
+   "dist": "consistent 指前后一致，compatible 指彼此相容"
+  },
+  {
+   "w": "congenial",
+   "dist": "congenial 指意气相投，compatible 更宽泛指合得来"
+  }
+ ],
+ "rouse": [
+  {
+   "w": "awaken",
+   "dist": "awaken 指唤醒或使觉醒，rouse 含激励奋起"
+  },
+  {
+   "w": "stir",
+   "dist": "stir 指搅动激起，rouse 指唤起情绪或行动"
+  },
+  {
+   "w": "provoke",
+   "dist": "provoke 指激怒挑起，rouse 指激发唤醒"
+  },
+  {
+   "w": "arouse",
+   "dist": "arouse 多指唤起情感，rouse 更强调使人活跃"
+  }
+ ],
+ "proficient": [
+  {
+   "w": "skilled",
+   "dist": "skilled 泛指有技能，proficient 强调熟练精通"
+  },
+  {
+   "w": "adept",
+   "dist": "adept 指擅长某具体事，proficient 更正式"
+  },
+  {
+   "w": "competent",
+   "dist": "competent 指能力合格，proficient 指水平较高"
+  },
+  {
+   "w": "expert",
+   "dist": "expert 指专家级精通，proficient 程度稍低"
+  }
+ ],
+ "deficient": [
+  {
+   "w": "lacking",
+   "dist": "lacking 更口语，常指一般性缺少；deficient 偏正式，多指数量或质量不达标。"
+  },
+  {
+   "w": "inadequate",
+   "dist": "inadequate 强调不够用、不合格；deficient 侧重有缺陷或含量不足。"
+  },
+  {
+   "w": "insufficient",
+   "dist": "insufficient 多指数量不足，常搭配证据、资金；deficient 还可指能力缺陷。"
+  }
+ ],
+ "deficit": [
+  {
+   "w": "shortfall",
+   "dist": "shortfall 指未达目标的差额，较具体；deficit 多指财政赤字或生理缺陷。"
+  },
+  {
+   "w": "shortage",
+   "dist": "shortage 指物资短缺，可数常用；deficit 偏账目、预算上的亏空。"
+  },
+  {
+   "w": "deficiency",
+   "dist": "deficiency 侧重缺乏状态或营养不足；deficit 更强调收支逆差。"
+  }
+ ],
+ "legalese": [
+  {
+   "w": "jargon",
+   "dist": "jargon 泛指行业术语，中性；legalese 专指法律行话，常含贬义。"
+  },
+  {
+   "w": "argot",
+   "dist": "argot 指特定群体隐语，较生僻；legalese 特指法律文书的晦涩用语。"
+  }
+ ],
+ "legislate": [
+  {
+   "w": "enact",
+   "dist": "enact 指通过、颁布法令，及物；legislate 侧重立法行为本身，常不及物。"
+  },
+  {
+   "w": "decree",
+   "dist": "decree 指颁布命令，多由统治者发出；legislate 指立法机关制定法律。"
+  }
+ ],
+ "margin": [
+  {
+   "w": "edge",
+   "dist": "edge 泛指边缘，具体；margin 常指页边空白或抽象余地、利润。"
+  },
+  {
+   "w": "leeway",
+   "dist": "leeway 指可自由支配的余地，口语；margin 更广，含利润、差额义。"
+  },
+  {
+   "w": "profit",
+   "dist": "profit 直指利润；margin 指利润率或赚头，偏商业术语。"
+  }
+ ],
+ "delegate": [
+  {
+   "w": "representative",
+   "dist": "representative 泛指代表，较正式；delegate 常指会议或组织选派代表。"
+  },
+  {
+   "w": "assign",
+   "dist": "assign 指分配任务，较中性；delegate 强调授权他人代办，含放权义。"
+  },
+  {
+   "w": "depute",
+   "dist": "depute 指委派代理人，较正式少见；delegate 更常用，兼名词动词。"
+  }
+ ],
+ "negligible": [
+  {
+   "w": "trivial",
+   "dist": "trivial 指琐碎不重要；negligible 强调小到可忽略不计，常修饰数量。"
+  },
+  {
+   "w": "insignificant",
+   "dist": "insignificant 指无足轻重；negligible 更侧重程度微小、可不予考虑。"
+  },
+  {
+   "w": "minimal",
+   "dist": "minimal 指最低限度的；negligible 指微小到不值得计较。"
+  }
+ ],
+ "intellect": [
+  {
+   "w": "intelligence",
+   "dist": "intelligence 指智力、智能，较通用；intellect 偏理性思维能力或才智之士。"
+  },
+  {
+   "w": "mind",
+   "dist": "mind 泛指头脑、心智；intellect 更强调抽象推理与学识。"
+  },
+  {
+   "w": "brain",
+   "dist": "brain 口语指聪明人；intellect 较正式，指思维能力或知识精英。"
+  }
+ ],
+ "forceful": [
+  {
+   "w": "powerful",
+   "dist": "powerful 泛指力量大；forceful 强调表达或行动有冲击力、有说服力。"
+  },
+  {
+   "w": "vigorous",
+   "dist": "vigorous 指精力充沛、有力；forceful 侧重气势强、令人信服。"
+  },
+  {
+   "w": "cogent",
+   "dist": "cogent 专指论证严密有力；forceful 范围更广，可指性格或言辞。"
+  }
+ ],
+ "reinforce": [
+  {
+   "w": "strengthen",
+   "dist": "strengthen 泛指加强，最通用；reinforce 常指加固结构或强化观点。"
+  },
+  {
+   "w": "bolster",
+   "dist": "bolster 指支持、提振，常搭配信心、论据；reinforce 更强调加固增强。"
+  },
+  {
+   "w": "fortify",
+   "dist": "fortify 指设防加固或增强体质；reinforce 多指增援、强化既有事物。"
+  }
+ ],
+ "landlord": [
+  {
+   "w": "proprietor",
+   "dist": "指业主、经营者，比 landlord 正式，不限于出租房屋"
+  },
+  {
+   "w": "owner",
+   "dist": "泛指所有者，中性；landlord 特指出租方"
+  },
+  {
+   "w": "host",
+   "dist": "指招待者或旅店主人，语域轻松，非法律用语"
+  }
+ ],
+ "grave": [
+  {
+   "w": "serious",
+   "dist": "最通用，指事态或态度严肃，语气比 grave 轻"
+  },
+  {
+   "w": "severe",
+   "dist": "侧重严重程度或严厉，多修饰问题、惩罚"
+  },
+  {
+   "w": "solemn",
+   "dist": "强调庄重仪式感，多形容神情、场合"
+  }
+ ],
+ "alleviate": [
+  {
+   "w": "relieve",
+   "dist": "最常用，指减轻痛苦或负担，搭配 pain、stress"
+  },
+  {
+   "w": "ease",
+   "dist": "偏口语，指使缓和、放松，程度较轻"
+  },
+  {
+   "w": "mitigate",
+   "dist": "正式，多指减轻损害、风险等抽象后果"
+  }
+ ],
+ "stale": [
+  {
+   "w": "musty",
+   "dist": "指霉味、陈腐气味，多形容房间、旧物"
+  },
+  {
+   "w": "rancid",
+   "dist": "专指油脂变质发臭，范围比 stale 窄"
+  },
+  {
+   "w": "hackneyed",
+   "dist": "指言辞陈腐老套，只用于抽象表达"
+  }
+ ],
+ "instalment": [
+  {
+   "w": "payment",
+   "dist": "泛指付款，instalment 特指分期中的一期"
+  },
+  {
+   "w": "episode",
+   "dist": "指连载或剧集的一集，用于影视广播"
+  },
+  {
+   "w": "portion",
+   "dist": "指整体中的一份，不含分期付款含义"
+  }
+ ],
+ "utile": [
+  {
+   "w": "useful",
+   "dist": "最通用，口语书面皆可，utile 偏正式书面"
+  },
+  {
+   "w": "practical",
+   "dist": "强调实用可行，多形容方法、物品"
+  },
+  {
+   "w": "beneficial",
+   "dist": "侧重带来益处，多修饰措施、影响"
+  }
+ ],
+ "utility": [
+  {
+   "w": "usefulness",
+   "dist": "指有用性这一性质，utility 还可指公用事业"
+  },
+  {
+   "w": "practicality",
+   "dist": "强调实际可行性，语域偏正式"
+  },
+  {
+   "w": "service",
+   "dist": "指公共服务设施，与 utility 的公用事业义近"
+  }
+ ],
+ "profess": [
+  {
+   "w": "claim",
+   "dist": "泛指声称，语气中性；profess 含公开表态意味"
+  },
+  {
+   "w": "declare",
+   "dist": "正式宣布，语气强，多用于官方或郑重场合"
+  },
+  {
+   "w": "assert",
+   "dist": "强调自信地断言，比 profess 更主动有力"
+  }
+ ],
+ "confess": [
+  {
+   "w": "admit",
+   "dist": "最通用，指承认事实或错误，语气比 confess 轻"
+  },
+  {
+   "w": "acknowledge",
+   "dist": "正式，指认可某事存在，不含罪责意味"
+  },
+  {
+   "w": "reveal",
+   "dist": "指揭露隐秘信息，不强调认错"
+  }
+ ],
+ "closet": [
+  {
+   "w": "cupboard",
+   "dist": "英式指碗柜、储物柜，比 closet 更具体"
+  },
+  {
+   "w": "cabinet",
+   "dist": "指带门格的柜子，多用于厨房或陈列"
+  },
+  {
+   "w": "wardrobe",
+   "dist": "专指挂衣衣柜，比 closet 范围窄"
+  }
+ ],
+ "exclusively": [
+  {
+   "w": "solely",
+   "dist": "强调唯一性，比 exclusively 更正式，常修饰责任或原因。"
+  },
+  {
+   "w": "only",
+   "dist": "最通用，口语常用；exclusively 更强调排他性。"
+  },
+  {
+   "w": "purely",
+   "dist": "侧重“纯粹地”，常修饰性质或原因，不强调排他。"
+  }
+ ],
+ "segment": [
+  {
+   "w": "section",
+   "dist": "最通用，指整体切分出的部分；segment 更强调自然分节。"
+  },
+  {
+   "w": "portion",
+   "dist": "侧重分得的份额，常与食物、数量搭配。"
+  },
+  {
+   "w": "sector",
+   "dist": "多指经济、社会或圆形区域的一部分，语域偏正式。"
+  },
+  {
+   "w": "part",
+   "dist": "最宽泛口语词；segment 更正式且暗示明确分界。"
+  }
+ ],
+ "accountable": [
+  {
+   "w": "responsible",
+   "dist": "最通用，泛指承担责任；accountable 强调须向上解释。"
+  },
+  {
+   "w": "liable",
+   "dist": "侧重法律上负有责任，常接 for 或 to。"
+  },
+  {
+   "w": "answerable",
+   "dist": "与 accountable 最近，强调须作出解释，较正式。"
+  }
+ ],
+ "curriculum": [
+  {
+   "w": "syllabus",
+   "dist": "指单门课程的提纲；curriculum 指全部课程体系。"
+  },
+  {
+   "w": "program",
+   "dist": "美式常指整套学习计划，范围可大于课程。"
+  },
+  {
+   "w": "course",
+   "dist": "指一门课；curriculum 是课程的总和。"
+  }
+ ],
+ "currency": [
+  {
+   "w": "money",
+   "dist": "最通用口语词；currency 指一国流通的货币体系。"
+  },
+  {
+   "w": "cash",
+   "dist": "指现钞，与信用卡相对；currency 不限于现金。"
+  },
+  {
+   "w": "coinage",
+   "dist": "指硬币制度或造币，范围窄，较正式。"
+  }
+ ],
+ "concur": [
+  {
+   "w": "agree",
+   "dist": "最通用；concur 更正式，常指意见完全一致。"
+  },
+  {
+   "w": "consent",
+   "dist": "侧重同意准许某事，含许可意味。"
+  },
+  {
+   "w": "coincide",
+   "dist": "指观点或时间恰好相同，不强调表态同意。"
+  }
+ ],
+ "diction": [
+  {
+   "w": "wording",
+   "dist": "指具体措辞选择；diction 更强调用词风格与发音。"
+  },
+  {
+   "w": "phrasing",
+   "dist": "侧重语句组织方式；diction 还含吐字发音义。"
+  },
+  {
+   "w": "enunciation",
+   "dist": "专指吐字发音清晰，只对应 diction 的发音义。"
+  }
+ ],
+ "dictate": [
+  {
+   "w": "command",
+   "dist": "最通用，指下达命令；dictate 含强加、不容违抗意味。"
+  },
+  {
+   "w": "order",
+   "dist": "口语常用，指命令；dictate 更正式且强调支配。"
+  },
+  {
+   "w": "prescribe",
+   "dist": "指规定、开处方，含权威指定意味。"
+  },
+  {
+   "w": "decree",
+   "dist": "指官方颁布法令，语域正式，力度更强。"
+  }
+ ],
+ "indicator": [
+  {
+   "w": "sign",
+   "dist": "最通用，指迹象；indicator 更正式，常指量化指标。"
+  },
+  {
+   "w": "signal",
+   "dist": "指传递信息的信号；indicator 侧重显示状态的装置。"
+  },
+  {
+   "w": "gauge",
+   "dist": "指测量仪表；indicator 范围更广，含统计指标义。"
+  },
+  {
+   "w": "marker",
+   "dist": "指标志物或标记；indicator 更强调指示、显示功能。"
+  }
+ ],
+ "index": [
+  {
+   "w": "catalog",
+   "dist": "指目录、编目；index 侧重按字母或关键词检索的索引。"
+  },
+  {
+   "w": "list",
+   "dist": "最通用；index 特指便于查找的系统性列表。"
+  },
+  {
+   "w": "indicator",
+   "dist": "指指标、标志；index 作“指数”义时更专业。"
+  },
+  {
+   "w": "register",
+   "dist": "指登记簿或名录，语域正式，含记录意味。"
+  }
+ ],
+ "proceed": [
+  {
+   "w": "advance",
+   "dist": "advance 强调向前推进，proceed 更正式，常指按计划继续"
+  },
+  {
+   "w": "continue",
+   "dist": "continue 侧重接着做，proceed 强调由此前进或进行下一步"
+  },
+  {
+   "w": "progress",
+   "dist": "progress 含取得进展之意，proceed 只表向前进行"
+  }
+ ],
+ "procession": [
+  {
+   "w": "parade",
+   "dist": "parade 多指庆祝游行，procession 可指庄重队列"
+  },
+  {
+   "w": "march",
+   "dist": "march 强调行进动作，procession 强调队列本身"
+  },
+  {
+   "w": "cavalcade",
+   "dist": "cavalcade 专指车队或骑马队伍，procession 更通用"
+  }
+ ],
+ "proceeding": [
+  {
+   "w": "lawsuit",
+   "dist": "lawsuit 专指诉讼案件，proceeding 可泛指程序或行动"
+  },
+  {
+   "w": "action",
+   "dist": "action 法律上指诉讼，proceeding 范围更广"
+  },
+  {
+   "w": "transaction",
+   "dist": "transaction 指事务处理，proceeding 多指正式程序"
+  }
+ ],
+ "exceed": [
+  {
+   "w": "surpass",
+   "dist": "surpass 强调优于或胜过，exceed 侧重超出数量限度"
+  },
+  {
+   "w": "outstrip",
+   "dist": "outstrip 强调超过对手，exceed 更中性表超出"
+  },
+  {
+   "w": "transcend",
+   "dist": "transcend 含超越界限的抽象意味，exceed 更具体"
+  }
+ ],
+ "concede": [
+  {
+   "w": "admit",
+   "dist": "admit 承认事实，concede 含不情愿让步意味"
+  },
+  {
+   "w": "acknowledge",
+   "dist": "acknowledge 较中性承认，concede 强调被迫认可"
+  },
+  {
+   "w": "yield",
+   "dist": "yield 侧重让与或屈服，concede 可指承认也可让与"
+  }
+ ],
+ "prayer": [
+  {
+   "w": "supplication",
+   "dist": "supplication 更书面，强调恳求，prayer 更通用"
+  },
+  {
+   "w": "invocation",
+   "dist": "invocation 多指仪式开场的祈请，prayer 泛指祷告"
+  },
+  {
+   "w": "plea",
+   "dist": "plea 侧重恳求，prayer 侧重宗教祈祷"
+  }
+ ],
+ "precede": [
+  {
+   "w": "antedate",
+   "dist": "antedate 指时间上早于，precede 可指顺序在前"
+  },
+  {
+   "w": "forego",
+   "dist": "forego 指先行或走在前面，precede 更常用"
+  },
+  {
+   "w": "lead",
+   "dist": "lead 强调引领，precede 强调位置或次序在先"
+  }
+ ],
+ "recede": [
+  {
+   "w": "retreat",
+   "dist": "retreat 指主动撤退，recede 指渐渐后退或减弱"
+  },
+  {
+   "w": "withdraw",
+   "dist": "withdraw 强调撤回，recede 强调逐渐远去"
+  },
+  {
+   "w": "subside",
+   "dist": "subside 指减弱平息，recede 指后退或消退"
+  }
+ ],
+ "recession": [
+  {
+   "w": "downturn",
+   "dist": "downturn 泛指下滑，recession 特指经济衰退"
+  },
+  {
+   "w": "slump",
+   "dist": "slump 强调急剧下跌，recession 较正式表衰退期"
+  },
+  {
+   "w": "depression",
+   "dist": "depression 比 recession 更严重持久"
+  }
+ ],
+ "discard": [
+  {
+   "w": "abandon",
+   "dist": "abandon 含彻底放弃，discard 指丢弃不再需要之物"
+  },
+  {
+   "w": "dump",
+   "dist": "dump 较口语，指随意扔掉，discard 更正式"
+  },
+  {
+   "w": "scrap",
+   "dist": "scrap 指废弃淘汰，discard 强调丢弃动作"
+  }
+ ],
+ "charter": [
+  {
+   "w": "constitution",
+   "dist": "指国家根本大法，charter 多指组织或城市的特许文件。"
+  },
+  {
+   "w": "lease",
+   "dist": "指租赁合同，charter 侧重包租交通工具。"
+  },
+  {
+   "w": "hire",
+   "dist": "泛指租用，charter 多用于包车、包船。"
+  }
+ ],
+ "deduct": [
+  {
+   "w": "subtract",
+   "dist": "数学上减去，deduct 多指从总额中扣除。"
+  },
+  {
+   "w": "remove",
+   "dist": "泛指移走，deduct 专指减除款项。"
+  },
+  {
+   "w": "withhold",
+   "dist": "指暂扣不发，deduct 指正式扣除。"
+  }
+ ],
+ "induce": [
+  {
+   "w": "persuade",
+   "dist": "强调说服，induce 更含诱使、导致之意。"
+  },
+  {
+   "w": "cause",
+   "dist": "直接导致，induce 侧重引发或劝使。"
+  },
+  {
+   "w": "prompt",
+   "dist": "促使某人行动，induce 更正式，可指引产。"
+  }
+ ],
+ "convene": [
+  {
+   "w": "convoke",
+   "dist": "正式召集会议，convene 更常用，可指开会。"
+  },
+  {
+   "w": "summon",
+   "dist": "指传唤或召集，convene 侧重会议召开。"
+  },
+  {
+   "w": "assemble",
+   "dist": "指集合，convene 专指正式开会。"
+  }
+ ],
+ "avenue": [
+  {
+   "w": "street",
+   "dist": "泛指街道，avenue 多指宽阔林荫大道。"
+  },
+  {
+   "w": "road",
+   "dist": "泛指道路，avenue 更正式，常指城市大道。"
+  },
+  {
+   "w": "boulevard",
+   "dist": "指林荫大道，avenue 更通用，可指途径。"
+  }
+ ],
+ "clash": [
+  {
+   "w": "conflict",
+   "dist": "指冲突矛盾，clash 更强调正面碰撞或分歧。"
+  },
+  {
+   "w": "collide",
+   "dist": "指物理相撞，clash 可指意见冲突或撞击声。"
+  },
+  {
+   "w": "dispute",
+   "dist": "指争论，clash 侧重对立冲突。"
+  }
+ ],
+ "handicap": [
+  {
+   "w": "disability",
+   "dist": "指残疾，handicap 较旧，也可指不利条件。"
+  },
+  {
+   "w": "obstacle",
+   "dist": "指障碍物，handicap 侧重使人处于劣势。"
+  },
+  {
+   "w": "hinder",
+   "dist": "动词妨碍，handicap 作动词指使不利。"
+  }
+ ],
+ "manoeuvre": [
+  {
+   "w": "maneuver",
+   "dist": "美式拼写，同义，指调遣或巧计。"
+  },
+  {
+   "w": "tactic",
+   "dist": "指策略手段，manoeuvre 更含巧妙操作。"
+  },
+  {
+   "w": "exercise",
+   "dist": "指演习，manoeuvre 多指军队调遣。"
+  }
+ ],
+ "manual": [
+  {
+   "w": "handbook",
+   "dist": "指手册，manual 更强调操作说明。"
+  },
+  {
+   "w": "guide",
+   "dist": "指南，manual 更具体，常指设备说明书。"
+  }
+ ],
+ "commend": [
+  {
+   "w": "praise",
+   "dist": "praise 最通用，commend 更正式且含嘉许推荐意"
+  },
+  {
+   "w": "applaud",
+   "dist": "applaud 侧重公开喝彩，commend 可指书面正式表扬"
+  },
+  {
+   "w": "entrust",
+   "dist": "entrust 侧重托付财物事务，commend 偏正式委托"
+  }
+ ],
+ "consecutive": [
+  {
+   "w": "successive",
+   "dist": "successive 强调接连不断，consecutive 强调无间断顺序"
+  },
+  {
+   "w": "sequential",
+   "dist": "sequential 侧重按序排列，consecutive 强调连续不断"
+  },
+  {
+   "w": "continuous",
+   "dist": "continuous 指时间空间不间断，consecutive 指次序相连"
+  }
+ ],
+ "execute": [
+  {
+   "w": "perform",
+   "dist": "perform 泛指做，execute 强调按计划精确完成"
+  },
+  {
+   "w": "implement",
+   "dist": "implement 侧重落实政策方案，execute 侧重执行命令"
+  },
+  {
+   "w": "accomplish",
+   "dist": "accomplish 强调达成结果，execute 强调执行过程"
+  }
+ ],
+ "sequence": [
+  {
+   "w": "series",
+   "dist": "series 指同类事物一连串，sequence 强调先后次序"
+  },
+  {
+   "w": "order",
+   "dist": "order 泛指顺序安排，sequence 更强调逻辑先后"
+  },
+  {
+   "w": "succession",
+   "dist": "succession 强调接连更替，sequence 强调排列次序"
+  }
+ ],
+ "subsequent": [
+  {
+   "w": "following",
+   "dist": "following 最通用，subsequent 更正式且强调时间在后"
+  },
+  {
+   "w": "later",
+   "dist": "later 口语常用，subsequent 书面正式，多修饰名词"
+  },
+  {
+   "w": "ensuing",
+   "dist": "ensuing 指随之发生的，subsequent 仅表时间在后"
+  }
+ ],
+ "subsequently": [
+  {
+   "w": "later",
+   "dist": "later 口语通用，subsequently 书面正式，强调先后"
+  },
+  {
+   "w": "afterwards",
+   "dist": "afterwards 口语常用，subsequently 更正式书面"
+  },
+  {
+   "w": "thereafter",
+   "dist": "thereafter 更书面且指此后一直，subsequently 仅表随后"
+  }
+ ],
+ "domestic": [
+  {
+   "w": "internal",
+   "dist": "internal 指内部，domestic 特指一国国内事务"
+  },
+  {
+   "w": "household",
+   "dist": "household 指家庭家用，domestic 还可指国内、家养"
+  },
+  {
+   "w": "tame",
+   "dist": "tame 指驯服的动物，domestic 强调家养非野生"
+  }
+ ],
+ "domesticate": [
+  {
+   "w": "tame",
+   "dist": "tame 指使动物驯服，domesticate 强调长期驯化培育"
+  },
+  {
+   "w": "cultivate",
+   "dist": "cultivate 多指栽培植物，domesticate 多指驯化动物"
+  },
+  {
+   "w": "breed",
+   "dist": "breed 侧重繁殖培育，domesticate 侧重野性转家养"
+  }
+ ],
+ "dome": [
+  {
+   "w": "vault",
+   "dist": "vault 指拱顶，dome 特指半球形圆顶"
+  },
+  {
+   "w": "cupola",
+   "dist": "cupola 指小圆顶塔，dome 泛指大圆屋顶"
+  }
+ ],
+ "sue": [
+  {
+   "w": "prosecute",
+   "dist": "prosecute 多指刑事公诉，sue 多指民事起诉索赔"
+  },
+  {
+   "w": "litigate",
+   "dist": "litigate 指打官司全过程，sue 侧重提起诉讼"
+  },
+  {
+   "w": "charge",
+   "dist": "charge 指刑事指控，sue 指民事控告索赔"
+  }
+ ],
+ "hardware": [
+  {
+   "w": "equipment",
+   "dist": "泛指设备器材，不特指计算机或五金"
+  },
+  {
+   "w": "machinery",
+   "dist": "指大型机械，语域偏工业"
+  },
+  {
+   "w": "weaponry",
+   "dist": "专指武器总称，对应重武器义"
+  }
+ ],
+ "hardship": [
+  {
+   "w": "poverty",
+   "dist": "强调贫穷状态，比穷困更具体"
+  },
+  {
+   "w": "adversity",
+   "dist": "指逆境磨难，语域较正式"
+  },
+  {
+   "w": "privation",
+   "dist": "指生活必需品匮乏，较书面"
+  }
+ ],
+ "scarce": [
+  {
+   "w": "rare",
+   "dist": "强调罕见珍贵，scarce侧重数量不足"
+  },
+  {
+   "w": "sparse",
+   "dist": "指分布稀疏，多修饰人口、植被"
+  },
+  {
+   "w": "insufficient",
+   "dist": "强调不够用，语域偏正式"
+  }
+ ],
+ "propriety": [
+  {
+   "w": "decorum",
+   "dist": "指社交场合的礼节规范，更正式"
+  },
+  {
+   "w": "decency",
+   "dist": "侧重正派体面，道德色彩强"
+  },
+  {
+   "w": "etiquette",
+   "dist": "指成文礼仪规矩，非个人举止"
+  }
+ ],
+ "property": [
+  {
+   "w": "asset",
+   "dist": "指可变现的资产，财务用语"
+  },
+  {
+   "w": "estate",
+   "dist": "指房地产遗产，法律色彩浓"
+  },
+  {
+   "w": "attribute",
+   "dist": "指抽象特性，对应特性义"
+  },
+  {
+   "w": "belongings",
+   "dist": "指个人随身财物，范围较小"
+  }
+ ],
+ "briefcase": [
+  {
+   "w": "portfolio",
+   "dist": "指可折叠的公文夹，偏艺术商务"
+  },
+  {
+   "w": "satchel",
+   "dist": "指学生式挎包，非商务公文包"
+  }
+ ],
+ "cassette": [
+  {
+   "w": "tape",
+   "dist": "泛指磁带，cassette指盒式外壳"
+  },
+  {
+   "w": "cartridge",
+   "dist": "指插卡式盒，多用于游戏机"
+  }
+ ],
+ "infinite": [
+  {
+   "w": "boundless",
+   "dist": "强调无边界，多修饰空间、想象"
+  },
+  {
+   "w": "limitless",
+   "dist": "强调无限制，口语色彩稍强"
+  },
+  {
+   "w": "endless",
+   "dist": "强调无穷尽，常带厌烦意味"
+  },
+  {
+   "w": "eternal",
+   "dist": "指时间上永恒，不指数量"
+  }
+ ],
+ "bounce": [
+  {
+   "w": "rebound",
+   "dist": "指反弹回原处，多用于球类"
+  },
+  {
+   "w": "spring",
+   "dist": "强调弹性跳起，动作更主动"
+  },
+  {
+   "w": "hop",
+   "dist": "指单脚或小动物蹦跳"
+  },
+  {
+   "w": "ricochet",
+   "dist": "指撞击后斜向弹开，多用于子弹"
+  }
+ ],
+ "bundle": [
+  {
+   "w": "bunch",
+   "dist": "指同类物扎成一束，如花、钥匙"
+  },
+  {
+   "w": "pack",
+   "dist": "指打包成件，量词意味更强"
+  },
+  {
+   "w": "parcel",
+   "dist": "指包裹，多用于邮寄"
+  },
+  {
+   "w": "cluster",
+   "dist": "指聚集的一簇，强调密集"
+  }
+ ],
+ "fore": [
+  {
+   "w": "front",
+   "dist": "front 泛指前部，fore 多用于航海或固定搭配"
+  },
+  {
+   "w": "bow",
+   "dist": "bow 专指船头，fore 还可作副词表在前"
+  },
+  {
+   "w": "forward",
+   "dist": "forward 侧重向前方向，fore 强调位置在前"
+  }
+ ],
+ "absolve": [
+  {
+   "w": "pardon",
+   "dist": "pardon 侧重宽恕罪行，absolve 强调免除责任"
+  },
+  {
+   "w": "exonerate",
+   "dist": "exonerate 指洗清嫌疑，absolve 含正式赦免意味"
+  },
+  {
+   "w": "acquit",
+   "dist": "acquit 为法庭宣判无罪，absolve 更广指免罪责"
+  }
+ ],
+ "ascend": [
+  {
+   "w": "climb",
+   "dist": "climb 需手脚并用，ascend 更正式且可指晋升"
+  },
+  {
+   "w": "rise",
+   "dist": "rise 泛指上升，ascend 强调沿路径向上攀登"
+  },
+  {
+   "w": "mount",
+   "dist": "mount 指登上高处，ascend 语域更正式书面"
+  }
+ ],
+ "succession": [
+  {
+   "w": "sequence",
+   "dist": "sequence 强调先后次序，succession 侧重连续不断"
+  },
+  {
+   "w": "series",
+   "dist": "series 指同类事物系列，succession 含接替继承义"
+  },
+  {
+   "w": "inheritance",
+   "dist": "inheritance 指继承财产，succession 侧重继承权顺序"
+  }
+ ],
+ "successive": [
+  {
+   "w": "consecutive",
+   "dist": "consecutive 强调紧接无间断，successive 较宽泛"
+  },
+  {
+   "w": "sequential",
+   "dist": "sequential 侧重按顺序，successive 强调连续相继"
+  },
+  {
+   "w": "serial",
+   "dist": "serial 多指系列连载，successive 泛指连续多次"
+  }
+ ],
+ "affluent": [
+  {
+   "w": "wealthy",
+   "dist": "wealthy 泛指有钱，affluent 更书面且指生活富足"
+  },
+  {
+   "w": "rich",
+   "dist": "rich 最常用口语，affluent 语域正式偏书面"
+  },
+  {
+   "w": "prosperous",
+   "dist": "prosperous 强调兴旺发达，affluent 侧重物质充裕"
+  }
+ ],
+ "fluid": [
+  {
+   "w": "liquid",
+   "dist": "liquid 指液态物质，fluid 还包括气体且更抽象"
+  },
+  {
+   "w": "flowing",
+   "dist": "flowing 强调流动状态，fluid 可指易变不定"
+  },
+  {
+   "w": "liquefied",
+   "dist": "liquefied 指被液化的，fluid 泛指流体或流动的"
+  }
+ ],
+ "influenza": [
+  {
+   "w": "flu",
+   "dist": "口语简称，influenza 是正式医学说法"
+  }
+ ],
+ "confer": [
+  {
+   "w": "grant",
+   "dist": "grant 指给予权利许可，confer 多指授予荣誉学位"
+  },
+  {
+   "w": "bestow",
+   "dist": "bestow 极正式指授予，confer 还可表商讨协商"
+  },
+  {
+   "w": "consult",
+   "dist": "consult 指请教咨询，confer 强调平等商议"
+  }
+ ],
+ "referee": [
+  {
+   "w": "umpire",
+   "dist": "umpire 多用于棒球网球，referee 用于足球篮球等"
+  },
+  {
+   "w": "arbiter",
+   "dist": "arbiter 指权威裁决者，referee 侧重比赛裁判"
+  },
+  {
+   "w": "judge",
+   "dist": "judge 指法官或评判，referee 专指体育裁判"
+  }
+ ],
+ "eject": [
+  {
+   "w": "expel",
+   "dist": "expel 更正式，侧重强制驱逐或排出"
+  },
+  {
+   "w": "emit",
+   "dist": "emit 侧重发出光、热、声等，不强调弹出"
+  },
+  {
+   "w": "discharge",
+   "dist": "discharge 侧重释放、排出液体或气体"
+  }
+ ],
+ "bystander": [
+  {
+   "w": "onlooker",
+   "dist": "onlooker 更强调围观注视，bystander 强调恰好在场"
+  },
+  {
+   "w": "observer",
+   "dist": "observer 偏正式，常指有目的地观察者"
+  },
+  {
+   "w": "witness",
+   "dist": "witness 强调目击并可作证，bystander 未必注意"
+  }
+ ],
+ "extinguish": [
+  {
+   "w": "quench",
+   "dist": "quench 多搭配火、渴，较书面"
+  },
+  {
+   "w": "suppress",
+   "dist": "suppress 侧重压制、平息，不限于火"
+  },
+  {
+   "w": "eradicate",
+   "dist": "eradicate 强调彻底根除，语气更强"
+  }
+ ],
+ "distinct": [
+  {
+   "w": "clear",
+   "dist": "clear 泛指清楚，distinct 强调界限分明可辨"
+  },
+  {
+   "w": "obvious",
+   "dist": "obvious 指显而易见，distinct 侧重区别明显"
+  },
+  {
+   "w": "evident",
+   "dist": "evident 偏正式，指有证据表明的明显"
+  }
+ ],
+ "radar": [
+  {
+   "w": "detector",
+   "dist": "detector 泛指探测器，radar 特指无线电探测"
+  },
+  {
+   "w": "sensor",
+   "dist": "sensor 泛指传感装置，radar 是特定技术"
+  }
+ ],
+ "radiate": [
+  {
+   "w": "emit",
+   "dist": "emit 泛指发出，radiate 强调向四周辐射"
+  },
+  {
+   "w": "exude",
+   "dist": "exude 多指流露气质或渗出，较文学化"
+  },
+  {
+   "w": "diffuse",
+   "dist": "diffuse 强调扩散传播，不限于光热"
+  }
+ ],
+ "radius": [
+  {
+   "w": "range",
+   "dist": "range 指范围幅度，radius 指半径或半径范围"
+  },
+  {
+   "w": "scope",
+   "dist": "scope 指涉及范围，较抽象，不指几何半径"
+  }
+ ],
+ "radically": [
+  {
+   "w": "fundamentally",
+   "dist": "fundamentally 强调根本上，较正式"
+  },
+  {
+   "w": "completely",
+   "dist": "completely 指完全地，radically 侧重彻底变革"
+  },
+  {
+   "w": "drastically",
+   "dist": "drastically 强调剧烈地，多修饰变化措施"
+  }
+ ],
+ "abrupt": [
+  {
+   "w": "sudden",
+   "dist": "sudden 泛指突然，abrupt 常含意外唐突感"
+  },
+  {
+   "w": "curt",
+   "dist": "curt 专指言语简短无礼，abrupt 可指态度"
+  },
+  {
+   "w": "steep",
+   "dist": "steep 指坡度陡，abrupt 指变化突然"
+  }
+ ],
+ "bumper": [
+  {
+   "w": "bountiful",
+   "dist": "bountiful 指丰盛富足，多修饰收成"
+  },
+  {
+   "w": "abundant",
+   "dist": "abundant 泛指大量充足，较中性"
+  },
+  {
+   "w": "exceptional",
+   "dist": "exceptional 指异常出色，bumper 特指特大丰收"
+  }
+ ],
+ "dump": [
+  {
+   "w": "discard",
+   "dist": "泛指扔掉无用物，dump 更强调倾倒成堆、随意抛弃"
+  },
+  {
+   "w": "unload",
+   "dist": "指卸下货物，dump 侧重倾倒丢弃或廉价抛售"
+  },
+  {
+   "w": "ditch",
+   "dist": "口语指甩掉人或物，dump 语域更中性、可指大宗倾倒"
+  }
+ ],
+ "lump": [
+  {
+   "w": "chunk",
+   "dist": "指厚实大块，lump 常指无定形的团块或肿块"
+  },
+  {
+   "w": "mass",
+   "dist": "指一团聚集物，lump 更具体、体积较小"
+  },
+  {
+   "w": "swelling",
+   "dist": "指肿胀处，lump 可指体内硬块，更口语"
+  }
+ ],
+ "stump": [
+  {
+   "w": "baffle",
+   "dist": "指使人困惑不解，stump 强调被问题彻底难住"
+  },
+  {
+   "w": "perplex",
+   "dist": "较正式，指使困惑，stump 更口语、程度更强"
+  },
+  {
+   "w": "trunk",
+   "dist": "指树干主体，stump 专指砍后残留的树桩"
+  }
+ ],
+ "compensate": [
+  {
+   "w": "reimburse",
+   "dist": "指报销、退还费用，compensate 泛指补偿损失"
+  },
+  {
+   "w": "offset",
+   "dist": "指抵消、弥补影响，compensate 更强调给予补偿"
+  },
+  {
+   "w": "repay",
+   "dist": "指偿还钱款或报答，compensate 侧重弥补损害"
+  }
+ ],
+ "dispense": [
+  {
+   "w": "distribute",
+   "dist": "指分发分配，dispense 常指按需发放药品等"
+  },
+  {
+   "w": "allocate",
+   "dist": "指按计划分配资源，dispense 更强调实际发放"
+  },
+  {
+   "w": "administer",
+   "dist": "指施行、给予（药物），dispense 侧重配发"
+  }
+ ],
+ "suspend": [
+  {
+   "w": "halt",
+   "dist": "指使停止运行，suspend 强调暂时中止、可恢复"
+  },
+  {
+   "w": "postpone",
+   "dist": "指推迟到以后，suspend 指暂停而非改期"
+  },
+  {
+   "w": "hang",
+   "dist": "指悬挂，suspend 更正式，也指悬吊状态"
+  }
+ ],
+ "tack": [
+  {
+   "w": "nail",
+   "dist": "泛指钉子或钉住，tack 指用平头小钉固定"
+  },
+  {
+   "w": "pin",
+   "dist": "指用针别住，tack 用短钉，固定较牢"
+  },
+  {
+   "w": "fasten",
+   "dist": "泛指系紧固定，tack 特指钉住、临时固定"
+  }
+ ],
+ "detach": [
+  {
+   "w": "separate",
+   "dist": "泛指分开，detach 强调从整体上拆下、脱离"
+  },
+  {
+   "w": "disconnect",
+   "dist": "指断开连接，detach 侧重使部件脱离主体"
+  },
+  {
+   "w": "remove",
+   "dist": "指移走、去掉，detach 强调分离而非移动"
+  }
+ ],
+ "explode": [
+  {
+   "w": "surge",
+   "dist": "指急剧上升，explode 强调爆发式激增，更夸张"
+  },
+  {
+   "w": "soar",
+   "dist": "指飞涨、猛增，explode 侧重数量爆炸性增长"
+  },
+  {
+   "w": "boom",
+   "dist": "指繁荣、激增，explode 语势更强、更突然"
+  }
+ ],
+ "plausible": [
+  {
+   "w": "credible",
+   "dist": "指可信的，plausible 强调表面可信、未必真实"
+  },
+  {
+   "w": "believable",
+   "dist": "口语指可相信，plausible 更正式、含存疑意味"
+  },
+  {
+   "w": "convincing",
+   "dist": "指有说服力，plausible 仅貌似合理、证据不足"
+  }
+ ],
+ "compel": [
+  {
+   "w": "force",
+   "dist": "最通用，强调以力量或压力使人不得不做"
+  },
+  {
+   "w": "oblige",
+   "dist": "多指道义、法律或情势使人必须做"
+  },
+  {
+   "w": "coerce",
+   "dist": "强调以威胁或暴力高压强迫，语气更重"
+  }
+ ],
+ "compulsory": [
+  {
+   "w": "mandatory",
+   "dist": "正式用语，指法规规定的必须执行"
+  },
+  {
+   "w": "required",
+   "dist": "较中性，指规定或课程要求必做"
+  },
+  {
+   "w": "obligatory",
+   "dist": "偏正式，强调义务上不可免除"
+  }
+ ],
+ "expel": [
+  {
+   "w": "eject",
+   "dist": "侧重用力排出或弹出，多用于物"
+  },
+  {
+   "w": "dismiss",
+   "dist": "指开除学生或解雇，不强调驱逐出境"
+  },
+  {
+   "w": "banish",
+   "dist": "指驱逐出境或流放，文学色彩较浓"
+  }
+ ],
+ "pulse": [
+  {
+   "w": "beat",
+   "dist": "泛指有节奏的跳动，如心跳"
+  },
+  {
+   "w": "throb",
+   "dist": "强调持续有力的搏动，常带痛感"
+  },
+  {
+   "w": "pulsate",
+   "dist": "较书面，指有规律地一张一缩"
+  }
+ ],
+ "impulse": [
+  {
+   "w": "urge",
+   "dist": "指强烈的内在欲望或冲动，常接to do"
+  },
+  {
+   "w": "instinct",
+   "dist": "指本能反应，非理性驱动"
+  },
+  {
+   "w": "whim",
+   "dist": "指一时兴起的念头，较随意轻率"
+  }
+ ],
+ "layer": [
+  {
+   "w": "stratum",
+   "dist": "多指岩层或社会阶层，学术用语"
+  },
+  {
+   "w": "coat",
+   "dist": "指覆盖表面的薄层，如涂层"
+  },
+  {
+   "w": "film",
+   "dist": "指极薄的膜状层，强调薄"
+  }
+ ],
+ "layman": [
+  {
+   "w": "amateur",
+   "dist": "指业余爱好者，未必含不懂行之意"
+  },
+  {
+   "w": "nonprofessional",
+   "dist": "中性指非专业人士，与专业相对"
+  },
+  {
+   "w": "outsider",
+   "dist": "指局外人，强调不属某圈子"
+  }
+ ],
+ "layoff": [
+  {
+   "w": "dismissal",
+   "dist": "泛指解雇，不特指因经济原因临时裁员"
+  },
+  {
+   "w": "redundancy",
+   "dist": "英式用语，指因岗位多余而裁员"
+  },
+  {
+   "w": "cutback",
+   "dist": "指削减人员或开支，侧重措施本身"
+  }
+ ],
+ "relay": [
+  {
+   "w": "transmit",
+   "dist": "指传输信号或信息，最通用"
+  },
+  {
+   "w": "forward",
+   "dist": "指把消息或邮件转送出去"
+  },
+  {
+   "w": "pass",
+   "dist": "口语化，指把东西或消息传递下去"
+  }
+ ],
+ "commune": [
+  {
+   "w": "community",
+   "dist": "指共同生活群体，范围更广更中性"
+  },
+  {
+   "w": "collective",
+   "dist": "指集体组织，强调共同所有"
+  },
+  {
+   "w": "fellowship",
+   "dist": "指志同道合的团体，侧重情谊"
+  }
+ ],
+ "solely": [
+  {
+   "w": "only",
+   "dist": "最通用，仅表限定，语气弱于 solely"
+  },
+  {
+   "w": "merely",
+   "dist": "强调“仅仅”，带轻视或不足意味"
+  },
+  {
+   "w": "exclusively",
+   "dist": "强调排他性，多用于权利、渠道搭配"
+  }
+ ],
+ "metric": [
+  {
+   "w": "measure",
+   "dist": "泛指衡量手段，比 metric 更口语"
+  },
+  {
+   "w": "standard",
+   "dist": "指公认标准，不限于计量"
+  },
+  {
+   "w": "criterion",
+   "dist": "指评判依据，多用于抽象判断"
+  }
+ ],
+ "cosmic": [
+  {
+   "w": "universal",
+   "dist": "侧重普遍性，不强调宇宙空间"
+  },
+  {
+   "w": "vast",
+   "dist": "只表巨大，无宇宙含义"
+  },
+  {
+   "w": "immense",
+   "dist": "强调规模极大，语域较正式"
+  }
+ ],
+ "illusion": [
+  {
+   "w": "delusion",
+   "dist": "指病态或固执的错觉，贬义更强"
+  },
+  {
+   "w": "fantasy",
+   "dist": "指主动想象的虚幻，非感官错觉"
+  },
+  {
+   "w": "mirage",
+   "dist": "特指沙漠等视觉幻象，范围窄"
+  }
+ ],
+ "orbit": [
+  {
+   "w": "circle",
+   "dist": "泛指环绕，不限于天体轨道"
+  },
+  {
+   "w": "encircle",
+   "dist": "强调围住一圈，较书面"
+  },
+  {
+   "w": "revolve",
+   "dist": "强调自身旋转式绕行，常配 around"
+  }
+ ],
+ "fraught": [
+  {
+   "w": "tense",
+   "dist": "指气氛紧张，不表“充满”义"
+  },
+  {
+   "w": "anxious",
+   "dist": "指人忧虑，少修饰局面"
+  },
+  {
+   "w": "laden",
+   "dist": "强调承载沉重，多用于抽象负担"
+  }
+ ],
+ "interpretation": [
+  {
+   "w": "explanation",
+   "dist": "侧重说明原因，不涉演绎"
+  },
+  {
+   "w": "rendition",
+   "dist": "专指表演或译本的演绎版本"
+  },
+  {
+   "w": "reading",
+   "dist": "指个人理解读法，较口语"
+  }
+ ],
+ "binary": [
+  {
+   "w": "dual",
+   "dist": "强调双重性，不特指二进制"
+  },
+  {
+   "w": "twofold",
+   "dist": "指两倍或两方面，较书面"
+  },
+  {
+   "w": "paired",
+   "dist": "指成对，不表二进制的技术义"
+  }
+ ],
+ "vampire": [
+  {
+   "w": "ghoul",
+   "dist": "指食尸鬼，恐怖色彩更重"
+  },
+  {
+   "w": "undead",
+   "dist": "泛指不死生物，范围更广"
+  },
+  {
+   "w": "leech",
+   "dist": "喻指吸血剥削者，非神话生物"
+  }
+ ],
+ "amplify": [
+  {
+   "w": "magnify",
+   "dist": "侧重放大影像或夸大，少指声音"
+  },
+  {
+   "w": "boost",
+   "dist": "强调提升增强，较口语"
+  },
+  {
+   "w": "expand",
+   "dist": "侧重范围扩展，非强度放大"
+  }
+ ],
+ "hypothesis": [
+  {
+   "w": "theory",
+   "dist": "theory 指有证据支撑的系统理论，hypothesis 是待验证的初步猜想。"
+  },
+  {
+   "w": "assumption",
+   "dist": "assumption 指未经证明就接受的假定，hypothesis 更强调可检验。"
+  },
+  {
+   "w": "conjecture",
+   "dist": "conjecture 凭推测得出，语域较正式；hypothesis 偏学术实证。"
+  },
+  {
+   "w": "supposition",
+   "dist": "supposition 指主观设想，hypothesis 更常用于科研语境。"
+  }
+ ],
+ "hypothesize": [
+  {
+   "w": "suppose",
+   "dist": "suppose 日常泛指认为，hypothesize 更正式，强调提出可验证假设。"
+  },
+  {
+   "w": "postulate",
+   "dist": "postulate 指作为推理前提提出，学术味浓；hypothesize 侧重待检验。"
+  },
+  {
+   "w": "conjecture",
+   "dist": "conjecture 凭不充分证据猜测，hypothesize 更偏科学假设。"
+  },
+  {
+   "w": "speculate",
+   "dist": "speculate 指思索推测，不一定成假设；hypothesize 更明确系统。"
+  }
+ ],
+ "once (and) for all": [
+  {
+   "w": "definitively",
+   "dist": "definitively 强调结论确定，once for all 强调一次性彻底了结。"
+  },
+  {
+   "w": "conclusively",
+   "dist": "conclusively 侧重证据确凿，once for all 侧重不再重复。"
+  },
+  {
+   "w": "permanently",
+   "dist": "permanently 指永久状态，once for all 强调一次解决、不再反复。"
+  }
+ ],
+ "strive": [
+  {
+   "w": "endeavor",
+   "dist": "endeavor 较正式，指认真尝试；strive 更强调持续奋斗。"
+  },
+  {
+   "w": "struggle",
+   "dist": "struggle 含艰难挣扎意味，strive 侧重积极力争。"
+  },
+  {
+   "w": "labor",
+   "dist": "labor 指辛苦劳作，strive 强调为目标努力拼搏。"
+  },
+  {
+   "w": "aspire",
+   "dist": "aspire 指渴望追求高目标，strive 更强调付出努力。"
+  }
+ ],
+ "essence": [
+  {
+   "w": "nature",
+   "dist": "nature 指本性、特性，essence 更哲学化，指根本实质。"
+  },
+  {
+   "w": "substance",
+   "dist": "substance 指实质内容，essence 侧重精髓与根本。"
+  },
+  {
+   "w": "gist",
+   "dist": "gist 多指言论要点，essence 范围更广，指事物本质。"
+  }
+ ],
+ "captive": [
+  {
+   "w": "imprisoned",
+   "dist": "imprisoned 指被关押，captive 更强调被俘受控状态。"
+  },
+  {
+   "w": "confined",
+   "dist": "confined 指受限于空间，captive 含被俘、失去自由义。"
+  },
+  {
+   "w": "caged",
+   "dist": "caged 多指关在笼中，captive 可用于人或动物，语域更正式。"
+  },
+  {
+   "w": "enslaved",
+   "dist": "enslaved 指被奴役，captive 仅指被俘关押，未必为奴。"
+  }
+ ],
+ "lure": [
+  {
+   "w": "entice",
+   "dist": "entice 指以好处诱使，lure 更含诱入陷阱的意味。"
+  },
+  {
+   "w": "tempt",
+   "dist": "tempt 指勾起欲望，lure 强调引诱至某处或做某事。"
+  },
+  {
+   "w": "attract",
+   "dist": "attract 中性指吸引，lure 带诱骗、引诱的贬义色彩。"
+  },
+  {
+   "w": "seduce",
+   "dist": "seduce 多指诱惑使堕落，lure 范围更广，可指诱捕。"
+  }
+ ],
+ "flourish": [
+  {
+   "w": "thrive",
+   "dist": "thrive 指茁壮成长、兴旺，flourish 更强调繁荣鼎盛。"
+  },
+  {
+   "w": "prosper",
+   "dist": "prosper 多指经济事业成功，flourish 可用于生物与文化。"
+  },
+  {
+   "w": "bloom",
+   "dist": "bloom 多指开花、焕发，flourish 更泛指繁荣茂盛。"
+  },
+  {
+   "w": "burgeon",
+   "dist": "burgeon 指迅速萌发生长，flourish 强调已达繁盛状态。"
+  }
+ ],
+ "heedless": [
+  {
+   "w": "careless",
+   "dist": "careless 指粗心大意，heedless 强调对警告不加留意。"
+  },
+  {
+   "w": "reckless",
+   "dist": "reckless 指鲁莽不顾后果，heedless 侧重不注意、不理会。"
+  },
+  {
+   "w": "inattentive",
+   "dist": "inattentive 指注意力不集中，heedless 含漠视劝告之意。"
+  },
+  {
+   "w": "unmindful",
+   "dist": "unmindful 较正式，指未留意；heedless 更强调轻率不顾。"
+  }
+ ],
+ "tranquil": [
+  {
+   "w": "calm",
+   "dist": "calm 指平静无波动，tranquil 更带安详宁谧的意境。"
+  },
+  {
+   "w": "serene",
+   "dist": "serene 指安详澄澈，tranquil 侧重环境安静平和。"
+  },
+  {
+   "w": "peaceful",
+   "dist": "peaceful 指无纷扰，tranquil 更强调静谧氛围。"
+  },
+  {
+   "w": "placid",
+   "dist": "placid 指性情温和沉静，tranquil 多形容环境宁静。"
+  }
+ ],
+ "sentiment": [
+  {
+   "w": "feeling",
+   "dist": "泛指感觉，比 sentiment 更日常宽泛"
+  },
+  {
+   "w": "emotion",
+   "dist": "强调强烈情感，sentiment 偏温和或观点"
+  },
+  {
+   "w": "opinion",
+   "dist": "侧重看法，sentiment 兼含情绪色彩"
+  },
+  {
+   "w": "view",
+   "dist": "指观点，语域中性，sentiment 更书面"
+  }
+ ],
+ "perplexity": [
+  {
+   "w": "confusion",
+   "dist": "泛指混乱困惑，perplexity 更书面且指难题"
+  },
+  {
+   "w": "bewilderment",
+   "dist": "强调不知所措，程度比 perplexity 更强"
+  },
+  {
+   "w": "puzzlement",
+   "dist": "指被难住的迷惑，语域较轻"
+  }
+ ],
+ "realm": [
+  {
+   "w": "domain",
+   "dist": "指活动或知识领域，与 realm 近义但更技术"
+  },
+  {
+   "w": "kingdom",
+   "dist": "指王国，realm 更书面且可引申领域"
+  },
+  {
+   "w": "field",
+   "dist": "泛指领域，比 realm 更日常通用"
+  },
+  {
+   "w": "sphere",
+   "dist": "指范围领域，语域正式，侧重活动圈"
+  }
+ ],
+ "corrupt": [
+  {
+   "w": "bribe",
+   "dist": "特指行贿，corrupt 含义更广含使腐化"
+  },
+  {
+   "w": "taint",
+   "dist": "指污染败坏，程度较轻，corrupt 更彻底"
+  },
+  {
+   "w": "deprave",
+   "dist": "指道德败坏，语域正式，corrupt 更通用"
+  },
+  {
+   "w": "spoil",
+   "dist": "指损坏破坏，日常用语，corrupt 更书面"
+  }
+ ],
+ "validate": [
+  {
+   "w": "confirm",
+   "dist": "指确认证实，validate 侧重使生效或合法"
+  },
+  {
+   "w": "verify",
+   "dist": "指核实查证，validate 更强调正式认可"
+  },
+  {
+   "w": "ratify",
+   "dist": "指正式批准条约，语域正式，validate 更广"
+  },
+  {
+   "w": "certify",
+   "dist": "指出具证明认证，validate 侧重效力确认"
+  }
+ ],
+ "validation": [
+  {
+   "w": "confirmation",
+   "dist": "指确认证实，validation 侧重正式认可生效"
+  },
+  {
+   "w": "verification",
+   "dist": "指核实查证过程，validation 更强调批准"
+  },
+  {
+   "w": "approval",
+   "dist": "指批准同意，validation 含验证与合法化"
+  },
+  {
+   "w": "ratification",
+   "dist": "指正式批准，语域正式，validation 更通用"
+  }
+ ],
+ "in retrospect": [
+  {
+   "w": "retrospectively",
+   "dist": "副词，指回顾地，与原短语词性不同"
+  },
+  {
+   "w": "hindsight",
+   "dist": "名词，指事后聪明，常搭配 in hindsight"
+  }
+ ],
+ "resonate": [
+  {
+   "w": "echo",
+   "dist": "指回声呼应，resonate 更强调持续共鸣"
+  },
+  {
+   "w": "reverberate",
+   "dist": "指声音回荡，语域正式，resonate 可引申共鸣"
+  },
+  {
+   "w": "ring",
+   "dist": "指铃声回响，日常用语，resonate 更书面"
+  }
+ ],
+ "yearn": [
+  {
+   "w": "long",
+   "dist": "指渴望，常搭配 for，与 yearn 近义"
+  },
+  {
+   "w": "crave",
+   "dist": "指强烈渴求，侧重欲望，yearn 更含深情"
+  },
+  {
+   "w": "desire",
+   "dist": "泛指想要，语域中性，yearn 更强烈持久"
+  },
+  {
+   "w": "pine",
+   "dist": "指苦苦思念，常搭配 for，yearn 更通用"
+  }
+ ],
+ "magnet": [
+  {
+   "w": "attraction",
+   "dist": "指吸引力或吸引物，magnet 更具体指磁铁"
+  },
+  {
+   "w": "lure",
+   "dist": "指诱惑物，含引诱意味，magnet 更中性"
+  },
+  {
+   "w": "draw",
+   "dist": "指吸引人的事物，口语，magnet 更形象"
+  }
+ ],
+ "geometry": [
+  {
+   "w": "shape",
+   "dist": "指具体形状，不指几何学科"
+  },
+  {
+   "w": "configuration",
+   "dist": "侧重构型布局，较正式"
+  },
+  {
+   "w": "form",
+   "dist": "泛指形式外形，更宽泛"
+  }
+ ],
+ "thermometer": [
+  {
+   "w": "gauge",
+   "dist": "泛指测量仪表，不专指测温"
+  },
+  {
+   "w": "meter",
+   "dist": "泛指计量器，范围更广"
+  }
+ ],
+ "withdrawal": [
+  {
+   "w": "removal",
+   "dist": "指移走取出，不限于取款"
+  },
+  {
+   "w": "deduction",
+   "dist": "指扣除金额，非主动取款"
+  },
+  {
+   "w": "retreat",
+   "dist": "指撤退退却，非金融义"
+  }
+ ],
+ "draft": [
+  {
+   "w": "outline",
+   "dist": "指提纲概要，比草稿更简"
+  },
+  {
+   "w": "sketch",
+   "dist": "指粗略草图或初稿"
+  },
+  {
+   "w": "conscript",
+   "dist": "专指征兵，仅对应一义"
+  },
+  {
+   "w": "bill",
+   "dist": "指汇票账单，仅对应一义"
+  }
+ ],
+ "exclaim": [
+  {
+   "w": "shout",
+   "dist": "泛指大声喊，不含惊叫意味"
+  },
+  {
+   "w": "cry",
+   "dist": "可指哭或喊，语域更宽"
+  },
+  {
+   "w": "blurt",
+   "dist": "指脱口而出，强调不加思索"
+  }
+ ],
+ "proclaim": [
+  {
+   "w": "declare",
+   "dist": "最通用，正式宣布，语气稍弱"
+  },
+  {
+   "w": "announce",
+   "dist": "指公开告知，较中性"
+  },
+  {
+   "w": "pronounce",
+   "dist": "偏正式宣告，含权威意味"
+  }
+ ],
+ "venture": [
+  {
+   "w": "risk",
+   "dist": "泛指冒险，不特指商业投资"
+  },
+  {
+   "w": "gamble",
+   "dist": "强调赌博式冒险，语气更强"
+  },
+  {
+   "w": "enterprise",
+   "dist": "指企业事业，侧重经营实体"
+  }
+ ],
+ "atom": [
+  {
+   "w": "particle",
+   "dist": "泛指微粒，不限于原子"
+  },
+  {
+   "w": "speck",
+   "dist": "指极少量微粒，口语化"
+  },
+  {
+   "w": "mote",
+   "dist": "指微尘微粒，较书面"
+  }
+ ],
+ "atomic": [
+  {
+   "w": "nuclear",
+   "dist": "指核能的，常与原子能混用"
+  },
+  {
+   "w": "molecular",
+   "dist": "指分子的，层级不同"
+  }
+ ],
+ "brace": [
+  {
+   "w": "support",
+   "dist": "泛指支撑，不特指支架"
+  },
+  {
+   "w": "prop",
+   "dist": "指支撑物，具体而口语"
+  },
+  {
+   "w": "prepare",
+   "dist": "对应使准备义，非名词义"
+  }
+ ],
+ "franchise": [
+  {
+   "w": "license",
+   "dist": "侧重正式授权许可，franchise 特指授予经销权"
+  },
+  {
+   "w": "authorize",
+   "dist": "泛指授权，franchise 强调特许经营这一商业形式"
+  },
+  {
+   "w": "charter",
+   "dist": "指特许设立，语域更正式，多用于机构"
+  }
+ ],
+ "split": [
+  {
+   "w": "divide",
+   "dist": "最通用，split 更强调外力裂开或突然分开"
+  },
+  {
+   "w": "separate",
+   "dist": "侧重使分离，split 含分裂成几部分之意"
+  },
+  {
+   "w": "cleave",
+   "dist": "书面语，指劈开，split 更口语化"
+  },
+  {
+   "w": "break",
+   "dist": "泛指打破，split 强调沿裂缝分开"
+  }
+ ],
+ "spatial": [
+  {
+   "w": "physical",
+   "dist": "指物质的，spatial 专指空间维度关系"
+  },
+  {
+   "w": "geometric",
+   "dist": "侧重几何形状，spatial 泛指空间分布"
+  }
+ ],
+ "strip": [
+  {
+   "w": "deprive",
+   "dist": "指剥夺权利，strip 更强调剥去所有物"
+  },
+  {
+   "w": "remove",
+   "dist": "最通用，strip 含彻底除去的意味"
+  },
+  {
+   "w": "undress",
+   "dist": "专指脱衣，strip 还可指剥夺财物"
+  },
+  {
+   "w": "divest",
+   "dist": "正式用语，指剥夺财产，strip 更口语"
+  }
+ ],
+ "attribute": [
+  {
+   "w": "ascribe",
+   "dist": "正式，常与to连用，attribute 更常用"
+  },
+  {
+   "w": "credit",
+   "dist": "多指归功于，attribute 可归因也可归咎"
+  },
+  {
+   "w": "assign",
+   "dist": "指分配或归因，attribute 侧重因果归属"
+  }
+ ],
+ "inferior": [
+  {
+   "w": "lower",
+   "dist": "指位置或级别较低，inferior 含质量差之意"
+  },
+  {
+   "w": "subordinate",
+   "dist": "指下级从属，inferior 更强调较差"
+  },
+  {
+   "w": "poor",
+   "dist": "口语指质量差，inferior 更正式客观"
+  },
+  {
+   "w": "lesser",
+   "dist": "指较小或次要，inferior 含贬义比较"
+  }
+ ],
+ "autonomy": [
+  {
+   "w": "independence",
+   "dist": "指独立，autonomy 强调自主决策权"
+  },
+  {
+   "w": "sovereignty",
+   "dist": "指主权，autonomy 程度较低"
+  }
+ ],
+ "internship": [
+  {
+   "w": "placement",
+   "dist": "英式指实习岗位，internship 更通用"
+  },
+  {
+   "w": "apprenticeship",
+   "dist": "指学徒期，internship 多为短期实习"
+  }
+ ],
+ "deliberate": [
+  {
+   "w": "intentional",
+   "dist": "指故意的，deliberate 还可指从容慎重"
+  },
+  {
+   "w": "purposeful",
+   "dist": "指有目的的，deliberate 含深思熟虑"
+  },
+  {
+   "w": "ponder",
+   "dist": "动词指思考，deliberate 更强调权衡"
+  },
+  {
+   "w": "consider",
+   "dist": "泛指考虑，deliberate 更正式且慎重"
+  }
+ ],
+ "compassionate": [
+  {
+   "w": "sympathetic",
+   "dist": "指同情，compassionate 含愿帮助之意"
+  },
+  {
+   "w": "merciful",
+   "dist": "指仁慈宽恕，compassionate 侧重体恤"
+  },
+  {
+   "w": "caring",
+   "dist": "指关心他人，compassionate 语域更正式"
+  }
+ ],
+ "affirmation": [
+  {
+   "w": "assertion",
+   "dist": "assertion 更中性，指陈述主张；affirmation 含肯定支持意味。"
+  },
+  {
+   "w": "declaration",
+   "dist": "declaration 偏正式宣告；affirmation 侧重确认与肯定。"
+  },
+  {
+   "w": "confirmation",
+   "dist": "confirmation 强调证实；affirmation 强调正面肯定。"
+  }
+ ],
+ "diminish": [
+  {
+   "w": "reduce",
+   "dist": "reduce 泛指减少，及物常用；diminish 偏逐渐减弱。"
+  },
+  {
+   "w": "decrease",
+   "dist": "decrease 多指数量下降；diminish 还可指声望削弱。"
+  },
+  {
+   "w": "lessen",
+   "dist": "lessen 侧重程度减轻；diminish 更书面，含贬低义。"
+  },
+  {
+   "w": "belittle",
+   "dist": "belittle 专指贬低人；diminish 贬低义较委婉。"
+  }
+ ],
+ "commerce": [
+  {
+   "w": "trade",
+   "dist": "trade 泛指买卖交易；commerce 更正式，指大规模商业。"
+  },
+  {
+   "w": "business",
+   "dist": "business 含义宽，含经营事务；commerce 侧重商品流通。"
+  },
+  {
+   "w": "trading",
+   "dist": "trading 强调交易行为；commerce 为整体商业活动。"
+  }
+ ],
+ "credible": [
+  {
+   "w": "believable",
+   "dist": "believable 指故事可信；credible 还可指人可靠、方案可行。"
+  },
+  {
+   "w": "reliable",
+   "dist": "reliable 侧重稳定可靠；credible 侧重令人信服。"
+  },
+  {
+   "w": "plausible",
+   "dist": "plausible 指貌似合理；credible 证据支持更强。"
+  },
+  {
+   "w": "trustworthy",
+   "dist": "trustworthy 指人品可信；credible 多用于说法与证据。"
+  }
+ ],
+ "density": [
+  {
+   "w": "concentration",
+   "dist": "concentration 指聚集浓度；density 指单位面积或体积的密集度。"
+  },
+  {
+   "w": "compactness",
+   "dist": "compactness 强调紧密结实；density 为可量化的密度。"
+  },
+  {
+   "w": "thickness",
+   "dist": "thickness 指厚度；density 指分布疏密程度。"
+  }
+ ],
+ "condense": [
+  {
+   "w": "compress",
+   "dist": "compress 指压紧体积；condense 可指文字简缩或气体冷凝。"
+  },
+  {
+   "w": "abbreviate",
+   "dist": "abbreviate 专指缩短词语；condense 指内容压缩精简。"
+  },
+  {
+   "w": "shorten",
+   "dist": "shorten 泛指变短；condense 强调保留要点地浓缩。"
+  },
+  {
+   "w": "liquefy",
+   "dist": "liquefy 指液化；condense 指气体冷凝成液体。"
+  }
+ ],
+ "gigantic": [
+  {
+   "w": "huge",
+   "dist": "huge 最通用；gigantic 程度更强，带夸张色彩。"
+  },
+  {
+   "w": "enormous",
+   "dist": "enormous 指超出常规的大；gigantic 更强调庞然巨大。"
+  },
+  {
+   "w": "colossal",
+   "dist": "colossal 偏书面夸张；gigantic 口语书面皆可。"
+  },
+  {
+   "w": "massive",
+   "dist": "massive 侧重厚重块大；gigantic 侧重尺寸惊人。"
+  }
+ ],
+ "garage": [
+  {
+   "w": "carport",
+   "dist": "carport 指无门简易车棚；garage 指封闭车库。"
+  },
+  {
+   "w": "workshop",
+   "dist": "workshop 指修理车间；garage 兼指车库与修车行。"
+  }
+ ],
+ "ingenuity": [
+  {
+   "w": "creativity",
+   "dist": "creativity 泛指创造力；ingenuity 侧重巧妙机敏的发明。"
+  },
+  {
+   "w": "inventiveness",
+   "dist": "inventiveness 指发明才能；ingenuity 更强调巧思解决难题。"
+  },
+  {
+   "w": "cleverness",
+   "dist": "cleverness 泛指聪明；ingenuity 多指动手设计的巧智。"
+  }
+ ],
+ "temptation": [
+  {
+   "w": "allure",
+   "dist": "allure 指迷人魅力；temptation 指诱人犯错或放纵的吸引。"
+  },
+  {
+   "w": "lure",
+   "dist": "lure 常含诱骗意味；temptation 侧重内心被吸引。"
+  },
+  {
+   "w": "enticement",
+   "dist": "enticement 指引诱物或手段；temptation 更指诱惑本身。"
+  }
+ ],
+ "tempt": [
+  {
+   "w": "lure",
+   "dist": "lure强调以诱饵吸引，常含欺骗性；tempt更泛。"
+  },
+  {
+   "w": "entice",
+   "dist": "entice侧重以好处劝诱，语气比tempt温和。"
+  },
+  {
+   "w": "seduce",
+   "dist": "seduce多指诱惑使人失足，含情欲或道德意味。"
+  },
+  {
+   "w": "persuade",
+   "dist": "persuade是说服，未必含诱惑；tempt更强调欲望。"
+  }
+ ],
+ "devil": [
+  {
+   "w": "demon",
+   "dist": "demon指恶灵，宗教色彩强；devil特指撒旦或魔鬼。"
+  },
+  {
+   "w": "fiend",
+   "dist": "fiend指恶魔或凶残者，语气更文学化。"
+  },
+  {
+   "w": "rogue",
+   "dist": "rogue指捣蛋鬼或无赖，语气轻，少宗教意味。"
+  }
+ ],
+ "exhaustive": [
+  {
+   "w": "thorough",
+   "dist": "thorough强调细致周全，最常用；exhaustive强调无遗漏。"
+  },
+  {
+   "w": "comprehensive",
+   "dist": "comprehensive侧重涵盖范围广；exhaustive侧重穷尽细节。"
+  },
+  {
+   "w": "complete",
+   "dist": "complete指完整无缺；exhaustive更强调彻底查究。"
+  }
+ ],
+ "expertise": [
+  {
+   "w": "skill",
+   "dist": "skill泛指技能；expertise指专业领域的高水平专长。"
+  },
+  {
+   "w": "proficiency",
+   "dist": "proficiency指熟练程度；expertise更强调专业知识。"
+  },
+  {
+   "w": "mastery",
+   "dist": "mastery指精通掌握；expertise偏专业经验与知识。"
+  }
+ ],
+ "fate": [
+  {
+   "w": "destiny",
+   "dist": "destiny常含注定归宿的积极意味；fate更中性或宿命。"
+  },
+  {
+   "w": "fortune",
+   "dist": "fortune指运气或命运，含偶然性；fate更强调必然。"
+  },
+  {
+   "w": "doom",
+   "dist": "doom指厄运、劫数，语气消极；fate为中性词。"
+  }
+ ],
+ "gamble": [
+  {
+   "w": "bet",
+   "dist": "bet指具体下注；gamble可指赌博行为或冒险。"
+  },
+  {
+   "w": "wager",
+   "dist": "wager较正式，指打赌下注；gamble更口语通用。"
+  },
+  {
+   "w": "risk",
+   "dist": "risk指冒险，不限于赌博；gamble含投机下注意味。"
+  }
+ ],
+ "bold": [
+  {
+   "w": "brave",
+   "dist": "brave指面对危险勇敢；bold更强调自信敢闯。"
+  },
+  {
+   "w": "daring",
+   "dist": "daring指敢于冒险，语气强；bold兼有自信与冒失。"
+  },
+  {
+   "w": "audacious",
+   "dist": "audacious指大胆无畏，常含冒犯无礼意味。"
+  },
+  {
+   "w": "fearless",
+   "dist": "fearless指无所畏惧；bold更侧重主动进取。"
+  }
+ ],
+ "fort": [
+  {
+   "w": "fortress",
+   "dist": "fortress指大型坚固要塞；fort规模较小，常为军事据点。"
+  },
+  {
+   "w": "stronghold",
+   "dist": "stronghold指据点或根据地，可引申；fort偏具体建筑。"
+  },
+  {
+   "w": "bastion",
+   "dist": "bastion指棱堡或堡垒，常比喻；fort更通用具体。"
+  }
+ ],
+ "cathedral": [
+  {
+   "w": "minster",
+   "dist": "minster指大教堂，多见于英国地名；cathedral强调主教座堂。"
+  },
+  {
+   "w": "church",
+   "dist": "church泛指教堂；cathedral特指主教座堂，级别更高。"
+  }
+ ],
+ "vibrant": [
+  {
+   "w": "lively",
+   "dist": "lively 更口语，强调活泼有劲；vibrant 还含色彩鲜明义。"
+  },
+  {
+   "w": "dynamic",
+   "dist": "dynamic 侧重有活力、不断变化；vibrant 更带感染力与鲜亮感。"
+  },
+  {
+   "w": "energetic",
+   "dist": "energetic 强调精力充沛；vibrant 更偏氛围、色彩生动。"
+  }
+ ],
+ "govern": [
+  {
+   "w": "rule",
+   "dist": "rule 强调君主或强权统治；govern 更中性，含治理管理。"
+  },
+  {
+   "w": "control",
+   "dist": "control 侧重控制支配；govern 更正式，指制度性管理。"
+  },
+  {
+   "w": "regulate",
+   "dist": "regulate 指依规则调节；govern 范围更广，含决定影响。"
+  }
+ ],
+ "inflate": [
+  {
+   "w": "expand",
+   "dist": "expand 指体积自然扩大；inflate 强调充气使其膨胀。"
+  },
+  {
+   "w": "exaggerate",
+   "dist": "exaggerate 泛指夸大；inflate 常指夸大数字、价格。"
+  },
+  {
+   "w": "swell",
+   "dist": "swell 指肿胀隆起；inflate 多指人为充气或吹大。"
+  }
+ ],
+ "interfere": [
+  {
+   "w": "hinder",
+   "dist": "hinder 指阻碍进程；interfere 强调插手妨碍他人。"
+  },
+  {
+   "w": "obstruct",
+   "dist": "obstruct 指物理或故意阻挡；interfere 更泛，含干扰。"
+  },
+  {
+   "w": "meddle",
+   "dist": "meddle 指多管闲事；interfere 语域更中性，可指妨碍。"
+  }
+ ],
+ "league": [
+  {
+   "w": "association",
+   "dist": "association 泛指协会；league 常指体育联赛或同盟。"
+  },
+  {
+   "w": "alliance",
+   "dist": "alliance 指政治结盟；league 可指社团或联赛等级。"
+  },
+  {
+   "w": "union",
+   "dist": "union 强调联合体；league 更偏竞赛或团体组织。"
+  }
+ ],
+ "likewise": [
+  {
+   "w": "similarly",
+   "dist": "similarly 强调相似地；likewise 更正式，含“也”的承接。"
+  },
+  {
+   "w": "also",
+   "dist": "also 仅表“也”；likewise 还含“同样方式”之意。"
+  },
+  {
+   "w": "equally",
+   "dist": "equally 强调同等程度；likewise 强调同样做法或情况。"
+  }
+ ],
+ "loose": [
+  {
+   "w": "slack",
+   "dist": "slack 指松弛不紧；loose 范围更广，含零散、宽松。"
+  },
+  {
+   "w": "baggy",
+   "dist": "baggy 专指衣服肥大；loose 还可指未系紧、控制不严。"
+  }
+ ],
+ "misery": [
+  {
+   "w": "suffering",
+   "dist": "suffering 泛指身心痛苦；misery 更强调长期悲惨境遇。"
+  },
+  {
+   "w": "distress",
+   "dist": "distress 指忧虑痛苦；misery 程度更重，含苦难。"
+  },
+  {
+   "w": "anguish",
+   "dist": "anguish 指剧烈精神痛苦；misery 更广，含生活困苦。"
+  }
+ ],
+ "miserable": [
+  {
+   "w": "wretched",
+   "dist": "wretched 强调悲惨可怜；miserable 更泛，含难受不快。"
+  },
+  {
+   "w": "unhappy",
+   "dist": "unhappy 较温和口语；miserable 程度更重，含痛苦。"
+  },
+  {
+   "w": "gloomy",
+   "dist": "gloomy 指阴沉忧郁；miserable 更强调身心难受。"
+  }
+ ],
+ "mount": [
+  {
+   "w": "ascend",
+   "dist": "ascend 正式指上升攀登；mount 可指登上或骑上。"
+  },
+  {
+   "w": "increase",
+   "dist": "increase 泛指增加；mount 强调逐步上升累积。"
+  },
+  {
+   "w": "organize",
+   "dist": "organize 指组织安排；mount 常指筹办活动、发起。"
+  }
+ ],
+ "chill": [
+  {
+   "w": "cold",
+   "dist": "cold泛指低温，chill侧重令人不适的寒意或着凉"
+  },
+  {
+   "w": "frost",
+   "dist": "frost指霜冻，chill更泛指寒冷感觉"
+  },
+  {
+   "w": "fear",
+   "dist": "作名词时fear泛指恐惧，chill指一阵寒意般的害怕"
+  }
+ ],
+ "vendor": [
+  {
+   "w": "seller",
+   "dist": "seller最通用，vendor多指街头摊贩或法律供应商"
+  },
+  {
+   "w": "peddler",
+   "dist": "peddler指沿街叫卖的小贩，vendor语域更中性"
+  },
+  {
+   "w": "supplier",
+   "dist": "supplier指企业供应商，vendor也可指小贩"
+  }
+ ],
+ "braise": [
+  {
+   "w": "stew",
+   "dist": "stew指长时间炖煮，braise先煎后加少量水焖"
+  },
+  {
+   "w": "simmer",
+   "dist": "simmer指微沸慢煮，braise强调焖烧的烹饪法"
+  },
+  {
+   "w": "steam",
+   "dist": "steam指蒸，braise用少量液体焖，方法不同"
+  }
+ ],
+ "ginger": [
+  {
+   "w": "zest",
+   "dist": "zest指柑橘皮屑或热情，ginger指姜或活力"
+  },
+  {
+   "w": "vigor",
+   "dist": "vigor指精力体力，ginger作活力义更口语化"
+  }
+ ],
+ "dwell": [
+  {
+   "w": "reside",
+   "dist": "reside正式指居住，dwell更书面且可指存在于"
+  },
+  {
+   "w": "inhabit",
+   "dist": "inhabit指栖居于某地，dwell强调作为居民常住"
+  },
+  {
+   "w": "live",
+   "dist": "live最通用口语，dwell书面语域更高"
+  }
+ ],
+ "triumphant": [
+  {
+   "w": "victorious",
+   "dist": "victorious侧重获胜，triumphant兼含欢欣得意"
+  },
+  {
+   "w": "exultant",
+   "dist": "exultant指狂喜，triumphant强调胜利后的得意"
+  },
+  {
+   "w": "jubilant",
+   "dist": "jubilant指欢腾喜悦，triumphant更强调胜利"
+  }
+ ],
+ "trophy": [
+  {
+   "w": "prize",
+   "dist": "prize泛指奖品，trophy多指奖杯等实物纪念"
+  },
+  {
+   "w": "cup",
+   "dist": "cup指杯状奖杯，trophy范围更广含战利品"
+  },
+  {
+   "w": "spoils",
+   "dist": "spoils指战利品，trophy也可指狩猎纪念品"
+  }
+ ],
+ "prudence": [
+  {
+   "w": "caution",
+   "dist": "caution指小心谨慎，prudence侧重明智审慎"
+  },
+  {
+   "w": "discretion",
+   "dist": "discretion指自行斟酌，prudence强调审慎判断"
+  },
+  {
+   "w": "wisdom",
+   "dist": "wisdom指智慧，prudence特指行事审慎"
+  }
+ ],
+ "exhilarate": [
+  {
+   "w": "thrill",
+   "dist": "thrill指使激动，exhilarate强调令人振奋愉悦"
+  },
+  {
+   "w": "elate",
+   "dist": "elate指使欢欣鼓舞，exhilarate更强调兴奋活力"
+  },
+  {
+   "w": "invigorate",
+   "dist": "invigorate指使精力充沛，exhilarate侧重情绪高涨"
+  }
+ ],
+ "allure": [
+  {
+   "w": "entice",
+   "dist": "entice 强调用诱饵引诱人做某事，allure 更侧重魅力吸引。"
+  },
+  {
+   "w": "tempt",
+   "dist": "tempt 指勾起欲望使人动心，allure 更带迷人魅力色彩。"
+  },
+  {
+   "w": "charm",
+   "dist": "charm 侧重使人愉悦着迷，allure 含诱惑甚至危险意味。"
+  }
+ ],
+ "intoxicate": [
+  {
+   "w": "inebriate",
+   "dist": "inebriate 多指使醉酒，较正式；intoxicate 还可指陶醉。"
+  },
+  {
+   "w": "exhilarate",
+   "dist": "exhilarate 指使兴奋振奋，intoxicate 强调如醉如痴的陶醉。"
+  }
+ ],
+ "glitter": [
+  {
+   "w": "sparkle",
+   "dist": "sparkle 指闪烁火花般的光，glitter 光更冷硬耀眼。"
+  },
+  {
+   "w": "glisten",
+   "dist": "glisten 多指湿物表面反光，glitter 强调灿烂闪耀。"
+  },
+  {
+   "w": "shimmer",
+   "dist": "shimmer 指柔和摇曳的微光，glitter 更强烈刺眼。"
+  }
+ ],
+ "intuition": [
+  {
+   "w": "instinct",
+   "dist": "instinct 是本能的反应，intuition 侧重不经推理的直觉判断。"
+  },
+  {
+   "w": "hunch",
+   "dist": "hunch 口语指预感，intuition 更正式且含直觉力。"
+  },
+  {
+   "w": "insight",
+   "dist": "insight 指洞察力，intuition 强调直接感知而非分析。"
+  }
+ ],
+ "notorious": [
+  {
+   "w": "infamous",
+   "dist": "infamous 指因恶行而臭名远扬，notorious 语气稍轻更通用。"
+  },
+  {
+   "w": "disreputable",
+   "dist": "disreputable 指名声不好、不体面，notorious 强调广为人知。"
+  },
+  {
+   "w": "scandalous",
+   "dist": "scandalous 侧重丑闻性质，notorious 侧重名声狼藉。"
+  }
+ ],
+ "cutthroat": [
+  {
+   "w": "ruthless",
+   "dist": "ruthless 指无情不择手段，cutthroat 多形容竞争残酷激烈。"
+  },
+  {
+   "w": "fierce",
+   "dist": "fierce 泛指猛烈，cutthroat 特指你死我活的竞争。"
+  },
+  {
+   "w": "murderous",
+   "dist": "murderous 指蓄意杀人的，cutthroat 作形容词多喻竞争。"
+  }
+ ],
+ "brutal": [
+  {
+   "w": "savage",
+   "dist": "savage 指野蛮凶残如野兽，brutal 强调冷酷无情。"
+  },
+  {
+   "w": "cruel",
+   "dist": "cruel 泛指残忍，brutal 程度更重且带粗暴意味。"
+  },
+  {
+   "w": "harsh",
+   "dist": "harsh 多指条件严酷或手段严厉，brutal 更血腥残暴。"
+  }
+ ],
+ "misaligned": [
+  {
+   "w": "skewed",
+   "dist": "skewed 指偏斜不正，misaligned 强调未对准、不重合。"
+  },
+  {
+   "w": "askew",
+   "dist": "askew 指歪斜不正，多作表语；misaligned 更技术性。"
+  },
+  {
+   "w": "offset",
+   "dist": "offset 指偏移错位，misaligned 侧重排列未对齐。"
+  }
+ ],
+ "fierce": [
+  {
+   "w": "ferocious",
+   "dist": "ferocious 指凶残猛烈如猛兽，fierce 更常用且可指强烈。"
+  },
+  {
+   "w": "intense",
+   "dist": "intense 指程度强烈，fierce 含凶狠好斗意味。"
+  },
+  {
+   "w": "violent",
+   "dist": "violent 指暴力猛烈，fierce 可指凶猛也可指竞争激烈。"
+  }
+ ],
+ "hover": [
+  {
+   "w": "float",
+   "dist": "float 指漂浮，hover 特指悬停空中不落地。"
+  },
+  {
+   "w": "linger",
+   "dist": "linger 指逗留徘徊，hover 强调在空中盘旋或犹豫不定。"
+  },
+  {
+   "w": "loiter",
+   "dist": "loiter 指闲荡逗留，含贬义；hover 指徘徊不定。"
+  }
+ ],
+ "cursor": [
+  {
+   "w": "pointer",
+   "dist": "pointer 泛指指示物，cursor 专指屏幕光标"
+  },
+  {
+   "w": "marker",
+   "dist": "marker 指标记物，cursor 强调可移动定位点"
+  }
+ ],
+ "pivotal": [
+  {
+   "w": "crucial",
+   "dist": "crucial 强调决定性，pivotal 侧重中心枢纽作用"
+  },
+  {
+   "w": "key",
+   "dist": "key 更口语通用，pivotal 更正式书面"
+  },
+  {
+   "w": "central",
+   "dist": "central 指中心位置，pivotal 含转动关键之意"
+  },
+  {
+   "w": "critical",
+   "dist": "critical 强调危急关头，pivotal 强调核心支撑"
+  }
+ ],
+ "aftermath": [
+  {
+   "w": "consequence",
+   "dist": "consequence 中性泛指结果，aftermath 专指灾祸余波"
+  },
+  {
+   "w": "repercussion",
+   "dist": "repercussion 指间接反响，aftermath 指事后残局"
+  },
+  {
+   "w": "upshot",
+   "dist": "upshot 指最终结局，aftermath 强调不幸后的余波"
+  }
+ ],
+ "cowardice": [
+  {
+   "w": "timidity",
+   "dist": "timidity 指羞怯胆小，cowardice 含道德贬义"
+  },
+  {
+   "w": "fearfulness",
+   "dist": "fearfulness 泛指害怕，cowardice 指该勇却退缩"
+  }
+ ],
+ "coward": [
+  {
+   "w": "weakling",
+   "dist": "weakling 指体弱或意志薄弱者，coward 专指怯懦"
+  },
+  {
+   "w": "craven",
+   "dist": "craven 多作形容词且书面，coward 为常用名词"
+  },
+  {
+   "w": "dastard",
+   "dist": "dastard 古旧少用，coward 为日常通用词"
+  }
+ ],
+ "chamber": [
+  {
+   "w": "room",
+   "dist": "room 泛指房间，chamber 多指专用或正式厅室"
+  },
+  {
+   "w": "hall",
+   "dist": "hall 指大厅堂，chamber 可指议院或私密房间"
+  },
+  {
+   "w": "cavity",
+   "dist": "cavity 指腔洞，chamber 指体内或机械腔室"
+  }
+ ],
+ "destiny": [
+  {
+   "w": "fate",
+   "dist": "fate 偏宿命不可抗，destiny 含注定归宿意味"
+  },
+  {
+   "w": "fortune",
+   "dist": "fortune 侧重运气机遇，destiny 侧重必然归宿"
+  },
+  {
+   "w": "lot",
+   "dist": "lot 指命运际遇且较口语，destiny 更庄重"
+  }
+ ],
+ "allocate": [
+  {
+   "w": "assign",
+   "dist": "assign 指分派任务，allocate 指按份额分配资源"
+  },
+  {
+   "w": "distribute",
+   "dist": "distribute 指散发分发，allocate 强调按计划拨给"
+  },
+  {
+   "w": "apportion",
+   "dist": "apportion 强调按比例分摊，allocate 更通用"
+  },
+  {
+   "w": "allot",
+   "dist": "allot 指分给一份，allocate 多用于资金资源"
+  }
+ ],
+ "commute": [
+  {
+   "w": "travel",
+   "dist": "travel 泛指旅行，commute 专指定期上下班往返"
+  },
+  {
+   "w": "shuttle",
+   "dist": "shuttle 指穿梭往返，commute 特指通勤"
+  },
+  {
+   "w": "mitigate",
+   "dist": "mitigate 指减轻严重性，commute 指减刑改判"
+  }
+ ],
+ "territory": [
+  {
+   "w": "domain",
+   "dist": "domain 指领域范围，territory 可指领土或地盘"
+  },
+  {
+   "w": "region",
+   "dist": "region 指地理区域，territory 含主权领地意味"
+  },
+  {
+   "w": "area",
+   "dist": "area 最泛，territory 强调管辖或占有的范围"
+  },
+  {
+   "w": "realm",
+   "dist": "realm 多指抽象领域，territory 可指实际地盘"
+  }
+ ],
+ "narrative": [
+  {
+   "w": "account",
+   "dist": "account 侧重对事件的陈述，narrative 更强调有情节的连贯叙述。"
+  },
+  {
+   "w": "story",
+   "dist": "story 泛指故事，narrative 偏正式，指叙述结构或叙述方式。"
+  },
+  {
+   "w": "tale",
+   "dist": "tale 多指虚构或口传故事，narrative 更中性、学术。"
+  }
+ ],
+ "narrate": [
+  {
+   "w": "recount",
+   "dist": "recount 侧重详细讲述经历，narrate 更强调按顺序叙述。"
+  },
+  {
+   "w": "relate",
+   "dist": "relate 较正式，指讲述事件；narrate 常指作旁白或讲故事。"
+  },
+  {
+   "w": "tell",
+   "dist": "tell 最通用口语，narrate 更书面、强调叙述过程。"
+  }
+ ],
+ "negate": [
+  {
+   "w": "nullify",
+   "dist": "nullify 多指法律上使无效，negate 更广，含抵消、否定。"
+  },
+  {
+   "w": "invalidate",
+   "dist": "invalidate 强调使失效，negate 还可指逻辑上否定。"
+  },
+  {
+   "w": "cancel",
+   "dist": "cancel 指取消安排，negate 更正式，侧重使失去效力。"
+  }
+ ],
+ "abrogate": [
+  {
+   "w": "repeal",
+   "dist": "repeal 专指废除法律，abrogate 更正式，可指废除习俗、条约。"
+  },
+  {
+   "w": "revoke",
+   "dist": "revoke 指撤销授权、决定，abrogate 侧重废除法规制度。"
+  },
+  {
+   "w": "abolish",
+   "dist": "abolish 指彻底废除制度习俗，abrogate 更法律化、书面。"
+  }
+ ],
+ "compromise": [
+  {
+   "w": "concession",
+   "dist": "concession 指单方让步，compromise 指双方各让一步。"
+  },
+  {
+   "w": "settlement",
+   "dist": "settlement 指争端的解决结果，compromise 强调折中本身。"
+  },
+  {
+   "w": "undermine",
+   "dist": "作动词时 undermine 指暗中削弱，compromise 指危及、损害。"
+  }
+ ],
+ "publicize": [
+  {
+   "w": "promote",
+   "dist": "promote 侧重推广促销，publicize 强调让公众知晓。"
+  },
+  {
+   "w": "advertise",
+   "dist": "advertise 指做广告，publicize 更广，含宣传报道。"
+  },
+  {
+   "w": "announce",
+   "dist": "announce 指正式宣布，publicize 强调广泛传播引起关注。"
+  }
+ ],
+ "punish": [
+  {
+   "w": "penalize",
+   "dist": "penalize 多指规则上处罚，punish 更广，含惩戒意味。"
+  },
+  {
+   "w": "discipline",
+   "dist": "discipline 侧重为纠正行为而管教，punish 强调施加惩罚。"
+  },
+  {
+   "w": "chastise",
+   "dist": "chastise 较书面，含严厉斥责并惩罚，punish 更中性通用。"
+  }
+ ],
+ "rational": [
+  {
+   "w": "reasonable",
+   "dist": "reasonable 侧重合情合理，rational 强调基于理智推理。"
+  },
+  {
+   "w": "logical",
+   "dist": "logical 强调符合逻辑，rational 强调有理性、不感情用事。"
+  },
+  {
+   "w": "sensible",
+   "dist": "sensible 指明智务实，rational 更学术，侧重理性思维。"
+  }
+ ],
+ "refreshment": [
+  {
+   "w": "snack",
+   "dist": "snack 指少量零食，refreshment 复数指茶点、便餐。"
+  },
+  {
+   "w": "beverage",
+   "dist": "beverage 正式指饮料，refreshment 可兼指食物和饮料。"
+  },
+  {
+   "w": "food",
+   "dist": "food 泛指食物，refreshment 特指活动间供应的茶点。"
+  }
+ ],
+ "steep": [
+  {
+   "w": "soak",
+   "dist": "soak 指长时间浸泡，steep 常指泡茶或浸出味道。"
+  },
+  {
+   "w": "immerse",
+   "dist": "immerse 强调完全浸没，steep 侧重浸泡以入味或软化。"
+  },
+  {
+   "w": "sheer",
+   "dist": "作形容词时 sheer 指陡峭或纯粹，steep 侧重坡度大、急剧。"
+  }
+ ],
+ "ceramic": [
+  {
+   "w": "pottery",
+   "dist": "pottery 多指陶器实物或制陶业，ceramic 更强调材料与工艺。"
+  },
+  {
+   "w": "earthenware",
+   "dist": "earthenware 特指粗陶器皿，ceramic 涵盖范围更广。"
+  },
+  {
+   "w": "porcelain",
+   "dist": "porcelain 指瓷器，质地更细白，ceramic 为陶瓷总称。"
+  }
+ ],
+ "dainty": [
+  {
+   "w": "delicate",
+   "dist": "delicate 侧重精致易损，dainty 更强调小巧可爱。"
+  },
+  {
+   "w": "petite",
+   "dist": "petite 多形容女子身材娇小，dainty 可指物也可指人。"
+  },
+  {
+   "w": "exquisite",
+   "dist": "exquisite 强调精美考究，dainty 更偏小巧玲珑。"
+  }
+ ],
+ "saucer": [
+  {
+   "w": "dish",
+   "dist": "dish 泛指盘子，saucer 专指配茶杯的浅碟。"
+  },
+  {
+   "w": "plate",
+   "dist": "plate 指平底盘，通常比 saucer 大而深。"
+  }
+ ],
+ "distort": [
+  {
+   "w": "twist",
+   "dist": "twist 指物理拧扭，distort 可指变形也可指歪曲事实。"
+  },
+  {
+   "w": "deform",
+   "dist": "deform 侧重外形损坏变形，distort 还含曲解之意。"
+  },
+  {
+   "w": "misrepresent",
+   "dist": "misrepresent 专指歪曲陈述，distort 兼指形状与信息。"
+  }
+ ],
+ "scrutiny": [
+  {
+   "w": "examination",
+   "dist": "examination 为通用检查，scrutiny 强调细致严格的审视。"
+  },
+  {
+   "w": "inspection",
+   "dist": "inspection 指例行查看，scrutiny 语气更严苛挑剔。"
+  },
+  {
+   "w": "review",
+   "dist": "review 指复查评估，scrutiny 侧重逐项细看。"
+  }
+ ],
+ "inaugurate": [
+  {
+   "w": "launch",
+   "dist": "launch 指推出产品活动，inaugurate 更正式，含揭幕就职。"
+  },
+  {
+   "w": "initiate",
+   "dist": "initiate 指开始某项进程，inaugurate 强调正式开启仪式。"
+  },
+  {
+   "w": "install",
+   "dist": "install 指使就职到位，inaugurate 侧重就职典礼。"
+  }
+ ],
+ "orient": [
+  {
+   "w": "align",
+   "dist": "align 指对齐排列，orient 指定向或使适应环境。"
+  },
+  {
+   "w": "position",
+   "dist": "position 指放置定位，orient 强调确定方向。"
+  },
+  {
+   "w": "adapt",
+   "dist": "adapt 指使适应，orient 侧重调整方向以适合。"
+  }
+ ],
+ "plaque": [
+  {
+   "w": "tablet",
+   "dist": "tablet 指刻字平板，plaque 多为墙上纪念匾。"
+  },
+  {
+   "w": "plate",
+   "dist": "plate 泛指板片，plaque 特指饰板或纪念牌。"
+  },
+  {
+   "w": "patch",
+   "dist": "patch 指小块斑片，plaque 在医学上指斑块。"
+  }
+ ],
+ "unveil": [
+  {
+   "w": "reveal",
+   "dist": "reveal 泛指揭露，unveil 含揭幕仪式的正式感。"
+  },
+  {
+   "w": "disclose",
+   "dist": "disclose 指公开秘密信息，unveil 侧重首次展示。"
+  },
+  {
+   "w": "expose",
+   "dist": "expose 指使暴露，unveil 强调揭开覆盖物公布。"
+  }
+ ],
+ "paradigm": [
+  {
+   "w": "model",
+   "dist": "model 为通用模型，paradigm 指公认的理论框架。"
+  },
+  {
+   "w": "pattern",
+   "dist": "pattern 指模式样式，paradigm 更学术，指范式。"
+  },
+  {
+   "w": "example",
+   "dist": "example 泛指例子，paradigm 强调典范性范例。"
+  }
+ ],
+ "meteoric": [
+  {
+   "w": "rapid",
+   "dist": "meteoric 强调崛起迅猛如流星，rapid 仅指速度快，无戏剧色彩。"
+  },
+  {
+   "w": "spectacular",
+   "dist": "meteoric 侧重上升速度，spectacular 侧重景象壮观、引人注目。"
+  },
+  {
+   "w": "swift",
+   "dist": "swift 为中性快速，meteoric 多修饰名声、事业的暴起。"
+  }
+ ],
+ "meteor": [
+  {
+   "w": "fireball",
+   "dist": "特指特别明亮的大流星，meteor 是通称"
+  }
+ ],
+ "novelty": [
+  {
+   "w": "newness",
+   "dist": "newness 泛指新，novelty 强调新奇感与新鲜趣味。"
+  },
+  {
+   "w": "originality",
+   "dist": "originality 指独创性，novelty 侧重因少见而新鲜。"
+  },
+  {
+   "w": "gadget",
+   "dist": "gadget 指新奇小玩意，对应 novelty 的廉价小物品义。"
+  }
+ ],
+ "corporate": [
+  {
+   "w": "company",
+   "dist": "company 泛指公司，corporate 作定语强调企业整体属性。"
+  },
+  {
+   "w": "business",
+   "dist": "business 泛指商业活动，corporate 侧重法人企业层面。"
+  },
+  {
+   "w": "firm",
+   "dist": "firm 多指合伙商行，corporate 语域更正式、偏集团。"
+  }
+ ],
+ "corporation": [
+  {
+   "w": "company",
+   "dist": "company 最通用，corporation 特指依法注册的法人公司。"
+  },
+  {
+   "w": "firm",
+   "dist": "firm 常指中小型商行，corporation 多指大型法人企业。"
+  },
+  {
+   "w": "conglomerate",
+   "dist": "conglomerate 指多行业企业集团，corporation 范围更宽。"
+  }
+ ],
+ "retail": [
+  {
+   "w": "sell",
+   "dist": "sell 泛指卖，retail 特指面向消费者的小量零售。"
+  },
+  {
+   "w": "peddle",
+   "dist": "peddle 指沿街兜售，retail 为中性商业零售用语。"
+  },
+  {
+   "w": "market",
+   "dist": "market 侧重营销推广，retail 侧重零售环节的销售。"
+  }
+ ],
+ "retailer": [
+  {
+   "w": "merchant",
+   "dist": "merchant 多指批发商或商人，retailer 专指零售商。"
+  },
+  {
+   "w": "dealer",
+   "dist": "dealer 常指特定商品经销商，retailer 泛指零售商家。"
+  },
+  {
+   "w": "vendor",
+   "dist": "vendor 指摊贩或供货商，retailer 指零售店铺企业。"
+  }
+ ],
+ "invigorate": [
+  {
+   "w": "refresh",
+   "dist": "refresh 指消除疲劳恢复精神，invigorate 强调注入活力。"
+  },
+  {
+   "w": "energize",
+   "dist": "energize 侧重提供能量动力，invigorate 侧重使人振作。"
+  },
+  {
+   "w": "revitalize",
+   "dist": "revitalize 指使复兴焕发生机，invigorate 更偏即时提神。"
+  }
+ ],
+ "preoccupation": [
+  {
+   "w": "obsession",
+   "dist": "obsession 含病态执迷，preoccupation 指占据心思之事。"
+  },
+  {
+   "w": "absorption",
+   "dist": "absorption 强调专注投入状态，preoccupation 侧重心事萦怀。"
+  },
+  {
+   "w": "concern",
+   "dist": "concern 泛指关切，preoccupation 指长久盘踞心头的事。"
+  }
+ ],
+ "shore": [
+  {
+   "w": "coast",
+   "dist": "coast 指海岸线区域，shore 泛指海、湖、河的岸边。"
+  },
+  {
+   "w": "beach",
+   "dist": "beach 指有沙石的滩地，shore 范围更广含岩岸。"
+  },
+  {
+   "w": "bank",
+   "dist": "bank 专指河岸，shore 可用于海、湖、河。"
+  },
+  {
+   "w": "prop",
+   "dist": "prop 为动词支撑义，与 shore up 同义但更口语。"
+  }
+ ],
+ "armpit": [
+  {
+   "w": "axilla",
+   "dist": "解剖学正式说法，医学语境用"
+  }
+ ],
+ "startle": [
+  {
+   "w": "surprise",
+   "dist": "泛指意外，语气最轻；startle 强调受惊一跳。"
+  },
+  {
+   "w": "frighten",
+   "dist": "侧重使人害怕；startle 侧重突然性而非恐惧。"
+  },
+  {
+   "w": "alarm",
+   "dist": "强调引起不安警觉；startle 更偏瞬间惊吓。"
+  },
+  {
+   "w": "shock",
+   "dist": "程度更重，指震惊；startle 多为短暂一惊。"
+  }
+ ],
+ "protest": [
+  {
+   "w": "object",
+   "dist": "较正式，多接 to；protest 可作名词且语气更强。"
+  },
+  {
+   "w": "complain",
+   "dist": "日常抱怨，语气弱；protest 含公开反对意味。"
+  },
+  {
+   "w": "demonstrate",
+   "dist": "指上街示威；protest 可泛指口头或书面反对。"
+  },
+  {
+   "w": "dissent",
+   "dist": "正式，指持不同意见；protest 更强调公开抗议。"
+  }
+ ],
+ "contemporary": [
+  {
+   "w": "modern",
+   "dist": "泛指现代，时间跨度宽；contemporary 指当下或同代。"
+  },
+  {
+   "w": "current",
+   "dist": "指当前现行的；contemporary 还可指同时代的人。"
+  }
+ ],
+ "carrier": [
+  {
+   "w": "transporter",
+   "dist": "指运输者或运输设备，较正式；carrier 更泛指公司。"
+  },
+  {
+   "w": "bearer",
+   "dist": "指持送信件票据者；carrier 侧重运送货物或人。"
+  },
+  {
+   "w": "courier",
+   "dist": "专指快递信使；carrier 范围更广，含电信公司。"
+  }
+ ],
+ "democracy": [
+  {
+   "w": "republic",
+   "dist": "共和政体，强调无君主；democracy 强调人民主权"
+  }
+ ],
+ "democratic": [
+  {
+   "w": "egalitarian",
+   "dist": "强调平等主义；democratic 还可特指美国民主党。"
+  },
+  {
+   "w": "representative",
+   "dist": "指代议制的；democratic 更宽泛，含民主原则。"
+  }
+ ],
+ "federal": [
+  {
+   "w": "national",
+   "dist": "指全国性的；federal 特指联邦政府层级。"
+  },
+  {
+   "w": "central",
+   "dist": "指中央集权层级；federal 强调联邦与州分权。"
+  }
+ ],
+ "incidence": [
+  {
+   "w": "frequency",
+   "dist": "指频次；incidence 多指疾病等发生率，较专业。"
+  },
+  {
+   "w": "rate",
+   "dist": "泛指比率；incidence 强调新发事件的比例。"
+  },
+  {
+   "w": "occurrence",
+   "dist": "指发生的事实；incidence 侧重统计意义上的发生频率。"
+  }
+ ],
+ "industrious": [
+  {
+   "w": "diligent",
+   "dist": "强调认真刻苦；industrious 更侧重勤勉不倦。"
+  },
+  {
+   "w": "hardworking",
+   "dist": "口语常用，直白；industrious 较书面正式。"
+  },
+  {
+   "w": "assiduous",
+   "dist": "正式，强调持续专注；industrious 更泛指勤劳。"
+  }
+ ],
+ "renovate": [
+  {
+   "w": "restore",
+   "dist": "restore 侧重恢复原貌，renovate 强调翻新改造。"
+  },
+  {
+   "w": "refurbish",
+   "dist": "refurbish 多指装饰性翻新，renovate 含修缮结构。"
+  },
+  {
+   "w": "remodel",
+   "dist": "remodel 指改变样式布局，renovate 偏修复更新。"
+  }
+ ],
+ "invasive": [
+  {
+   "w": "intrusive",
+   "dist": "intrusive 指打扰冒犯，invasive 侧重侵入扩散。"
+  },
+  {
+   "w": "aggressive",
+   "dist": "aggressive 强调攻势猛烈，invasive 含蔓延侵入义。"
+  },
+  {
+   "w": "encroaching",
+   "dist": "encroaching 指逐步侵占，invasive 更泛指引人侵入。"
+  }
+ ],
+ "rejoice": [
+  {
+   "w": "celebrate",
+   "dist": "celebrate 指庆祝活动，rejoice 侧重内心喜悦。"
+  },
+  {
+   "w": "exult",
+   "dist": "exult 语气更强，指得意欢腾，rejoice 较通用。"
+  },
+  {
+   "w": "delight",
+   "dist": "delight 作动词多指使高兴，rejoice 是自身欣喜。"
+  }
+ ],
+ "trait": [
+  {
+   "w": "characteristic",
+   "dist": "characteristic 更泛指特征，trait 多指性格品质。"
+  },
+  {
+   "w": "attribute",
+   "dist": "attribute 指属性特质，trait 偏内在性格。"
+  },
+  {
+   "w": "feature",
+   "dist": "feature 指显著特点，trait 更常用于人或生物。"
+  }
+ ],
+ "vigorous": [
+  {
+   "w": "energetic",
+   "dist": "energetic 指精力充沛，vigorous 强调力量强劲。"
+  },
+  {
+   "w": "robust",
+   "dist": "robust 侧重强健结实，vigorous 含行动有力。"
+  },
+  {
+   "w": "strenuous",
+   "dist": "strenuous 指费力剧烈，vigorous 偏充满活力。"
+  }
+ ],
+ "surge": [
+  {
+   "w": "spike",
+   "dist": "spike 指短暂尖峰，surge 强调大幅激增。"
+  },
+  {
+   "w": "upsurge",
+   "dist": "upsurge 多指情绪或活动高涨，surge 更泛用。"
+  },
+  {
+   "w": "boom",
+   "dist": "boom 指繁荣增长，surge 侧重数量骤增。"
+  }
+ ],
+ "intrigue": [
+  {
+   "w": "plot",
+   "dist": "plot 指具体阴谋计划，intrigue 含暗中密谋义。"
+  },
+  {
+   "w": "conspiracy",
+   "dist": "conspiracy 指多人共谋，intrigue 更强调诡计。"
+  },
+  {
+   "w": "fascinate",
+   "dist": "fascinate 作动词指使着迷，intrigue 含引发好奇。"
+  }
+ ],
+ "vulnerable": [
+  {
+   "w": "fragile",
+   "dist": "fragile 指易碎脆弱，vulnerable 强调易受伤害。"
+  },
+  {
+   "w": "susceptible",
+   "dist": "susceptible 指易受影响，vulnerable 含防御不足。"
+  },
+  {
+   "w": "exposed",
+   "dist": "exposed 指暴露无保护，vulnerable 更泛指脆弱。"
+  }
+ ],
+ "interrogate": [
+  {
+   "w": "question",
+   "dist": "question 泛指提问，interrogate 指正式审问。"
+  },
+  {
+   "w": "examine",
+   "dist": "examine 指审查询问，interrogate 语气更强硬。"
+  },
+  {
+   "w": "grill",
+   "dist": "grill 口语指严厉盘问，interrogate 较正式。"
+  }
+ ],
+ "ammunition": [
+  {
+   "w": "munitions",
+   "dist": "munitions 指军火装备，ammunition 专指弹药。"
+  },
+  {
+   "w": "evidence",
+   "dist": "evidence 指证据材料，ammunition 喻指论据弹药。"
+  }
+ ],
+ "eradicate": [
+  {
+   "w": "eliminate",
+   "dist": "强调彻底清除，多用于问题、疾病等抽象事物"
+  },
+  {
+   "w": "exterminate",
+   "dist": "多指消灭害虫、群体，语气更强更具体"
+  },
+  {
+   "w": "uproot",
+   "dist": "侧重连根拔除，比喻铲除根源"
+  }
+ ],
+ "prudent": [
+  {
+   "w": "cautious",
+   "dist": "侧重小心防险，不如prudent含精明算计"
+  },
+  {
+   "w": "judicious",
+   "dist": "强调明智判断，较正式，偏决策"
+  },
+  {
+   "w": "discreet",
+   "dist": "侧重言行谨慎不张扬，多指保密场合"
+  }
+ ],
+ "intermittent": [
+  {
+   "w": "sporadic",
+   "dist": "强调零星偶发，间隔不规则"
+  },
+  {
+   "w": "periodic",
+   "dist": "指有规律周期性发生，非随意断续"
+  },
+  {
+   "w": "occasional",
+   "dist": "指偶尔发生，频率更低更随意"
+  }
+ ],
+ "seduce": [
+  {
+   "w": "tempt",
+   "dist": "泛指诱惑，语气较轻，不必然含性意味"
+  },
+  {
+   "w": "entice",
+   "dist": "侧重以好处吸引，较中性"
+  },
+  {
+   "w": "lure",
+   "dist": "强调诱骗引向不利境地，含陷阱意味"
+  }
+ ],
+ "acquisition": [
+  {
+   "w": "purchase",
+   "dist": "特指购买所得，商业色彩强"
+  },
+  {
+   "w": "attainment",
+   "dist": "侧重技能知识的获得，较正式"
+  },
+  {
+   "w": "procurement",
+   "dist": "指采购获取，多用于机构正式语境"
+  }
+ ],
+ "conceive": [
+  {
+   "w": "devise",
+   "dist": "侧重设计筹划方案，不含怀孕义"
+  },
+  {
+   "w": "formulate",
+   "dist": "强调系统明确地表达构想，较正式"
+  },
+  {
+   "w": "imagine",
+   "dist": "泛指想象，语气宽泛不如conceive精确"
+  }
+ ],
+ "perception": [
+  {
+   "w": "view",
+   "dist": "普通用词，指个人看法，较口语"
+  },
+  {
+   "w": "notion",
+   "dist": "指模糊观念想法，未必有依据"
+  },
+  {
+   "w": "impression",
+   "dist": "侧重初步印象，主观且未必准确"
+  }
+ ],
+ "somewhat": [
+  {
+   "w": "slightly",
+   "dist": "程度更轻，多修饰形容词副词"
+  },
+  {
+   "w": "rather",
+   "dist": "程度更强，英式常用，语气更重"
+  },
+  {
+   "w": "fairly",
+   "dist": "指相当、还算，程度略高于somewhat"
+  }
+ ],
+ "thereby": [
+  {
+   "w": "thus",
+   "dist": "更通用，可指因此或如此方式"
+  },
+  {
+   "w": "consequently",
+   "dist": "强调因果结果，较正式"
+  },
+  {
+   "w": "hence",
+   "dist": "正式书面，多接名词或从句表结果"
+  }
+ ],
+ "collision": [
+  {
+   "w": "crash",
+   "dist": "多指车辆相撞，口语化，具体"
+  },
+  {
+   "w": "conflict",
+   "dist": "侧重利益观点冲突，非物理碰撞"
+  },
+  {
+   "w": "clash",
+   "dist": "可指碰撞或冲突，强调尖锐对立"
+  }
+ ],
+ "diapers": [
+  {
+   "w": "nappy",
+   "dist": "英式口语常用，美式多用 diaper。"
+  },
+  {
+   "w": "napkin",
+   "dist": "旧式英式说法，现少用，指婴儿尿布。"
+  }
+ ],
+ "pity": [
+  {
+   "w": "compassion",
+   "dist": "更正式，强调深切同情并愿相助。"
+  },
+  {
+   "w": "sympathy",
+   "dist": "侧重对他人不幸的共感与慰问。"
+  },
+  {
+   "w": "mercy",
+   "dist": "含宽恕、仁慈之意，带权力不对等。"
+  }
+ ],
+ "reproach": [
+  {
+   "w": "blame",
+   "dist": "最通用，强调责任归属；reproach 更带失望。"
+  },
+  {
+   "w": "rebuke",
+   "dist": "较正式，指严厉当面斥责。"
+  },
+  {
+   "w": "scold",
+   "dist": "口语化，多指长辈对晚辈唠叨责骂。"
+  },
+  {
+   "w": "censure",
+   "dist": "正式，多用于公开或官方谴责。"
+  }
+ ],
+ "endeavor": [
+  {
+   "w": "attempt",
+   "dist": "中性，仅指尝试，不含努力程度。"
+  },
+  {
+   "w": "effort",
+   "dist": "侧重付出的力气，常作名词。"
+  },
+  {
+   "w": "strive",
+   "dist": "动词，强调奋力争取，语域较正式。"
+  }
+ ],
+ "disturb": [
+  {
+   "w": "bother",
+   "dist": "口语化，打扰程度较轻。"
+  },
+  {
+   "w": "upset",
+   "dist": "侧重使人心烦意乱，情绪色彩强。"
+  },
+  {
+   "w": "interrupt",
+   "dist": "专指打断言语或进程。"
+  },
+  {
+   "w": "perturb",
+   "dist": "正式，多指使不安，程度较重。"
+  }
+ ],
+ "trumpet": [
+  {
+   "w": "horn",
+   "dist": "泛指各类号角，范围更宽。"
+  },
+  {
+   "w": "bugle",
+   "dist": "军号，音色单一，专用于信号。"
+  },
+  {
+   "w": "cornet",
+   "dist": "短号，有活塞，音色较柔。"
+  }
+ ],
+ "extravagant": [
+  {
+   "w": "lavish",
+   "dist": "褒义偏多，强调慷慨大量花费。"
+  },
+  {
+   "w": "luxurious",
+   "dist": "侧重奢华享受，未必含浪费义。"
+  },
+  {
+   "w": "wasteful",
+   "dist": "贬义，强调浪费无度。"
+  },
+  {
+   "w": "excessive",
+   "dist": "中性，仅指超过适度，不限花钱。"
+  }
+ ],
+ "stadium": [
+  {
+   "w": "arena",
+   "dist": "多指室内场馆或有围栏的竞技场。"
+  },
+  {
+   "w": "ground",
+   "dist": "英式，常指足球等露天球场。"
+  },
+  {
+   "w": "coliseum",
+   "dist": "多用于大型体育场名称，较正式。"
+  }
+ ],
+ "hatch": [
+  {
+   "w": "incubate",
+   "dist": "指人工或自然孵蛋的过程，较专业。"
+  },
+  {
+   "w": "brood",
+   "dist": "指母鸟孵蛋，含伏窝之意。"
+  },
+  {
+   "w": "emerge",
+   "dist": "泛指破壳而出或出现，不限于卵生。"
+  }
+ ],
+ "periodic": [
+  {
+   "w": "regular",
+   "dist": "强调有规律，未必按固定周期。"
+  },
+  {
+   "w": "cyclical",
+   "dist": "强调循环往复，周期感更强。"
+  },
+  {
+   "w": "recurrent",
+   "dist": "指反复发生，间隔不一定规律。"
+  },
+  {
+   "w": "intermittent",
+   "dist": "指间歇性，强调时断时续。"
+  }
+ ],
+ "drastic": [
+  {
+   "w": "extreme",
+   "dist": "程度最重，泛指极端，不限于措施"
+  },
+  {
+   "w": "radical",
+   "dist": "侧重根本性变革，常修饰改革、改变"
+  },
+  {
+   "w": "severe",
+   "dist": "侧重严厉、严峻，多修饰惩罚、天气"
+  }
+ ],
+ "indignant": [
+  {
+   "w": "angry",
+   "dist": "最通用，愤怒程度可轻可重"
+  },
+  {
+   "w": "outraged",
+   "dist": "程度更强，因不公而暴怒"
+  },
+  {
+   "w": "resentful",
+   "dist": "侧重心怀怨恨，持续时间长"
+  }
+ ],
+ "puppet": [
+  {
+   "w": "marionette",
+   "dist": "专指提线木偶，字面义"
+  },
+  {
+   "w": "pawn",
+   "dist": "喻被利用者，侧重棋子般被动"
+  },
+  {
+   "w": "tool",
+   "dist": "喻工具人，强调被当手段使用"
+  }
+ ],
+ "sarcastic": [
+  {
+   "w": "ironic",
+   "dist": "侧重言不由衷的反差，未必伤人"
+  },
+  {
+   "w": "caustic",
+   "dist": "更尖刻，如腐蚀般伤人"
+  },
+  {
+   "w": "mocking",
+   "dist": "侧重嘲弄取笑，语气可轻"
+  }
+ ],
+ "aesthetic": [
+  {
+   "w": "artistic",
+   "dist": "侧重艺术性，不强调审美感受"
+  },
+  {
+   "w": "tasteful",
+   "dist": "侧重有品味、得体，评价意味强"
+  },
+  {
+   "w": "beautiful",
+   "dist": "泛指美，不含审美理论义"
+  }
+ ],
+ "manifest": [
+  {
+   "w": "reveal",
+   "dist": "侧重揭露隐藏之物，及物常用"
+  },
+  {
+   "w": "display",
+   "dist": "侧重展示出来，可主动可无意"
+  },
+  {
+   "w": "evince",
+   "dist": "较正式，侧重流露出某种特质"
+  }
+ ],
+ "native": [
+  {
+   "w": "local",
+   "dist": "侧重当地本土，不强调出生地"
+  },
+  {
+   "w": "indigenous",
+   "dist": "正式，指原生于某地的动植物或族群"
+  },
+  {
+   "w": "domestic",
+   "dist": "侧重本国的，与国外相对"
+  }
+ ],
+ "church": [
+  {
+   "w": "chapel",
+   "dist": "指小教堂或附属礼拜堂"
+  },
+  {
+   "w": "cathedral",
+   "dist": "指主教座堂，规模等级更高"
+  },
+  {
+   "w": "temple",
+   "dist": "泛指庙宇，多非基督教"
+  }
+ ],
+ "flour": [
+  {
+   "w": "powder",
+   "dist": "泛指粉末，不特指面粉"
+  },
+  {
+   "w": "meal",
+   "dist": "指粗磨的谷物粉，颗粒较粗"
+  },
+  {
+   "w": "dust",
+   "dist": "指细尘或撒粉，非食用"
+  }
+ ],
+ "intimidate": [
+  {
+   "w": "threaten",
+   "dist": "最通用，以伤害相威胁"
+  },
+  {
+   "w": "frighten",
+   "dist": "侧重使人害怕，未必有意图"
+  },
+  {
+   "w": "bully",
+   "dist": "侧重恃强凌弱、反复欺压"
+  }
+ ],
+ "rip": [
+  {
+   "w": "tear",
+   "dist": "最通用，可指有意或无意撕开；rip 更强调猛力扯裂"
+  },
+  {
+   "w": "shred",
+   "dist": "撕成细条碎片，程度比 rip 更彻底"
+  },
+  {
+   "w": "split",
+   "dist": "沿缝裂开，多用于布料木材；rip 更强调用力"
+  }
+ ],
+ "aggravate": [
+  {
+   "w": "worsen",
+   "dist": "最中性通用，指使变坏；aggravate 更强调病情或局势加重"
+  },
+  {
+   "w": "intensify",
+   "dist": "使强度加剧，多用于感觉、程度；aggravate 偏负面恶化"
+  },
+  {
+   "w": "exacerbate",
+   "dist": "书面语，指使问题、病情恶化；aggravate 更口语常用"
+  }
+ ],
+ "shallow": [
+  {
+   "w": "superficial",
+   "dist": "侧重肤浅、表面化，多形容人、分析；shallow 还可指物理深度"
+  },
+  {
+   "w": "flat",
+   "dist": "指呼吸微弱平淡；shallow 更常指水浅或人肤浅"
+  }
+ ],
+ "gloomy": [
+  {
+   "w": "dark",
+   "dist": "最通用，指光线暗；gloomy 还带阴郁、令人沮丧的情绪色彩"
+  },
+  {
+   "w": "dreary",
+   "dist": "强调沉闷乏味、令人压抑；gloomy 更侧重阴暗或悲观"
+  },
+  {
+   "w": "dismal",
+   "dist": "指阴郁凄惨、前景黯淡；gloomy 语域稍轻，也可形容表情"
+  },
+  {
+   "w": "somber",
+   "dist": "书面语，指昏暗肃穆；gloomy 更口语，可指心情悲观"
+  }
+ ],
+ "oval": [
+  {
+   "w": "elliptical",
+   "dist": "严格椭圆，数学语境；oval 更口语、偏蛋形"
+  },
+  {
+   "w": "oblong",
+   "dist": "长椭圆形，比 oval 更狭长"
+  }
+ ],
+ "appetite": [
+  {
+   "w": "hunger",
+   "dist": "指饥饿感、对食物的需求；appetite 更强调进食的欲望"
+  },
+  {
+   "w": "craving",
+   "dist": "指强烈渴望，多用于特定食物或事物；appetite 更泛指食欲"
+  },
+  {
+   "w": "relish",
+   "dist": "指对食物的喜好、津津有味；appetite 更中性指食欲本身"
+  }
+ ],
+ "stereo": [
+  {
+   "w": "stereophonic",
+   "dist": "技术术语，指立体声的；stereo 是其口语缩略常用形式"
+  },
+  {
+   "w": "binaural",
+   "dist": "指双耳听觉、双声道；stereo 更常指音响设备或立体声效果"
+  }
+ ],
+ "litter": [
+  {
+   "w": "rubbish",
+   "dist": "英式常用，泛指垃圾废物；litter 特指乱扔在公共场所的杂物"
+  },
+  {
+   "w": "trash",
+   "dist": "美式常用，指废弃物；litter 更强调散落、乱丢的垃圾"
+  },
+  {
+   "w": "debris",
+   "dist": "书面语，指残骸碎片、散落物；litter 多指人为乱扔的垃圾"
+  },
+  {
+   "w": "waste",
+   "dist": "泛指废弃物、废料；litter 更侧重随地散落的脏乱物"
+  }
+ ],
+ "swear": [
+  {
+   "w": "vow",
+   "dist": "郑重发誓，多用于婚誓、承诺；swear 更通用，也可指咒骂"
+  },
+  {
+   "w": "pledge",
+   "dist": "正式承诺、保证，偏书面；swear 可指宣誓，也可指说脏话"
+  },
+  {
+   "w": "curse",
+   "dist": "指咒骂、说脏话；swear 还有发誓、宣誓之义"
+  },
+  {
+   "w": "affirm",
+   "dist": "正式肯定、声明，语域正式；swear 更口语，含赌咒意味"
+  }
+ ],
+ "salute": [
+  {
+   "w": "greet",
+   "dist": "泛指打招呼、迎接；salute 更正式，特指敬礼或致意"
+  },
+  {
+   "w": "hail",
+   "dist": "指欢呼致意、招呼；salute 更强调按礼节行礼致敬"
+  },
+  {
+   "w": "honor",
+   "dist": "指给予荣誉、敬意；salute 更具体，指敬礼或公开致意"
+  }
+ ],
+ "slab": [
+  {
+   "w": "block",
+   "dist": "block泛指大块，slab特指扁平厚板"
+  },
+  {
+   "w": "plate",
+   "dist": "plate指薄板或金属板，slab更厚更粗糙"
+  },
+  {
+   "w": "sheet",
+   "dist": "sheet指薄片，slab强调厚重"
+  },
+  {
+   "w": "table",
+   "dist": "table指手术台或平台，slab更口语"
+  }
+ ],
+ "rejuvenate": [
+  {
+   "w": "refresh",
+   "dist": "refresh侧重恢复精神，rejuvenate强调变年轻"
+  },
+  {
+   "w": "revive",
+   "dist": "revive指复苏，rejuvenate侧重焕发青春"
+  },
+  {
+   "w": "restore",
+   "dist": "restore指恢复原状，rejuvenate强调活力更新"
+  },
+  {
+   "w": "renew",
+   "dist": "renew指更新，rejuvenate更强调年轻化"
+  }
+ ],
+ "labor": [
+  {
+   "w": "work",
+   "dist": "work最通用，labor强调体力辛劳"
+  },
+  {
+   "w": "toil",
+   "dist": "toil指艰苦劳作，labor语域更中性"
+  },
+  {
+   "w": "effort",
+   "dist": "effort指努力，labor指具体劳动"
+  },
+  {
+   "w": "workforce",
+   "dist": "workforce指劳动力群体，labor可指劳力"
+  }
+ ],
+ "aeroplane": [
+  {
+   "w": "airplane",
+   "dist": "airplane是美式拼法，aeroplane为英式"
+  },
+  {
+   "w": "aircraft",
+   "dist": "aircraft泛指航空器，aeroplane特指飞机"
+  },
+  {
+   "w": "plane",
+   "dist": "plane是aeroplane的口语简称"
+  }
+ ],
+ "inevitable": [
+  {
+   "w": "unavoidable",
+   "dist": "unavoidable最直接，inevitable更强调必然性"
+  },
+  {
+   "w": "certain",
+   "dist": "certain指确定，inevitable强调无法避免"
+  },
+  {
+   "w": "inescapable",
+   "dist": "inescapable强调无法逃脱，语域稍正式"
+  },
+  {
+   "w": "destined",
+   "dist": "destined指命中注定，inevitable更客观"
+  }
+ ],
+ "reclaim": [
+  {
+   "w": "recover",
+   "dist": "recover指找回失物，reclaim强调取回所有权"
+  },
+  {
+   "w": "retrieve",
+   "dist": "retrieve指取回，reclaim更正式"
+  },
+  {
+   "w": "cultivate",
+   "dist": "cultivate指耕作，reclaim指开垦荒地"
+  },
+  {
+   "w": "regain",
+   "dist": "regain指重新获得，reclaim强调收回"
+  }
+ ],
+ "dissipate": [
+  {
+   "w": "disperse",
+   "dist": "disperse指分散，dissipate强调消散殆尽"
+  },
+  {
+   "w": "scatter",
+   "dist": "scatter指散开，dissipate更强调逐渐消失"
+  },
+  {
+   "w": "vanish",
+   "dist": "vanish指消失，dissipate强调驱散过程"
+  },
+  {
+   "w": "waste",
+   "dist": "waste指浪费，dissipate偏书面"
+  }
+ ],
+ "verbal": [
+  {
+   "w": "oral",
+   "dist": "oral指口头的，verbal还可指词语的"
+  },
+  {
+   "w": "spoken",
+   "dist": "spoken指口语的，verbal更正式"
+  },
+  {
+   "w": "unwritten",
+   "dist": "unwritten指不成文的，verbal强调口头"
+  }
+ ],
+ "junction": [
+  {
+   "w": "crossing",
+   "dist": "crossing指交叉口，junction指道路会合处"
+  },
+  {
+   "w": "intersection",
+   "dist": "intersection指十字路口，junction更泛指会合"
+  },
+  {
+   "w": "joint",
+   "dist": "joint指接合处，junction多指交通会合"
+  },
+  {
+   "w": "confluence",
+   "dist": "confluence指河流汇合，junction更通用"
+  }
+ ],
+ "shrug": [
+  {
+   "w": "gesture",
+   "dist": "gesture泛指手势，shrug特指耸肩"
+  },
+  {
+   "w": "twitch",
+   "dist": "twitch指抽动，shrug指耸肩动作"
+  }
+ ],
+ "thread": [
+  {
+   "w": "strand",
+   "dist": "strand指线的一股，thread泛指细线，也喻思路脉络"
+  },
+  {
+   "w": "fiber",
+   "dist": "fiber强调纤维材质，thread侧重细长线状物"
+  },
+  {
+   "w": "line",
+   "dist": "line泛指线条或路线，thread更具体指细线或叙事线索"
+  }
+ ],
+ "stoop": [
+  {
+   "w": "bend",
+   "dist": "bend泛指弯曲，stoop特指弯腰低头或屈尊"
+  },
+  {
+   "w": "crouch",
+   "dist": "crouch指蹲伏，stoop侧重上身前倾弯腰"
+  },
+  {
+   "w": "condescend",
+   "dist": "condescend指屈尊，含贬义；stoop中性或带自贬"
+  }
+ ],
+ "gasp": [
+  {
+   "w": "pant",
+   "dist": "pant指急促喘气，gasp多因惊讶或窒息而猛吸气"
+  },
+  {
+   "w": "wheeze",
+   "dist": "wheeze指带声响的喘息，gasp强调突然吸气"
+  },
+  {
+   "w": "puff",
+   "dist": "puff指短促喷气，gasp更强调喘不上气的状态"
+  }
+ ],
+ "cordial": [
+  {
+   "w": "friendly",
+   "dist": "friendly通用友好，cordial更正式且热情真挚"
+  },
+  {
+   "w": "warm",
+   "dist": "warm指温暖亲切，cordial偏正式场合的热情"
+  },
+  {
+   "w": "hearty",
+   "dist": "hearty指爽朗热诚，cordial更文雅克制"
+  }
+ ],
+ "slave": [
+  {
+   "w": "servant",
+   "dist": "servant指仆人，slave强调被奴役无自由"
+  },
+  {
+   "w": "serf",
+   "dist": "serf指农奴，依附土地；slave是财产性奴隶"
+  },
+  {
+   "w": "drudge",
+   "dist": "drudge指做苦工者，slave侧重身份而非劳累"
+  }
+ ],
+ "stir": [
+  {
+   "w": "mix",
+   "dist": "mix指混合，stir强调用工具搅动"
+  },
+  {
+   "w": "agitate",
+   "dist": "agitate指搅动液体，较正式；stir更日常"
+  },
+  {
+   "w": "arouse",
+   "dist": "arouse指激起情感，stir可指激发兴趣或搅动"
+  }
+ ],
+ "inventory": [
+  {
+   "w": "stock",
+   "dist": "stock指存货，inventory侧重清单或盘点"
+  },
+  {
+   "w": "list",
+   "dist": "list泛指清单，inventory特指存货或详细目录"
+  },
+  {
+   "w": "catalog",
+   "dist": "catalog指分类目录，inventory强调现存物品清点"
+  }
+ ],
+ "narcissistic": [
+  {
+   "w": "selfish",
+   "dist": "selfish指自私，narcissistic特指自我迷恋"
+  },
+  {
+   "w": "vain",
+   "dist": "vain指虚荣自负，narcissistic更强调自恋人格"
+  },
+  {
+   "w": "egotistic",
+   "dist": "egotistic指自我中心，narcissistic偏心理学自恋"
+  }
+ ],
+ "prestigious": [
+  {
+   "w": "renowned",
+   "dist": "renowned指著名，prestigious强调有声望受尊敬"
+  },
+  {
+   "w": "esteemed",
+   "dist": "esteemed指受敬重，prestigious更强调地位显赫"
+  },
+  {
+   "w": "distinguished",
+   "dist": "distinguished指卓越杰出，prestigious侧重名望"
+  }
+ ],
+ "vacuum": [
+  {
+   "w": "void",
+   "dist": "void指空无一物，vacuum特指真空或空虚感"
+  },
+  {
+   "w": "emptiness",
+   "dist": "emptiness指空虚状态，vacuum更具体指真空"
+  },
+  {
+   "w": "gap",
+   "dist": "gap指空隙缺口，vacuum强调完全无物的空间"
+  }
+ ],
+ "reckless": [
+  {
+   "w": "rash",
+   "dist": "rash 侧重仓促欠考虑，reckless 更强调不顾后果"
+  },
+  {
+   "w": "careless",
+   "dist": "careless 指粗心疏忽，reckless 含明知危险仍为之"
+  },
+  {
+   "w": "heedless",
+   "dist": "heedless 强调不注意警告，语域偏书面"
+  }
+ ],
+ "hemisphere": [
+  {
+   "w": "half",
+   "dist": "half 泛指一半，hemisphere 专指球体的一半"
+  },
+  {
+   "w": "section",
+   "dist": "section 指部分区域，hemisphere 强调球形对分"
+  }
+ ],
+ "directory": [
+  {
+   "w": "catalog",
+   "dist": "catalog 侧重分类清单，directory 多指名录、通讯录"
+  },
+  {
+   "w": "index",
+   "dist": "index 指索引，directory 指可查阅的目录簿"
+  },
+  {
+   "w": "listing",
+   "dist": "listing 指条目列表，directory 强调整本名录"
+  }
+ ],
+ "census": [
+  {
+   "w": "survey",
+   "dist": "survey 泛指调查，census 专指官方人口统计"
+  },
+  {
+   "w": "count",
+   "dist": "count 指计数，census 指系统性人口普查"
+  },
+  {
+   "w": "enumeration",
+   "dist": "enumeration 指逐一列举统计，语域较正式"
+  }
+ ],
+ "thrive": [
+  {
+   "w": "flourish",
+   "dist": "flourish 侧重繁盛显眼，thrive 强调生长良好"
+  },
+  {
+   "w": "prosper",
+   "dist": "prosper 多指经济兴旺，thrive 可用于生物成长"
+  },
+  {
+   "w": "boom",
+   "dist": "boom 指迅速繁荣，thrive 更持久稳定"
+  }
+ ],
+ "culminate": [
+  {
+   "w": "climax",
+   "dist": "climax 指达到顶点，culminate 强调以某结果告终"
+  },
+  {
+   "w": "conclude",
+   "dist": "conclude 泛指结束，culminate 含逐步发展至高潮"
+  },
+  {
+   "w": "peak",
+   "dist": "peak 指达到最高点，culminate 侧重最终收束"
+  }
+ ],
+ "booth": [
+  {
+   "w": "stall",
+   "dist": "stall 指摊位，booth 可指隔间或亭子"
+  },
+  {
+   "w": "cubicle",
+   "dist": "cubicle 指办公小隔间，booth 更通用"
+  },
+  {
+   "w": "kiosk",
+   "dist": "kiosk 指售货亭，booth 还可指电话亭、投票间"
+  }
+ ],
+ "cherish": [
+  {
+   "w": "treasure",
+   "dist": "treasure 强调视若珍宝，cherish 含珍爱怀有之情"
+  },
+  {
+   "w": "value",
+   "dist": "value 侧重看重价值，cherish 更带感情色彩"
+  },
+  {
+   "w": "adore",
+   "dist": "adore 指喜爱崇拜，cherish 强调珍惜呵护"
+  }
+ ],
+ "halt": [
+  {
+   "w": "stop",
+   "dist": "stop 最通用，halt 多指行进中突然停止"
+  },
+  {
+   "w": "cease",
+   "dist": "cease 语域正式，halt 强调中止运动"
+  },
+  {
+   "w": "pause",
+   "dist": "pause 指暂时停顿，halt 指完全停下"
+  }
+ ],
+ "tentative": [
+  {
+   "w": "hesitant",
+   "dist": "hesitant 指犹豫，tentative 指试探性、暂定的"
+  },
+  {
+   "w": "provisional",
+   "dist": "provisional 指临时暂定，tentative 含不确定试探"
+  },
+  {
+   "w": "unsure",
+   "dist": "unsure 指没把握，tentative 侧重行动试探性"
+  }
+ ],
+ "appraisal": [
+  {
+   "w": "assessment",
+   "dist": "最通用，强调对价值或状况的评估"
+  },
+  {
+   "w": "evaluation",
+   "dist": "侧重系统评判优劣，学术语域更强"
+  },
+  {
+   "w": "judgment",
+   "dist": "强调下判断，主观色彩较浓"
+  }
+ ],
+ "exotic": [
+  {
+   "w": "foreign",
+   "dist": "仅指外国的，无奇异情调含义"
+  },
+  {
+   "w": "alien",
+   "dist": "强调陌生异质，语域偏正式"
+  },
+  {
+   "w": "unusual",
+   "dist": "泛指不寻常，不含异国意味"
+  }
+ ],
+ "wheat": [
+  {
+   "w": "grain",
+   "dist": "泛指谷物，范围比小麦大"
+  },
+  {
+   "w": "cereal",
+   "dist": "指谷类作物或早餐麦片，更宽泛"
+  }
+ ],
+ "earnest": [
+  {
+   "w": "seriousness",
+   "dist": "泛指严肃认真，语气较中性"
+  },
+  {
+   "w": "sincerity",
+   "dist": "侧重真诚不虚假，非严肃态度"
+  },
+  {
+   "w": "gravity",
+   "dist": "指事态或态度的庄重，语域正式"
+  }
+ ],
+ "advent": [
+  {
+   "w": "arrival",
+   "dist": "最通用，指人或事物到来"
+  },
+  {
+   "w": "emergence",
+   "dist": "强调从无到有的显现，较抽象"
+  },
+  {
+   "w": "onset",
+   "dist": "多指不愉快事物的开始，搭配窄"
+  }
+ ],
+ "eloquent": [
+  {
+   "w": "articulate",
+   "dist": "指表达清晰流畅，未必有感染力"
+  },
+  {
+   "w": "fluent",
+   "dist": "强调流利，不突出说服力"
+  },
+  {
+   "w": "persuasive",
+   "dist": "侧重有说服力，雄辩意味较弱"
+  }
+ ],
+ "formidable": [
+  {
+   "w": "daunting",
+   "dist": "强调令人却步，多修饰任务"
+  },
+  {
+   "w": "intimidating",
+   "dist": "侧重使人胆怯，多指人或气势"
+  },
+  {
+   "w": "fearsome",
+   "dist": "强调可怕，语域偏文学"
+  }
+ ],
+ "blur": [
+  {
+   "w": "smudge",
+   "dist": "指污渍或涂抹痕迹，非视觉模糊"
+  },
+  {
+   "w": "haze",
+   "dist": "指雾状朦胧，多用于空气或景象"
+  },
+  {
+   "w": "obscure",
+   "dist": "作动词指使模糊难辨，较正式"
+  }
+ ],
+ "gastronomic": [
+  {
+   "w": "culinary",
+   "dist": "指烹饪的，最常用且语域中性"
+  },
+  {
+   "w": "epicurean",
+   "dist": "强调享乐美食，带鉴赏意味"
+  }
+ ],
+ "clasp": [
+  {
+   "w": "grip",
+   "dist": "grip 泛指紧握，clasp 更强调双手合拢扣住。"
+  },
+  {
+   "w": "clutch",
+   "dist": "clutch 带急切抓取感，clasp 较平稳，多指扣合。"
+  },
+  {
+   "w": "fasten",
+   "dist": "fasten 指把东西固定住，clasp 侧重搭扣扣紧。"
+  },
+  {
+   "w": "buckle",
+   "dist": "buckle 专指用带扣扣住，clasp 泛指扣合或紧握。"
+  }
+ ],
+ "seminar": [
+  {
+   "w": "workshop",
+   "dist": "workshop 重实践操作，seminar 重讨论交流。"
+  },
+  {
+   "w": "symposium",
+   "dist": "symposium 偏正式学术会议，seminar 规模较小。"
+  },
+  {
+   "w": "conference",
+   "dist": "conference 指大型会议，seminar 为小型研讨。"
+  }
+ ],
+ "arbitrary": [
+  {
+   "w": "random",
+   "dist": "random 强调无规律随机，arbitrary 强调凭主观随意。"
+  },
+  {
+   "w": "capricious",
+   "dist": "capricious 指性情多变任性，arbitrary 偏决定无依据。"
+  },
+  {
+   "w": "dictatorial",
+   "dist": "dictatorial 指专断强横，arbitrary 侧重缺乏合理依据。"
+  }
+ ],
+ "sovereign": [
+  {
+   "w": "supreme",
+   "dist": "supreme 指地位最高，sovereign 强调拥有最高主权。"
+  },
+  {
+   "w": "monarch",
+   "dist": "monarch 指君主本人，sovereign 可指君主或主权者。"
+  },
+  {
+   "w": "ruler",
+   "dist": "ruler 泛指统治者，sovereign 更正式，含主权意味。"
+  }
+ ],
+ "triumph": [
+  {
+   "w": "victory",
+   "dist": "victory 泛指战胜，triumph 强调辉煌、决定性的胜利。"
+  },
+  {
+   "w": "success",
+   "dist": "success 泛指成功，triumph 语气更强，指重大成就。"
+  },
+  {
+   "w": "conquest",
+   "dist": "conquest 指征服所得，triumph 侧重胜利的荣耀。"
+  }
+ ],
+ "fuss": [
+  {
+   "w": "commotion",
+   "dist": "commotion 指骚动混乱，fuss 指因小事大惊小怪。"
+  },
+  {
+   "w": "ado",
+   "dist": "ado 指忙乱折腾，fuss 更强调无谓的紧张吵闹。"
+  },
+  {
+   "w": "bother",
+   "dist": "bother 指麻烦烦扰，fuss 侧重小题大做的喧闹。"
+  }
+ ],
+ "flame": [
+  {
+   "w": "fire",
+   "dist": "fire 泛指火，flame 指燃烧的火焰本身。"
+  },
+  {
+   "w": "blaze",
+   "dist": "blaze 指熊熊大火，flame 可指单束火苗。"
+  },
+  {
+   "w": "flare",
+   "dist": "flare 指突然闪耀的火光，flame 为持续燃烧的焰。"
+  }
+ ],
+ "mill": [
+  {
+   "w": "factory",
+   "dist": "factory 泛指工厂，mill 多指磨坊或加工厂。"
+  },
+  {
+   "w": "plant",
+   "dist": "plant 指工业厂区，mill 偏传统碾磨或纺织厂。"
+  },
+  {
+   "w": "grinder",
+   "dist": "grinder 指研磨器械，mill 可指磨坊或碾磨机。"
+  }
+ ],
+ "refugee": [
+  {
+   "w": "exile",
+   "dist": "exile 指被迫流亡者，refugee 强调为避难而逃。"
+  },
+  {
+   "w": "migrant",
+   "dist": "migrant 指迁移者，未必因迫害，refugee 含避难义。"
+  },
+  {
+   "w": "displaced",
+   "dist": "displaced 指被迫离乡者，refugee 特指跨境避难者。"
+  }
+ ],
+ "mayor": [
+  {
+   "w": "governor",
+   "dist": "governor 指州长或总督，mayor 专指市长。"
+  },
+  {
+   "w": "prefect",
+   "dist": "prefect 指行政长官，mayor 为市民选举的市长。"
+  }
+ ],
+ "sigh": [
+  {
+   "w": "groan",
+   "dist": "groan 多指因痛苦或不满发出低沉呻吟，sigh 侧重无奈或放松的叹气。"
+  },
+  {
+   "w": "moan",
+   "dist": "moan 强调哀怨低吟，sigh 更轻、更短，常表感慨。"
+  },
+  {
+   "w": "exhale",
+   "dist": "exhale 仅指呼气，中性；sigh 带情绪色彩的叹气。"
+  }
+ ],
+ "bullet": [
+  {
+   "w": "slug",
+   "dist": "slug 指子弹弹头，口语化；bullet 泛指整发枪弹。"
+  },
+  {
+   "w": "round",
+   "dist": "round 指一发弹药，军事用语；bullet 更常用、更具体。"
+  },
+  {
+   "w": "shot",
+   "dist": "shot 可指弹丸或射击，范围宽；bullet 专指子弹。"
+  }
+ ],
+ "chimney": [
+  {
+   "w": "flue",
+   "dist": "flue 指烟道管道，技术用语；chimney 指整体烟囱结构。"
+  },
+  {
+   "w": "stack",
+   "dist": "stack 指工业高烟囱，语域偏专业；chimney 更通用。"
+  },
+  {
+   "w": "vent",
+   "dist": "vent 泛指通风口，范围广；chimney 专指排烟通道。"
+  }
+ ],
+ "collar": [
+  {
+   "w": "neckband",
+   "dist": "neckband 指衣领的带状部分，较具体；collar 更常用泛指。"
+  },
+  {
+   "w": "ruff",
+   "dist": "ruff 指历史式皱领，特指；collar 为现代通用领子。"
+  },
+  {
+   "w": "lapel",
+   "dist": "lapel 指西装翻领，部位不同；collar 指整圈衣领。"
+  }
+ ],
+ "thrust": [
+  {
+   "w": "push",
+   "dist": "push 泛指推，力度中性；thrust 强调猛力插入或推进。"
+  },
+  {
+   "w": "shove",
+   "dist": "shove 指粗暴推挤，口语；thrust 可含刺入之意。"
+  },
+  {
+   "w": "stab",
+   "dist": "stab 专指用利器刺，thrust 范围更广，含猛推。"
+  },
+  {
+   "w": "drive",
+   "dist": "drive 指用力驱动推进，较抽象；thrust 更具体有力。"
+  }
+ ],
+ "couch": [
+  {
+   "w": "sofa",
+   "dist": "sofa 最通用，指沙发；couch 偏美式，常指可躺长沙发。"
+  },
+  {
+   "w": "settee",
+   "dist": "settee 指较小双人沙发，英式；couch 更大更宽。"
+  },
+  {
+   "w": "divan",
+   "dist": "divan 指无靠背长榻，风格特定；couch 更日常。"
+  }
+ ],
+ "dispatch": [
+  {
+   "w": "send",
+   "dist": "send 最通用；dispatch 强调迅速、正式地发送或派遣。"
+  },
+  {
+   "w": "ship",
+   "dist": "ship 指运输货物，商业用语；dispatch 侧重发出动作。"
+  },
+  {
+   "w": "forward",
+   "dist": "forward 指转寄转发；dispatch 指直接发出或派出。"
+  },
+  {
+   "w": "expedite",
+   "dist": "expedite 指加快处理，侧重速度；dispatch 侧重发送本身。"
+  }
+ ],
+ "laundry": [
+  {
+   "w": "launderette",
+   "dist": "英式说法，自助洗衣店"
+  },
+  {
+   "w": "laundromat",
+   "dist": "美式说法，自助洗衣店"
+  }
+ ],
+ "manipulate": [
+  {
+   "w": "control",
+   "dist": "control 泛指控制，中性；manipulate 含暗中操纵、不正当意味。"
+  },
+  {
+   "w": "handle",
+   "dist": "handle 指操作使用，中性；manipulate 常带技巧性或贬义。"
+  },
+  {
+   "w": "influence",
+   "dist": "influence 指影响，未必操控；manipulate 强调有意摆布。"
+  },
+  {
+   "w": "exploit",
+   "dist": "exploit 指利用剥削，贬义强；manipulate 侧重操控手段。"
+  }
+ ],
+ "nuance": [
+  {
+   "w": "subtlety",
+   "dist": "subtlety 指微妙之处，较抽象；nuance 指具体细微差别。"
+  },
+  {
+   "w": "shade",
+   "dist": "shade 指色彩或意见的细微差异，文学化；nuance 更通用。"
+  },
+  {
+   "w": "distinction",
+   "dist": "distinction 指区别，较明显；nuance 强调极细微差别。"
+  }
+ ],
+ "murder": [
+  {
+   "w": "kill",
+   "dist": "kill最泛，murder特指蓄意非法杀人"
+  },
+  {
+   "w": "slay",
+   "dist": "slay书面/文学色彩强，murder为法律常用词"
+  },
+  {
+   "w": "assassinate",
+   "dist": "assassinate专指刺杀要人，murder对象不限"
+  }
+ ],
+ "plough": [
+  {
+   "w": "till",
+   "dist": "till泛指耕地，plough特指用犁翻土"
+  },
+  {
+   "w": "cultivate",
+   "dist": "cultivate侧重耕作培育，plough强调翻土动作"
+  },
+  {
+   "w": "furrow",
+   "dist": "furrow指开沟犁地，plough范围更广"
+  }
+ ],
+ "alliance": [
+  {
+   "w": "league",
+   "dist": "league多指同盟组织，alliance侧重结盟关系"
+  },
+  {
+   "w": "coalition",
+   "dist": "coalition常指临时联合政府，alliance更持久"
+  },
+  {
+   "w": "pact",
+   "dist": "pact指具体协定，alliance强调结盟状态"
+  },
+  {
+   "w": "union",
+   "dist": "union侧重合并为一体，alliance保留各方独立"
+  }
+ ],
+ "curb": [
+  {
+   "w": "restrain",
+   "dist": "restrain侧重抑制冲动，curb强调加以控制"
+  },
+  {
+   "w": "check",
+   "dist": "check指突然制止，curb为持续限制"
+  },
+  {
+   "w": "limit",
+   "dist": "limit泛指限定范围，curb含压制意味"
+  },
+  {
+   "w": "control",
+   "dist": "control最泛，curb特指遏制不良势头"
+  }
+ ],
+ "ceiling": [
+  {
+   "w": "cap",
+   "dist": "cap指上限额度，ceiling更正式且可指天花板"
+  },
+  {
+   "w": "limit",
+   "dist": "limit泛指界限，ceiling强调最高限额"
+  },
+  {
+   "w": "maximum",
+   "dist": "maximum指最大值，ceiling为规定上限"
+  }
+ ],
+ "recipe": [
+  {
+   "w": "formula",
+   "dist": "formula指配方公式，recipe侧重烹饪步骤"
+  },
+  {
+   "w": "method",
+   "dist": "method泛指方法，recipe特指食谱或诀窍"
+  }
+ ],
+ "brute": [
+  {
+   "w": "beast",
+   "dist": "beast指野兽，brute更强调粗暴残忍"
+  },
+  {
+   "w": "animal",
+   "dist": "animal中性泛指动物，brute含贬义"
+  },
+  {
+   "w": "savage",
+   "dist": "savage指野蛮人，brute侧重兽性粗野"
+  }
+ ],
+ "hare": [
+  {
+   "w": "rabbit",
+   "dist": "rabbit为家兔，hare是野兔且耳长腿长"
+  },
+  {
+   "w": "bunny",
+   "dist": "bunny口语指小兔，hare为正式野兔"
+  }
+ ],
+ "shutter": [
+  {
+   "w": "blind",
+   "dist": "blind指窗帘遮光帘，shutter为硬质百叶窗"
+  },
+  {
+   "w": "screen",
+   "dist": "screen指纱窗屏风，shutter为可开合窗板"
+  }
+ ],
+ "vein": [
+  {
+   "w": "vessel",
+   "dist": "vessel泛指血管管道，vein特指静脉"
+  },
+  {
+   "w": "lode",
+   "dist": "lode专指矿脉，vein还可指血管"
+  },
+  {
+   "w": "seam",
+   "dist": "seam指煤层矿层，vein侧重脉状矿体"
+  }
+ ],
+ "tangle": [
+  {
+   "w": "snarl",
+   "dist": "强调缠成死结、难解开，比tangle更乱"
+  },
+  {
+   "w": "entangle",
+   "dist": "多用于被动，指被卷入或缠住，语域稍正式"
+  },
+  {
+   "w": "knot",
+   "dist": "指打结、绞紧，侧重形成结而非乱团"
+  }
+ ],
+ "subscribe": [
+  {
+   "w": "order",
+   "dist": "泛指订购货物，subscribe多指订阅报刊或服务"
+  },
+  {
+   "w": "purchase",
+   "dist": "仅指购买，不含长期订阅之意"
+  }
+ ],
+ "grief": [
+  {
+   "w": "sorrow",
+   "dist": "较正式，指持久深沉的哀伤"
+  },
+  {
+   "w": "sadness",
+   "dist": "普通用词，程度轻，不限于丧亲之痛"
+  },
+  {
+   "w": "mourning",
+   "dist": "指服丧期的哀悼，含仪式与时间色彩"
+  }
+ ],
+ "roughly": [
+  {
+   "w": "approximately",
+   "dist": "较正式，强调数值接近，roughly更口语"
+  },
+  {
+   "w": "about",
+   "dist": "最口语，常直接修饰数字"
+  },
+  {
+   "w": "nearly",
+   "dist": "指接近但未达到，roughly不含此倾向"
+  }
+ ],
+ "tame": [
+  {
+   "w": "domesticated",
+   "dist": "指长期驯养的家养状态，比tame更学术"
+  },
+  {
+   "w": "docile",
+   "dist": "强调顺从易管，多形容人或动物性情"
+  },
+  {
+   "w": "subdue",
+   "dist": "动词，指制服、压服，语气比tame强"
+  }
+ ],
+ "throne": [
+  {
+   "w": "crown",
+   "dist": "借王冠代指王权，throne更指宝座本身"
+  },
+  {
+   "w": "seat",
+   "dist": "泛指座位，用于王座时需上下文限定"
+  }
+ ],
+ "tactics": [
+  {
+   "w": "strategy",
+   "dist": "指全局战略，tactics指具体短期手段"
+  },
+  {
+   "w": "methods",
+   "dist": "泛指方法，不含对抗博弈意味"
+  }
+ ],
+ "poll": [
+  {
+   "w": "survey",
+   "dist": "泛指调查，poll特指民意或投票调查"
+  },
+  {
+   "w": "ballot",
+   "dist": "指投票本身或选票，不指测验结果"
+  }
+ ],
+ "jewel": [
+  {
+   "w": "gem",
+   "dist": "指经切割的宝石，比jewel更专业"
+  },
+  {
+   "w": "stone",
+   "dist": "口语指宝石，需语境，范围更宽"
+  },
+  {
+   "w": "ornament",
+   "dist": "泛指装饰品，不限于宝石"
+  }
+ ],
+ "erosion": [
+  {
+   "w": "corrosion",
+   "dist": "多指化学腐蚀，erosion侧重物理磨蚀"
+  },
+  {
+   "w": "wear",
+   "dist": "泛指磨损，较口语，erosion更地质化"
+  },
+  {
+   "w": "weathering",
+   "dist": "指风化作用，强调气候因素"
+  }
+ ],
+ "majesty": [
+  {
+   "w": "grandeur",
+   "dist": "侧重宏伟壮丽，多形容景色建筑"
+  },
+  {
+   "w": "splendor",
+   "dist": "强调辉煌华丽，常指场面装饰"
+  },
+  {
+   "w": "dignity",
+   "dist": "指庄重威严，多形容仪态气度"
+  }
+ ],
+ "fountain": [
+  {
+   "w": "spring",
+   "dist": "指天然泉眼，fountain多人工喷泉"
+  },
+  {
+   "w": "source",
+   "dist": "抽象指来源根源，fountain更具体"
+  },
+  {
+   "w": "origin",
+   "dist": "指起源起点，语域更正式抽象"
+  }
+ ],
+ "escort": [
+  {
+   "w": "accompany",
+   "dist": "普通陪同，无护卫押送之意"
+  },
+  {
+   "w": "guard",
+   "dist": "侧重警戒保护，escort重护送"
+  },
+  {
+   "w": "convoy",
+   "dist": "指车队船队护航，规模较大"
+  }
+ ],
+ "rotate": [
+  {
+   "w": "spin",
+   "dist": "快速旋转，口语化，常指自转"
+  },
+  {
+   "w": "revolve",
+   "dist": "绕外部中心公转，较正式"
+  },
+  {
+   "w": "turn",
+   "dist": "最通用，泛指转动，不强调循环"
+  }
+ ],
+ "swell": [
+  {
+   "w": "inflate",
+   "dist": "充气使膨胀，多人为动作"
+  },
+  {
+   "w": "expand",
+   "dist": "体积扩大，范围更广更正式"
+  },
+  {
+   "w": "bulge",
+   "dist": "向外凸起鼓出，强调局部"
+  }
+ ],
+ "conspicuous": [
+  {
+   "w": "noticeable",
+   "dist": "易察觉的，语气比conspicuous弱"
+  },
+  {
+   "w": "prominent",
+   "dist": "突出显赫，常指地位或位置"
+  },
+  {
+   "w": "obvious",
+   "dist": "明显无疑，强调一目了然"
+  }
+ ],
+ "shear": [
+  {
+   "w": "clip",
+   "dist": "剪短修剪，可指毛发指甲"
+  },
+  {
+   "w": "trim",
+   "dist": "修剪整齐，强调修整美观"
+  },
+  {
+   "w": "crop",
+   "dist": "剪短，多指头发或动物毛"
+  }
+ ],
+ "impair": [
+  {
+   "w": "damage",
+   "dist": "泛指损坏，impair多指功能削弱"
+  },
+  {
+   "w": "weaken",
+   "dist": "使变弱，范围广，可指体力"
+  },
+  {
+   "w": "undermine",
+   "dist": "暗中逐渐削弱，含贬义"
+  }
+ ],
+ "cynical": [
+  {
+   "w": "skeptical",
+   "dist": "怀疑的，未必愤世，语气较中性"
+  },
+  {
+   "w": "suspicious",
+   "dist": "多疑的，指不信任具体人事"
+  },
+  {
+   "w": "pessimistic",
+   "dist": "悲观的，侧重对结果不抱希望"
+  }
+ ],
+ "proximity": [
+  {
+   "w": "nearness",
+   "dist": "最直白的接近，口语化"
+  },
+  {
+   "w": "closeness",
+   "dist": "可指距离或关系亲密"
+  },
+  {
+   "w": "vicinity",
+   "dist": "指附近区域，非接近程度"
+  }
+ ],
+ "spear": [
+  {
+   "w": "lance",
+   "dist": "长枪，多指骑兵用，比矛轻便"
+  },
+  {
+   "w": "pike",
+   "dist": "长矛，步兵用，比矛更长更重"
+  },
+  {
+   "w": "javelin",
+   "dist": "投掷用的标枪，侧重可投"
+  }
+ ],
+ "premature": [
+  {
+   "w": "hasty",
+   "dist": "仓促的，强调草率欠考虑"
+  },
+  {
+   "w": "untimely",
+   "dist": "不合时宜的，侧重时机不当"
+  },
+  {
+   "w": "early",
+   "dist": "早的，中性词，不含负面评价"
+  }
+ ],
+ "moisture": [
+  {
+   "w": "damp",
+   "dist": "湿气，略潮湿，程度比潮气轻"
+  },
+  {
+   "w": "humidity",
+   "dist": "湿度，多指空气，较正式"
+  },
+  {
+   "w": "wet",
+   "dist": "水分，口语化，泛指湿的状态"
+  }
+ ],
+ "accessory": [
+  {
+   "w": "ornament",
+   "dist": "装饰品，侧重点缀而非实用"
+  },
+  {
+   "w": "attachment",
+   "dist": "附加装置，多指设备配件"
+  },
+  {
+   "w": "supplementary",
+   "dist": "补充的，形容词，较正式"
+  }
+ ],
+ "masculine": [
+  {
+   "w": "manly",
+   "dist": "有男子气的，褒义，口语常用"
+  },
+  {
+   "w": "virile",
+   "dist": "雄健的，强调精力与性征"
+  },
+  {
+   "w": "male",
+   "dist": "男性的，仅指性别，中性"
+  }
+ ],
+ "shatter": [
+  {
+   "w": "smash",
+   "dist": "打碎，强调用力猛击"
+  },
+  {
+   "w": "splinter",
+   "dist": "裂成碎片，多指木、骨"
+  },
+  {
+   "w": "crush",
+   "dist": "压碎，侧重挤压而非击打"
+  }
+ ],
+ "dash": [
+  {
+   "w": "rush",
+   "dist": "冲，强调匆忙，语气较缓"
+  },
+  {
+   "w": "sprint",
+   "dist": "冲刺，指短距离全力跑"
+  },
+  {
+   "w": "dart",
+   "dist": "飞奔，强调动作轻快突然"
+  }
+ ],
+ "puff": [
+  {
+   "w": "blow",
+   "dist": "吹，泛指，力度和方向更宽"
+  },
+  {
+   "w": "exhale",
+   "dist": "呼出，指呼气的生理动作"
+  },
+  {
+   "w": "emit",
+   "dist": "散发，正式，不限于气体"
+  }
+ ],
+ "bulk": [
+  {
+   "w": "majority",
+   "dist": "多数，指数量过半，不指体积"
+  },
+  {
+   "w": "mass",
+   "dist": "大量，侧重整体块状"
+  },
+  {
+   "w": "most",
+   "dist": "大部分，代词性，口语常用"
+  }
+ ],
+ "evaporate": [
+  {
+   "w": "vanish",
+   "dist": "消失，强调突然不见"
+  },
+  {
+   "w": "disappear",
+   "dist": "消失，最通用中性"
+  },
+  {
+   "w": "fade",
+   "dist": "逐渐消退，强调变淡"
+  }
+ ],
+ "sphere": [
+  {
+   "w": "domain",
+   "dist": "domain 侧重知识或活动的范围，sphere 更强调势力圈。"
+  },
+  {
+   "w": "field",
+   "dist": "field 指学科或工作领域，sphere 更抽象、范围更广。"
+  },
+  {
+   "w": "realm",
+   "dist": "realm 较正式，指领域或王国，sphere 更常用具体范围。"
+  }
+ ],
+ "robust": [
+  {
+   "w": "sturdy",
+   "dist": "sturdy 强调结构结实耐用，robust 更含强健有力。"
+  },
+  {
+   "w": "strong",
+   "dist": "strong 最通用，robust 更强调健康旺盛、抗压。"
+  },
+  {
+   "w": "vigorous",
+   "dist": "vigorous 侧重精力充沛，robust 侧重体质强健。"
+  }
+ ],
+ "filter": [
+  {
+   "w": "strain",
+   "dist": "strain 指用滤网滤去固体，filter 更泛指过滤。"
+  },
+  {
+   "w": "sift",
+   "dist": "sift 强调筛分细颗粒，filter 强调去除杂质。"
+  },
+  {
+   "w": "screen",
+   "dist": "screen 侧重筛选甄别，filter 侧重物理过滤。"
+  }
+ ],
+ "refuge": [
+  {
+   "w": "sanctuary",
+   "dist": "sanctuary 指受保护的圣所或禁猎区，refuge 更泛指避难处。"
+  },
+  {
+   "w": "shelter",
+   "dist": "shelter 指遮风避雨的庇护所，refuge 更强调躲避危险。"
+  },
+  {
+   "w": "haven",
+   "dist": "haven 指安全港湾，refuge 更强调逃离危险后的安身处。"
+  }
+ ],
+ "scorn": [
+  {
+   "w": "contempt",
+   "dist": "contempt 是正式名词，指轻蔑，scorn 更带强烈不屑情绪。"
+  },
+  {
+   "w": "disdain",
+   "dist": "disdain 指因优越感而轻视，scorn 语气更强烈。"
+  },
+  {
+   "w": "despise",
+   "dist": "despise 为动词，指鄙视，scorn 作动词更强调不屑一顾。"
+  }
+ ],
+ "grope": [
+  {
+   "w": "fumble",
+   "dist": "fumble 指笨拙摸索，grope 更强调在黑暗中探寻。"
+  },
+  {
+   "w": "feel",
+   "dist": "feel 泛指触摸感知，grope 特指盲目摸索。"
+  },
+  {
+   "w": "search",
+   "dist": "search 指有目标地寻找，grope 更含试探摸索之意。"
+  }
+ ],
+ "homogeneous": [
+  {
+   "w": "uniform",
+   "dist": "uniform 强调一致无变化，homogeneous 强调成分相同。"
+  },
+  {
+   "w": "similar",
+   "dist": "similar 指相似，homogeneous 强调同质同类。"
+  },
+  {
+   "w": "consistent",
+   "dist": "consistent 指前后一致，homogeneous 指构成成分均一。"
+  }
+ ],
+ "pore": [
+  {
+   "w": "hole",
+   "dist": "hole 泛指孔洞，pore 特指皮肤或生物体细孔。"
+  },
+  {
+   "w": "opening",
+   "dist": "opening 指开口，pore 更小且多指天然细孔。"
+  },
+  {
+   "w": "aperture",
+   "dist": "aperture 较正式，指光学或器械开口，pore 指微小气孔。"
+  }
+ ],
+ "cubic": [
+  {
+   "w": "cubical",
+   "dist": "cubical 指立方体形状，cubic 还可指立方的度量。"
+  },
+  {
+   "w": "blocky",
+   "dist": "blocky 指块状粗大，cubic 更精确指立方体。"
+  },
+  {
+   "w": "three-dimensional",
+   "dist": "three-dimensional 泛指三维，cubic 特指立方体或立方量。"
+  }
+ ],
+ "outer": [
+  {
+   "w": "external",
+   "dist": "external 指外部的、外来的，outer 指位置靠外的。"
+  },
+  {
+   "w": "exterior",
+   "dist": "exterior 指外表面或外部，outer 更强调外层位置。"
+  },
+  {
+   "w": "outward",
+   "dist": "outward 指向外的方向，outer 指外边的、外围的。"
+  }
+ ],
+ "steel": [
+  {
+   "w": "brace",
+   "dist": "brace 强调振作精神迎接冲击，steel 更侧重下定决心硬扛。"
+  },
+  {
+   "w": "fortify",
+   "dist": "fortify 指增强意志或体力，steel 多指心理上做好准备。"
+  },
+  {
+   "w": "harden",
+   "dist": "harden 侧重变得坚强冷酷，steel 强调鼓足勇气面对不快。"
+  }
+ ],
+ "rot": [
+  {
+   "w": "decay",
+   "dist": "decay 较正式，指自然腐坏；rot 更口语，强调烂掉发臭。"
+  },
+  {
+   "w": "decompose",
+   "dist": "decompose 为科学用语，指分解；rot 偏日常，含恶化意味。"
+  },
+  {
+   "w": "spoil",
+   "dist": "spoil 多指食物变质，rot 还可指事物逐渐衰败。"
+  }
+ ],
+ "devastate": [
+  {
+   "w": "destroy",
+   "dist": "destroy 泛指毁坏，devastate 强调大面积摧毁与情感打击。"
+  },
+  {
+   "w": "ravage",
+   "dist": "ravage 指反复劫掠破坏，devastate 更强调毁灭性后果。"
+  },
+  {
+   "w": "wreck",
+   "dist": "wreck 多指撞毁或彻底弄坏，devastate 语域更重、范围更大。"
+  }
+ ],
+ "laminate": [
+  {
+   "w": "layer",
+   "dist": "layer 泛指分层放置，laminate 特指压合成薄板。"
+  },
+  {
+   "w": "veneer",
+   "dist": "veneer 指贴薄木片饰面，laminate 强调多层压合。"
+  },
+  {
+   "w": "flatten",
+   "dist": "flatten 指压平，laminate 侧重制成薄板或薄片。"
+  }
+ ],
+ "ignite": [
+  {
+   "w": "kindle",
+   "dist": "kindle 多指点燃火种或激起情感，ignite 更强调引燃与触发。"
+  },
+  {
+   "w": "light",
+   "dist": "light 泛指点灯点火，ignite 较正式，含突然点燃之意。"
+  },
+  {
+   "w": "spark",
+   "dist": "spark 指迸发火花或引发，ignite 强调真正点燃或激化。"
+  },
+  {
+   "w": "inflame",
+   "dist": "inflame 多指激怒或使发炎，ignite 侧重点燃与激发。"
+  }
+ ],
+ "stack": [
+  {
+   "w": "pile",
+   "dist": "pile 指随意堆放，stack 强调整齐叠放成垛。"
+  },
+  {
+   "w": "heap",
+   "dist": "heap 指杂乱堆积，stack 更强调有序叠起。"
+  },
+  {
+   "w": "accumulate",
+   "dist": "accumulate 侧重逐渐积累，stack 强调物理上叠放。"
+  }
+ ],
+ "timber": [
+  {
+   "w": "lumber",
+   "dist": "lumber 多指美式加工木材，timber 常指建筑用原木。"
+  },
+  {
+   "w": "wood",
+   "dist": "wood 泛指木头，timber 特指可作建材的木料。"
+  },
+  {
+   "w": "log",
+   "dist": "log 指砍下的圆木，timber 指成材木料或林木。"
+  }
+ ],
+ "vague": [
+  {
+   "w": "unclear",
+   "dist": "unclear 泛指不清楚，vague 强调表达含糊、轮廓模糊。"
+  },
+  {
+   "w": "ambiguous",
+   "dist": "ambiguous 指可作多种解释，vague 指内容笼统不具体。"
+  },
+  {
+   "w": "hazy",
+   "dist": "hazy 多指视觉朦胧或记忆模糊，vague 更常指言辞含糊。"
+  },
+  {
+   "w": "indistinct",
+   "dist": "indistinct 指轮廓声音不清，vague 侧重意思不明确。"
+  }
+ ],
+ "versatile": [
+  {
+   "w": "adaptable",
+   "dist": "adaptable 指能适应变化，versatile 强调用途广、多才多艺。"
+  },
+  {
+   "w": "flexible",
+   "dist": "flexible 指灵活可变通，versatile 侧重功能多样。"
+  },
+  {
+   "w": "multipurpose",
+   "dist": "multipurpose 直指多用途，versatile 还可指人多才多艺。"
+  }
+ ],
+ "slam": [
+  {
+   "w": "bang",
+   "dist": "bang 指砰砰猛击，slam 强调用力摔或撞并带响声。"
+  },
+  {
+   "w": "smash",
+   "dist": "smash 指猛击致碎，slam 侧重猛力关上或扔下。"
+  },
+  {
+   "w": "fling",
+   "dist": "fling 指用力抛掷，slam 强调带撞击感地猛扔。"
+  }
+ ],
+ "array": [
+  {
+   "w": "range",
+   "dist": "range 侧重种类跨度，array 强调陈列成批"
+  },
+  {
+   "w": "collection",
+   "dist": "collection 泛指收集物，array 更强调有序排列"
+  },
+  {
+   "w": "assortment",
+   "dist": "assortment 指混杂多样，array 偏正式且规模大"
+  }
+ ],
+ "wreck": [
+  {
+   "w": "shipwreck",
+   "dist": "shipwreck 专指船只失事，wreck 可指残骸本身"
+  },
+  {
+   "w": "hulk",
+   "dist": "hulk 指废弃船体，wreck 更强调毁坏状态"
+  },
+  {
+   "w": "ruin",
+   "dist": "ruin 泛指废墟，wreck 多指交通工具残骸"
+  }
+ ],
+ "stride": [
+  {
+   "w": "progress",
+   "dist": "progress 最通用，stride 强调大步显著的进展"
+  },
+  {
+   "w": "advance",
+   "dist": "advance 偏具体推进，stride 多用于抽象进步"
+  },
+  {
+   "w": "headway",
+   "dist": "headway 常与 make 搭配，stride 更书面"
+  }
+ ],
+ "chronic": [
+  {
+   "w": "persistent",
+   "dist": "persistent 强调持续不断，chronic 多指疾病积习"
+  },
+  {
+   "w": "habitual",
+   "dist": "habitual 侧重习惯性，chronic 含难以根除之意"
+  }
+ ],
+ "grieve": [
+  {
+   "w": "mourn",
+   "dist": "mourn 多指哀悼死者，grieve 泛指内心悲痛"
+  },
+  {
+   "w": "lament",
+   "dist": "lament 偏书面哀叹，grieve 更强调情感深切"
+  },
+  {
+   "w": "sorrow",
+   "dist": "sorrow 作动词较文雅，grieve 更常用且及物"
+  }
+ ],
+ "rupture": [
+  {
+   "w": "break",
+   "dist": "break 最通用，rupture 强调突然断裂或关系决裂"
+  },
+  {
+   "w": "split",
+   "dist": "split 指分裂，rupture 多用于关系、管道破裂"
+  },
+  {
+   "w": "breach",
+   "dist": "breach 指违反或缺口，rupture 强调彻底断绝"
+  }
+ ],
+ "elite": [
+  {
+   "w": "cream",
+   "dist": "cream 喻精华，elite 更指掌权上层群体"
+  },
+  {
+   "w": "flower",
+   "dist": "flower 喻精英较文学化，elite 更中性常用"
+  },
+  {
+   "w": "select",
+   "dist": "select 作名词指精选者，elite 强调阶层优越"
+  }
+ ],
+ "mutter": [
+  {
+   "w": "murmur",
+   "dist": "murmur 声音轻柔连续，mutter 含不满嘟囔意"
+  },
+  {
+   "w": "mumble",
+   "dist": "mumble 指含糊不清，mutter 强调低声抱怨"
+  },
+  {
+   "w": "whisper",
+   "dist": "whisper 指耳语，mutter 多带情绪且不清晰"
+  }
+ ],
+ "heap": [
+  {
+   "w": "pile",
+   "dist": "pile 最常用，heap 更强调随意堆积成山"
+  },
+  {
+   "w": "mound",
+   "dist": "mound 指隆起的土丘状，heap 泛指一堆"
+  },
+  {
+   "w": "stack",
+   "dist": "stack 指整齐叠放，heap 强调杂乱无章"
+  }
+ ],
+ "groan": [
+  {
+   "w": "moan",
+   "dist": "moan 多指痛苦低吟，groan 声音更低沉粗重"
+  },
+  {
+   "w": "complain",
+   "dist": "complain 指口头抱怨，groan 含呻吟式不满"
+  },
+  {
+   "w": "grumble",
+   "dist": "grumble 指低声发牢骚，groan 更强调痛苦出声"
+  }
+ ],
+ "expire": [
+  {
+   "w": "lapse",
+   "dist": "lapse 指因未续而失效，多用于权利、保险"
+  },
+  {
+   "w": "end",
+   "dist": "end 最通用，expire 强调到期自然终止"
+  },
+  {
+   "w": "terminate",
+   "dist": "terminate 较正式，可指人为终止合同"
+  }
+ ],
+ "brim": [
+  {
+   "w": "edge",
+   "dist": "edge 泛指边缘，brim 专指容器口沿"
+  },
+  {
+   "w": "rim",
+   "dist": "rim 指圆形物外缘，brim 多指杯碗满沿"
+  },
+  {
+   "w": "lip",
+   "dist": "lip 指器皿倾口边，brim 更强调满到边"
+  }
+ ],
+ "lofty": [
+  {
+   "w": "tall",
+   "dist": "tall 只指高度，lofty 兼含高耸与崇高"
+  },
+  {
+   "w": "high",
+   "dist": "high 通用表高度，lofty 更书面带庄严感"
+  },
+  {
+   "w": "noble",
+   "dist": "noble 侧重品格高尚，lofty 可指理想崇高"
+  }
+ ],
+ "splash": [
+  {
+   "w": "spatter",
+   "dist": "spatter 指溅上污点，splash 水量更大"
+  },
+  {
+   "w": "splatter",
+   "dist": "splatter 强调溅得杂乱，splash 可指主动泼"
+  },
+  {
+   "w": "spray",
+   "dist": "spray 指喷雾状喷洒，splash 是成片泼溅"
+  }
+ ],
+ "embark": [
+  {
+   "w": "begin",
+   "dist": "begin 最通用，embark 多接 on 表重大开始"
+  },
+  {
+   "w": "start",
+   "dist": "start 口语通用，embark 较正式含启程意味"
+  },
+  {
+   "w": "undertake",
+   "dist": "undertake 侧重承担任务，embark 强调着手"
+  }
+ ],
+ "foam": [
+  {
+   "w": "froth",
+   "dist": "froth 多指液体表面浮沫，foam 可指材料"
+  },
+  {
+   "w": "lather",
+   "dist": "lather 专指肥皂泡沫，foam 范围更广"
+  },
+  {
+   "w": "bubble",
+   "dist": "bubble 指单个气泡，foam 指成堆泡沫"
+  }
+ ],
+ "absorb": [
+  {
+   "w": "soak",
+   "dist": "soak 强调浸透，absorb 侧重吸收入内部"
+  },
+  {
+   "w": "assimilate",
+   "dist": "assimilate 指消化吸收知识，absorb 更宽泛"
+  },
+  {
+   "w": "engross",
+   "dist": "engross 指使全神贯注，absorb 可指吸引注意"
+  }
+ ],
+ "hawk": [
+  {
+   "w": "falcon",
+   "dist": "falcon 指隼类猛禽，hawk 泛指鹰属鸟类"
+  },
+  {
+   "w": "eagle",
+   "dist": "eagle 体型更大属雕鹰，hawk 体型较小"
+  },
+  {
+   "w": "raptor",
+   "dist": "raptor 是猛禽统称，hawk 特指鹰类"
+  }
+ ],
+ "obedient": [
+  {
+   "w": "compliant",
+   "dist": "compliant 指遵从规定，obedient 强调听人话"
+  },
+  {
+   "w": "docile",
+   "dist": "docile 指性情温顺易管，obedient 侧重服从"
+  },
+  {
+   "w": "submissive",
+   "dist": "submissive 含贬义屈从，obedient 较中性"
+  }
+ ],
+ "gum": [
+  {
+   "w": "resin",
+   "dist": "resin 指天然树脂，gum 可指树胶或口香糖"
+  },
+  {
+   "w": "adhesive",
+   "dist": "adhesive 泛指黏合剂，gum 多指胶质物"
+  },
+  {
+   "w": "chewing",
+   "dist": "chewing 需搭配 gum 才成词，单用不成立"
+  }
+ ],
+ "grind": [
+  {
+   "w": "chore",
+   "dist": "chore指日常杂务，grind强调枯燥费力的长期苦活"
+  },
+  {
+   "w": "drudgery",
+   "dist": "drudgery更书面，强调单调乏味，grind偏口语"
+  },
+  {
+   "w": "toil",
+   "dist": "toil侧重劳累辛苦，grind强调磨人、乏味"
+  }
+ ],
+ "wedge": [
+  {
+   "w": "chock",
+   "dist": "chock指垫块，wedge强调楔形插入物"
+  },
+  {
+   "w": "shim",
+   "dist": "shim指薄垫片，wedge体积更大、用于劈开或固定"
+  }
+ ],
+ "baffle": [
+  {
+   "w": "puzzle",
+   "dist": "puzzle较常用，baffle困惑程度更深、更无从下手"
+  },
+  {
+   "w": "confound",
+   "dist": "confound更正式，含使惊愕之意，baffle侧重难解"
+  },
+  {
+   "w": "perplex",
+   "dist": "perplex偏书面，强调使迷惑不安，baffle更中性"
+  }
+ ],
+ "skeleton": [
+  {
+   "w": "frame",
+   "dist": "frame指框架结构，skeleton强调骨骼或骨架整体"
+  },
+  {
+   "w": "framework",
+   "dist": "framework多指抽象体系，skeleton指实体骨架"
+  },
+  {
+   "w": "carcass",
+   "dist": "carcass指动物尸体残骸，skeleton仅指骨骼"
+  }
+ ],
+ "void": [
+  {
+   "w": "empty",
+   "dist": "empty为普通形容词，void更正式且含法律无效义"
+  },
+  {
+   "w": "gap",
+   "dist": "gap指空隙缺口，void强调空无一物的虚空"
+  },
+  {
+   "w": "vacuum",
+   "dist": "vacuum指真空或空白状态，void更抽象、更书面"
+  }
+ ],
+ "creep": [
+  {
+   "w": "crawl",
+   "dist": "crawl指爬行，creep强调悄悄缓慢地移动或蔓延"
+  },
+  {
+   "w": "spread",
+   "dist": "spread泛指扩散，creep强调不知不觉地蔓延"
+  },
+  {
+   "w": "sneak",
+   "dist": "sneak指偷偷溜，creep侧重缓慢潜行"
+  }
+ ],
+ "rifle": [
+  {
+   "w": "gun",
+   "dist": "gun泛指枪，rifle特指有膛线的长枪"
+  },
+  {
+   "w": "carbine",
+   "dist": "carbine指短步枪，rifle为步枪通称"
+  }
+ ],
+ "mend": [
+  {
+   "w": "repair",
+   "dist": "repair泛指修理，mend多指缝补衣物或修补破损"
+  },
+  {
+   "w": "patch",
+   "dist": "patch指打补丁，mend强调修复使完好"
+  },
+  {
+   "w": "fix",
+   "dist": "fix偏口语、泛指修理，mend更具体、偏缝补"
+  }
+ ],
+ "lodge": [
+  {
+   "w": "cabin",
+   "dist": "cabin指简陋木屋，lodge多指乡村度假或狩猎小屋"
+  },
+  {
+   "w": "cottage",
+   "dist": "cottage指乡村小舍，lodge更强调供住宿的屋舍"
+  },
+  {
+   "w": "hut",
+   "dist": "hut指简陋棚屋，lodge条件较好、偏休闲用途"
+  }
+ ],
+ "refute": [
+  {
+   "w": "disprove",
+   "dist": "disprove指证明为假，refute强调驳倒对方论点"
+  },
+  {
+   "w": "rebut",
+   "dist": "rebut为正式辩论用语，refute更通用、含证明错误"
+  },
+  {
+   "w": "contradict",
+   "dist": "contradict仅指反驳、相矛盾，refute含成功驳倒之意"
+  }
+ ],
+ "inn": [
+  {
+   "w": "hotel",
+   "dist": "hotel规模大、设施全，inn偏乡村小旅馆"
+  },
+  {
+   "w": "lodge",
+   "dist": "lodge多指山林度假小屋，inn更近传统客栈"
+  },
+  {
+   "w": "tavern",
+   "dist": "tavern侧重酒馆兼住宿，inn侧重住宿"
+  }
+ ],
+ "propagate": [
+  {
+   "w": "spread",
+   "dist": "spread最通用，propagate偏正式、强调宣传扩散"
+  },
+  {
+   "w": "disseminate",
+   "dist": "disseminate更正式，多搭配信息、观念"
+  },
+  {
+   "w": "breed",
+   "dist": "breed指动物繁殖，propagate可指植物或观念"
+  },
+  {
+   "w": "promote",
+   "dist": "promote侧重推广促进，propagate侧重传播"
+  }
+ ],
+ "faulty": [
+  {
+   "w": "defective",
+   "dist": "defective指产品有缺陷，faulty更泛指出错"
+  },
+  {
+   "w": "flawed",
+   "dist": "flawed指本身有瑕疵，faulty强调功能不可靠"
+  },
+  {
+   "w": "imperfect",
+   "dist": "imperfect语气轻，指不完美，faulty指有故障"
+  }
+ ],
+ "compliment": [
+  {
+   "w": "praise",
+   "dist": "praise泛指称赞，compliment多指当面客套赞美"
+  },
+  {
+   "w": "commend",
+   "dist": "commend较正式，多用于上级表扬"
+  },
+  {
+   "w": "flatter",
+   "dist": "flatter含奉承意味，compliment偏真诚称赞"
+  }
+ ],
+ "whirl": [
+  {
+   "w": "spin",
+   "dist": "spin指快速自转，whirl强调旋转带起的动感"
+  },
+  {
+   "w": "twirl",
+   "dist": "twirl多指轻巧转动，whirl更猛烈急速"
+  },
+  {
+   "w": "rotate",
+   "dist": "rotate指绕轴规律转动，whirl杂乱快速"
+  }
+ ],
+ "porch": [
+  {
+   "w": "veranda",
+   "dist": "veranda指带顶的游廊，porch多指门口门廊"
+  },
+  {
+   "w": "portico",
+   "dist": "portico指柱廊式门廊，porch更日常"
+  },
+  {
+   "w": "balcony",
+   "dist": "balcony是楼上阳台，porch在底层入口"
+  }
+ ],
+ "avert": [
+  {
+   "w": "prevent",
+   "dist": "prevent最通用，avert强调及时避开危险"
+  },
+  {
+   "w": "avoid",
+   "dist": "avoid指主动回避，avert多指防止坏事发生"
+  },
+  {
+   "w": "forestall",
+   "dist": "forestall指抢先阻止，avert更强调化险为夷"
+  }
+ ],
+ "cloak": [
+  {
+   "w": "cape",
+   "dist": "cape是无袖短披肩，cloak更宽大常带帽"
+  },
+  {
+   "w": "disguise",
+   "dist": "disguise指伪装身份，cloak作动词指掩盖"
+  },
+  {
+   "w": "conceal",
+   "dist": "conceal泛指隐藏，cloak含笼罩掩饰意味"
+  }
+ ],
+ "snatch": [
+  {
+   "w": "grab",
+   "dist": "grab指迅速抓住，snatch强调抢夺夺走"
+  },
+  {
+   "w": "seize",
+   "dist": "seize较正式，指用力抓住或夺取"
+  },
+  {
+   "w": "grasp",
+   "dist": "grasp指握紧理解，snatch含突然抢夺意"
+  }
+ ],
+ "spare": [
+  {
+   "w": "save",
+   "dist": "save指节省或救，spare指免除使人免受"
+  },
+  {
+   "w": "exempt",
+   "dist": "exempt多指免除义务，spare更口语化"
+  },
+  {
+   "w": "relieve",
+   "dist": "relieve指减轻负担，spare指免去麻烦"
+  }
+ ],
+ "priest": [
+  {
+   "w": "clergyman",
+   "dist": "泛指神职人员，比priest正式且不特指天主教神父"
+  },
+  {
+   "w": "minister",
+   "dist": "多指新教牧师，不用于天主教神父"
+  },
+  {
+   "w": "father",
+   "dist": "口语尊称神父，带称呼色彩，非正式名词"
+  }
+ ],
+ "shiver": [
+  {
+   "w": "tremble",
+   "dist": "因恐惧或寒冷发抖，比shiver更泛、可指声音"
+  },
+  {
+   "w": "quiver",
+   "dist": "轻微颤动，常指声音或肌肉，幅度小于shiver"
+  },
+  {
+   "w": "shudder",
+   "dist": "因厌恶恐惧而猛颤，比shiver更强烈"
+  }
+ ],
+ "limb": [
+  {
+   "w": "branch",
+   "dist": "泛指树枝，limb特指主枝或大枝"
+  },
+  {
+   "w": "bough",
+   "dist": "文学色彩的大树枝，比limb更书面"
+  }
+ ],
+ "postulate": [
+  {
+   "w": "assume",
+   "dist": "通用词，直接假定，postulate更学术正式"
+  },
+  {
+   "w": "presume",
+   "dist": "假定为真但含推测，postulate强调作为前提提出"
+  },
+  {
+   "w": "hypothesize",
+   "dist": "提出假说，比postulate更偏科学论证"
+  }
+ ],
+ "coincidence": [
+  {
+   "w": "chance",
+   "dist": "泛指偶然，coincidence强调两事同时巧合"
+  },
+  {
+   "w": "accident",
+   "dist": "偶然事件，不含同时发生之意"
+  },
+  {
+   "w": "concurrence",
+   "dist": "正式指同时发生，比coincidence更书面"
+  }
+ ],
+ "loaf": [
+  {
+   "w": "block",
+   "dist": "块状物，可指整块面包，比loaf更泛"
+  },
+  {
+   "w": "brick",
+   "dist": "砖形块，口语形容长条面包，非正式"
+  }
+ ],
+ "tenant": [
+  {
+   "w": "renter",
+   "dist": "租房者，口语常用，比tenant更随意"
+  },
+  {
+   "w": "occupant",
+   "dist": "居住者，不强调租赁关系"
+  },
+  {
+   "w": "lessee",
+   "dist": "法律术语承租人，比tenant更正式"
+  }
+ ],
+ "stumble": [
+  {
+   "w": "trip",
+   "dist": "脚被绊而踉跄，比stumble更强调绊的动作"
+  },
+  {
+   "w": "falter",
+   "dist": "说话或行走迟疑不稳，比stumble更书面"
+  },
+  {
+   "w": "lurch",
+   "dist": "突然踉跄，幅度大于stumble"
+  }
+ ],
+ "terrace": [
+  {
+   "w": "terrain",
+   "dist": "泛指地形，不指梯田这种耕作形式"
+  },
+  {
+   "w": "slope",
+   "dist": "斜坡，terrace强调人工修成的阶梯田"
+  }
+ ],
+ "deteriorate": [
+  {
+   "w": "worsen",
+   "dist": "通用词，直接变坏，比deteriorate更口语"
+  },
+  {
+   "w": "decline",
+   "dist": "下降衰退，常指质量或健康，比deteriorate更缓"
+  },
+  {
+   "w": "degrade",
+   "dist": "降低品质或地位，含贬义，比deteriorate更主动"
+  }
+ ],
+ "queue": [
+  {
+   "w": "line",
+   "dist": "line 美式常用，queue 英式指排队等候"
+  },
+  {
+   "w": "row",
+   "dist": "row 指横排或一排，queue 强调纵向队列"
+  },
+  {
+   "w": "file",
+   "dist": "file 指纵队行进，queue 侧重等候队伍"
+  }
+ ],
+ "bibliography": [
+  {
+   "w": "catalogue",
+   "dist": "catalogue 泛指目录，bibliography 专指文献书目"
+  },
+  {
+   "w": "index",
+   "dist": "index 是索引，bibliography 是参考书目清单"
+  }
+ ],
+ "cereal": [
+  {
+   "w": "grain",
+   "dist": "grain 指谷粒原粮，cereal 指谷类作物或麦片"
+  },
+  {
+   "w": "corn",
+   "dist": "corn 英指小麦美指玉米，cereal 泛指谷类"
+  },
+  {
+   "w": "wheat",
+   "dist": "wheat 专指小麦，cereal 是谷类总称"
+  }
+ ],
+ "fusion": [
+  {
+   "w": "merger",
+   "dist": "merger 多指公司合并，fusion 指物理聚变或融合"
+  },
+  {
+   "w": "blend",
+   "dist": "blend 指混合，fusion 强调熔合为一体"
+  },
+  {
+   "w": "union",
+   "dist": "union 指联合结合，fusion 侧重核聚变或文化融合"
+  }
+ ],
+ "prone": [
+  {
+   "w": "liable",
+   "dist": "liable 多接不良后果，prone 强调习性倾向"
+  },
+  {
+   "w": "susceptible",
+   "dist": "susceptible 指易受感染影响，prone 指易发生"
+  },
+  {
+   "w": "inclined",
+   "dist": "inclined 指有意愿倾向，prone 多含负面倾向"
+  }
+ ],
+ "mercury": [
+  {
+   "w": "quicksilver",
+   "dist": "汞的旧称，文学色彩浓"
+  }
+ ],
+ "bosom": [
+  {
+   "w": "chest",
+   "dist": "chest 是胸部通称，bosom 偏文学且指胸怀"
+  },
+  {
+   "w": "breast",
+   "dist": "breast 指乳房或胸脯，bosom 更文雅含蓄"
+  },
+  {
+   "w": "heart",
+   "dist": "heart 喻内心情感，bosom 兼指胸与心怀"
+  }
+ ],
+ "bracket": [
+  {
+   "w": "category",
+   "dist": "category 泛指类别，bracket 指按数值分的档次"
+  },
+  {
+   "w": "range",
+   "dist": "range 指范围区间，bracket 指归入的等级段"
+  },
+  {
+   "w": "tier",
+   "dist": "tier 指层级，bracket 多指收入税率等档次"
+  }
+ ],
+ "fetch": [
+  {
+   "w": "get",
+   "dist": "get 泛指取得，fetch 强调去取回"
+  },
+  {
+   "w": "retrieve",
+   "dist": "retrieve 指取回失物数据，fetch 指去接来取来"
+  },
+  {
+   "w": "collect",
+   "dist": "collect 指收集，fetch 指专程去取来"
+  }
+ ],
+ "menace": [
+  {
+   "w": "threat",
+   "dist": "threat 泛指威胁，menace 语气更强指危险人物"
+  },
+  {
+   "w": "danger",
+   "dist": "danger 指危险本身，menace 指构成威胁者"
+  },
+  {
+   "w": "peril",
+   "dist": "peril 指严重危险，menace 侧重威胁性的人或物"
+  }
+ ],
+ "tribe": [
+  {
+   "w": "clan",
+   "dist": "clan 侧重血缘宗族，tribe 指更大部落或群体。"
+  },
+  {
+   "w": "ethnic",
+   "dist": "ethnic 作名词指族群，较正式，tribe 更具体。"
+  },
+  {
+   "w": "band",
+   "dist": "band 指小规模游群，tribe 规模更大、结构更完整。"
+  }
+ ],
+ "sob": [
+  {
+   "w": "weep",
+   "dist": "weep 较书面，泛指流泪；sob 强调抽噎出声。"
+  },
+  {
+   "w": "cry",
+   "dist": "cry 最通用，可大声；sob 特指压抑的抽泣。"
+  },
+  {
+   "w": "wail",
+   "dist": "wail 指放声哀号，比 sob 更响亮凄厉。"
+  }
+ ],
+ "beggar": [
+  {
+   "w": "vagrant",
+   "dist": "vagrant 指流浪者，未必乞讨；beggar 专指行乞者。"
+  },
+  {
+   "w": "pauper",
+   "dist": "pauper 指贫民，较书面；beggar 强调以乞讨为生。"
+  },
+  {
+   "w": "mendicant",
+   "dist": "mendicant 较正式，多指托钵僧或乞讨者。"
+  }
+ ],
+ "pearl": [
+  {
+   "w": "gem",
+   "dist": "gem 泛指宝石，pearl 特指珍珠，来源不同。"
+  },
+  {
+   "w": "bead",
+   "dist": "bead 指小珠子，材质不限；pearl 专指珍珠。"
+  }
+ ],
+ "jaw": [
+  {
+   "w": "mandible",
+   "dist": "mandible 是下颌的专业术语，jaw 更日常通用。"
+  },
+  {
+   "w": "chin",
+   "dist": "chin 仅指下巴前端，jaw 指整个颌部。"
+  },
+  {
+   "w": "jowl",
+   "dist": "jowl 指下垂的腮肉，jaw 指颌骨本身。"
+  }
+ ],
+ "dilute": [
+  {
+   "w": "weaken",
+   "dist": "weaken 泛指削弱，dilute 特指加液变淡而减弱。"
+  },
+  {
+   "w": "thin",
+   "dist": "thin 指使变稀薄，dilute 更强调加水稀释。"
+  },
+  {
+   "w": "water",
+   "dist": "water 作动词指掺水，口语；dilute 更正式通用。"
+  }
+ ],
+ "steer": [
+  {
+   "w": "drive",
+   "dist": "drive 指驾驶车辆，steer 强调控制方向。"
+  },
+  {
+   "w": "guide",
+   "dist": "guide 指引导方向，steer 多用于操控交通工具。"
+  },
+  {
+   "w": "navigate",
+   "dist": "navigate 指导航定位，steer 指实际操舵转向。"
+  }
+ ],
+ "arithmetic": [
+  {
+   "w": "math",
+   "dist": "math 泛指数学，arithmetic 专指基础运算。"
+  },
+  {
+   "w": "calculation",
+   "dist": "calculation 指计算过程，arithmetic 指算术学科。"
+  },
+  {
+   "w": "computation",
+   "dist": "computation 偏复杂计算，arithmetic 指四则运算。"
+  }
+ ],
+ "splendid": [
+  {
+   "w": "magnificent",
+   "dist": "magnificent 强调宏伟壮观，splendid 兼含华丽耀眼。"
+  },
+  {
+   "w": "gorgeous",
+   "dist": "gorgeous 偏口语，指极美；splendid 更庄重。"
+  },
+  {
+   "w": "grand",
+   "dist": "grand 侧重气势宏大，splendid 侧重光彩华丽。"
+  },
+  {
+   "w": "brilliant",
+   "dist": "brilliant 强调明亮灿烂，splendid 更含壮丽意味。"
+  }
+ ],
+ "scream": [
+  {
+   "w": "shriek",
+   "dist": "shriek 指尖利刺耳的叫，scream 更通用、可表恐惧。"
+  },
+  {
+   "w": "yell",
+   "dist": "yell 指大声喊叫，多因激动；scream 多因惊恐疼痛。"
+  },
+  {
+   "w": "screech",
+   "dist": "screech 指刺耳尖叫，常形容物或声音，scream 多指人。"
+  }
+ ],
+ "haunt": [
+  {
+   "w": "obsess",
+   "dist": "强调念头挥之不去，多用于心理困扰"
+  },
+  {
+   "w": "plague",
+   "dist": "语气更重，指反复折磨、烦扰"
+  },
+  {
+   "w": "torment",
+   "dist": "侧重精神痛苦，比haunt更强烈"
+  }
+ ],
+ "continent": [
+  {
+   "w": "mainland",
+   "dist": "指与岛屿相对的大陆主体，地理义"
+  },
+  {
+   "w": "landmass",
+   "dist": "强调连片陆地，较书面"
+  },
+  {
+   "w": "land",
+   "dist": "泛指陆地，范围更宽泛"
+  }
+ ],
+ "continental": [
+  {
+   "w": "mainland",
+   "dist": "大陆的、本土的，多修饰地理名词"
+  },
+  {
+   "w": "inland",
+   "dist": "内陆的，强调远离海岸"
+  }
+ ],
+ "susceptible": [
+  {
+   "w": "vulnerable",
+   "dist": "侧重易受伤害，常搭配攻击、疾病"
+  },
+  {
+   "w": "prone",
+   "dist": "多指易犯错误或遭遇坏事"
+  },
+  {
+   "w": "impressionable",
+   "dist": "特指年轻人易受影响，语域较窄"
+  }
+ ],
+ "retrospect": [
+  {
+   "w": "recollection",
+   "dist": "指回忆本身，名词，较中性"
+  },
+  {
+   "w": "review",
+   "dist": "侧重回顾审视，可指书面评述"
+  },
+  {
+   "w": "hindsight",
+   "dist": "强调事后才明白，常含遗憾"
+  }
+ ],
+ "hedge": [
+  {
+   "w": "fence",
+   "dist": "泛指栅栏，比hedge更通用"
+  },
+  {
+   "w": "bush",
+   "dist": "指灌木，单株而非成排树篱"
+  },
+  {
+   "w": "barrier",
+   "dist": "抽象或实体障碍，范围更广"
+  }
+ ],
+ "ascribe": [
+  {
+   "w": "attribute",
+   "dist": "最常用，中性归因，搭配to"
+  },
+  {
+   "w": "credit",
+   "dist": "多指归功于，含褒义"
+  },
+  {
+   "w": "impute",
+   "dist": "较正式，常指归咎，语域偏书面"
+  }
+ ],
+ "infectious": [
+  {
+   "w": "contagious",
+   "dist": "侧重接触传染，也可喻情绪感染"
+  },
+  {
+   "w": "communicable",
+   "dist": "医学用语，指可传播的疾病"
+  },
+  {
+   "w": "catching",
+   "dist": "口语，指易传染的"
+  }
+ ],
+ "intrinsic": [
+  {
+   "w": "inherent",
+   "dist": "指事物本身固有的，最常用"
+  },
+  {
+   "w": "innate",
+   "dist": "多指与生俱来的特质"
+  },
+  {
+   "w": "essential",
+   "dist": "强调本质必需，语气更强"
+  }
+ ],
+ "hatred": [
+  {
+   "w": "hate",
+   "dist": "口语常用，程度略轻"
+  },
+  {
+   "w": "loathing",
+   "dist": "语气强烈，含厌恶感"
+  },
+  {
+   "w": "hostility",
+   "dist": "侧重敌对态度，可指行为"
+  }
+ ],
+ "constituent": [
+  {
+   "w": "component",
+   "dist": "指构成整体的部件，偏技术语域，不指选民"
+  },
+  {
+   "w": "element",
+   "dist": "泛指基本要素，比 constituent 更宽泛常用"
+  },
+  {
+   "w": "voter",
+   "dist": "仅对应“选民”义，不含成分义"
+  }
+ ],
+ "ally": [
+  {
+   "w": "partner",
+   "dist": "强调合作搭档，语域更日常，不限于国家"
+  },
+  {
+   "w": "confederate",
+   "dist": "指结盟的同伙，常含贬义或秘密色彩"
+  },
+  {
+   "w": "friend",
+   "dist": "泛称友方，语气弱，不强调正式同盟"
+  }
+ ],
+ "barn": [
+  {
+   "w": "shed",
+   "dist": "泛指简易棚屋，比 barn 小且用途更杂"
+  },
+  {
+   "w": "stable",
+   "dist": "专指马厩，侧重养马而非储粮"
+  },
+  {
+   "w": "granary",
+   "dist": "专指粮仓，侧重储粮功能，语域较正式"
+  }
+ ],
+ "discern": [
+  {
+   "w": "perceive",
+   "dist": "强调感官或直觉察觉，比 discern 更宽泛"
+  },
+  {
+   "w": "detect",
+   "dist": "侧重发现隐蔽事物，常搭配仪器、痕迹"
+  },
+  {
+   "w": "distinguish",
+   "dist": "强调区分辨别差异，常与 from 连用"
+  }
+ ],
+ "generalize": [
+  {
+   "w": "summarize",
+   "dist": "指概括要点，不含“以偏概全”的贬义"
+  },
+  {
+   "w": "abstract",
+   "dist": "指抽取共性，语域偏学术，不指下结论"
+  },
+  {
+   "w": "infer",
+   "dist": "指据证据推断，比 generalize 更强调逻辑依据"
+  }
+ ],
+ "segregate": [
+  {
+   "w": "separate",
+   "dist": "最通用的“分开”，不含种族隔离的政治含义"
+  },
+  {
+   "w": "isolate",
+   "dist": "强调使孤立隔绝，程度比 segregate 更重"
+  },
+  {
+   "w": "divide",
+   "dist": "指划分成部分，中性，不强调隔离"
+  }
+ ],
+ "mortgage": [
+  {
+   "w": "loan",
+   "dist": "泛指贷款，mortgage 特指以房产作押的贷款"
+  },
+  {
+   "w": "pledge",
+   "dist": "指抵押或质押行为，语域较正式"
+  },
+  {
+   "w": "lien",
+   "dist": "法律术语，指留置权，比 mortgage 更专业"
+  }
+ ],
+ "commentary": [
+  {
+   "w": "comment",
+   "dist": "泛指评论意见，比 commentary 更简短随意"
+  },
+  {
+   "w": "analysis",
+   "dist": "侧重分析性解读，不强调实时评述"
+  },
+  {
+   "w": "review",
+   "dist": "指书评影评等评论文章，对象较具体"
+  }
+ ],
+ "cricket": [
+  {
+   "w": "grasshopper",
+   "dist": "指蝗虫类昆虫，与蟋蟀近缘但不同类"
+  },
+  {
+   "w": "insect",
+   "dist": "上位词，泛指昆虫，不特指蟋蟀"
+  }
+ ],
+ "alternate": [
+  {
+   "w": "substitute",
+   "dist": "指替补者，比 alternate 更常用且语域更广"
+  },
+  {
+   "w": "replacement",
+   "dist": "指接替者，强调替换关系而非轮换"
+  },
+  {
+   "w": "backup",
+   "dist": "指后备人选，口语化，强调备用"
+  }
+ ],
+ "resume": [
+  {
+   "w": "summary",
+   "dist": "摘要义，指内容概要，不含简历义"
+  },
+  {
+   "w": "abstract",
+   "dist": "学术摘要，比 resume 更正式"
+  }
+ ],
+ "peculiar": [
+  {
+   "w": "odd",
+   "dist": "偏口语，强调反常怪异"
+  },
+  {
+   "w": "strange",
+   "dist": "最通用，语气比 peculiar 轻"
+  },
+  {
+   "w": "distinctive",
+   "dist": "侧重独特可辨，不含怪义"
+  },
+  {
+   "w": "unwell",
+   "dist": "仅对应“不舒服”义，英式委婉"
+  }
+ ],
+ "promise": [
+  {
+   "w": "pledge",
+   "dist": "更正式庄重，多指郑重保证"
+  },
+  {
+   "w": "vow",
+   "dist": "语气强，多指誓言或婚誓"
+  },
+  {
+   "w": "potential",
+   "dist": "仅对应“前景”义，指潜力"
+  }
+ ],
+ "pottery": [
+  {
+   "w": "ceramics",
+   "dist": "更正式，指陶瓷制品或工艺"
+  },
+  {
+   "w": "earthenware",
+   "dist": "特指粗陶器，范围比 pottery 窄"
+  }
+ ],
+ "elevate": [
+  {
+   "w": "raise",
+   "dist": "最通用，可指具体或抽象提高"
+  },
+  {
+   "w": "lift",
+   "dist": "多指物理抬起，较少用于抽象"
+  },
+  {
+   "w": "boost",
+   "dist": "强调促进提升，常搭配数量信心"
+  }
+ ],
+ "prevalent": [
+  {
+   "w": "widespread",
+   "dist": "强调分布广，中性客观"
+  },
+  {
+   "w": "common",
+   "dist": "最通用，语气比 prevalent 轻"
+  },
+  {
+   "w": "rife",
+   "dist": "多指坏事盛行，带贬义"
+  }
+ ],
+ "fluctuate": [
+  {
+   "w": "vary",
+   "dist": "泛指变化，不强调反复起伏"
+  },
+  {
+   "w": "waver",
+   "dist": "侧重犹豫摇摆，多指态度"
+  },
+  {
+   "w": "oscillate",
+   "dist": "较正式，强调来回摆动"
+  }
+ ],
+ "impulsive": [
+  {
+   "w": "rash",
+   "dist": "贬义更强，指鲁莽欠考虑"
+  },
+  {
+   "w": "hasty",
+   "dist": "侧重仓促草率，不强调性格"
+  },
+  {
+   "w": "spontaneous",
+   "dist": "偏褒义，指自然随性"
+  }
+ ],
+ "plagued": [
+  {
+   "w": "troubled",
+   "dist": "语气较轻，泛指受困扰"
+  },
+  {
+   "w": "tormented",
+   "dist": "程度更重，强调持续折磨"
+  },
+  {
+   "w": "beset",
+   "dist": "正式，多指被困难问题包围"
+  }
+ ],
+ "ceremonial": [
+  {
+   "w": "ritual",
+   "dist": "侧重仪式程序本身，可作名词"
+  },
+  {
+   "w": "formal",
+   "dist": "泛指正式，不含仪式义"
+  },
+  {
+   "w": "solemn",
+   "dist": "强调庄严肃穆的气氛"
+  }
+ ],
+ "remedy": [
+  {
+   "w": "correct",
+   "dist": "纠正错误，最通用，语气中性"
+  },
+  {
+   "w": "rectify",
+   "dist": "正式，强调彻底改正偏差"
+  },
+  {
+   "w": "cure",
+   "dist": "多指治愈疾病，用于问题较少"
+  },
+  {
+   "w": "fix",
+   "dist": "口语，泛指修理解决，较随意"
+  }
+ ],
+ "stigma": [
+  {
+   "w": "shame",
+   "dist": "泛指羞耻感，主观情绪更强"
+  },
+  {
+   "w": "disgrace",
+   "dist": "指丢脸的事，语气更重"
+  },
+  {
+   "w": "mark",
+   "dist": "中性标记，需上下文才含贬义"
+  }
+ ],
+ "allergy": [
+  {
+   "w": "sensitivity",
+   "dist": "泛指敏感反应，医学上较宽泛"
+  },
+  {
+   "w": "intolerance",
+   "dist": "指不耐受，非免疫性过敏"
+  }
+ ],
+ "hay": [
+  {
+   "w": "fodder",
+   "dist": "泛指饲料，范围比干草广"
+  },
+  {
+   "w": "straw",
+   "dist": "指秸秆，与干草材质不同"
+  },
+  {
+   "w": "forage",
+   "dist": "指鲜饲料或觅食，语域偏农学"
+  }
+ ],
+ "steroid": [
+  {
+   "w": "corticosteroid",
+   "dist": "特指皮质类固醇，范围更窄"
+  },
+  {
+   "w": "hormone",
+   "dist": "泛指激素，类固醇为其一类"
+  }
+ ],
+ "epilepsy": [
+  {
+   "w": "seizure",
+   "dist": "指发作症状，非疾病名本身"
+  },
+  {
+   "w": "convulsion",
+   "dist": "指抽搐表现，范围更窄"
+  }
+ ],
+ "quarantine": [
+  {
+   "w": "isolate",
+   "dist": "泛指隔离，不限于防疫"
+  },
+  {
+   "w": "seclude",
+   "dist": "指使隐居隔绝，语域偏文"
+  },
+  {
+   "w": "segregate",
+   "dist": "指分组隔离，强调分开"
+  }
+ ],
+ "impose": [
+  {
+   "w": "enforce",
+   "dist": "强调强制执行法规，非强加于人"
+  },
+  {
+   "w": "inflict",
+   "dist": "指使遭受痛苦，贬义更强"
+  },
+  {
+   "w": "levy",
+   "dist": "专指征收税费，搭配固定"
+  },
+  {
+   "w": "force",
+   "dist": "泛指强迫，最通用口语"
+  }
+ ],
+ "antibiotic": [
+  {
+   "w": "antibacterial",
+   "dist": "antibacterial 侧重“抗细菌的”，多作形容词；antibiotic 可指药物本身。"
+  },
+  {
+   "w": "antimicrobial",
+   "dist": "antimicrobial 范围更广，涵盖细菌、真菌等；antibiotic 通常专指抗细菌。"
+  }
+ ],
+ "gossip": [
+  {
+   "w": "rumor",
+   "dist": "rumor 指未经证实的传言，未必是闲聊；gossip 更强调闲话八卦。"
+  },
+  {
+   "w": "tattle",
+   "dist": "tattle 指告密、搬弄是非，带贬义；gossip 可中性指闲聊。"
+  },
+  {
+   "w": "chatter",
+   "dist": "chatter 指不停闲聊，不涉及内容真假；gossip 侧重议论他人私事。"
+  }
+ ],
+ "molecule": [
+  {
+   "w": "particle",
+   "dist": "particle 泛指微粒，范围大；molecule 特指由原子组成的分子。"
+  },
+  {
+   "w": "atom",
+   "dist": "atom 是原子，比分子更小；molecule 由原子结合而成。"
+  }
+ ],
+ "molecular": [
+  {
+   "w": "atomic",
+   "dist": "原子的，层级更小，常与 molecular 对比使用"
+  }
+ ],
+ "duty": [
+  {
+   "w": "tax",
+   "dist": "tax 泛指税，多指所得税等；duty 常指关税或特定商品税。"
+  },
+  {
+   "w": "tariff",
+   "dist": "tariff 专指进出口关税；duty 还可指一般责任义务。"
+  },
+  {
+   "w": "obligation",
+   "dist": "obligation 强调法律或道义约束；duty 更侧重本分与职责。"
+  },
+  {
+   "w": "responsibility",
+   "dist": "responsibility 指承担的责任，较具体；duty 偏岗位或道德本分。"
+  }
+ ],
+ "destruction": [
+  {
+   "w": "ruin",
+   "dist": "ruin 指毁坏后的破败状态；destruction 强调摧毁行为本身。"
+  },
+  {
+   "w": "devastation",
+   "dist": "devastation 强调大面积严重破坏；destruction 更通用。"
+  },
+  {
+   "w": "demolition",
+   "dist": "demolition 多指建筑物拆除；destruction 范围更广。"
+  }
+ ],
+ "exquisite": [
+  {
+   "w": "delicate",
+   "dist": "delicate 指精巧纤细，易损；exquisite 强调精美绝伦。"
+  },
+  {
+   "w": "elegant",
+   "dist": "elegant 指优雅大方，偏风格；exquisite 偏工艺精细。"
+  },
+  {
+   "w": "refined",
+   "dist": "refined 指经过提炼、有教养；exquisite 更强调感官上的精美。"
+  }
+ ],
+ "singular": [
+  {
+   "w": "remarkable",
+   "dist": "remarkable 指值得注意、出众；singular 偏独特非凡，较书面。"
+  },
+  {
+   "w": "exceptional",
+   "dist": "exceptional 指异常优秀或罕见；singular 强调独一无二。"
+  },
+  {
+   "w": "extraordinary",
+   "dist": "extraordinary 指非同寻常；singular 更带奇特独特意味。"
+  }
+ ],
+ "exert": [
+  {
+   "w": "apply",
+   "dist": "apply 指施加力量或应用方法，较通用；exert 常搭配 pressure、influence。"
+  },
+  {
+   "w": "exercise",
+   "dist": "exercise 指运用权力或影响；exert 更强调用力施加。"
+  },
+  {
+   "w": "wield",
+   "dist": "wield 指行使权力或使用工具；exert 侧重施加压力、影响。"
+  }
+ ],
+ "flip": [
+  {
+   "w": "flick",
+   "dist": "flick 指轻弹、轻拂；flip 指快速翻动或轻抛。"
+  },
+  {
+   "w": "toss",
+   "dist": "toss 指随意抛掷；flip 强调翻转动作或轻抛。"
+  },
+  {
+   "w": "overturn",
+   "dist": "overturn 指彻底翻倒、推翻；flip 动作更轻快。"
+  }
+ ],
+ "meditating": [
+  {
+   "w": "muse",
+   "dist": "文学色彩更浓，指若有所思地沉思"
+  },
+  {
+   "w": "ruminate",
+   "dist": "强调反复琢磨同一件事"
+  },
+  {
+   "w": "contemplate",
+   "dist": "更正式，偏「注视并思考」"
+  }
+ ]
+}

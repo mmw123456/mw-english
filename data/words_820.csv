@@ -1,0 +1,821 @@
+no,word,phonetic,meaning_pdf,pdf_truncated,meaning_ecdict_full,pos,tag,collins
+1,transmit,træns'mit,v. 传播；播送；广播,,"vt. 传输, 传染, 传达, 遗传, 发射, 传播 / vi. 发射信号, 留传下来 / [计] 传送",,cet4 cet6 ky toefl gre,2
+2,conscious,'kɒnʃәs,adj. 意识到的,,"a. 有意识的, 知觉的, 觉察的 / [医] 有意识的, 清醒的",,cet4 cet6 ky toefl ielts,3
+3,prompt,prɒmpt,v. 导致，敦促；鼓励…说下去；adj. 迅速的，及时…,Y,"n. 激励, 提示, 提醒物, 提词, 付款期限 / a. 迅速的, 敏捷的, 立刻的, 提词员的 / vt. 激励, 鼓动, 提示 / adv. 准时地 / [计] 提示符; DOS内部命令:设定DOS命令行的提示符",,cet4 cet6 ky toefl ielts gre,3
+4,eliminate,i'limineit,v. 消除，消灭；排除；vt. （在比赛中）淘汰,,"vt. 除去, 排除, 剔除, 消除",,cet4 cet6 ky toefl ielts gre,3
+5,equivalent,i'kwivәlәnt,n. 相等物,,"n. 同等物, 等价物, 相等物 / a. 相等的, 相当的, 同意义的 / [计] 等价的",,cet4 cet6 ky toefl ielts gre,3
+6,invade,in'veid,v. 侵略，侵入；涌入,,"vt. 侵入, 拥入, 侵略, 侵袭 / [法] 强入, 侵犯, 侵略",,cet4 cet6 ky toefl ielts gre,2
+7,immune,i'mju:n,adj. 不受影响的,,"a. 免疫的, 免除的, 不受影响的 / n. 免疫者",,cet6 ky toefl ielts gre,3
+8,concrete,'kɒnkri:t,adj. 具体的,,"n. 凝结物, 混凝土 / a. 具体的, 实在的, 混凝土的 / v. (使)凝结, 用混凝土浇筑",,gk cet4 cet6 ky toefl ielts gre,3
+9,elaborate,i'læbәreit,v. 详细阐述，详细叙述,,"a. 精细的, 详尽的, 精心计划(或制作)的 / vt. 详细地说明, 用心地制作, 发挥 / vi. 变复杂, 作详细说明",,cet4 cet6 ky toefl ielts gre,2
+10,assemble,ә'sembl,v. 集合；组装，装配（机器等）,,"vt. 集合, 收集, 装配 / vi. 集合 / [计] 汇编",,cet4 cet6 ky toefl ielts gre,2
+11,sketch,sketʃ,n. 素描；v. 画素描,,"n. 素描, 草图, 小品 / v. 描绘略图, 画素描或速写",,cet4 cet6 ky toefl ielts,2
+12,harsh,hɑ:ʃ,adj. 恶劣的，艰苦的，严寒的；严厉的，严格的，严…,Y,"a. 粗糙的, 刺耳的, 严厉的 / [法] 粗糙的, 严厉的, 苛刻的",,cet4 cet6 ky toefl ielts gre,2
+13,hook,huk,v. 连接到，接通；钩住；n. 钩；钩状器官,,"n. 钩, 钩状, 镰刀, 陷阱 / vt. 挂...于钩上, 钩住, 引上钩, 偷窃 / vi. 弯成钩状, 钩紧 / [计] 钩",,gk cet4 cet6 ky toefl,3
+14,prevail,pri'veil,v. 流行，普遍存在,,"vi. 获胜, 流行, 盛行 / [医] 流行, 盛行",,cet4 cet6 ky toefl ielts gre,2
+15,brief,bri:f,adj. 短暂的,,"n. 摘要, 简报 / a. 简短的, 短暂的 / vt. 对...作简报, 摘要, 节录",,gk cet4 ky toefl,4
+16,permanent,'pә:mәnәnt,adj. 永久的,,"a. 永久的, 不变的, 固定的, 持久的 / n. 烫发 / [计] 永久的",,gk cet4 cet6 ky toefl ielts gre,3
+17,instruct,in'strʌkt,vt. 吩咐，指示,,"vt. 教, 教育, 命令, 通知 / [法] 托办, 指导, 指示",,gk cet4 cet6 ky toefl,3
+18,reverse,ri'vә:s,v. 使...逆转；撤销，废除；adj. 反面的,,"n. 相反, 背面, 倒退, 挫折, 失败 / a. 反面的, 相反的, 反向的, 颠倒的 / vt. 使颠倒, 使逆转, 使倒退, 使反向 / vi. 倒退, 反向, 倒转, 反转 / [计] 反转",,cet4 cet6 ky toefl ielts gre,3
+19,magnificent,mæg'nifisnt,adj. 壮丽的，壮观的，盛大的，宏伟的，华丽的,,"a. 华丽的, 高尚的, 宏伟的",,cet4 cet6 ky toefl ielts gre,2
+20,render,'rendә,v. 使成为,,"vt. 回报, 给于, 付给, 汇报, 提出, 舍弃, 反映, 表示, 表演, 致使, 执行, 实施 / vi. 给予补偿 / n. 交纳, 打底",,cet4 cet6 ky toefl ielts gre,2
+21,violate,'vaiәleit,v. 违反，违背,,"vt. 违犯, 亵渎, 违反, 侵犯, 妨碍 / [经] 违犯, 违反",,gk cet6 ky toefl ielts gre,3
+22,pitch,pitʃ,v. 推销；n. 沥青，柏油,,"n. 程度, 坡度, 顶点, 前倾, 倾斜, 投掷, 音高, 螺距, 节距, 摊位, 树脂, 沥青 / vt. 投, 掷, 向前倾跌, 扎营, 竭力推销, 为...定调, 定位于, 用沥青涂 / vi. 搭帐篷, 投掷, 向前跌, 猛然摔倒, 坠落, 倾斜 / [计] 孔距",,cet4 cet6 ky toefl ielts gre,3
+23,abundant,ә'bʌndәnt,adj. 大量的，丰富的,,"a. 丰富的, 充分的, 大量的",,gk cet4 ky toefl gre,1
+24,slip,slip,n. 疏忽，小错误；v. 滑落；溜走,,"n. 滑, 滑行, 事故, 溜, 差错, 滑台, 下降, 插条, 后裔, 板条, 瘦长的年轻人 / vi. 滑动, 滑倒, 失足, 溜走, 滑落, 犯错, 变坏 / vt. 使滑动, 滑过, 摆脱, 闪开, 塞入, 从...取接枝 / a. 滑动的, 滑移的, 活络的, 有活结的 / [计] 串行线接口协议",,gk cet4 cet6 ky toefl ielts,4
+25,deceive,di'si:v,v. 欺骗；使人误信,,"v. 欺骗, 行骗",,cet4 cet6 ky toefl ielts,1
+26,dissolve,di'zɒlv,v. （使）溶解；（使）解散,,"v. 溶解, 解散",,cet4 cet6 ky toefl ielts gre,2
+27,resort,ri'zɒ:t,vi. 诉诸,,"n. 度假胜地, 手段, 凭借, 常去之地 / vi. 诉诸, 常去",,cet4 cet6 ky toefl ielts gre,3
+28,burst,bә:st,n. 迸发；爆裂；爆炸；裂口；v. 爆炸；迸发；溃…,Y,"n. 破裂, 突发, 爆发 / v. 爆裂, 突发, 充满 / [计] 二进制位组; 字符组; 脉冲串",,gk cet4 cet6 ky toefl,3
+29,dim,dim,v. （使）变暗淡；adj. 昏暗的,,"a. 暗淡的, 模糊的 / vt. 使暗淡 / [计] 数据解释模块",,cet4 cet6 ky toefl ielts gre,2
+30,spoil,spɒil,v. 败坏；毁掉；娇惯,,"n. 战利品, 赃物, 奖品, 变质, 次品 / vt. 损坏, 破坏, 溺爱 / vi. 腐坏, 掠夺",,cet4 cet6 ky toefl ielts gre,2
+31,reluctant,ri'lʌktәnt,adj. 不情愿的,,"a. 不情愿的, 勉强的 / [法] 不愿的, 勉强的, 难以处理的",,cet4 cet6 ky toefl ielts,3
+32,cultivate,'kʌltiveit,v. 培养，陶冶；逐渐形成，建立,,"vt. 培养, 耕作",,cet4 cet6 ky toefl ielts gre,2
+33,emit,i'mit,vt. 射出,,"vt. 发出, 放射, 发表(意见等), 散发, 发行 / [化] 放射",,cet4 cet6 ky toefl ielts gre,1
+34,insert,in'sә:t,vt. 插入，嵌入（读作/ɪn ˈsɜrt/）,,"n. 插入物 / vt. 插入, 把(人造卫星)射入(轨道), 添写 / vi. 附着 / [计] 插入",,gk cet4 cet6 ky toefl ielts gre,2
+35,boast,bәust,v. （地方、机构等）自豪地拥有（好的事物）；吹嘘…,Y,"n. 吹牛 / vi. 吹牛, 自夸 / vt. 夸口说, 自恃有",,cet4 cet6 ky toefl ielts gre,2
+36,remote,ri'mәut,adj. 远程的；遥远的；偏远的；n. 遥控器,,"a. 遥远的, 偏僻的, 疏远的, 微少的 / [计] 远程, 远程访问实用程序",,gk cet4 cet6 ky toefl,3
+37,circumstance,'sә:kәmstәns,n. 情况,,"n. 环境, 状况, 事件",,gk cet4 cet6 toefl ielts,3
+38,drift,drift,v. 游荡,,"n. 漂流物, 漂流, 动向 / v. (使)漂流",,cet4 cet6 ky toefl ielts,3
+39,appropriate,ә'prәupriәt,adj. 合适的，适当的；v. 拨款,,"a. 适当的 / [经] 适当的, 拨出, 占用",,gk cet4 cet6 ky toefl ielts gre,3
+40,estate,i'steit,n. 房地产,,"n. 不动产, (人生的)阶段, 阶层, 财产 / [经] 房地产, 遗产, 财产",,cet4 cet6 ky toefl ielts,2
+41,drain,drein,v. 耗尽,,"n. 排水沟, 消耗, 排水 / vt. 排出, 喝光, 耗尽 / vi. 排水, 流干",,cet4 cet6 ky toefl ielts gre,3
+42,consistent,kәn'sistәnt,adj. 一贯的，始终如一的；不变的；连贯一致的,,"a. 一致的, 坚持的, 并立的, 坚固的",,gk cet4 cet6 ky toefl gre,3
+43,indispensable,.indis'pensәbl,adj. 不可或缺的,,"n. 不可缺少之物 / a. 不可缺少的, 责无旁贷的, 绝对必要的",,cet4 cet6 ky toefl ielts,1
+44,beam,bi:m,n. 光线，波束；大梁，横梁；v. 发光，照射,,"n. 横梁, 杆, 光线, 容光焕发 / vi. 用梁支承, 微笑, 射出光线 / vt. 照耀, 感到欣喜 / [计] 束",,gk cet4 cet6 ky toefl ielts gre,2
+45,crack,kræk,v. 断裂，折断；找到解决方法,,"n. 裂缝, 爆裂声 / v. (使)爆裂, (使)裂开, (使)发出爆裂声 / a. 第一流的 / adv. 啪地一声",,cet4 cet6 ky toefl ielts gre,2
+46,hint,hint,n. 暗示，示意,,"n. 暗示, 提示 / v. 暗示, 示意",,cet4 cet6 ky toefl ielts,3
+47,adequate,'ædikwәt,adj. 足够的，充分的,,"a. 适当的, 足够的 / [法] 胜任的, 适当的, 充分的",,gk cet4 cet6 ky toefl ielts gre,3
+48,squeeze,skwi:z,v. 削减，紧缩（资金）；挤压；n. 拥挤,,"n. 紧握, 挤, 榨, 榨取, 佣金 / vt. 紧握, 挤, 榨取 / vi. 压榨, 榨",,gk cet4 cet6 ky toefl ielts gre,3
+49,accuse,ә'kju:z,v. 指责,,"vt. 指责, 控告, 归咎于 / vi. 指责, 控告",,gk cet4 cet6 ky toefl ielts gre,4
+50,insurance,in'ʃurәns,n. 保险,,"n. 保险, 保险业, 保险费 / [医] 保险",,gk cet4 cet6 ky ielts,4
+51,feasible,'fi:zәbl,adj. 可行的，行得通的,,"a. 能实行的, 可行的, 适宜的 / [法] 可行的, 可执行的, 可完成的",,cet4 cet6 ky toefl ielts gre,1
+52,divorce,di'vɒ:s,n. 离婚，离异；v. 离婚,,n. 离婚 / vt. 与...离婚,,gk cet4 cet6 ky toefl ielts,3
+53,coordinate,kәu'ɒ:dineit,v. （衣服、家具等）搭配，协调,,"n. 同等的人(或物), 坐标 / a. 同等的, 并列的 / v. (使)协调",,cet4 cet6 ky toefl ielts gre,2
+54,inflation,in'fleiʃәn,n. 通货膨胀；充气,,"n. 胀大, 夸张, 通货膨胀 / [化] 充气吹胀; 膨胀",,cet6 ky toefl ielts,4
+55,representative,.repri'zentәtiv,n. 代表,,"n. 代表, 众议员, 典型 / a. 描写的, 表现的, 代理的, 代表的, 代议制的, 典型的",,gk cet4 cet6 ky toefl ielts,4
+56,advocate,'ædvәkeit,v. 支持；n. 拥护者,,"n. 提倡者, 拥护者 / vt. 主张, 提倡",,gk cet4 cet6 ky toefl ielts gre,3
+57,implement,'implimәnt,v. 实施，实践，执行,,"n. 工具, 器具, 手段 / vt. 实现, 使生效, 执行",,cet4 cet6 ky toefl ielts gre,3
+58,convention,kәn'venʃәn,n. 大会；惯例；习俗,,"n. 大会, 协定, 惯例, 约定 / [计] 约定",,cet4 cet6 ky toefl ielts,3
+59,liable,'laiәbl,adj. 有…倾向的；负有法律责任的；可能的,,"a. 有义务的, 应负责的, 有...倾向的 / [法] 有责任的, 可受处理的, 应受罚的",,cet4 cet6 ky ielts,2
+60,insult,'insʌlt,n. 侮辱的言辞或行为（读作/ˈɪnsʌlt/）；vt. 侮辱…,Y,"n. 侮辱, 无礼, 损害 / vt. 损害, 侮辱, 攻击",,cet4 cet6 ky toefl ielts,2
+61,overtake,.әuvә'teik,v. 赶超；超过；突然降临,,"vt. 赶上, 突然降临于, 压倒, 代替",,cet4 cet6 ky ielts,2
+62,shrink,ʃriŋk,v. 缩小，减少，萎缩；使… 缩小；n. （非正式用法…,Y,"n. 收缩, 萎缩, 回避 / vi. 收缩, 退缩, 萎缩, 缩小, 回避 / vt. 使收缩, 使缩小",,gk cet4 cet6 ky toefl ielts gre,2
+63,executive,ig'zekjutiv,n. 经理；adj. 有执行权的；经营管理的，决策的,,"n. 执行部门, 执行委员会, 执行者, 经理主管人员 / a. 执行的, 善于执行的, 善于经营的 / [计] 执行程序",,cet4 cet6 ky toefl ielts,4
+64,perceive,pә'si:v,v. 把…看作；察觉,,"vt. 感觉, 认知, 理解, 意识到",,cet4 cet6 ky toefl ielts,2
+65,abortion,ә'bɒ:ʃәn,n. 流产，堕胎,,"n. 流产, 堕胎, 失败, 夭折, 中止 / [医] 流产, 小产; 顿挫",,gk ielts,3
+66,commercial,kә'mә:ʃәl,adj. 商业的，商务的；n. 商业广告,,"a. 商业的, 商用的, 商品化的 / n. 商业广告节目",,cet4 cet6 ky toefl ielts,4
+67,primitive,'primitiv,adj. 原始的；简陋的,,"n. 原始人, 早期艺术家 / a. 原始的, 上古的 / [计] 图元; 原语; 基元",,gk cet4 cet6 ky toefl ielts,2
+68,assume,ә'sju:m,vt. 假定,,"vt. 假定, 承担, 呈现 / vi. 装腔作势, 僭越",,gk cet4 cet6 ky toefl ielts gre,4
+69,evaluate,i'væljueit,v. 评价，评估，估值,,"vt. 评估, 评价, 赋值",,gk cet4 cet6 ky toefl ielts,2
+70,disorder,dis'ɒ:dә,n. 失调,,"n. 杂乱, 混乱 / vt. 扰乱, 使失调",,cet4 cet6 ky ielts,2
+71,possess,pә'zes,v. 拥有，占有,,"vt. 持有, 占有, 拥有, 克制, 支配, 迷住 / [法] 持有, 占有, 具有",,gk cet4 cet6 ky toefl,2
+72,asset,'æset,n. 财产，资产；优势,,"n. 资产, 有益的东西",,cet6 ky toefl ielts gre,4
+73,resolution,.rezә'lu:ʃәn,n. 决心；解决；坚定，刚毅,,"n. 解析, 决心, 坚定, 决定, 决议, 消除, 解答, 分解 / n. 图形分辨率 / [计] 图形分辨率",,cet4 cet6 ky toefl ielts,4
+74,minor,'mainә,adj. 较小的；轻微的；n. 未成年人,,"n. 未成年人, 副修科目 / a. 较小的, 二流的, 未成年的 / vi. 副修 / [计] 次要",,cet4 cet6 ky,3
+75,lease,li:s,vt. 租得；n. 租约,,"n. 租约, 租期, 租 / vt. 出租, 租出, 租得",,cet6 ky toefl ielts gre,3
+76,crude,kru:d,n. 原油；adj. 粗糙的；粗鲁的,,"a. 天然的, 未成熟的, 粗糙的, 粗鲁的 / n. 天然的物质",,cet4 cet6 ky toefl ielts,2
+77,sector,'sektә,n. （经济等的）行业；部分,,"n. 扇形, 部门, 部分, 函数尺, 象限仪, 段, 区段 / vt. 把...分成扇形 / [计] 扇面; 扇区; 段; 区段",,cet6 ky toefl ielts,4
+78,combat,'kɒmbæt,v. 对付；与…战斗；n. 战斗,,"n. 争斗, 战斗 / vi. 战斗, 争斗 / vt. 与...战斗, 与...斗争",,cet6 ky ielts gre,3
+79,scene,si:n,n. 现场；场面，情景,,"n. 场, 情景, 镜头, 发生地点, 道具, 布景, 景色 / [化] 现场",,gk cet4 cet6 ky toefl,4
+80,rigid,'ridʒid,adj. 死板的,,"a. 坚硬的, 刚性的, 严格的, 精密的, 刻板的",,gk cet4 cet6 ky toefl ielts gre,2
+81,scope,skәup,n. 范围，领域,,"n. 范围, 机会, 广度, 眼界, 观察仪器, 导弹射程 / [计] 作用域",,cet4 cet6 ky toefl gre,2
+82,inquire,in'kwaiә,v. 打听；询问,,"v. 询问, 问明, 查究",,cet4 cet6 ielts,2
+83,suppose,sә'pәuz,v. 应该,,"vt. 推想, 假设, 以为, 想像, 假定 / vi. 料想",,zk gk cet4 cet6 ky toefl,4
+84,conceal,kәn'si:l,v. 隐藏,,"vt. 隐藏, 掩盖, 隐瞒 / [法] 隐瞒, 隐匿, 保守秘密",,cet4 cet6 ky toefl ielts gre,2
+85,sensible,'sensәbl,adj. 明智的；实用的,,"a. 有感觉的, 敏感的, 明智的 / [医] 可感觉的",,cet4 cet6 ky toefl ielts gre,3
+86,scale,skeil,n. 规模，程度，范围,,"n. 刻度, 衡量, 比例, 比例尺, 数值范围, 等级, 规模, 天平, 秤, 鳞, 积垢 / vt. 依比例决定, 攀登, 测量, 绘制, 刮鳞, 使生垢, 过秤 / vi. 剥落, 生水垢, 重量为, 攀登, 衡量 / [计] 刻度",,cet4 cet6 ky toefl ielts gre,4
+87,journal,'dʒә:nәl,n. 期刊；日记，备忘录；日报，周报,,"n. 日记, 杂志, 日报 / [化] 轴颈",,cet4 cet6 ky toefl ielts,4
+88,dispute,dis'pju:t,n. 争议,,n. 争论 / v. 争论,,cet4 cet6 ky toefl ielts gre,4
+89,reception,ri'sepʃәn,n. 前台，接待处；招待会,,"n. 接待, 接受, 招待会 / [医] 接受, 感受",,gk cet4 cet6 ky toefl ielts,2
+90,controversy,'kɒntrәvә:si,n. 争论，辩论,,"n. 论争, 辩论, 论战, 争论 / [法] 论战, 争论, 争吵",,cet6 ky toefl ielts,3
+91,liberal,'libәrәl,adj. 自由主义的；人文（教育）的,,"n. 自由主义者 / a. 慷慨的, 不拘泥的, 宽大的, 自由主义的",,cet4 cet6 ky toefl ielts,4
+92,slender,'slendә,adj. 苗条的，纤细的，细长的,,"a. 苗条的, 纤弱的, 微少的, 微薄的 / [机] 细的, 纤细的",,cet4 cet6 ky toefl ielts,1
+93,interval,'intәvәl,n. 间隔；幕间休息，中场休息,,"n. 间隔, 距离, 间歇, 间隙 / [计] 时间间隔",,gk cet4 cet6 ky toefl ielts,2
+94,keen,ki:n,adj. 热切的,,"a. 锋利的, 敏锐的, 强烈的, 敏捷的, 热心的, 渴望的 / n. 挽歌, 痛哭 / v. 唱挽歌, 痛哭",,cet4 cet6 ky toefl ielts,3
+95,spouse,spauz,n. 配偶,,n. 配偶,,cet6 ky toefl ielts,2
+96,regulate,'regjuleit,vt. 控制；调节,,"vt. 管理, 控制, 调节, 调整, 校准 / [经] 控制, 管理",,cet4 cet6 ky toefl ielts gre,2
+97,via,vaiә,prep. 通过；经由,,"prep. 经由, 经过, 通过 / [医] 病毒灭活剂",,gk cet4 cet6 ky toefl ielts,3
+98,disguise,dis'gaiz,n. 化装用具；伪装,,"n. 假面目, 假装 / vt. 假装, 隐瞒",,cet4 cet6 ky ielts gre,2
+99,aspect,'æspekt,n. 方面,,"n. 外观, 方面, 面貌, 方向 / [医] 方面, 局面; 外观",,gk cet4 cet6 ky toefl gre,4
+100,exaggerate,ig'zædʒәreit,v. 夸大,,"v. 夸大, 夸张",,cet4 cet6 ky toefl ielts gre,2
+101,scheme,ski:m,n. 计划；阴谋，诡计；方案；v. 图谋，密谋,,"n. 方案, 计划, 组合, 系统, 图解, 诡计, 阴谋 / v. 计划, 设计, 图谋, 策划",,cet4 cet6 ky toefl ielts gre,4
+102,preserve,pri'zә:v,v. 保护；保养，保持，维护,,"vt. 保护, 保持, 保存, 维持, 腌, 禁猎 / vi. 加工食品, 禁猎 / n. 加工成的食品, 禁猎地, 保护区, 防护物",,gk cet4 cet6 ky toefl ielts,3
+103,perspective,pә'spektiv,n. （思考问题的）角度，观点；（对事物的）合理判…,Y,"n. 远景, 透视感, (观察问题的)视角, 透视法, 看法, 透视图 / a. 透视的, 透视法的 / [计] 透视",,cet4 cet6 ky toefl ielts gre,3
+104,provoke,prә'vәuk,v. 引起；激怒,,"vt. 激怒, 惹起, 诱导 / [法] 刺激, 煽动, 激怒",,cet6 ky toefl ielts,3
+105,radical,'rædikl,adj. 彻底的，根本的；激进的,,"n. 激进分子, 词根, 基础, 根式, 根 / a. 激进的, 根本的, 基本的, 根的",,cet4 cet6 ky toefl ielts,4
+106,abstract,'æbstrækt,adj. 抽象的，理论上的；n. 摘要,,"a. 抽象的, 深奥的 / n. 摘要, 抽象概念 / vt. 摘要, 提炼, 使抽象化 / [计] 摘录; 摘要; 抽象",,gk cet4 cet6 ky toefl ielts gre,2
+107,institution,.insti'tju:ʃәn,n. 机构；制度,,"n. 机构, 惯例, 制度 / [医] 机关, 机构, 设施",,gk cet4 cet6 ky toefl ielts gre,4
+108,format,'fɒ:mæt,n. 格式；总体安排；版式；样式；v. 设计一个版式…,Y,"n. 开本, 版式, 形式, 格式 / vt. 格式化 / [计] 格式; DOS外部命令:对磁盘进行格式化",,gk ky toefl ielts,2
+109,plot,plɒt,n. 情节,,"n. 小块土地, 地区图, 图, 阴谋, 情节 / vt. 划分, 绘图, 密谋 / vi. 密谋, 策划 / [计] 绘制",,gk cet4 cet6 ky toefl ielts gre,3
+110,patch,pætʃ,n. 小块土地；小片；眼罩,,"n. 片, 补缀, 碎片, 斑, 傻瓜 / vt. 补缀, 掩饰, 拼凑, 平息 / [计] 修补; 拼凑",,cet4 cet6 ky toefl ielts gre,2
+111,appliance,ә'plaiәns,n. 器具,,"n. 器械, 用具, 应用 / [医] 矫正器; 器",,cet4 cet6 ky toefl ielts,2
+112,pop,pɒp,n. 流行音乐，流行歌曲,,"n. 砰然声, 枪击, 含气饮料, 流行音乐, 通俗艺术 / a. 流行的, 热门的, 通俗的 / vt. 使发出爆裂声, 开枪打, 突然伸出 / vi. 发出爆裂声, 射击, 突然出现, 瞪大 / adv. 突然, 砰地 / [计] 出现点, 邮局协议",,zk cet4 cet6 ky ielts,3
+113,altitude,'æltitju:d,n. 海拔,,"n. 高度, 海拔, 高处 / [电] 高度",,gk cet4 cet6 ky toefl ielts,1
+114,attempt,ә'tempt,vt. 企图,,"n. 尝试, 企图 / vt. 尝试, 企图",,gk cet4 cet6 ky toefl ielts,5
+115,grant,grænt,n. 拨款；v. 授予，发放,,"n. 授予, 授予物, 允许 / vt. 允许, 承认, 授与 / [计] 授权命令",,cet4 cet6 ky ielts gre,4
+116,circuit,'sә:kit,n. 电路，线路；巡游；巡回,,"n. 电路, 环(行)道, 巡回 / [计] 线路; 电路",,gk cet4 cet6 ky toefl ielts gre,3
+117,rear,riә,adj. 后部的；n. 后部；v. 抚养,,"n. 后面, 背后, 后方 / a. 后面的, 背面的, 后方的 / vt. 养育, 培养, 饲养, 举起, 树立, 栽种 / vi. 高耸, 暴跳",,cet4 cet6 ky toefl ielts,3
+118,victim,'viktim,n. 受害者,,"n. 受害人, 牺牲者, 牺牲品 / [法] 受害人, 被害人, 遭难者",,gk cet4 cet6 ky,4
+119,division,di'viʒәn,n. 差异,,"n. 分, 分开, 除法, 部门(如部、处、系等), 师 / [计] 部分",,gk cet4 cet6 ky toefl,4
+120,spur,spә:,v. 激励，促进；n. 刺激，鞭策，鼓励,,"n. 马刺, 刺激物, 鼓舞 / vt. 刺激, 激励, 用马刺策(马)前进 / vi. 用马刺驱马, 疾驰",,cet4 cet6 ky toefl ielts gre,3
+121,trace,treis,vt. 追溯；追踪,,"n. 痕迹, 踪迹, 微量, 迹线, 缰绳 / vt. 追踪, 回溯, 描绘 / vi. 追溯, 沿路走",,cet4 cet6 ky toefl ielts,3
+122,discourage,dis'kʌridʒ,vt. 阻拦，劝阻,,"vt. 使气馁, 阻碍",,gk cet4 cet6 ky toefl,2
+123,manufacture,.mænju'fæktʃә,n. 生产,,"n. 产品, 制造 / vt. 制造, 假造 / vi. 制造",,cet4 cet6 ky toefl ielts,3
+124,clumsy,'klʌmzi,adj. 笨拙的,,"a. 笨拙的, 不雅观的, 粗陋的",,gk cet4 cet6 ky toefl ielts gre,1
+125,offend,ә'fend,v. 冒犯,,"v. 犯罪, 冒犯, 违反, 进攻",,cet4 cet6 ky ielts gre,2
+126,faculty,'fækәlti,n. 全体教员,,"n. 才能, 能力, 全体教员, (大学的)系 / [医] 能力, [大学]院系",,cet4 cet6 ky toefl ielts gre,2
+127,competent,'kɒmpitәnt,adj. 有能力的,,"a. 能干的, 胜任的, 有效的, 足够的 / [经] 有权的, 授权的, 胜任的",,cet4 cet6 ky toefl,2
+128,pension,'penʃәn,n. 养老金，抚恤金,,"n. 养老金, 退休金, 津贴, 年金, 抚恤金, 膳宿学校, 膳宿费 / vt. 发给退休金, 用津贴拉拢",,gk cet4 cet6 ky ielts gre,3
+129,sole,sәul,adj. 仅有的，唯一的；独家的，独占的；n. 脚掌；…,Y,"n. 脚掌, 鞋底, 底部 / a. 唯一的, 仅有的, 单独的, 独身的 / vt. 上鞋底, 触底",,cet4 cet6 ky toefl ielts,2
+130,declare,di'klєә,v. 宣告；断言，明确宣布某种判断或主张,,"v. 宣布, 声明, 申报, 断言",,gk cet4 cet6 ky toefl ielts,4
+131,statistics,stә'tistiks,n. 统计数字；统计学,,"n. 统计学, 统计资料 / [计] 统计信息",,gk cet4 cet6 ky toefl ielts,
+132,access,'ækses,n. 访问；（使用或见到的）机会，权利；使用权；v.…,Y,"n. 通路, 入口, 接近, 进入, 使用权, 发作 / vt. 访问, 存取, 接近, 使用 / [计] 访问, 存取",,gk cet4 cet6 ky toefl ielts gre,3
+133,estimate,'estimeit,v. 估计,,"n. 估计, 判断 / vt. 估计, 评价, 判断 / vi. 估计",,cet4 cet6 ky toefl ielts,4
+134,initiative,i'niʃiәtiv,n. 倡议；主动权；主动性,,"n. 主动行动, 首创精神, 主动权 / a. 自发的, 起始的",,cet4 cet6 ky ielts gre,3
+135,refine,ri'fain,v. 改进；vt. 精炼,,"vt. 精炼, 净化, 使优雅, 使精炼 / vi. 被精炼, 被净化",,cet4 cet6 ky toefl ielts,1
+136,deposit,di'pɒzit,v. 存放；放下，放置；n. 沉积物；押金；矿藏,,"n. 存款, 定金, 堆积物 / vt. 存放, 堆积 / vi. 沉淀",,gk cet4 cet6 ky toefl ielts gre,3
+137,lobby,'lɒbi,v. 游说，游说使…得以通过；n. 门厅，大堂，大厅,,"n. 大厅, 休息室, 游说议员者 / vi. 游说议员, 游说 / vt. 游说",,cet6 ky toefl ielts gre,3
+138,utter,'ʌtә,adj. 十足的，极度的；vt. 自口中发出（声音、言语…,Y,"a. 全然的, 绝对的, 完全的 / vt. 发出声音, 做声, 发表, 发射, 流通",,cet4 cet6 ky toefl gre,2
+139,retreat,ri'tri:t,n. 撤退，退却；休养所，收容所,,"n. 休息寓所, 撤退, 隐居, 退避 / vi. 撤退, 隐退, 向后倾 / vt. 退(棋)",,cet4 cet6 ky toefl ielts gre,3
+140,occasion,ә'keiʒәn,n. 特别时刻，场合；某次,,"n. 场合, 时机, 机会, 诱因, 理由 / vt. 惹起, 引起",,cet4 cet6 ky toefl ielts,4
+141,enforce,in'fɒ:s,v. 强制实施，执行,,"vt. 强迫, 执行, 坚持 / [经] 予以强制执行",,cet4 cet6 ky ielts,2
+142,prospect,'prɒspekt,n. 前景；希望,,"n. 景色, 展望 / vt. 勘探, 勘察 / vi. 勘探, 有前途",,cet4 cet6 ky toefl ielts gre,4
+143,burden,'bә:dn,n. 重担，负担；vt. 烦扰,,"n. 负担, 重载, 担子, 责任 / vt. 装货于, 烦扰, 使负担",,gk cet4 cet6 ky toefl,3
+144,verify,'verifai,v. 证实；核对,,"vt. 证明, 查证, 证实, 检验, 校验 / [计] 校验, 检验; DOS内部命令:设定写入磁盘时是否验证写入的正确性",,cet4 cet6 ky toefl gre,1
+145,private,'praivit,adj. 私人的,,"a. 私人的, 秘密的, 私立的, 隐蔽的 / n. 士兵, 隐士, 阴部 / [计] 私人的",,zk gk cet4 cet6 ky toefl ielts,4
+146,accumulate,ә'kju:mjuleit,v. 积攒，积累,,"v. 积聚, 堆积",,gk cet4 cet6 ky toefl ielts gre,2
+147,accord,ә'kɒ:d,v. （与…）一致，符合,,"n. 一致, 调和, 协定 / vt. 给与, 使一致 / vi. 相符合",,cet4 cet6 ky toefl ielts gre,5
+148,term,tә:m,n. 术语；期限；（pl.）条款,,"n. 术语, 专有名词, 期限, 学期, 任期, 条件, 价钱, 关系, 地位, 项, 界石 / vt. 称, 呼 / [计] 检索词; 项",,zk gk cet4 cet6 ky toefl ielts,5
+149,remain,ri'mein,link-v. 保持不变；v. 剩下,,"vi. 保持, 逗留, 剩余 / [法] 停留, 居住, 继续",,zk gk cet4 cet6 ky,5
+150,instinct,'instiŋkt,n. 直觉,,"n. 本能, 直觉 / a. 充满着的",,cet4 cet6 ky toefl ielts,2
+151,particle,'pɑ:tikl,n. 粒子；小品词,,"n. 颗粒, 粒子, 质点, 极小量 / [化] 粒子; 质点",,cet4 cet6 ky toefl ielts,2
+152,supervise,'sju:pәvaiz,v. 监督工作或活动的执行，指导工作或活动的执行,,"v. 监督, 管理, 指导",,cet6 ky toefl ielts gre,2
+153,wit,wit,n. 智力，才智，机智；风趣，措辞巧妙的能力；说…,Y,"n. 机智, 智力, 头脑, 理智, 妙语, 机智的人",,cet4 cet6 ky toefl ielts gre,2
+154,vanish,'væniʃ,v. 突然消失；消亡，绝迹,,"vi. 消失, 不见, 成为零",,cet4 cet6 ky toefl ielts,2
+155,vain,vein,adj. 徒劳的，枉费心机的；自负的,,"a. 无价值的, 徒然的, 空虚的, 自负的, 愚蠢的",,gk cet4 cet6 ky ielts gre,2
+156,vacant,'veikәnt,adj. 空着的；茫然的,,"a. 空的, 空白的, 空虚的, 空闲的, 茫然的, 空缺的 / [法] 空的, 空虚的, 闲暇的",,gk cet4 cet6 ky toefl,1
+157,conserve,kәn'sә:v,v. 节省，保存；保护；n. 蜜饯，果酱（读作/ˈkɑn…,Y,"n. 蜜饯, 果酱 / vt. 保存, 使(能量等)守恒",,cet4 cet6 ky toefl ielts gre,2
+158,nutrient,'nju:triәnt,n. 营养物,,"a. 营养的, 滋养的 / n. 营养物, 滋养物",,cet6 toefl gre,2
+159,reservoir,'rezәvwɑ:,n. 水库；储液槽；储备；储水罐,,"n. 贮水池, 贮藏处, 贮备, 水库 / vt. 储藏",,cet6 ky toefl ielts,2
+160,stake,steik,n. 股本；赌注；桩，标桩；vt. 下注,,"n. 桩, 炮烙刑, 木柱, 赌注, 奖金 / vt. 打桩, 用桩撑, 下赌注, 资助 / vi. 打赌",,cet4 cet6 ky toefl ielts gre,4
+161,summit,'sʌmit,n. 山顶；（政府间的）峰会；巅峰,,"n. 顶点, 最高阶层, 最高级会议 / a. 政府首脑的, 最高级的",,cet4 cet6 ky toefl ielts,4
+162,rival,'raivl,n. 竞争对手,,"n. 对手, 竞争者 / a. 竞争的",,cet4 cet6 ky toefl ielts gre,4
+163,spectacle,'spektәkl,n. 奇观；眼镜（仅限复数形式）；引人注目的景象,,"n. 引人羡慕的东西, 景象, 眼镜, 场面, 公开展示",,cet4 cet6 ky toefl ielts,2
+164,speculate,'spekjuleit,v. 推测，猜测；投机，做投机买卖,,"vi. 深思, 推测, 投机 / [经] 投机",,cet6 ky toefl ielts gre,3
+165,interior,in'tiәriә,adj. 内部的,,"n. 内部, 内政 / a. 内部的, 心灵的, 内地的, 内政的",,cet4 cet6 ky toefl ielts,3
+166,intimacy,'intimәsi,n. 亲密，亲近,,"n. 亲密, 熟悉, 亲昵行为(言语) / [法] 亲近的行为, 亲密, 隐私",,toefl,1
+167,specify,'spesifai,v. 详细说明,,"vt. 详列, 指定, 说明 / [计] 指定",,cet4 cet6 ky toefl,2
+168,profound,prә'faund,adj. 深刻的，深远的；知识渊博的；深奥的,,"a. 极深的, 深厚的, 深刻的, 渊博的",,cet6 ky toefl ielts gre,2
+169,norm,nɒ:m,n. 规范；常态，平常事物,,"n. 基准, 模范, 标准, 准则, 平均数 / [化] 定额",,cet6 ky toefl ielts gre,2
+170,circulate,'sә:kjuleit,v. 散布，主动传播，主动发行，行销；循环，流通，…,Y,"v. (使)流通, (使)循环, (使)传播",,gk cet4 cet6 ky toefl ielts gre,2
+171,subtract,sәb'trækt,v. 去除,,"vt. 减去, 扣掉, 减少 / vi. 做减法 / [计] 减",,cet4 cet6 ky toefl ielts gre,1
+172,treaty,'tri:ti,n. 条约,,"n. 条约, 谈判 / [经] 协议, 协定, 协商",,cet4 cet6 ky ielts gre,4
+173,administer,әd'ministә,v. 给予（药）,,"vt. 管理, 料理, 执行 / vi. 执行遗产管理人的职责, 给予帮助",,ky toefl ielts,2
+174,cape,keip,n. 披肩；岬，海岬，海角,,"n. 岬, 海角, 披肩, 斗蓬",,cet6 ky ielts gre,2
+175,assembly,ә'sembli,n. 装配，组装,,"n. 与会者, 集会, 装配, 组件 / [化] 装配",,cet4 ky toefl,3
+176,transparent,træns'pærәnt,adj. 显而易见的，坦白的,,"a. 透明的, 显然的, 清晰的 / [计] 透明",,gk cet4 cet6 ky toefl ielts gre,1
+177,consensus,kәn'sensәs,n. 一致同意,,"n. 合意, 一致, 同感 / [计] 合意",,gk cet6 ky toefl ielts gre,2
+178,consent,kәn'sent,n. 同意，准许；v. 同意,,"n. 同意, 许可 / vi. 同意, 赞同",,cet4 cet6 ky ielts gre,2
+179,controversial,.kɒntrә'vә:ʃәl,adj. 有争论的,,"a. 争论的, 论争的, 被议论的",,gk cet6 ky toefl ielts gre,3
+180,infrastructure,'infrәstrʌktʃә,n. 基础设施,,"n. 基础结构, 基础设施 / [经] 基础设施",,cet6 ky,2
+181,deputy,'depjuti,n. 副手，代理,,n. 副手，代理人,,cet4 cet6 ky toefl ielts gre,4
+182,ancestral,æn'sestrәl,adj. 祖先的，祖传的,,"a. 祖先的, 祖传的 / [法] 祖先的, 祖传的",,toefl,1
+183,antique,æn'ti:k,n. 古董，文物；古玩；adj. 古时的,,"n. 古董, 古物 / a. 古老的, 古风的, 旧式的, 过时的",,gk cet6 ky toefl ielts gre,3
+184,suicide,'sjuisaid,n. 自杀；自杀者；自杀性行为,,"n. 自杀, 自杀者 / v. 自杀 / a. 自杀的",,cet6 ky ielts,3
+185,preliminary,pri'liminәri,adj. 初步的，预备的；n. 预赛，预考，初试，初步…,Y,"n. 初步做法, 初步措施, 预试, 预选赛 / a. 初步的, 开始的, 预备的",,cet4 cet6 ky toefl ielts gre,2
+186,setback,'setbæk,n. 挫折，倒退,,"n. 挫折, 退步, 逆流",,cet6 ky ielts gre,2
+187,sacrifice,'sækrifais,v. 牺牲，舍弃；献祭；n. 牺牲,,"n. 牺牲, 供奉, 祭品 / vt. 牺牲, 祭祀, 贱卖 / vi. 献祭",,gk cet4 cet6 ky ielts gre,3
+188,incline,in'klain,v. 使…倾向于；使某人倾向于做某事；使…倾斜；n.…,Y,"n. 倾斜, 斜坡, 斜面 / vt. 使倾向于, 使倾斜 / vi. 倾向, 倾斜, 爱好, 易于",,cet4 cet6 ky ielts,1
+189,devour,di'vauә,v. 吞食，耗尽；毁灭；贪婪地看，贪婪地阅读；使心…,Y,"vt. 吞食, 挥霍, 吞没",,cet6 toefl ielts gre,1
+190,glory,'glɒ:ri,n. 辉煌,,"n. 光荣, 荣耀, 荣誉, 壮丽, 繁荣 / vi. 自豪",,gk cet4 cet6 ky,2
+191,spontaneous,spɒn'teiniәs,adj. 主动的，自发的，不由自主的；自然的，天真率…,Y,"a. 自然的, 自发的, 未经琢磨的 / [医] 自发的, 特发的, 自生的",,cet4 cet6 ky toefl ielts gre,2
+192,duple,'dju:pl,adj. 双拍子的,,"a. 二倍的, 双重的",,,
+193,diplomat,'diplәmæt,n. 外交官，外交家；有交际手腕的人，圆滑的人,,"n. 外交官, 有外交手腕的人 / [法] 外交家, 外交官, 有权谋的人",,ky ielts,3
+194,contemptible,kәn'temptibl,adj. 可鄙的，卑劣的,,"a. 卑鄙的, 可轻蔑的, 不足挂齿的",,toefl gre,
+195,indigenous,in'didʒinәs,adj. 土生土长的，本土的,,"a. 本土的, 国产的, 固有的 / [医] 原产的, 本土的",,toefl ielts gre,1
+196,tribute,'tribju:t,n. 颂词，致敬，礼物；贡品；体现,,"n. 贡物, 礼物, 颂辞",,cet6 ky toefl gre,2
+197,approximate,ә'prɒksimәt,v. 接近，近似（读作/ə ˈprɑksəmeɪt/）；adj. …,Y,"a. 大约的, 接近的, 近似的 / vt. 接近, 使接近, 粗略估计 / vi. 接近于",,cet4 cet6 ky toefl ielts gre,2
+198,deception,di'sepʃәn,n. 欺骗；骗术,,"n. 欺骗, 诡计 / [法] 瞒骗, 诈欺, 欺骗",,toefl gre,1
+199,transact,træn'sækt,v. 处理，商议,,"vt. 办理, 处理 / vi. 作交易, 谈判",,toefl,
+200,explicitly,,adv. 明确地；坦率地；生动地；清晰地,,adv. 明确地；明白地,,,
+201,forum,'fɒ:rәm,n. 论坛；讨论会,,"n. 论坛, 公开讨论的广场, 法庭, 讨论会 / [法] 讨论会, 专题讨论, 公共论坛",,cet6 ky ielts gre,2
+202,reconcile,'rekәnsail,v. 和解；调和，使协调；使…将就,,"vt. 使和解, 调停, 使和谐, 使一致, 使听从 / [经] 对帐, 使一致",,cet6 ky toefl ielts gre,2
+203,counsel,'kaunsәl,n. 律师；劝告；vt. 建议，劝告,,"n. 商议, 忠告, 法律顾问 / v. 商议, 劝告",,cet6 ky toefl ielts,3
+204,intact,in'tækt,adj. 完好无损的，未受损害的,,"a. 尚未被人碰过的, 原封不动的, 完整的 / [医] 完整的, 无伤的",,cet6 ky toefl ielts gre,2
+205,terminal,'tә:minәl,n. 终点站，航空站，码头,,"n. 终端机, 终点, 末端, 极限, 终点站 / a. 终点的, 定期的, 致死的, 结尾的, 末端的, 晚期的 / [计] 终端; 终端设备",,gk cet4 cet6 ky toefl ielts gre,2
+206,terminate,'tә:mineit,v. 终止，结束，停止；到达终点站,,"a. 有结尾的, (可)结束的 / vi. 结束, 终止, 满期 / vt. 使停止, 使结束, 使终止 / [计] 终止",,cet6 ky toefl ielts gre,2
+207,implication,.impli'keiʃәn,n. 可能的后果；含意，暗示；牵连，卷入,,"n. 牵连, 含义, 暗示 / [法] 推断, 含蓄之意, 暗示",,cet4 cet6 ky toefl gre,3
+208,implicit,im'plisit,adj. 隐含的；完全的，绝对的；内在的，内含的,,"a. 暗示的, 含蓄的, 固有的, 绝对的 / [经] 不讲明的, 含蓄的",,cet6 ky toefl ielts gre,2
+209,explicate,'eksplikeit,v. 详细解说,,"vt. 详细说明, 解释, 说明, 引伸",,gre,
+210,conscientious,.kɒnʃi'enʃәs,adj. 勤勉认真的，煞费苦心的；勤勉认真的；一丝不…,Y,"a. 有责任心的, 负责的, 本着良心的 / [法] 凭良心做的, 有道德感的",,ky toefl ielts gre,1
+211,consolidate,kәn'sɒlideit,v. 巩固，加强；把……合为一体；整合，统一；把……,Y,"vt. 巩固, 使联合, 统一 / vi. 巩固 / [计] 合并计算",,cet6 ky toefl ielts gre,2
+212,contaminate,kәn'tæmineit,v. 污染，弄脏；玷污；【化】污染；对…造成放…,Y,"vt. 弄污, 弄脏, 污染, 毒害 / [化] 污染",,cet6 ky toefl ielts gre,2
+213,counterpart,'kauntәpɑ:t,n. 相当的人，对应物，副本；对应的人（物）；职…,Y,"n. 副本, 复本, 配对物, 相应物 / [经] 副本, 正副二份中之一",,cet6 ky toefl ielts gre,3
+214,criterion,krai'tiәriәn,n. 标准，准则；原则,,"n. 标准, 准则, 规范 / [化] 判据",,gk cet6 ky ielts gre,2
+215,damp,dæmp,v. 弄湿，使弄湿；抑制；使减弱；adj. 潮湿的；潮…,Y,"n. 潮湿, 湿气 / a. 潮湿的 / vt. 使潮湿, 使阻尼, 抑止 / vi. 变潮湿, 衰减",,gk cet4 cet6 ky toefl ielts gre,2
+216,deed,di:d,n. 行为；契约；英勇事迹；v. 立契转让,,"n. 行为, 实行, 契约 / vt. 立契转让",,gk cet4 cet6 ky gre,1
+217,illuminate,i'lju:mineit,v. 照亮；阐释；说明；【航】照亮，点亮；用彩…,Y,"vt. 照明, 用灯装饰, 阐明, 说明, 使灿烂 / vi. 照亮, 用灯装饰",,cet6 ky toefl ielts gre,1
+218,explicit,ik'splisit,adj. 明确的；有露骨性爱场面的,,"a. 详述的, 清楚的, 直言的",,gk cet6 ky toefl ielts gre,2
+219,constrain,kәn'strein,v. 限制；强迫,,"vt. 强迫, 限制, 关押",,cet6 ky toefl ielts gre,1
+220,mold,mәuld,n. 模子；霉菌；v. 把…… 塑造成；塑造,,"n. 模子, 模型, 霉 / v. 形成, 塑造, 发霉",,toefl gre,
+221,restrain,ri'strein,v. 抑制，控制；阻止,,"vt. 抑制, 阻止, 束缚 / [法] 抑制, 遏制, 制止",,cet4 cet6 ky toefl ielts gre,2
+222,convert,kәn'vә:t,v. 改变，转变，转化；可转变为，可变换成；n. 皈…,Y,"n. 皈依者, 改变宗教信仰者 / vt. 使改变信仰, 转换, 兑换, 倒置 / vi. 皈依 / [计] 转换",,cet4 cet6 ky toefl ielts gre,3
+223,converse,kәn'vә:s,v. 交谈；n. 相反的事物,,"n. 相反的事物, 倒, 逆向 / a. 相反的, 逆向的, 颠倒的 / vi. 交谈, 谈话",,cet6 toefl gre,1
+224,conversely,'kɔnv\\\\:sli,adv. 相反地，反过来,,"adv. 相反, 逆, 颠倒, 反题, 反",,cet4 cet6 ky ielts,
+225,versus,'vә:sәs,prep. 与……相对，与…… 相比,,"prep. 对... / [法] 诉, 对, 相形",,cet6 ky ielts,2
+226,erect,i'rekt,v. 建造，竖立，搭建；竖起；adj. 直立的，垂直的,,"a. 直立的, 竖立的, 笔直的 / vt. 使竖立, 使直立, 树立, 建立 / vi. 勃起",,cet4 cet6 ky toefl ielts gre,2
+227,static,'stætik,n. 静电；静电干扰；adj. 静止的；静止的，停滞的…,Y,"n. 静电, 静电干扰 / a. 静态的, 静止的, 固有的, 静电的",,cet4 cet6 ky toefl ielts gre,1
+228,obstacle,'ɒbstәkl,n. 障碍,,"n. 障碍, 妨害物, 阻碍",,cet4 cet6 ky toefl ielts gre,2
+229,statute,'stætju:t,n. 成文法,,"n. 法令, 成文法律, 法规, 章程, 条例 / [法] 法令, 法规, 成文法",,cet4 ky ielts gre,1
+230,constitution,.kɒnsti'tju:ʃәn,n. 宪法，章程；体质；组成，结构,,"n. 构成, 宪法, 体格 / [医] 体质; 结构, 组织",,gk cet4 cet6 ky toefl ielts gre,3
+231,substitute,'sʌbstitju:t,n. 替代物；替代者；替补队员；v. 代替,,"n. 代理, 代理人, 代用品, 代替者, 代替物 / vt. 代替 / vi. 替代, 取代, 代用 / a. 代替的, 代用的, 代用品的 / [计] 置换; 替代",,gk cet4 cet6 ky toefl ielts gre,3
+232,humid,'hju:mid,adj. 潮湿的；湿热的,,"a. 潮湿的, 湿润的, 多湿气的",,cet4 cet6 ky toefl gre,1
+233,caption,'kæpʃәn,n. 标题，说明文字；v. 给（图片、照片等）加说明…,Y,"n. 说明, 字幕, 标题 / vt. 加上标题, 加上说明 / [计] 标题",,gk ielts gre,4
+234,principal,'prinsipәl,n. 校长,,"n. 校长, 首长, 本金, 主犯, 资本, 委托人 / a. 主要的, 最重要的, 首要的",,cet4 cet6 ky toefl ielts gre,3
+235,punctual,'pәŋktʃuәl,adj. 准时的，守时的,,"a. 准时的, 守时的, 点状的, 中肯的 / [经] 准时的, 不误期的, 准时",,gk cet4 cet6 ky toefl ielts,1
+236,punch,pʌntʃ,n. 拳打,,"n. 打洞器, 钻孔机, 冲压机, 冲床, 潘趣酒 / vt. 以拳重击, 开洞, 冲压 / vi. 用拳猛击",,cet4 cet6 ky toefl gre,3
+237,adolescent,.ædәu'lesәnt,n. 青少年；adj. 青春期的,,"a. 青春期的, 青少年的 / n. 青少年",,gk cet6 ky toefl gre,2
+238,abolition,.æbәu'liʃәn,n. 废除，取消,,"n. 废除, 废奴运动 / [医] 禁止, 消失",,toefl gre,
+239,abolish,ә'bɒliʃ,v. 废除，取消,,"vt. 废止, 革除, 消灭 / [经] 废除, 取消, 裁撤",,gk cet6 ky toefl ielts gre,2
+240,convict,kәn'vikt,n. 犯人（读作/ˈkɑn ˌvɪkt/）；v. 定罪，宣…,Y,"n. 囚犯, 罪犯 / vt. 宣告有罪, 使知罪",,cet6 ky toefl ielts gre,3
+241,contend,kәn'tend,v. 主张；处理，对付；竞争,,"vi. 奋斗, 斗争, 竞争 / vt. 为...斗争",,cet6 ky toefl ielts gre,2
+242,intensify,in'tensifai,v. 加强，增强，加大，加剧；（指事物本身的程度…,Y,vt. 加强 / vi. 强化,,cet6 toefl ielts gre,2
+243,pregnant,'pregnәnt,adj. 怀孕的，妊娠的；充满的；意味深长的,,"a. 怀孕的, 充满的, 思想丰富的, 成果丰硕的 / [医] 妊娠的, 有孕的",,gk cet6 ky toefl ielts gre,3
+244,script,skript,n. 剧本，脚本，手稿；v. 为电影（或戏剧等）写剧本,,"n. 手迹, 手稿, 正本, 手写体 / vt. 改编为演出本 / [计] 手写体, 小型程序",,cet6 ky ielts gre,3
+245,scrape,skreip,v. 刮擦，（使）发出刮擦声；n. 刮擦，刮擦声；…,Y,"n. 刮, 擦, 挖, 擦痕, 刮擦声, 困境 / vi. 刮掉, 擦掉, 刮出刺耳声 / vt. 刮, 擦, 擦伤, 挖成, 积蓄",,cet4 cet6 ky toefl ielts gre,2
+246,literacy,'litәrәsi,n. 读写能力；专业知识,,"n. 读写能力, 识字, 精通文学",,cet6 ky toefl ielts,1
+247,facile,'fæsil,adj. （言论）轻率的；轻易得到的，轻易完成的,,"a. 容易的, 灵巧的, 温和的",,toefl gre,
+248,defect,di'fekt,n. 瑕疵，缺陷；vi. 背叛；v. 叛变，投敌,,"n. 缺点 / [医] 缺损, 缺陷",,cet4 cet6 ky toefl ielts gre,2
+249,saddle,'sædl,n. 马鞍；车座；v. 给马装鞍具,,"n. 鞍, 马鞍, 车座, 鞍状物 / vt. 装以马鞍, 使负担 / vi. 跨上马鞍",,cet4 cet6 ky toefl ielts gre,2
+250,composure,kәm'pәuʒә,n. 镇静，沉着,,"n. 镇静, 沉着",,toefl gre,1
+251,dispose,dis'pәuz,v. 处理，处置；使倾向于；排列，布置,,"vt. 处理, 排列, 布置 / vi. 处置",,cet4 cet6 ky toefl ielts gre,2
+252,disposition,.dispә'ziʃәn,n. 性情，性格；意向，倾向；排列，部署,,"n. 性情, 处置, 处理, 布置 / [医] 素因, 性情",,cet6 ky toefl ielts gre,1
+253,disposal,dis'pәuzәl,n. 处理；出售,,"n. 丢掉, 处理, 排列, 销毁, 布置 / [医] 处理, 处置",,cet4 cet6 ky toefl ielts gre,2
+254,epidemic,.epi'demik,adj. 流行性的，传染的；泛滥的；传染的；n. 传染…,Y,"n. 传染病, 流行病 / a. 流行的, 传染性的",,cet6 ky toefl ielts gre,2
+255,pandemic,pæn'demik,adj. 全球（全国）流行的；n. 大流行病,,"a. 大流行的, 普遍的, 全世界的 / [医] 大流行的, 大流行病",,gre,
+256,utilize,'ju:tilaiz,v. 利用；运用,,vt. 利用,,cet4 cet6 ky toefl gre,2
+257,take advantage of,,phr. 利用；欺骗；利用，占便宜，欺骗；占......的便宜,,,,zk gk ielts,1
+258,tremendous,tri'mendәs,adj. 极大的，强烈的；精彩的，出色的；极大的，巨…,Y,"a. 巨大的, 非常的, 可怕的",,cet4 cet6 ky toefl ielts gre,3
+259,suitcase,'sju:tkeis,n. 小提箱，手提箱；手提箱,,n. 手提箱,,gk cet6 toefl ielts gre,2
+260,graver,'greivә,n. 雕刻师；雕刻工具,,"n. 雕刻师, 雕刻刀 / [医] 雕刻刀",,,
+261,naked,'neikid,adj. 裸体的，裸露的；裸体的；无遮蔽的；直白的；…,Y,"a. 裸体的, 无装饰的, 无保护的, 赤贫的 / [医] 裸露的",,cet4 cet6 ky toefl ielts,2
+262,scandal,'skændәl,n. 丑事，丑行；流言蜚语；愤慨；丑行；丑行的传言…,Y,"n. 丑闻, 中伤, 耻辱, 反感, 流言蜚语 / [法] 丑事, 丑闻, 干丑事的人",,cet4 cet6 ky toefl ielts gre,3
+263,skeptic,'skeptik,n. 怀疑论者,,"n. 怀疑者, 怀疑论者, 不可知论者",,ky toefl,
+264,sophistication,sә.fisti'keiʃәn,n. 老于世故，修养；老练；复杂，先进；巧妙,,"n. 诡辩, 老于世故, 复杂(性) / [医] 掺假",,toefl gre,1
+265,deprive,di'praiv,v. 剥夺；使不能享有,,"vt. 剥夺, 使丧失 / [法] 剥夺, 剥夺, 夺去",,cet6 ky toefl ielts,2
+266,prominent,'prɒminәnt,adj. 显眼的，显著的；重要的，著名的；凸现的，显…,Y,"a. 卓越的, 显著的, 突出的, 凸出的",,cet4 cet6 ky toefl ielts gre,3
+267,postpone,pәust'pәun,vt. 推迟，延缓,,"vt. 延迟, 使延期, 缓办, 搁延 / vi. 延缓, 延缓发作",,gk cet4 cet6 ky toefl ielts gre,2
+268,compatible,kәm'pætәbl,adj. 合得来的,,"a. 能共处的, 可并立的, 适合的 / [计] 相容的; 兼容的",,cet6 ky toefl ielts gre,2
+269,rouse,rauz,vt. 唤醒；激起；v. 使活跃起来,,"n. 觉醒, 奋起, 干杯 / vt. 唤醒, 鼓舞, 激动, 使振奋, 惊起 / vi. 醒来, 奋起",,cet4 cet6 ky ielts,1
+270,proficient,prә'fiʃәnt,adj. 精通的，熟练的,,"n. 高手, 专家 / a. 精通的, 熟练的",,cet6 toefl gre,
+271,deficient,di'fiʃәnt,adj. 有缺陷的；不足的，不充足的,,"a. 不足的, 不充分的, 有缺陷的",,cet6 toefl,1
+272,deficit,'defisit,n. 赤字；缺少，缺陷,,"n. 赤字, 不足额 / [医] 短缺",,cet6 ky toefl ielts gre,4
+273,legalese,",li:^ә'li:z",n. 法律行话,,"n. 法律措辞, 法律术语",,,
+274,legislate,'ledʒisleit,v. 立法，制定法律,,vi. 制定法律 / vt. 用立法规定,,toefl ielts gre,1
+275,margin,'mɑ:dʒin,n. 页边的空白，边缘；利润；余地，备用的时间（…,Y,"n. 页边的空白, 边缘, 界限, 余裕, 差数, 差额, 保证金 / vt. 加边于, 加旁注于 / [计] 页边距",,cet4 cet6 ky toefl ielts gre,3
+276,delegate,'deligeit,n. 代表；v. 授权；选派,,n. 代表 / vt. 委派...为代表,,cet4 cet6 ky toefl ielts gre,3
+277,negligible,'neglidʒәbl,adj. 微不足道的，可忽略不计的；不值一提的,,"a. 可以忽略的, 不足取的, 无用的 / [医] 可不计的, 可忽视的",,cet6 ky toefl ielts,1
+278,intellect,'intәlekt,n. 思维能力；才华出众的人,,"n. 智力, 出众的才华, 知识分子 / [医] 智力, 才智",,cet6 toefl ielts gre,1
+279,forceful,'fɒ:sful,adj. 坚强的，有力的；有说服力的,,"a. 有力的, 强烈的, 有说服力的",,,1
+280,reinforce,.ri:in'fɒ:s,v. 强化,,"vt. 加强, 增援, 补充 / vi. 求援, 得到增援 / n. 加固材料",,cet4 cet6 ky toefl ielts gre,2
+281,landlord,'lændlɒ:d,n. 房东，地主；老板,,"n. 房东, 地主 / [经] 业主, 地主, 房东",,cet4 cet6 ky,2
+282,grave,greiv,adj. 严重的；严肃的；n. 墓,,"n. 墓穴, 坟墓, 终结, 死亡 / a. 庄重的, 严肃的, 重大的, 低沉的 / vt. 雕刻",,cet4 cet6 ky ielts gre,3
+283,alleviate,ә'li:vieit,vt. 减轻，缓解,,"vt. 减轻, 使缓和",,cet6 ky toefl ielts gre,1
+284,stale,steil,adj. 不新鲜的，难闻的，污浊的；陈腐的，缺乏新鲜…,Y,"n. 尿 / a. 不新鲜的, 陈腐的, 疲惫的, 陈旧的 / vt. 使变旧, 走味 / vi. 变陈旧, 走味, 失时效, 撒尿",,cet4 cet6 ky toefl ielts gre,1
+285,instalment,in'stɒ:lmәnt,n. 一期付款；一集，一节,,"n. 就职, 装设, 分期付款",,ielts,1
+286,utile,'ju:tail,adj. 有用的，有益的,,a. 有用的；有益的,,,
+287,utility,ju:'tiliti,n. 公用事业；实用；adj. 通用性的,,"n. 功用, 有用之物, 实用, 公用事业, 实用程序 / a. 实用的, 有多种用途的 / [计] 实用程序, 工具",,cet4 cet6 toefl ielts,2
+288,profess,prә'fes,v. 公开表明，显示出,,"vt. 声称, 以...为业, 伪称, 讲授 / vi. 表白, 承认, 当教授",,toefl,1
+289,confess,kәn'fes,v. 承认，坦白；（向神父或上帝）忏悔,,"v. 承认, 坦白, 忏悔, 供认",,cet4 cet6 ky toefl ielts gre,2
+290,closet,'klɒzit,n. 橱，壁橱；adj. 私下的，秘密的；v. 把...引进…,Y,"n. 壁橱, 小室 / a. 秘密的, 空谈的 / vt. 把...关入小室",,cet6 ky ielts gre,1
+291,exclusively,ik'sklu:sivli,adv. 仅仅,,"adv. 排他地, 仅仅, 专门, 只, 仅, 唯一地, 专有地",,cet4 cet6 toefl ielts,2
+292,segment,'segmәnt,n. 部门，部分；（橘子等的）瓣（读作/…,Y,"n. 片段, 部分, 分节, 段 / v. 分割, 分裂 / [计] 段",,cet4 cet6 ky toefl ielts gre,3
+293,accountable,ә'kauntәbl,adj. 应负责的，应做解释的,,"a. 负有责任的, 可说明的, 可解释的 / [经] 负有责任的",,,2
+294,curriculum,kә'rikjulәm,n. 课程，（学校或专业的）全部课程,,"n. 课程 / [医] 课程, 学程",,gk cet6 ky toefl ielts gre,2
+295,currency,'kʌrәnsi,n. 货币；通行,,"n. 货币, 通货, 流通, 通用 / [计] 货币, 货币型",,gk cet6 ky toefl ielts,4
+296,concur,kәn'kә:,v. 同意；一致,,"vi. 同意, 一致, 同时发生 / [法] 同时发生, 并发, 同意",,toefl gre,1
+297,diction,'dikʃәn,n. 措辞；吐字，发音,,"n. 措辞, 发音, 用语",,toefl,
+298,dictate,'dikteit,v. 口述；命令；强加，支配；n. 命令,,"vi. 听写, 口述, 口授 / vt. 口述, 使听写, 命令 / n. 命令, 指挥, 指令",,cet4 cet6 ky toefl ielts gre,2
+299,indicator,'indikeitә,n. 指示器；【统计学】指标；转向灯,,"n. 指示器, 指示剂, 指标 / [计] 指示器",,ielts,2
+300,index,'indeks,n. 索引；指数；标志；v. 编入索引,,"n. 索引, 指针, 指数, 指标 / vt. 编入索引中, 指出 / vi. 做索引 / [计] 下标; 附标; 变址; 索引; 编索引",,cet4 cet6 ky ielts,3
+301,proceed,prәu'si:d,vi. 前行,,"vi. 继续进行, 进行, 开始, 发出, 起诉 / [法] 所得, 收入, 收益",,cet4 cet6 ky toefl ielts,3
+302,procession,prә'seʃәn,n. 队伍，行列；一连串；列队行进,,"n. 队伍, 连续, 列队行进, 涌出",,cet4 cet6 ky gre,2
+303,proceeding,prәu'si:diŋ,n. 诉讼；行动（仅限复数形式）；会议记录，会刊（…,Y,"n. 进行, 程序, 行动, 诉讼程序, 事项 / [化] 会议论文集",,cet6 ky toefl ielts,2
+304,exceed,ik'si:d,v. 超过，超出；超越……的限制,,"vt. 超过, 超越, 胜过 / vi. 超过其他",,cet4 cet6 ky toefl ielts gre,2
+305,concede,kәn'si:d,v. （不情愿地）承认；让与,,"vt. 承认, 退让 / vi. 让步",,cet6 ky toefl ielts gre,3
+306,prayer,prєә. 'preiә,n. 祈祷，祷告；祷文；祈祷会（仅限复数形式）；企…,Y,"n. 祈祷, 恳求, 祷辞, 祈祷者",,gk cet4 cet6 ky,2
+307,precede,.pri:'si:d,v. 先于,,"vt. 在...之前, 优于, 较...优先 / vi. 在前面",,cet6 ky toefl gre,2
+308,recede,ri'si:d,vi. 渐渐远去；逐渐减弱；（头发）从前向后减少,,"vi. 向后退, 退却, 收回, 降低, 减弱 / [医] 退缩",,ky toefl ielts gre,1
+309,recession,ri'seʃәn,n. 衰退,,"n. 后退, 凹处, 衰退, 归还 / [医] 退缩",,cet6 ky toefl ielts gre,4
+310,discard,dis'kɑ:d,v. 丢掉；n. 被抛弃的人（或物）,,"vt. 丢弃, 抛弃 / vi. 垫牌 / n. 垫牌, 抛弃",,cet4 cet6 ky toefl ielts gre,2
+311,charter,'tʃɑ:tә,n. 宪章；特许状；v. 包，租（汽车等）,,"n. 特许状, 执照, 宪章 / vt. 特许, 发给特许执照",,cet6 ky toefl ielts gre,3
+312,semiconductor,.semikәn'dʌktә,n. 半导体,,n. 半导体 / [化] 半导体,,cet4 cet6 ky,1
+313,deduct,di'dʌkt,v. 减去，扣除,,"vt. 扣除, 减去 / [经] 扣除, 减去, 折扣",,cet6 ky ielts gre,2
+314,induce,in'dju:s,vt. 劝说；导致某人做某事；引产,,"vt. 引诱, 招致, 归纳出, 感应 / [医] 诱导, 感应",,cet6 ky toefl ielts gre,2
+315,convene,kәn'vi:n,v. 开会；召开,,"vt. 集合, 召集, 召唤 / vi. 聚集, 集合",,cet6 toefl ielts gre,2
+316,avenue,'ævәnju:,n. 林荫道，道路,,"n. 大街, 途径, 林荫路",,gk cet4 ky toefl ielts,2
+317,clash,klæʃ,v. 有分歧；vi. 发生冲突；发出撞击声；n. 冲突；…,Y,"n. 冲突, 撞击声, 抵触 / vi. 冲突, 抵触 / vt. 使发出撞击声 / [计] 对撞",,cet6 ky ielts gre,3
+318,handicap,'hændikæp,n. 残疾，生理缺陷；障碍；vt. 使不利，妨碍,,"n. 障碍, 困难, 不利条件 / vt. 加障碍于, 妨碍",,cet6 ky toefl ielts,2
+319,manoeuvre,mә'nu:vә,n. （军队）调遣，演习；花招，巧计；谨慎或熟练的…,Y,"n. 调遣, 演习, 策略 / vi. 调动, 演习, 用策略 / vt. 调动, 操纵",,cet6 ky toefl,2
+320,manual,'mænjuәl,n. 使用手册；adj. 体力的；手动的,,"n. 手册, 指南 / a. 手的, 手动的, 手工的, 体力的 / [计] 人工的, 手动的",,cet4 cet6 ky toefl ielts,2
+321,commend,kә'mend,v. 称赞；委托,,"vt. 嘉奖, 委托给, 推荐",,cet6 ky toefl ielts,1
+322,consecutive,kәn'sekjutiv,adj. 连续的，连贯的,,"a. 连续的, 联贯的 / [计] 连续的; 连接的",,cet6 ky toefl ielts,2
+323,execute,'eksikju:t,v. 执行，实施，履行,,"vt. 执行, 实行, 完成, 处死, 制成 / [计] 执行",,cet4 cet6 ky toefl ielts gre,3
+324,sequence,'si:kwәns,n. 一系列，一连串；顺序；v. 按顺序排列,,"n. 序列, 续发事件, 顺序, 连续 / vt. 按顺序排好 / [计] 顺序",,cet4 cet6 ky toefl ielts,2
+325,subsequent,'sʌbsikwәnt,adj. 随后的,,"a. 后来的, 接下去的 / [经] 后来的",,cet4 cet6 ky toefl ielts gre,3
+326,subsequently,'sʌbsikwәntli,adv. 随后，后来,,"adv. 后来, 随后",,cet6 toefl,
+327,domestic,dәu'mestik,adj. 国内的；家务的，家用的，家里的；家养的，驯…,Y,"a. 家庭的, 国内的, 驯养的 / [医] 家庭的, 家用的",,cet4 cet6 ky toefl ielts,4
+328,domesticate,dәu'mestikeit,vt. 驯养，驯化,,"vt. 养驯, 引进(外来词等), 教化",,toefl gre,1
+329,dome,dәum,n. 圆屋顶，穹顶；半球形物,,n. 圆顶 / vt. 加圆顶 / vi. 成圆顶状,,cet6 ky ielts gre,2
+330,sue,su:,v. 控告；提出请求,,"vt. 控告, 起诉, 请求 / vi. 提出诉讼, 提出请求",,cet6 ky toefl ielts,2
+331,hardware,'hɑ:dwєә,n. （计算机）硬件；五金制品；重武器,,"n. 硬件, 五金器具, 零件 / [计] 硬件",,cet4 cet6 ky toefl ielts,2
+332,hardship,'hɑ:dʃip,n. 穷困,,"n. 艰难, 辛苦, 苦难 / [法] 受苦, 吃苦, 苦难",,gk cet4 cet6 ky toefl,2
+333,scarce,skɑ:s,adj. 缺乏的，不足的；稀少的，罕见的,,"a. 难得的, 稀罕的, 缺乏的",,cet4 cet6 ky toefl ielts,2
+334,propriety,prә'praiәti,n. 得体的举止,,"n. 礼貌, 规矩, 适当 / [计] 专有权",,toefl ielts gre,
+335,property,'prɒpәti,n. 财产；房屋及院落，房地产；特性,,"n. 财产, 所有权, 性质, 属性 / [计] 属性",,cet4 cet6 ky toefl ielts,4
+336,briefcase,'bri:fkeis,n. 公文包,,n. 公事包,,ky ielts,1
+337,cassette,kæ'set,n. 盒式录像带,,"n. 盒式磁带, 珠宝箱, 暗盒 / [计] 字盒",,cet4 cet6 ky toefl ielts,2
+338,infinite,'infinit,adj. 无限的，无穷的；极大的,,"n. 无限, 神 / a. 无穷的, 无限的, 极大的",,cet4 cet6 ky ielts,2
+339,bounce,bauns,v. 弹起；拒付（支票）；蹦跳；使弹起；n. 弹跳，…,Y,"n. 跳, 跳跃, 弹力, 撞击 / vi. 反跳, 弹跳 / vt. 使跳回, 撞击 / [计] 打回",,gk cet4 cet6 ky toefl ielts,2
+340,bundle,'bʌndl,n. 捆，包；一批；巨款；v. 捆绑销售,,"n. 捆, 束 / vt. 包扎, 胡乱塞进 / vi. 匆忙离开",,cet4 cet6 ky toefl ielts,2
+341,fore,fɒ:,n. 前部，船头；adv. 向前面，在前面，在船头,,"a. 在前的, 以前的 / adv. 在前面, 在船头 / prep. 在...前",,cet6 ky,1
+342,absolve,әb'zɒlv,v. 使免除（罪责或责任）,,"vt. 宣告...无罪, 赦免, 免除 / [经] 免偿(债务), 解除",,toefl gre,
+343,ascend,ә'send,v. 沿着……上升，攀登；晋升,,"vi. 上升, 追溯, 登高 / vt. 攀登",,cet6 ky toefl ielts,1
+344,succession,sәk'seʃәn,n. 一连串；继承；继承权；继承顺序,,"n. 连续, 继承权, 继位, 演替, 地层次序 / [法] 继承, 继承权, 继位",,cet4 cet6 ky ielts,2
+345,successive,sәk'sesiv,adj. 连续的,,"a. 继承的, 连续的 / [经] 接续承运人; 连续的",,cet4 cet6 ky toefl,2
+346,affluent,'æfluәnt,adj. 富裕的,,"a. 丰富的, 富裕的 / n. 支流, 富人",,cet4 ky toefl gre,1
+347,fluid,'flu:id,adj. 流动的,,"n. 液体, 分泌液, 流体 / a. 流动的, 可改变的",,cet4 cet6 ky toefl ielts,2
+348,influenza,.influ'enzә,n. 流行性感冒，流感,,"n. 流行性感冒 / [医] 流行性感冒, 流感",,toefl,
+349,confer,kәn'fә:,v. 授予，给予；商讨，协商,,"vt. 授予, 带来 / vi. 协商",,cet6 ky toefl ielts gre,1
+350,referee,.refә'ri:,n. 裁判员；推荐人，介绍人；仲裁者；v. 裁判,,"n. 仲裁人, 调解人, 裁判员 / v. 仲裁, 裁判",,gk cet6 ky ielts gre,2
+351,eject,i'dʒekt,v. 喷射；（使）弹出；驱逐,,"vt. 逐放, 放逐, 喷射 / [化] 排出",,cet6 ky toefl ielts,1
+352,bystander,'baistændә(r),n. 旁观者,,"n. 旁观者, 目击者 / [法] 候补陪审员, 旁观者",,gre,1
+353,extinguish,ik'stiŋgwiʃ,v. 熄灭，扑灭；根除，消灭,,"vt. 熄灭, 使消亡, 压制, 使减色 / [医] 消灭",,cet6 ky toefl ielts gre,1
+354,distinct,dis'tiŋkt,adj. 清晰的，明显的,,"a. 清楚的, 显著的, 不同的",,cet4 cet6 ky toefl ielts gre,2
+355,radar,'reidә,n. 雷达，无线电探测器,,"n. 雷达, 无线电探测器 / [计] 雷达图",,cet4 cet6 ky toefl ielts,2
+356,radiate,'reidieit,v. 辐射，发出（光或热）；流露，显示；呈辐射状发散,,"vt. 放射, 散发, 辐射, 传播, 广播 / vi. 发光, 辐射, 流露 / a. 有射线的, 辐射状的",,cet4 cet6 ky toefl ielts,1
+357,radius,'reidiәs,n. 半径；半径范围；桡骨,,"n. 半径, 范围, 辐射光线 / [电] 半径",,cet4 cet6 ky toefl ielts gre,1
+358,radically,'rædikәli,adv. 根本地,,"adv. 根本地, 完全地",,ky toefl,
+359,abrupt,ә'brʌpt,adj. 突然的；唐突的,,"a. 突然的, 唐突的, 陡峭的, 不连贯的",,gk cet6 ky toefl ielts gre,2
+360,bumper,'bʌmpә,n. 汽车前后的保险杆；adj. 丰收的，特大的,,"n. 缓冲器, 满杯 / a. 大胜利的",,ielts,1
+361,dump,dʌmp,vt. 倾倒，丢弃；抛弃（某人）；倾销，抛售；n. …,Y,"n. 垃圾场 / vt. 倾倒, 倾销 / vi. 倒垃圾, 倾销商品 / [计] 转出; 转储; 倾卸; 切断电源",,cet4 cet6 ky toefl ielts,3
+362,lump,lʌmp,n. 肿块；团，块；粗笨的人；v. 把……归并一起,,"n. 块, 瘤, 很多, 肿块, 笨人 / vt. 使成块状, 混在一起 / vi. 结块",,cet4 cet6 ky toefl ielts gre,2
+363,stump,stʌmp,n. 树桩；残肢；v. 把…… 难住；脚步重重地走,,"n. 残株, 树桩, 烟蒂, 讲演台 / vt. 砍断, 挑战, 难住 / vi. 蹒跚而走",,,2
+364,compensate,'kɒmpenseit,v. 补偿,,"v. 偿还, 补偿, 付报酬",,gk cet6 ky toefl ielts gre,2
+365,dispense,dis'pens,v. 分发；摒弃，不再需要（dispense with）；配…,Y,"vt. 分发, 分配 / vi. 特许, 豁免",,cet6 toefl gre,1
+366,suspend,sә'spend,v. 暂停，暂缓；推迟；悬挂，吊；【化】悬浮；vt…,Y,"vt. 悬, 吊, 使悬浮, 暂停, 中止, 推迟 / vi. 暂停, 中止, 悬浮, 停止偿付债务 / [计] 暂停",,cet4 cet6 ky toefl ielts gre,3
+367,tack,tæk,n. 平头钉；v. 钉住；作之字形移动，抢风航行,,"n. 平头钉, 大头钉, 粗缝针脚, 行动方针, 食物 / vt. 以大头针钉住, 附加",,cet6 gre,2
+368,detach,di'tætʃ,v. 使…分开；摆脱；派遣,,"vt. 使分离, 分遣 / [机] 摘下, 分离, 卸下",,cet6 ky toefl ielts gre,1
+369,explode,ik'splәud,vi. 激增,,"vi. 爆炸, 爆发, 激增 / vt. 使爆炸",,gk cet4 cet6 ky toefl ielts,3
+370,plausible,'plɒ:zibl,adj. 似乎有理的，貌似可信的；花言巧语的，巧舌如…,Y,"a. 貌似真实的, 貌似合理的, 说得煞有其事的 / [法] 花言巧语的, 似乎有理的",,cet6 ky toefl ielts gre,1
+371,compel,kәm'pel,vt. 强迫；v. 博得,,"vt. 强迫, 迫使",,cet4 cet6 ky toefl ielts gre,2
+372,compulsory,kәm'pʌlsәri,adj. 必修的，必须做的,,"a. 被强制的, 强迫的, 义务的 / [经] 强迫的, 强制的",,gk cet6 ky toefl ielts gre,2
+373,expel,ik'spel,v. 驱逐；排出；开除,,"vt. 驱逐, 逐出, 排出, 开除 / [医] 排除, 迫出",,cet4 cet6 ky toefl ielts gre,2
+374,pulse,pʌls,n. 脉搏；（电子）脉冲；豆果果实；v. 跳动，搏动…,Y,"n. 脉冲, 脉搏, 情绪, 意向, 拍子, 豆类 / vi. 跳动, 脉跳 / vt. 使跳动, 用脉冲调制 / [计] 脉冲",,gk cet4 cet6 ky toefl gre,2
+375,impulse,'impʌls,n. 冲动；脉冲；推动力,,"n. 冲动, 驱使, 刺激, 推动, 冲力, 建议, 脉冲 / vt. 推动",,cet6 ky toefl ielts gre,2
+376,layer,'leiә,n. 层；层次；v. 把…修剪出层次，把…分层堆放,,"n. 层, 产卵鸡, 放置者 / vt. 分层堆积, 压植 / [计] 层",,cet4 cet6 ky toefl ielts,3
+377,layman,'leimәn,n. 门外汉，外行；普通教徒，非神职人员,,"n. 俗人, 门外汉, 凡人 / [医] 外行, 业外人",,cet6 ky toefl ielts gre,1
+378,layoff,'leiɒf,n. 裁员，临时解雇；歇工期；停工期,,"n. 临时解雇, 操作停止, 活动停止期间",,cet6 ky ielts,1
+379,relay,'ri:lei,n. 接力赛跑（读作/ˈri ˌleɪ/）；轮换者；中继设…,Y,"n. 驿马, 替班, 中继, 接力 / vt. 分程传递, 转播, 使接替 / vi. 接力传送, 转播",,gk cet6 ky toefl ielts,2
+380,commune,kә'mju:n,n. 公社（读作/ˈkɑm ˌjun/）；v. 与...融为一体,,"n. 恳谈, 社区, 公社 / vi. 亲密交谈, (感情上)融为一体",,gre,1
+381,solely,'sәulli,adv. 完全地，单独地,,"adv. 仅仅, 单独地",,cet4 cet6 toefl,
+382,metric,'metrik,n. 度量标准；adj. 米制的，公制的,,"a. 公尺的, 公制的, 计量的 / [医] 测量的, 米制的, 公制的",,cet4 cet6 ky ielts,1
+383,cosmic,'kɒzmik,adj. 宇宙的；广大无边的；巨大且重要的,,"a. 宇宙的, 宇宙航行的, 无限的, 有秩序的 / [医] 宇宙的",,cet6 ky toefl ielts gre,1
+384,illusion,i'lju:ʒәn,n. 假象；幻想；错觉，幻象；【计】错觉；幻术,,"n. 幻影, 错觉, 幻想 / [医] 错觉",,cet4 cet6 ky toefl ielts gre,2
+385,orbit,'ɒ:bit,v. （沿）轨道运行，环绕……运行；沿轨道运行…,Y,"n. 轨道, 常轨, 眼眶 / vt. 绕...轨道而行 / vi. 进入轨道, 盘旋",,gk cet4 cet6 ky toefl ielts,2
+386,fraught,frɒ:t,adj. 忧虑的，令人忧虑的；充满…的,,"a. 含有...的, 伴着...的, 充满...的",,toefl ielts gre,1
+387,interpretation,in.tә:pri'teiʃәn,n. 说明；口译；【化】解释，释义；演绎，表演方…,Y,"n. 解释, 演出, 翻译 / [计] 插值; 插值法; 解释",,cet4 cet6 toefl,2
+388,binary,'bainәri,adj. 二进位的；由两部分组成的；n. 二进制数,,"a. 由两部分组成的, 二进位的, 二元的 / [计] 二进制的; 二态的; 二进制, 二进制文件传输类型设置命令",,,1
+389,vampire,'væmpaiә,n. 吸血鬼,,n. 吸血鬼 / [医] 吸血蝙蝠,,gre,1
+390,amplify,'æmplifai,v. 放大（声音等）；扩大；增强；扩展，进一步阐释…,Y,"vt. 增强, 放大, 扩大, 详述 / vi. 引伸",,cet4 cet6 ky toefl ielts gre,1
+391,hypothesis,hai'pɒθәsis,n. 假说；假设；猜想，猜测；【化】假说,,n. 假设 / [化] 假设,,cet6 ky toefl ielts gre,1
+392,hypothesize,hai'pɔθisaiz,v. 假设，假定,,"vt. 假设, 假定",,toefl,
+393,once (and) for all,,phr. 只此一次，彻底地,,,,,
+394,strive,straiv,v. 努力，奋斗；斗争；力争,,"vi. 努力, 奋斗, 斗争",,cet6 ky toefl ielts gre,2
+395,essence,'esns,n. 本质，实质；精髓，精华；精华液；香精,,"n. 实质, 本质, 香精 / [化] 香精",,cet6 ky toefl ielts,2
+396,captive,'kæptiv,adj. 被俘虏的，被关起来的；受控制的；被监禁的…,Y,"n. 俘虏, 迷恋者 / a. 被俘的, 被迷住的",,cet4 cet6 ky ielts,2
+397,lure,luә,v. 引诱；劝诱；n. 诱惑力，诱惑物；鱼饵；诱回…,Y,"n. 饵, 诱惑 / vt. 引诱, 诱惑",,ky toefl ielts gre,2
+398,flourish,'flʌriʃ,vi. 茂盛；繁荣，兴旺；v. 挥舞；处于全盛时期；茂…,Y,"vi. 繁荣, 茂盛, 活跃, 手舞足蹈 / vt. 挥舞, 夸耀 / n. 挥舞, 炫耀, 茂盛, 兴旺, 华丽词藻",,cet4 cet6 ky toefl ielts gre,2
+399,heedless,'hi:dlis,adj. 不注意的；不留心的,,"a. 不注意的, 不留心的, 不谨慎的",,toefl,
+400,tranquil,'træŋkwil,adj. 宁静的，安静的,,a. 安静的,,cet6 toefl,1
+401,sentiment,'sentimәnt,n. 感情；情绪；观点，看法；伤感；伤感,,"n. 感情, 感伤, 情操, 情绪, 感想, 意见 / [医] 情感, 情操",,cet6 ky ielts gre,2
+402,perplexity,pә'pleksiti,n. 困惑；使人困惑的事物,,"n. 困惑, 混乱状态, 使人困惑的事物",,ielts,
+403,realm,relm,n. 领域；王国，国土；场所,,"n. 王国, 领土, 领域 / [计] 领域",,cet4 cet6 ky toefl ielts gre,2
+404,corrupt,kә'rʌpt,v. 使腐败；损坏，破坏；贿赂；使…出错；adj. 腐…,Y,"a. 腐败的, 贪污的, 讹误充斥的 / vt. 使腐烂, 腐蚀, 使恶化 / vi. 腐烂, 堕落",,gk cet6 ky ielts gre,2
+405,validate,'vælideit,v. 使……生效，使合法化；证明正确；【计】验证；…,Y,"vt. 使有效, 使生效, 确认, 证实, 验证 / [计] 验证",,toefl gre,1
+406,validation,.væli'deiʃәn,n. 批准；确认，认可；验证；【财】验证，确认；…,Y,"n. 批准, 确认 / [计] 证实, 检验",,,
+407,in retrospect,,phr. 回顾往事；检讨过去,,回顾,,,
+408,resonate,'rezәneit,v. 发出回响；产生共鸣,,"v. (使)共鸣, (使)共振",,,1
+409,yearn,jә:n,v. 渴望，向往,,"vi. 渴望, 想念, 怀念, 同情",,cet6 toefl ielts gre,
+410,magnet,'mægnit,n. 磁铁，吸铁石；有吸引力的人或物,,"n. 磁铁, 有吸引力之人, 有吸引力之物 / [化] 磁体",,cet4 cet6 ky,1
+411,geometry,dʒi'ɒmәtri,n. 几何学；几何形状,,n. 几何学 / [机] 几何学,,gk cet4 cet6 ky toefl ielts,1
+412,thermometer,θә'mɒmitә,n. 温度计，体温计,,"n. 温度计, 体温计 / [化] 温度计",,cet4 cet6 ky toefl ielts,1
+413,withdrawal,wið'drɒ:l,n. 取款,,"n. 提款, 撤退, 退回, 撤消, 退隐, 戒毒过程 / [医] 戒除, 脱瘾",,toefl,3
+414,draft,dræft. drɑ:ft,n. 草稿，草案；征兵；汇票；气流，通风；v. 起…,Y,"n. 气流, 草稿, 汇票, 草案 / vt. 起草, 征兵 / [计] 草稿",,gk cet4 cet6 ky toefl ielts gre,3
+415,exclaim,iks'kleim,v. 呼叫，呼喊，惊叫,,"v. 大叫, 呼喊, 大声叫",,cet4 cet6 ky toefl ielts gre,1
+416,proclaim,prә'kleim,v. 宣布；表明,,"vt. 宣布, 公告, 宣言, 表明, 赞扬 / [法] 宣布, 宣告, 公布",,cet4 cet6 ky toefl ielts gre,2
+417,venture,'ventʃә,n. 投机，风险投资；（商业）冒险；v. 试探地说…,Y,"n. 冒险, 风险 / vt. 敢于, 冒...的危险 / vi. 冒险",,cet4 cet6 ky toefl ielts,3
+418,atom,'ætәm,n. 原子；微量，微粒,,"n. 原子, 核能, 微粒, 微量 / [计] 原子",,gk cet4 cet6 ky toefl,2
+419,atomic,ә'tɒmik,adj. 原子能的；原子的,,"a. 原子的, 原子能的 / [医] 原子的",,cet4 toefl,2
+420,brace,breis,n. 牙箍；支架；v. 使有所准备；支撑,,"n. 支柱, 曲柄, 支撑, 一对 / vt. 紧缚, 支撑, 激励 / vi. 打起精神 / [计] 花括号",,cet6 ky toefl ielts gre,2
+421,franchise,'fræntʃaiz,v. 给予…特许经销权，给予经营…的特许经销权；赋…,Y,"n. 公民权, 特权, 特许经营权, 免赔额 / vt. 给以特权, 给以...公民权",,,2
+422,split,split,v. 把…分开；分裂，分岔；裂开；被撕破；割开；切…,Y,"n. 劈开, 裂片, 裂缝, 分裂, 派系, 派别, 柳条 / a. 劈开的 / vi. 分离, 分开, 裂开, 被劈开 / vt. 劈开, 切开, 使分裂, 使分离 / [计] 拆分",,gk cet4 cet6 ky toefl ielts gre,4
+423,spatial,'speiʃәl,adj. 空间的,,"a. 空间的, 受空间条件限制的, 占地位的 / [医] 隙的, 间隙的, 腔的; 空间的, 立体的",,cet6 toefl ielts gre,1
+424,strip,strip,v. 除去；夺去；脱衣服；脱光衣服；剥夺；使空无一…,Y,"n. 长条, 条状, 带, 脱衣舞 / vt. 脱衣, 被剥去, 剥夺, 拆卸 / vi. 脱衣服",,cet4 cet6 ky toefl ielts gre,3
+425,attribute,ә'tribju:t,v. 把……归因于，把……归咎于（读作/əˈtrɪbjut/）…,Y,"n. 属性, 标志, 定语 / vt. 把...归于, 认为...属于 / [计] 属性",,cet4 cet6 ky toefl ielts gre,2
+426,inferior,in'fiәriә,adj. 较差的，级别较低的；下级的；下标的；低等的…,Y,"a. 次等的, 较差的, 下方的, 下级的 / n. 部下, 次品, 下标(符号)",,cet4 cet6 ky toefl ielts gre,2
+427,autonomy,ɒ:'tɒnәmi,n. 自治，自主；自主；【财】自主权，自治权,,"n. 自治, 自治权 / [医] 自主性",,ky toefl ielts gre,
+428,internship,'intә:nʃip,n. 实习期；实习职位,,"n. 实习医师的职务 / [医] 实习医师职位, 实习医师期",,,
+429,deliberate,di'libәrәt,adj. 故意的；慎重的，从容不迫的；v. 仔细考虑；…,Y,"a. 深思熟虑的, 故意的, 从容的 / v. 仔细考虑",,cet4 cet6 ky toefl ielts gre,3
+430,compassionate,kәm'pæʃәnit,adj. 有同情心的；基于同情的,,"a. 慈悲的, 富于同情心的, 照顾性的 / vt. 怜悯, 同情",,gre,1
+431,affirmation,.æfә'meiʃәn,n. 肯定；断言；主张,,"n. 肯定, 断言, 证实 / [医] 肯定, 确认",,,
+432,diminish,di'miniʃ,v. 减少，削弱；失势，削弱……的权势；贬低；减…,Y,"v. (使)减少, (使)变小",,cet6 ky toefl ielts,2
+433,commerce,'kɒmә:s,n. 商业，贸易,,"n. 商业, 商务, 贸易 / [经] 商业, 贸易, 商务",,cet4 cet6 ky toefl,3
+434,credible,'kredәbl,adj. 可信任的，可靠的；可行的,,"a. 可信的, 可靠的 / [法] 可信的, 可靠的",,ielts gre,2
+435,density,'densiti,n. 密集度,,n. 密度 / [化] 密度,,cet4 cet6 ky toefl,1
+436,condense,kәn'dens,v. 简缩；浓缩；冷凝,,"vt. 使浓缩, 使压缩, 缩短 / vi. 浓缩, 凝结",,cet4 cet6 ky toefl ielts gre,1
+437,gigantic,dʒai'gæntik,adj. 巨大的,,"a. 巨人般的, 巨大的",,cet6 ky toefl ielts,1
+438,garage,gә'rɑ:ʒ. 'gærɑ:ʒ,n. 车库；汽车车行；停车房；汽车修理厂；加油站…,Y,"n. 车库, 汽车修理厂, 机库 / vt. 把车送入修车场",,gk cet4 cet6 ky ielts,2
+439,ingenuity,.indʒi'nju:iti,n. 心灵手巧，独创性,,"n. 心灵手巧, 精巧, 精巧设计",,cet6 gre,1
+440,temptation,temp'teiʃәn,n. 诱惑，引诱；诱惑物,,"n. 诱惑, 诱惑物 / [法] 诱惑, 诱惑物",,gk cet4 cet6 ky ielts gre,2
+441,tempt,tempt,v. 引诱；鼓动，劝诱,,"vt. 诱惑, 引诱, 引起...的兴趣, 吸引, 冒...风险",,cet4 cet6 ky toefl,1
+442,devil,'devәl,n. 魔鬼；混蛋，讨厌的事物；家伙；撒旦,,"n. 魔鬼 / vt. 折磨, 戏弄",,cet4 cet6 ky,2
+443,exhaustive,ig'zɒ:stiv,adj. 彻底的，全面的，详尽的,,"a. 消耗的, 枯竭的, 彻底的, 详尽的",,toefl gre,1
+444,expertise,.ekspә:'ti:z,n. 专长,,"n. 专家意见, 专门技术 / [法] 专门知识, 专家意见",,cet6 ky toefl ielts gre,2
+445,fate,feit,n. 命运,,"n. 命运, 运气 / vt. 注定",,cet4 cet6 ky,3
+446,gamble,'gæmbl,n. 赌博,,"n. 赌博, 冒险 / v. 赌博, 孤注一掷",,cet6 ky ielts gre,3
+447,bold,bәuld,adj. 大胆自信的，勇于冒险的；大胆自信的；无耻的…,Y,a. 大胆的 / n. 粗体 / [计] 粗体,,cet4 cet6 ky toefl ielts,2
+448,meditating,,adj. 沉思的；冥想的,,a. 沉思的；冥想的,,,
+449,fort,fɒ:t,n. 堡垒，要塞,,"n. 堡垒, 要塞, 易货站 / vt. 设要塞保卫 / vi. 设要塞",,cet6 toefl ielts gre,2
+450,cathedral,kә'θi:drәl,n. 大教堂；主教座堂；教区总教堂,,n. 大教堂,,gk cet4 cet6 ky toefl ielts gre,2
+451,vibrant,'vaibrәnt,adj. 生气勃勃的，鲜艳的；明快的；令人兴奋的，充…,Y,"a. 振动的, 战栗的, 响亮的, 活跃的",,toefl gre,1
+452,govern,'gʌvәn,v. 统治，管理；支配；决定，影响,,"v. 统治, 支配, 管理",,gk cet4 cet6 ky toefl,3
+453,inflate,in'fleit,v. 给…充气，使…胀大；夸大，吹嘘；充气,,"vt. 使膨胀, 使得意, 使通货膨胀, 使充气 / vi. 充气, 膨胀",,cet6 toefl gre,1
+454,interfere,.intә'fiә,v. 妨碍,,"vi. 妨碍, 冲突, 干涉, 抵触 / [医] 干扰, 干涉, 阻碍, 碰腿(马)",,cet4 cet6 ky toefl,2
+455,league,li:g,n. 联赛；社团；里格；等级，水平,,"n. 同盟, 联盟, 盟约 / v. 组联盟, (使)加盟",,gk toefl,4
+456,likewise,'laikwaiz,adv. 同样地；也,,"adv. 同样地, 也",,cet4 cet6 ky toefl ielts,2
+457,loose,lu:s,adj. 零散的；未系紧的；控制不严的；（衣服等）宽…,Y,"n. 发射, 放任, 放纵 / a. 宽松的, 松的, 宽的, 不牢固的, 散漫的, 自由的, 不精确的 / vt. 释放, 放枪, 开船 / vi. 变松, 开火 / adv. 松散地",,gk cet4 cet6 ky toefl,3
+458,misery,'mizәri,n. 痛苦；苦难,,"n. 痛苦, 悲惨, 不幸, 穷困",,cet6 ky toefl ielts,2
+459,miserable,'mizәrәbl,adj. 痛苦的；令人难受的；不快乐的，不友善的，暴…,Y,a. 悲惨的；痛苦的；卑鄙的,,cet4 cet6 ky toefl ielts,2
+460,mount,maunt,v. 组织，安排；登上；增长；骑上；n. 山峰；马…,Y,"n. 乘骑用马, 框, 衬纸, 山 / vi. 乘马, 爬上, 增长 / vt. 爬上, 使上马, 装上, 装裱, 安放, 制作...的标本, 设置, 上演 / [计] 安装",,cet4 cet6 ky ielts,3
+461,chill,tʃil,n. 寒冷；着凉；风寒；害怕；v. （使）感到冷，…,Y,"n. 寒冷, 寒意, 失意 / a. 寒冷的, 冷漠的 / vt. 使寒心, 冷冻 / vi. 变冷",,cet4 cet6 ky toefl ielts,2
+462,persimmon,pә'simәn,n. 柿子；柿子树,,n. 柿子(树) / [医] 柿,,,
+463,vendor,'vendә,n. 卖主；产品销售公司；【法】供应商；小贩，摊…,Y,"n. 小贩, 卖主, 自动售货机 / [计] 计算机销售商",,gre,1
+464,braise,breiz,vt. 蒸；炖；焖；n. 炖品,,"vt. 炖, 蒸",,,
+465,ginger,'dʒindʒә,n. 生姜；姜黄色；精力；v. 使有活力，使兴奋；a…,Y,"n. 姜, 精力, 姜黄色 / a. 姜黄色的 / vt. 用姜调味, 使活泼, 使有生气",,cet6 gre,1
+466,dwell,dwel,v. （尤指作为常住居民）居住；存在；（尤指作为常…,Y,"vi. 居住, 居住(于), 存在(于)",,cet6 ky toefl ielts,1
+467,triumphant,trai'ʌmfәnt,adj. 欢欣鼓舞的，心满意足的；大获全胜的，获得巨…,Y,"a. 得胜的, 得意洋洋的",,cet6,1
+468,trophy,'trәufi,n. 奖品，奖杯，奖牌；战利品，狩猎纪念品（尤指动…,Y,"n. 战利品, 奖品 / vt. 用战利品装饰",,gre,2
+469,prudence,'pru:dns,n. 审慎；慎重，审慎,,"n. 审慎, 慎重, 精明, 节俭",,ky gre,
+470,exhilarate,ig'zilәreit,v. 使高兴，使兴奋；使高兴；使人高兴，令人兴奋,,"vt. 使高兴, 使愉快, 鼓励",,toefl ielts gre,
+471,allure,ә'luә,v. 诱惑，吸引；诱使；n. 诱惑力，吸引力,,"vt. 引诱, 吸引 / n. 魅力, 诱惑力",,toefl,1
+472,intoxicate,in'tɒksikeit,v. 使中毒；使醉；使陶醉,,"vt. 使陶醉, 使喝醉",,toefl gre,
+473,glitter,'glitә,v. 闪闪发光，闪耀；闪亮，闪耀；n. 灿烂的光辉，…,Y,"n. 灿烂, 闪烁, 辉耀 / vi. 灿烂, 闪烁, 辉耀",,cet4 cet6 ky ielts gre,2
+474,intuition,.intju:'iʃәn,n. 直觉；直觉力；【财】直觉,,"n. 直觉, 直觉的知识",,cet6 ky toefl ielts gre,1
+475,notorious,nәu'tɒ:riәs,adj. 臭名昭著的，声名狼藉的,,"a. 声名狼藉的, 臭名昭著的, 众人皆知的",,cet6 ky toefl ielts gre,2
+476,cutthroat,'kætθru:t,adj. 杀人的；拼命的；剧烈的；n. 杀手；恶汉,,"n. 凶手, 谋杀者 / a. 杀人的, 残酷的",,,
+477,brutal,'bru:tәl,adj. 残酷的，野蛮的，残忍的；严酷的；残暴的；兽…,Y,"a. 残忍的, 野蛮的, 不讲理的",,cet6 ky toefl ielts gre,2
+478,misaligned,",misә'laind",adj. 线向不正的；方向偏离的；不重合的；未对准的,,"a. 线向不正的,方向偏离的,不重合的,未对准的",,,
+479,fierce,fiәs,adj. 凶猛的，凶狠的；强烈的，坚定不移的，猛烈的…,Y,"a. 凶猛的, 猛烈的, 热烈的, 暴躁的",,gk cet4 cet6 ky toefl ielts,3
+480,hover,'hʌvә,v. 盘旋；（鸟、直升机）盘旋，翱翔；徘徊；处于不…,Y,"vi. 盘旋, 翱翔, 徘徊 / vt. 孵 / n. 翱翔",,cet6 ky toefl ielts gre,2
+481,cursor,'kә:sә,n. 光标；【计】光标,,"n. 游标, 光标 / [计] 光标",,,
+482,pivotal,'pivәtәl,adj. 关键的，核心的,,"a. 枢轴的, 关键的, 起中心作用的",,toefl,1
+483,aftermath,'ɑ:ftәmæθ,n. 不幸事件之后果，余波；（战争、事故、不快事情…,Y,"n. 结果, 后果 / [法] 后果, 结果",,gre,2
+484,cowardice,'kauәdis,n. 胆小，懦弱,,n. 懦弱,,,
+485,coward,'kauәd,n. 懦夫，胆小鬼,,"n. 懦弱的人, 胆小的人",,cet4 cet6 ky ielts gre,1
+486,chamber,'tʃeimbә,n. 会议室；（作特殊用途的）房间；议院；房间；…,Y,"n. 室, 房间, 枪膛 / vt. 装(弹药), 把...关在室内 / a. 室内的",,cet4 cet6 ky toefl ielts,3
+487,destiny,'destini,n. 命运，天数，天命；主宰事物的力量,,"n. 命运, 定数",,cet6 ky toefl ielts,2
+488,allocate,'ælәukeit,v. 分配，配给；分配；拨... （给）；【计】分配,,"vt. 分派, 分配 / [计] 分配",,gk cet6 ky toefl ielts gre,2
+489,commute,kә'mju:t,v. 通勤；上下班往返；把… 折偿；vt. 减轻（刑罚）…,Y,"vt. 交换, 折偿, 减轻 / vi. 代偿, 经常乘车来往",,cet6 ky toefl ielts gre,2
+490,territory,'teritәri,n. 领域,,"n. 领土, 领地, 版图, 地区, 活动范围 / [经] (推销员等的)推销区域",,cet4 cet6 ky toefl ielts,4
+491,narrative,'nærәtiv,n. 叙述；adj. 叙述的,,"n. 叙述, 故事 / a. 叙述的, 叙事的, 故事体的",,cet6 ky ielts gre,2
+492,narrate,nә'reit,v. 讲，叙述；给（电视或电影）作旁白,,"v. 说故事, 说明, 叙述",,ky,1
+493,negate,ni'geit,vt. 取消，使无效；否定,,"vt. 否定, 否认, 取消 / [计] 非",,toefl gre,1
+494,abrogate,'æbrәgeit,v. 废止，废除,,"vt. 废除, 取消 / [经] 取消, 废除, 不生效(的法令)",,gre,
+495,compromise,'kɒmprәmaiz,n. 妥协，折中；v. 妥协；使遭受危险,,"n. 妥协, 折中, 折中方案, 和解 / vi. 妥协处理 / vt. 危害",,gk cet4 cet6 ky toefl ielts gre,3
+496,publicize,'pʌblisaiz,v. 宣传，报道,,vt. 宣传,,ky toefl gre,2
+497,punish,'pʌniʃ,v. 惩罚，处罚,,"vt. 处罚, 惩罚, 严厉对待 / vi. 惩罚",,zk gk cet4 cet6 ky,2
+498,rational,'ræʃәnl,adj. 理性的，理智的；合理的,,"a. 理性的, 合理的 / n. 有理数",,cet4 cet6 ky toefl ielts gre,2
+499,refreshment,ri'freʃmәnt,n. 茶点（仅限复数形式）；食物，饮料；恢复活力，…,Y,"n. 点心, 起提神作用的事物, 精神爽快",,cet4 cet6 ky toefl ielts,1
+500,steep,sti:p,v. 浸，泡；adj. 陡峭的；急剧的；过高的,,"n. 浸渍, 悬崖 / a. 险峻的, 陡峭的, 急剧升降的, 夸大的 / v. 浸, 泡",,gk cet4 cet6 ky toefl ielts gre,2
+501,ceramic,si'ræmik,adj. 陶器的，陶瓷的；n. 陶瓷制品；制陶艺术,,a. 陶瓷的 / n. 陶瓷制品,,cet6 ielts gre,2
+502,dainty,'deinti,adj. 娇小可爱的，小巧玲珑的；可口的；优雅，考究…,Y,a. 秀丽的；美味的；讲究的；挑剔的,,gre,1
+503,saucer,'sɒ:sә,n. 茶碟，茶托；浅碟形物；碟状物,,"n. 茶碟, 茶托 / [医] 碟",,gk cet4 cet6 ky toefl,1
+504,distort,dis'tɒ:t,v. 扭曲，使变形；歪曲，曲解,,"vt. 扭曲, 歪曲 / [法] 歪区, 曲解, 纂改",,cet6 ky toefl ielts gre,2
+505,scrutiny,'skru:tini,n. 细看，详细检查，仔细观察；仔细检查；认真彻底…,Y,"n. 细看, 仔细检查, 监视, 选票检查 / [经] 复查, 评核, 仔细检查",,cet6 ky toefl ielts,2
+506,inaugurate,i'nɒ:gjureit,v. 为……揭幕；为……举行就职典礼；投入使用；开…,Y,"vt. 开始, 举行...就职典礼",,cet6 toefl ielts gre,1
+507,orient,'ɒ:riәnt,n. （the Orient）东方；东方；v. 定……的方位；…,Y,"n. 东方, 东方诸国 / a. 东方的 / vi. 向东 / vt. 使朝东, 使适应, 确定方向",,cet4 cet6 ky toefl gre,1
+508,plaque,plɑ:k,n. 斑；饰板，匾，斑块,,"n. 匾, 饰板, 名牌, 勋章, 胸襟饰物, 血小板",,gre,1
+509,unveil,.ʌn'veil,vt. 揭开，公布；vi. 揭开；v. 揭开,,"vt. 揭开, 揭幕, 除去...的面纱 / vi. 显露, 除去面纱",,toefl,2
+510,paradigm,'pærәdaim,n. 范例；典范；范例，范式，典范；【计】范式；…,Y,"n. 范例, 式样, 词形变化表, 纵聚合关系语言项",,ky gre,1
+511,meteoric,.mi:ti'ɒrik,adj. 迅疾的；流星的,,"a. 流星的, 疾速的, 大气的",,ielts gre,
+512,meteor,'mi:tiә,n. 流星，流星的,,"n. 流星, 大气现象",,toefl,1
+513,novelty,'nɒvәlti,n. 新奇；新奇的事物；新颖小巧而廉价的物品；新鲜…,Y,"n. 新奇, 新鲜, 新奇的事物",,cet6 ky toefl ielts gre,1
+514,corporate,'kɒ:pәrit,n. 公司；集团；企业集团；adj. （商业企业属性）公…,Y,"a. 社团的, 合伙的, 公司的 / [经] 团体的, 法人的, 社团的",,cet6 ielts gre,3
+515,corporation,.kɒ:pә'reiʃәn,n. 公司；法人（团体）；法人（团体）；市政委员会…,Y,"n. 公司, 合作, 法人团体 / [法] 法人团体, 社团, 法人",,gk cet4 cet6 ky ielts,3
+516,retail,'ri:teil,n. 零售；v. 零售；反复讲述；adv. 以零售形式,,"n. 零售 / a. 零售的 / vt. 零售, 详述, 传播 / vi. 零售",,cet4 cet6 ky toefl ielts gre,3
+517,retailer,'ri:teilә,n. 零售商,,"n. 零售商人, 传播的人 / [经] 零售商",,toefl,2
+518,invigorate,in'vigәreit,v. 使…精神焕发,,"vt. 使精力充沛, 鼓舞, 搞活, 使健壮",,gre,1
+519,preoccupation,pri:.ɒkju'peiʃәn,n. 全神贯注，长久思考的事,,"n. 抢先占据, 先人之见, 入神 / [医] 成见, 注意散漫, 心不在焉",,ky toefl gre,
+520,shore,ʃɒ:,n. 海滨，湖滨；vt. 支撑，使稳住,,"n. 海岸, 海滨, 斜撑柱 / vt. 把...送上岸, 支撑, 支持",,gk cet4 cet6 ky toefl,3
+521,armpit,'ɑ:mpit,n. 腋窝,,"n. 腋窝 / [医] 腋, 腋窝",,,1
+522,startle,'stɑ:tl,v. 使吃惊，使…受惊；使惊吓，使吓一跳,,"n. 惊愕, 惊恐 / vt. 吃惊, 使惊愕 / vi. 惊起",,cet4 cet6 ky toefl ielts gre,2
+523,protest,prә'test,n. 反对；抗议，抗议书；v. 反对（读作/proʊˈtɛst/）,,"n. 抗议, 反对, 抗议书, 断言 / v. 反对, 抗议, 断言",,cet4 cet6 ky toefl ielts gre,4
+524,contemporary,kәn'tempәrәri,adj. 当代的，现代的；同时代的；n. 同时代的人，…,Y,"n. 同时代的人 / a. 同时代的, 属于同一时期的",,gk cet4 cet6 ky toefl ielts,3
+525,carrier,'kæriә,n. 运输公司；搬运工，运送人；电话公司，互联网公…,Y,"n. 运送者, 邮递员, 带菌者 / [计] 载波",,gk cet4 cet6 ky ielts,3
+526,democracy,di'mɒkrәsi,n. 民主制度；民主国家,,"n. 民主政治, 民主主义 / [法] 民主, 民主政治, 民主政体",,cet4 cet6 ky toefl ielts,4
+527,democratic,.demә'krætik,adj. 民主党的,,"a. 民主的 / [法] 民主的, 民主政体的, 平民的",,cet4 cet6 ky,4
+528,federal,'fedәrәl,adj. 联邦政府的；联邦制的,,"a. 联邦的, 联合的, 同盟的 / [法] 联邦的, 联邦制的, 联盟的",,cet4 cet6 ky toefl,4
+529,incidence,'insidәns,n. 发生，发生率,,"n. 发生, 发生率, 影响, 负担者, 入射, 倾角 / [医] 入射, 发生率, 发生数",,cet6 ky toefl ielts gre,1
+530,industrious,in'dʌstriәs,adj. 勤劳的，勤奋的,,"a. 勤勉的, 刻苦的",,cet6 toefl gre,
+531,renovate,'renәuveit,v. 翻新，修复，修补,,"vt. 更新, 革新, 刷新, 修复, 使恢复活力",,ky toefl gre,1
+532,invasive,in'veisiv,adj. 切入的，开刀的；肆意蔓延的，扩散性的,,"a. 侵入的, 侵略性的, 攻击性的",,,1
+533,rejoice,ri'dʒɒis,v. 感到欣喜，感到高兴,,"vt. 使欢喜 / vi. 欣喜, 高兴, 庆祝",,cet4 cet6 ky ielts gre,1
+534,trait,treit,n. 特性，特征；性状；品质；特性；【生】性状,,"n. 特征, 特性, 一笔, 少许",,cet6 ky toefl ielts gre,1
+535,vigorous,'vigәrәs,adj. 有力的，剧烈的,,"a. 精力充沛的, 元气旺盛的, 茁壮的, 有力的",,cet4 cet6 ky toefl ielts gre,2
+536,surge,sә:dʒ,n. 激增,,"n. 巨涌, 汹涌, 澎湃 / vi. 汹涌, 澎湃, 颠簸, 猛冲, 突然放松 / vt. 使汹涌奔腾, 急放 / [计] 电压尖峰",,cet6 ky toefl ielts gre,2
+537,intrigue,in'tri:g,n. 阴谋；密谋策划；密谋；v. 密谋；引起极大兴趣（…,Y,"n. 阴谋, 复杂的事 / vi. 密谋, 私通 / vt. 激起...的兴趣, 用诡计取得",,cet6 ky toefl ielts gre,2
+538,vulnerable,'vʌlnәrәbl,adj. 脆弱的，地位不稳固的，易受影响的，易受伤…,Y,"a. 易受伤害的, 有弱点的, 易受影响的, 脆弱的, 成局的 / [医] 易损的",,cet6 ky toefl ielts gre,3
+539,interrogate,in'terәgeit,v. 审问，审讯,,"vt. 质问, 讯问, 审问 / vi. 质问, 讯问",,toefl ielts gre,1
+540,ammunition,.æmju'niʃәn,n. 弹药；证据材料,,"n. 军火, 弹药 / [机] 弹药",,ielts,2
+541,eradicate,i'rædikeit,v. 根除，杜绝，扫除,,"vt. 根除, 扑灭, 根绝, 消灭",,cet6 toefl ielts gre,1
+542,prudent,'pru:dnt,adj. 谨慎的，精明的,,"a. 审慎的, 三思而后行的, 精明的, 节俭的",,cet6 ky toefl gre,1
+543,intermittent,.intә'mitәnt,adj. 断断续续的，间歇的,,"a. 间歇的, 断断续续的 / [化] 间歇的; 间断的",,cet6 ky toefl ielts gre,1
+544,seduce,si'dju:s,v. 引诱，诱使，诱惑,,"vt. 唆使, 怂恿, 引诱, 诱奸 / [法] 勾引, 诱惑, 诱奸",,toefl,2
+545,acquisition,.ækwi'ziʃәn,n. 获得，掌握；获得物，收购,,"n. 获得, 获得物 / [经] 收购, 招揽, 取得",,gk cet4 cet6 ky toefl ielts,3
+546,conceive,kәn'si:v,v. 想出，构思；怀孕,,"vt. 构思, 认为 / vi. 怀孕",,cet6 ky toefl ielts gre,2
+547,perception,pә'sepʃәn,n. 看法,,"n. 知觉, 感觉, 领悟力, 获取 / [医] 知觉",,cet6 ky toefl ielts gre,2
+548,somewhat,'sʌmhwɒt,adv. 有点儿，稍微,,"n. 某物, 几分 / adv. 多少, 几分",,cet4 cet6 ky toefl ielts,3
+549,thereby,'ðєәbai,adv. 因此,,adv. 因此,,cet4 cet6 ky toefl ielts,2
+550,collision,kә'liʒәn,n. 冲突；碰撞,,"n. 碰撞, 冲突, 抵触 / [计] 冲突",,gk cet4 cet6 ky toefl ielts gre,2
+551,diapers,ˈdaɪəpəz,n. 尿布,,n. 有菱形花格的麻或棉织物( diaper的复数形式 ); 尿布,,,
+552,pity,'piti,n. 怜悯,,"n. 遗憾, 同情, 怜悯, 憾事, 可惜 / vt. 同情, 怜悯 / vi. 觉得可怜, 有同情心",,zk gk,2
+553,reproach,ri'prәutʃ,v. 责备，指责；n. 指责,,"n. 责备, 耻辱 / vt. 责备, 申斥, 使丢脸",,cet4 cet6 ky toefl ielts gre,1
+554,endeavor,in'devә,n. 尝试，努力，尽力；v. 努力，尽力,,"n. 努力, 尽力 / vi. 努力, 尽力",,cet6 ky toefl,
+555,disturb,dis'tә:b,v. 妨碍；使不安,,"vt. 扰乱, 妨碍, 使不安 / [法] 滋扰, 扰乱",,zk gk cet4 cet6 ky toefl ielts,2
+556,trumpet,'trʌmpit,n. 喇叭，小号,,"n. 喇叭, 小号, 喇叭声 / vi. 吹喇叭 / vt. 用喇叭吹出, 吹嘘",,cet4 cet6 ky toefl ielts gre,2
+557,extravagant,ik'strævgәnt,adj. 奢侈的，无节制的,,"a. 奢侈的, 挥霍无度的, 浪费的",,cet6 ky toefl ielts,1
+558,stadium,'steidiәm,n. 体育场,,"n. 露天大型运动场 / [医] 期, 病期",,gk cet4 cet6 ky ielts,3
+559,hatch,hætʃ,vi. 孵出，孵；破壳；n. 孵化,,"n. 孵化, 舱口 / vt. 孵, 孵出, 策划 / vi. 孵化",,gk cet4 cet6 ky toefl ielts gre,2
+560,periodic,.piәri'ɒdik,adj. 周期性的,,"a. 周期的, 定期的, 间歇(性)的, 循环的, 用完整句的, 高碘的 / [医] 周期性的",,cet6 toefl,1
+561,drastic,'dræstik,adj. 极端的，剧烈的,,"a. 激烈的 / [医] 峻泻药, 剧烈的",,cet6 ky toefl ielts gre,2
+562,indignant,in'dignәnt,adj. 愤慨的，愤愤不平的；气愤的,,"a. 愤怒的, 愤慨的",,cet4 cet6 ky toefl ielts gre,1
+563,puppet,'pʌpit,n. 木偶；傀儡,,"n. 傀儡, 木偶 / [法] 木偶, 傀儡, 受他人操纵的人",,cet4 cet6 ky,1
+564,sarcastic,sɑ:'kæstik,adj. 讽刺的，挖苦的，冷嘲热讽的,,"a. 讽刺的, 讥讽的",,ky toefl gre,1
+565,aesthetic,i:s'θetik,adj. 美的；审美的；艺术的；n. 美感，审美观,,"a. 美学的, 审美的, 有美感的",,cet6 ky toefl ielts gre,2
+566,manifest,'mænifest,v. 清楚显示；显现,,"n. 载货单, 运货单, 旅客名单 / a. 显然的, 明白的 / vi. 显示, 出现 / vt. 表明, 表现, 证明",,cet6 ky ielts gre,2
+567,native,'neitiv,adj. 本地的,,"n. 本地人, 土产, 当地人 / a. 本国的, 与生俱来的, 自然的",,gk cet4 cet6 ky ielts,3
+568,church,tʃә:tʃ,n. 教堂,,"n. 教堂, 礼拜, 教会 / vt. 使人接受宗教仪式 / a. 教堂的",,zk gk cet4 ky ielts,4
+569,flour,'flauә,n. 面粉；v. 研成粉末,,"n. 面粉, 粉沫, 碎粉 / [医] 面粉, 麦粉",,gk cet4 cet6 ky toefl ielts,2
+570,intimidate,in'timideit,v. 恐吓，威胁,,"vt. 威胁, 恐吓 / [法] 恐吓, 威胁, 使恐惧",,cet4 cet6 ky toefl ielts gre,2
+571,rip,rip,v. 撕开，扯破,,"n. 裂痕, 破绽, 拉裂, 浪子, 巨浪 / vi. 被拉开, 裂开, 猛冲 / vt. 撕, 扯, 劈",,cet6 ky toefl ielts gre,2
+572,aggravate,'ægrәveit,v. 使恶化，加重,,"vt. 使恶化, 使更严重, 加重",,cet6 ky toefl ielts gre,1
+573,shallow,'ʃælәu,adj. 浅的；肤浅的；（呼吸）浅的，弱的；n. 浅…,Y,"n. 水浅的地方, 浅滩 / a. 浅的, 肤浅的 / v. (使)变浅",,gk cet4 cet6 ky toefl ielts,2
+574,gloomy,'glu:mi,adj. 愁容满面的，没有希望的；阴暗的，幽暗的,,"a. 抑沉的, 忧闷的, 黑暗的, 悲观的",,cet4 cet6 ky toefl ielts gre,2
+575,oval,'әuvәl,adj. 椭圆形的；n. 椭圆形物,,"n. 椭圆形 / a. 卵形的, 椭圆形的",,gk cet4 cet6 ky toefl ielts,2
+576,appetite,'æpitait,n. 食欲,,"n. 食欲, 欲望, 爱好 / [医] 食欲",,gk cet4 cet6 ky toefl ielts gre,2
+577,stereo,'stiәriәu,adj. 立体声的；n. 立体声音响；立体声,,"n. 铅版, 立体照片 / a. 立体的, 立体感觉的",,cet6 ky ielts,2
+578,litter,'litә,n. 垃圾,,"n. 垃圾, 杂乱, 轿, 担架 / vt. 乱丢, 铺草, 弄乱 / vi. 产仔, 乱丢垃圾",,zk gk cet6 ky toefl ielts gre,2
+579,swear,swєә,v. 发誓，郑重地说，保证；咒骂；宣誓，立,,"vt. 发誓, 咒骂, 使宣誓 / vi. 发誓, 诅咒 / n. 诅咒, 誓言",,gk cet4 cet6 ky ielts gre,2
+580,salute,sә'lu:t,v. 向……敬礼；敬礼；n. 欢迎；致意；敬意,,"vi. 行礼, 致意, 问候, 放礼炮 / vt. 向...致意, 迎接, 赞扬 / n. 招呼, 敬礼, 礼炮",,gk cet4 cet6 ky ielts gre,2
+581,slab,slæb,n. 厚板；大块；石板；手术台，停尸台,,"n. 平板, 厚片 / vt. 切成厚板, 以平板盖上",,toefl ielts gre,1
+582,rejuvenate,ri'dʒu:vineit,v. （使）…变年轻，（使）…恢复活力,,"vt. 使年轻, 使复原, 使恢复精神 / vi. 返老还童, 复原",,cet6 toefl gre,1
+583,labor,'leibә,n. 劳动，劳力,,"n. 劳动, 努力, 工作, 劳工, 分娩 / vi. 劳动, 努力, 苦干 / vt. 详细分析, 使厌烦",,ky,
+584,aeroplane,'єәrәplein,n. 飞机,,n. 飞机 / [机] 飞机,,gk cet4 cet6 ky,2
+585,inevitable,in'evitәbl,adj. 不可避免的，必然的,,"a. 不可避免的, 必然的 / [法] 不可避免的, 无法规避的, 必然的",,cet4 cet6 ky toefl ielts,3
+586,reclaim,ri'kleim,v. 开拓，开垦；取回,,"vt. 开垦, 改造, 感化, 纠正, 回收 / vi. 喊叫, 抗议",,cet6 ky toefl ielts gre,1
+587,dissipate,'disipeit,v. 驱散；消散，消失；浪费,,"vt. 散失, 驱散, 浪费 / vi. 消散, 放荡",,cet6 ky toefl ielts gre,1
+588,verbal,'vә:bl,adj. 口头的,,"a. 用言辞的, 言语的, 口头的, 逐字的, 动词的 / [医] 言语的, 口述的",,cet6 ky toefl ielts gre,2
+589,junction,'dʒʌŋkʃәn,n. 会合处,,"n. 连接, 会合处, 交叉点 / [医] 接[合]处, 接点.[接]界",,cet6 ky toefl ielts gre,2
+590,shrug,ʃrʌg,v. 耸；n. 耸肩,,n. 耸肩 / v. 耸肩,,cet4 cet6 ky ielts gre,2
+591,thread,θred,n. 脉络,,"n. 线, 丝, 纤维, 线索 / vt. 穿线于, 穿过, 通过, 用线穿成 / vi. 穿过 / [计] 线索, 线程",,zk gk cet4 cet6 ky toefl gre,2
+592,stoop,stu:p,v. 俯身；降低身份，屈尊；弓背；使…弯曲；n. 弓背,,"n. 佝偻, 屈从, 弯腰 / vi. 弯下, 屈从, 弯腰, 堕落 / vt. 使屈从, 使弯曲",,cet4 cet6 ky ielts gre,1
+593,gasp,gæsp,v. 喘气；渴望,,"n. 喘气 / vi. 喘气, 喘息, 渴望 / vt. 气喘吁吁地说",,cet4 cet6 ky toefl ielts,2
+594,cordial,'kɒ:djәl,adj. 热情友好的；强烈的；n. 甜果汁饮料,,"n. 兴奋剂, 补品 / a. 热忱的, 诚恳的, 有兴奋作用的",,cet4 cet6 ky toefl ielts gre,1
+595,slave,sleiv,n. 奴隶,,"n. 奴隶, 从动装置, 卑鄙的人 / vi. 拼命工作 / [计] 从设备",,gk cet4 cet6 ky toefl,2
+596,stir,stә:,v. 搅拌，搅动；激发（兴趣）；动，移动；搅和；…,Y,"n. 骚动, 轰动, 搅动, 监狱 / vt. 移动, 摇动, 激起, 惹起, 搅拌 / vi. 走动, 传播, 搅拌",,cet4 cet6 ky toefl gre,3
+597,inventory,'invәntәri,n. 存货清单；详细目录,,"n. 详细目录, 存货清单 / vt. 列入详细目录, 清点存货 / [计] 存货清单",,cet6 ky toefl ielts gre,2
+598,narcissistic,",nɑ:si'sistik",adj. 自我陶醉的，自恋的,,"a. 自我陶醉的, 自恋的 / [医] 自爱欲的",,,
+599,prestigious,pre'stidʒiәs,adj. 有名望的，有威信的,,a. 享有声望的,,ky toefl ielts gre,2
+600,vacuum,''vækjuәm,v. 用吸尘器打扫；n. 真空吸尘器；真空；空虚，茫…,Y,"n. 真空, 空间, 真空吸尘器 / a. 真空的, 产生真空的, 利用真空的 / vt. 用吸尘器打扫",,cet4 cet6 ky toefl ielts,2
+601,reckless,'reklis,adj. 鲁莽的，胡乱的,,"a. 不介意的, 大意的, 鲁莽的, 不顾后果的 / [法] 不注意的, 粗心大意的, 鲁莽的",,cet6 ky toefl ielts,1
+602,hemisphere,'hemisfiә,n. 半球,,"n. 半球, 地球的半面, 大脑半球 / [医] 半球",,cet6 ky toefl ielts gre,1
+603,directory,di'rektәri,n. 【计】目录；名录簿；目录,,"n. 目录, 工商名录, 指南 / [计] 目录",,gk cet6 ky ielts,2
+604,census,'sensәs,n. 人口普查，统计调查,,n. 户口普查 / vt. 实施统计调查,,ky toefl ielts gre,2
+605,thrive,θraiv,vi. 茁壮成长；繁荣，兴旺,,"vi. 繁荣, 兴旺, 茁壮成长 / [经] 兴旺, 繁荣, 旺盛",,cet4 cet6 ky toefl ielts gre,2
+606,culminate,'kʌlmineit,v. （使）到达高潮，（使）结束,,"vi. 到绝顶, 达于极点, 达到高潮 / vt. 使到绝顶, 使达到高潮",,cet6 toefl ielts,1
+607,booth,bu:θ,n. 电话亭，投票间，小隔间，售货棚,,"n. 亭, 摊棚 / [经] 货摊, 电话间",,gk cet4 cet6 ky ielts,1
+608,cherish,'tʃeriʃ,v. 怀有；珍爱；珍视,,"vt. 珍爱, 怀有, 爱护",,cet6 ky toefl ielts,1
+609,halt,hɒ:lt,n. 停止,,"n. 停止, 立定, 休息 / vt. 使停止, 使立定 / vi. 立定, 停止, 蹒跚, 踌躇, 有缺点 / [计] 停止",,cet4 cet6 ky toefl ielts,3
+610,tentative,'tentәtiv,adj. 犹豫不决的,,"n. 试验 / a. 试验性的, 暂时的",,gk cet6 ky toefl ielts gre,2
+611,appraisal,ә'preizәl,n. 评价,,"n. 评价, 估价 / [经] 评价, 评估",,cet6 ky toefl ielts,1
+612,exotic,ig'zɒtik,adj. 来自异国的，异国情调的，异国风味的，奇异的,,"a. 异国的, 外来的 / n. 外来人, 外来物, 舶来品",,cet6 ky toefl ielts gre,2
+613,wheat,hwi:t,n. 小麦；小麦籽,,n. 小麦,,zk gk cet4 cet6 ky toefl,2
+614,earnest,'ә:nist,n. 认真，严肃,,"n. 定金, 诚挚, 认真 / a. 认真的, 热心的, 重要的",,cet4 cet6 ky toefl gre,2
+615,advent,'ædvәnt,n. 出现，到来,,"n. 来到, 来临",,ky toefl ielts gre,1
+616,eloquent,'elәkwәnt,adj. 雄辩的,,"a. 雄辩的, 有口才的, 有说服力的",,cet6 ky toefl ielts,1
+617,latitude,'lætitju:d,n. 纬度,,"n. 纬度, 范围 / [化] 宽容度; 伟度",,cet6 ky toefl ielts gre,1
+618,formidable,'fɒ:midәbl,adj. 令人畏惧的；难克服的，难对付的，令人钦佩…,Y,"a. 巨大的, 优秀的, 可怕的, 艰难的",,cet6 ky toefl ielts gre,2
+619,blur,blә:,n. 模糊形状；污渍；模糊；模糊的记忆；v. 使………,Y,"vt. 使模糊, 弄脏 / vi. 弄脏, 模糊",,cet6 ky ielts gre,2
+620,gastronomic,",^æstrәu'nɔmik",adj. 烹饪法的；烹任学的；=gastronomical.,,"a. 美食(烹饪)法的, 烹任学的",,,
+621,clasp,klɑ:sp,v. 扣紧；握紧；n. 搭扣；紧握,,"n. 扣子, 钩, 紧握 / v. 扣紧, 紧握",,cet4 cet6 ky ielts gre,1
+622,seminar,'seminɑ:,n. 研讨会,,"n. 研究班, 专题讨论会 / [经] 讨论会, 专家讨论会",,cet4 cet6 ky ielts,2
+623,arbitrary,'ɑ:bitrәri,adj. 任意的，武断的，随心所欲的,,"a. 任意的, 武断的, 专治的, 霸道的",,gk cet4 cet6 ky toefl ielts gre,1
+624,sovereign,'sɒvrin,adj. 至高无上的；有主权的；n. 君主，元首,,"n. 元首, 独立国 / a. 具有主权的, 至高无上的, 国王的, 完全的",,cet6 ky toefl ielts gre,2
+625,triumph,'traiәmf,n. 伟大胜利，巨大成功，重大成就,,"n. 凯旋, 胜利, 欢欣 / vi. 得胜, 成功",,cet4 cet6 ky toefl ielts gre,3
+626,fuss,fʌs,n. 小题大做；大惊小怪,,"n. 大惊小怪, 小题大作, 忙乱 / vi. 无事自扰, 焦急, 焦燥, 忙乱 / vt. 使激动, 使烦燥",,cet6 ky ielts gre,2
+627,flame,fleim,n. 火焰,,"n. 火焰, 火舌, 热情, 光辉 / vt. 焚烧, 用火焰给...灭菌, 用火焰传送(信号), 点燃, 激动 / vi. 燃烧, 爆发, 闪耀 / [计] 无聊邮件, 无益邮件",,gk cet4 cet6 ky toefl ielts,2
+628,mill,mil,n. 磨坊；制造厂；碾磨机,,"n. 压榨机, 磨坊, 制造厂 / vt. 碾磨, 磨细, 搅拌, 使乱转 / vi. 乱转, 被碾磨",,cet4 cet6 ky toefl gre,3
+629,refugee,.refju'dʒi:,n. 难民,,"n. 难民, 流亡者 / [法] 避难者, 流亡者, 难民",,cet6 ky ielts gre,4
+630,mayor,'mєә,n. （民选的）市长；（议员选举产生的）市长,,n. 市长 / [法] 市长,,cet4 cet6 ky,3
+631,sigh,sai,v. 叹息，叹气；叹息着说；n. 叹气，叹息,,"n. 叹息 / vi. 叹息, 渴望 / vt. 叹息着说",,gk cet4 cet6 ky toefl ielts,3
+632,bullet,'bulit,n. 子弹，枪弹,,"n. 子弹 / [医] 弹, 子弹, 距节(马)",,cet4 ky,2
+633,chimney,'tʃimni,n. 烟囱；玻璃灯罩,,"n. 烟囱, 灯罩 / [电] 烟囱",,gk cet4 cet6 ky,1
+634,collar,'kɒlә,n. 领子,,"n. 衣领, 颈圈 / vt. 控制, 扭住衣领, 给...装上领子",,gk cet4 cet6 ky gre,2
+635,thrust,θrʌst,v. 刺，戳；猛推；挤；n. 猛推，刺；动力,,"n. 插, 戳, 刺, 猛推, 口头攻击, 推力 / vt. 插入, 猛推, 刺, 戳, 强加, 延伸 / vi. 插, 刺, 戳, 延伸, (用力)推",,cet4 cet6 ky toefl ielts gre,2
+636,couch,kautʃ,n. 长沙发,,"n. 长沙发, 睡椅, 卧榻 / vt. 横躺, 表达 / vi. 躺下, 蹲伏",,cet6 ky ielts,2
+637,dispatch,dis'pætʃ,v. 发送（信件、电报等）；派遣，调遣；n. 快信，…,Y,"vt. 派遣 / n. 派遣, 急件 / [计] 调度",,cet6 toefl ielts gre,2
+638,laundry,'lɒ:ndri,n. 洗衣店,,"n. 洗衣店, 洗好的衣服, 洗涤 / [机] 洗衣作, 洗衣店, 洗衣房",,gk cet4 cet6 ky toefl ielts,1
+639,manipulate,mә'nipjuleit,vt. 操纵，影响；正骨；使用；v. 操纵，影响；正…,Y,"vt. 操纵, 利用, 操作, 巧妙地处理, 假造",,cet6 ky toefl ielts gre,2
+640,nuance,nju:'ɑ:ns,n. 细微差别,,n. 细微差别,,ielts gre,1
+641,murder,'mә:dә,v. 谋杀，凶杀,,"n. 谋杀 / vt. 谋杀, 损毁, 破坏 / vi. 犯杀人罪",,zk gk cet4 cet6 ky,4
+642,plough,plau,vt. 犁，耕；n. 犁,,"n. 犁, 犁过的地 / vi. 用犁耕田, 开路 / vt. 耕, 犁, 开路",,cet4 cet6 ky ielts gre,2
+643,alliance,ә'laiәns,n. 结盟，盟约,,"n. 联盟, 联合 / [法] 同盟, 联盟, 联姻",,cet6 ky toefl ielts,3
+644,curb,kә:b,v. 控制，限制,,"n. 抑制, 勒马绳, 边石 / vt. 抑制, 束缚, 勒住",,cet6 ky toefl ielts gre,2
+645,ceiling,'si:liŋ,n. 天花板；上限,,"n. 天花板 / [经] 顶点, 顶线, 上限",,zk gk cet4 cet6 ky toefl,2
+646,recipe,'resipi,n. 食谱,,"n. 食谱, 处方, 秘诀 / [医] 取(处方头语), 处方",,gk cet6 ky toefl ielts gre,2
+647,brute,bru:t,adj. 身体的；野兽般的；n. 野兽；粗野的人,,"n. 畜生, 残忍或好色之人 / a. 残忍的, 无理性的, 畜生的",,cet4 cet6 gre,1
+648,hare,hєә,n. 野兔,,n. 野兔 / vi. 飞跑,,cet4 cet6,1
+649,shutter,'ʃʌtә,n. 百叶窗；照相机快门,,"n. 百叶窗, 关闭物, 照相机快门, 关闭者 / vt. 为...装百叶窗, 以百叶窗遮闭",,cet6 ky toefl ielts,1
+650,vein,vein,n. 血管；矿脉,,"n. 血管, 静脉, 纹理, 气质, 情绪 / vt. 使有脉络, 像脉络般分布于",,cet6 ky toefl ielts,2
+651,tangle,'tæŋgl,v. 缠成一团；把…缠结在一起,,"n. 缠结, 纠结的一团, 困惑, 纠纷, 混乱 / vt. 使缠结, 缠住 / vi. 缠结, 乱作一团",,cet6 ky toefl ielts gre,2
+652,subscribe,sәb'skraib,vi. 订购,,"vt. 捐献, 签署 / vi. 赞成, 同意, 捐款, 预订, 认购 / [计] 订阅",,gk cet6 ky ielts gre,1
+653,grief,gri:f,n. 悲伤，悲痛,,"n. 伤心, 忧愁, 悲痛, 不幸, 灾难",,cet6 ky ielts gre,2
+654,roughly,'rʌfli,adv. 大致，近似；粗略地,,"adv. 概略地, 粗糙地, 粗暴地",,cet4 cet6 ky toefl,
+655,tame,teim,adj. 驯化的；温顺的；v. 驯服,,"a. 驯服的, 柔顺的, 被开垦的, 顺从的, 乏味的, 平淡的 / vt. 驯养, 驯服, 制服, 失去锋芒 / vi. 变得驯服",,cet4 cet6 ky toefl ielts gre,1
+656,throne,'θrәun,n. 宝座；王位,,"n. 王座, 君主",,cet4 cet6 ky gre,2
+657,tactics,'tæktiks,n. 手段；战术,,"n. 用兵学, 战术, 兵法 / [经] 战术, 策略",,cet6 toefl,
+658,poll,pәul,n. 民意测验,,"n. 投票, 民意测验, 选举投票, 投票数, 一组人中的一个, 头颈和后脑部, 鹦鹉 / vt. 对...进行民意测验, 获得...票, 剪树枝, 轮询 / vi. 投票 / a. 剪过毛的, 修过枝的 / [计] 轮询",,cet4 cet6 ky toefl gre,4
+659,jewel,'dʒu:әl,n. 宝石；珠宝首饰,,"n. 珠宝, 贵重物, 镶珠宝的饰物 / vt. 饰以珠宝, 镶以宝石",,gk cet4 cet6 ky toefl,2
+660,erosion,i'rәuʒәn,n. 侵蚀，风化，腐蚀,,"n. 腐蚀, 冲蚀, 侵蚀 / [化] 磨耗; 侵蚀",,cet6 ky toefl ielts,1
+661,majesty,'mædʒәsti,n. 陛下；帝王，王权；雄伟，壮观，庄严，威严,,"n. 最高权威, 威严, 王权, 雄伟, 庄严",,cet6 ky toefl,2
+662,fountain,'fauntin,n. 喷泉；源泉,,"n. 水源, 源, 喷泉, 泉水, 本源 / [医] 泉",,gk cet4 cet6 ky toefl ielts,2
+663,escort,'eskɒ:t,v. 护卫，护送，押送；n. 陪同者,,"n. 护送者, 护卫者, 护航舰 / vt. 护卫, 护送",,cet6 ky toefl ielts gre,2
+664,rotate,'rәuteit,v. 旋转；轮换,,"a. 辐状的 / vt. 使旋转, 使转动, 使轮流 / vi. 旋转, 循环 / [计] 旋转",,cet4 cet6 ky toefl ielts gre,
+665,swell,swel,v. 肿胀,,"n. 增大, 隆起的部分, 巨浪, 肿胀 / a. 优秀的, 一流的 / vi. 增大, 膨胀, 肿胀, 增强, 骄傲 / vt. 使膨胀, 使增大, 使上涨, 使骄傲",,gk cet4 cet6 ky toefl ielts gre,2
+666,conspicuous,kәn'spikjuәs,adj. 显眼的，引人注意的,,"a. 显著的, 显眼的, 出众的",,cet6 ky toefl ielts gre,1
+667,shear,ʃiә,vt. 剪羊毛,,"n. 修剪, 剪下的东西, 大剪刀, 切变, 剪切机, 切 / vt. 修剪, 割, 剥夺, 横越, 削剪 / vi. 剪, 修剪, 剪羊毛, 切断",,cet4 cet6 ky toefl ielts gre,1
+668,impair,im'pєә,v. 削弱，降低，损害,,"vt. 损害, 减少, 削弱 / [法] 损害, 伤害, 减少",,cet6 ky toefl ielts gre,1
+669,cynical,'sinikәl,adj. 愤世嫉俗的,,"a. 愤世嫉俗的, 讽刺的, 冷嘲的",,cet6 toefl ielts,2
+670,proximity,prɒk'simiti,n. 接近,,"n. 接近, 亲近",,cet6 toefl ielts,1
+671,spear,spiә,n. 矛,,"n. 矛, 枪, 持矛者, 嫩枝 / vt. 用矛刺 / vi. 刺, 戳 / a. 父系的",,gk cet4 cet6 ky gre,1
+672,premature,.premә'tjuә,adj. 过早的，仓促的,,"a. 早产的, 过早的, 不成熟的 / n. 早产儿, 过早发生的事物",,cet6 toefl gre,2
+673,moisture,'mɒistʃә,n. 水汽，潮气，汗湿,,"n. 湿气, 水分, 降雨 / [化] 含水量; 含湿量",,cet4 cet6 ky toefl,2
+674,accessory,әk'sesәri,n. 配饰；adj. 附属的,,"n. 附件, 零件, 附加物, 从犯, 同谋 / a. 附属的, 补充的, 同谋的, 帮凶的, 非主要的, 副的 / [计] 附件",,cet4 cet6 ky toefl ielts gre,2
+675,masculine,'mæskjulin,adj. 男子气概的,,"n. 阳性, 男性 / a. 男性的, 阳性的, 有丈夫气的",,cet6 ky ielts,1
+676,shatter,'ʃætә,v. （使）粉碎，破碎,,"n. 碎片, 粉碎, 落叶, 喷洒 / vt. 打碎, 使散开, 粉碎, 破坏 / vi. 粉碎, 损坏, 脱落",,cet6 ky toefl ielts,1
+677,dash,dæʃ,v. 猛冲；使…破灭，使…受挫,,"n. 冲撞, 破折号, 短跑 / vi. 猛冲, 冲撞 / vt. 泼溅, 使猛撞, 搀和, 使破灭, 使沮丧",,gk cet4 cet6 ky ielts,2
+678,puff,pʌf,v. 喷出,,"n. 一阵喷烟, 肿块, 喘息 / v. 喷出, 张开, 吹捧, (使)充气, 喘气, (使)骄傲, (使)膨胀",,cet4 cet6 ky,1
+679,bulk,bʌlk,n. 大部分,,"n. 大小, 体积, 大块, 大多数 / vt. 显得大, 显得重要",,cet4 cet6 ky toefl ielts gre,2
+680,evaporate,i'væpәreit,v. 消失,,"vi. 蒸发, 失去水分, 消失 / vt. 使蒸发, 使脱水, 使消失",,cet4 cet6 ky toefl ielts gre,1
+681,sphere,sfiә,n. 领域；球,,"n. 球, 球面, 球体, 天体, 地球仪, 范围 / vt. 包围, 使成球体, 放入球内",,cet4 cet6 ky toefl ielts,2
+682,robust,rәu'bʌst,adj. 强壮的，结实的，强劲的，旺盛的，茁壮的,,"a. 健康的, 强健的, 要用力气的, 坚定的, 粗野的 / [计] 健壮性",,cet6 ky toefl ielts gre,2
+683,filter,'filtә,v. 过滤；透过,,"n. 滤波器, 过滤器, 滤光器, 过滤嘴, 去尘器 / vt. 过滤, 渗透, 走漏 / vi. 滤过, 渗入 / [计] 过滤器, 筛选",,cet4 cet6 ky toefl ielts gre,2
+684,refuge,'refju:dʒ,n. 保护区,,"n. 避难所, 安全地带, 避难, 庇护 / vi. 躲避 / vt. 给予...庇护",,cet4 cet6 ky toefl,2
+685,scorn,skɒ:n,n. 鄙视；vt. 对……不屑一顾,,"n. 轻蔑, 藐视, 嘲笑, 被嘲弄的人 / vt. 轻蔑, 不屑做",,cet4 cet6 ky ielts gre,1
+686,grope,grәup,v. 摸索，探索,,v. 摸索 / n. 摸索,,cet6 ky toefl ielts gre,1
+687,homogeneous,.hәumә'dʒi:niәs,adj. 同类的，同质的，有相同特征的,,"a. 同种的, 同质的, 齐性的 / [医] 同种的, 纯一的, 同质的, 均匀的",,cet6 ky toefl ielts gre,1
+688,pore,pɒ:,n. 毛孔；气孔；细孔,,"n. 毛孔, 小孔, 气孔 / vi. 专心阅读, 细想, 钻研, 沉思, 注视 / vt. 使注视得",,cet6 toefl ielts gre,1
+689,cubic,'kju:bik,adj. 立方形的；立方的；【化】立方体的,,"a. 立方体的, 立方的 / [机] 立方的, 立方体的",,gk cet4 cet6 toefl,1
+690,outer,'autә,adj. 外边的；外围的；外部的；外表的，外边的；远…,Y,"a. 外部的, 外面的, 在外的, 远离中心的 / [机] 外部的, 外面的, 外侧的",,gk cet4 cet6 ky,2
+691,steel,sti:l,v. 下决心应对（不愉快的事）；坚定，鼓足；n.…,Y,"n. 钢, 钢制品, 钢铁, 坚硬, 坚固 / a. 钢的, 钢制的, 钢铁业的, 坚强的 / vt. 使坚强, 钢化, 使冷酷",,zk gk cet4 cet6 ky ielts,3
+692,rot,rɒt,v. （使）腐烂；渐衰，日渐破损；使…迟钝；（使）…,Y,"n. 腐烂, 腐蚀, 败坏 / vi. 腐烂, 烂, 堕落, 憔悴 / vt. 使腐烂, 使腐朽, 使堕落",,gk cet4 cet6 ky toefl ielts,2
+693,devastate,'devәsteit,v. 摧毁，毁灭，使…荒芜；使极为悲痛,,"vt. 毁坏 / [法] 使荒废, 毁灭, 掠夺",,toefl ielts gre,1
+694,laminate,'læmineit,vi. 切成薄板；vt. 把...制成薄板；n. 薄板制品（读…,Y,"vt. 制成薄板, 制成箔 / vi. 分成薄片 / a. 薄板状的 / n. 层积塑胶板, 薄片制品 / [计] 层压",,gre,
+695,ignite,ig'nait,v. 点燃，引燃；着火；激发，引起；爆发；【化】…,Y,"vt. 点燃, 使灼热, 使兴奋",,cet6 ky toefl ielts gre,1
+696,stack,stæk,v. 堆积，堆放；（使）整齐地堆起；放成整齐的一叠…,Y,"n. 堆叠, 堆, 大量, 书库, 枪架, 烟囱, 堆积, 存贮栈 / vt. 堆积, 堆满, 暗中对...做手脚 / vi. 堆起 / [计] 堆积, 堆栈",,cet4 cet6 ky toefl ielts,2
+697,timber,'timbә,n. 木料；（可作木材的）林木；栋木,,"n. 木材, 木料 / vt. 用木材建造",,cet4 cet6 ky toefl ielts gre,2
+698,vague,veig,adj. 含糊的，含糊其辞的；不明确的；茫然的；模糊…,Y,"a. 含糊的, 不清楚的, 茫然的",,gk cet4 cet6 ky toefl gre,2
+699,versatile,'vә:sәtail,adj. 多用途的，多功能的,,"a. 多才多艺的, 万用的, 万向的",,cet6 ky toefl ielts gre,2
+700,slam,slæm,v. 猛撞某人/某物；使劲扔,,"n. 砰然声, 猛然, 猛烈的抨击 / vt. 猛然关上, 砰地关上, 猛烈抨击 / vi. 砰地关上, 猛攻",,cet4 cet6 ky ielts,2
+701,array,ә'rei,n. 大批，系列，队列,,"n. 排列, 衣服, 大批, 军队 / vt. 布署, 打扮, 排列 / [计] 数组; 阵列",,cet6 ky toefl ielts gre,2
+702,wreck,rek,n. 沉船,,"n. 失事, 残骸, 破坏 / vt. 使失事, 拆毁, 破坏 / vi. (船)失事, 营救失事船只",,cet4 cet6 ky toefl ielts,2
+703,stride,straid,n. 进展,,"n. 大步, 步幅, 步态, 进步 / v. 迈大步走, 跨过, 跨",,cet6 ky toefl ielts gre,2
+704,chronic,'krɒnik,adj. 慢性的，久病的，长期的；积习难改的,,"a. 慢性的, 习惯性的 / n. 慢性病患者",,cet6 ky toefl ielts gre,2
+705,grieve,gri:v,v. 伤心，悲痛,,"vt. 使悲伤 / vi. 悲痛, 伤心",,cet4 cet6 ky toefl ielts gre,1
+706,rupture,'rʌptʃә,n. 断绝；破裂,,"n. 破裂, 断裂, 裂开, 决裂, 不和 / v. (使)破裂",,cet6 toefl ielts gre,1
+707,elite,ei'li:t,n. 上层集团，掌权人物，精英；adj. 精英的，精锐的,,"n. 精华, 精锐, 中坚分子",,cet6 ky toefl ielts gre,2
+708,mutter,'mʌtә,v. 低语，嘟囔，嘀咕；n. 低语声，嘟哝声,,"n. 喃喃低语 / vi. 喃喃自语, 作低沉声 / vt. 出怨言, 抱怨地说",,cet4 cet6 ky ielts gre,2
+709,heap,hi:p,n. （一）堆,,"n. 堆, 许多, 累积 / vt. 堆积, 装满 / [计] 堆",,gk cet4 cet6 ky ielts,2
+710,groan,grәun,v. 呻吟；抱怨；n. 呻吟,,"n. 呻吟, 叹息 / vi. 呻吟, 抱怨, 受压迫 / vt. 呻吟地说",,cet4 cet6 ky ielts gre,2
+711,expire,ik'spaiә,v. 期满，（期限）终止,,"vi. 期满, 呼气, 断气 / vt. 呼出",,cet6 ky toefl ielts gre,2
+712,brim,brim,n. 边缘,,"n. 边, 边缘, (河)边 / vt. 注满, 使满溢 / vi. 满溢",,cet4 cet6 ky toefl gre,1
+713,lofty,'lɒfti,adj. 高耸的，崇高的,,"a. 高的, 傲慢的, 崇高的, 高级的, 玄虚的",,cet6 ky toefl ielts gre,1
+714,splash,splæʃ,v. 泼洒，溅，使成斑驳状,,"n. 飞溅, 污点, 一点儿, 溅泼声, 色斑 / vi. 溅湿, 溅开, 飞溅 / vt. 溅, 泼, 使溅起水, 洒, 使成斑驳状",,cet4 cet6 ky toefl ielts,2
+715,embark,im'bɑ:k,v. 开始某事,,"vi. 乘船, 着手, 从事, 上飞机 / vt. 使上船, 使上飞机, 使从事",,cet6 ky ielts,2
+716,foam,fәum,n. 泡沫；泡沫材料,,"n. 泡沫, 水沫, 泡沫材料 / vi. 起泡沫, 吐白沫 / vt. 使起泡沫",,cet6 ky toefl ielts,1
+717,absorb,әb'sɒ:b,v. 吸收；掌握，吸引；消减，承受；吸引全部注意…,Y,"vt. 吸收, 使全神贯注, 同化, 买进, 理解, 承受, 忍受, 承担 / [医] 吸收",,gk cet4 cet6 ky toefl ielts gre,2
+718,hawk,hɒ:k,n. 鹰,,"n. 鹰, 掠夺者, 鹰派成员 / vi. 放鹰行猎, 像鹰一般地袭击, 清嗓, 咳嗽 / vt. 捕捉, 咳出, 兜售, 叫卖, 散播",,gk cet4 cet6 ky ielts gre,2
+719,obedient,ә'bi:djәnt,adj. 服从的，顺从的,,"a. 服从的, 顺从的, 孝顺的 / [法] 服从的, 顺从的, 忠顺的",,cet6 ky ielts gre,1
+720,gum,gʌm,n. 口香糖,,"n. 树胶, 橡皮, 橡皮糖, 牙床, 老天 / vt. 涂以树胶, 用胶粘, 使有粘性 / vi. 分泌树胶, 发粘",,cet4 cet6 ky gre,2
+721,grind,graind,n. 苦差事，苦活儿,,"n. 磨, 碾, 苦差, 摩擦声, 用功的学生 / vt. 磨擦, 磨碎, 磨光, 折磨, 压榨 / vi. 磨, 磨碎, 苦干",,cet4 cet6 ky toefl ielts gre,2
+722,wedge,wedʒ,n. 楔子,,"n. 楔子, 楔形物, 起因, 导致分裂的东西 / vt. 楔住, 挤进, 楔入 / vi. 楔入, 挤进",,cet6 ky ielts,2
+723,baffle,'bæfl,v. 使困惑,,"vt. 困惑, 为难, 使挫折 / vi. 徒作挣扎 / n. 迷惑, 挡板",,cet6 ielts gre,1
+724,skeleton,'skelәtn,n. 骨架,,"n. 骨骼, 骨瘦如柴的人, 梗概, 骨干, 残骸 / a. 骨骼的, 概略的, 基层的, 骨干的 / [计] 骨架",,cet6 ky toefl ielts gre,2
+725,void,vɒid,n. 空白；adj. 缺乏的；空的，没有的；无效的；v.…,Y,"n. 空虚, 空间, 空白, 空隙, 空虚感 / a. 空的, 无效的, 无人的, 没有的, 无用的 / [计] 脱墨; 空白点",,cet6 ky toefl ielts gre,1
+726,creep,kri:p,vi. 逐渐发生，不知不觉地出现；蔓延,,"n. 爬, 徐行, 蠕动 / vi. 爬, 蔓延, 潜行",,cet4 cet6 ky toefl ielts gre,2
+727,rifle,'raifl,n. 步枪,,"n. 来复枪, 步枪 / vt. 用步枪射击, 抢夺 / vi. (抱有不良意图)迅速翻查",,cet4 cet6 ky toefl gre,2
+728,mend,mend,v. 修理，缝补,,"n. 改进, 修补, 好转 / vt. 修改, 改进, 加快, 修理 / vi. 好转, 改善",,zk gk toefl gre,1
+729,lodge,lɒdʒ,n. （乡村）小屋,,"n. 小屋, 门房, 支部, 旅舍, 分会 / vi. 临时住宿, 倒伏, 寄宿, 投宿 / vt. 安顿, 容纳, 提出, 把...射入, 存放",,cet4 cet6 ky toefl ielts,2
+730,refute,ri'fju:t. ri:-,vt. 驳斥,,"vt. 反驳, 驳斥；驳倒",,cet4 cet6 ky toefl gre,1
+731,inn,in,n. 客栈，小旅馆,,"n. 旅馆, 客栈 / vi. 住旅馆",,gk cet4 cet6 ky,2
+732,propagate,'prɒpәgeit,vt. 传播，宣传；v. 繁殖，增殖,,"vt. 繁殖, 传播, 传送 / vi. 繁殖, 蔓延",,cet6 toefl ielts gre,1
+733,faulty,'fɒ:lti,adj. 错误的，靠不住的,,"a. 有过失的, 有缺点的, 不完美的, 应受责备的 / [经] 缺点多的",,cet4 cet6 ky,
+734,compliment,'kɒmplimәnt,v. 赞扬，祝贺,,"n. 称赞, 恭维, 敬意 / vt. 称赞, 褒扬, 恭维",,cet6 ky toefl ielts gre,2
+735,whirl,hwә:l,v. 旋转；使…旋转；急驶过/向前疾驰；n. 繁忙,,"n. 回旋, 旋转, 急走, 眩晕 / vt. 使旋转, 使回旋, 卷走 / vi. 回旋, 旋转, 急走, 发晕",,cet4 cet6 ky ielts,1
+736,porch,pɒ:tʃ,n. 门廊；走廊,,"n. 门廊, 走廊",,cet4 cet6 ky ielts,1
+737,avert,ә'vә:t,v. 防止,,"vt. 转开, 避免, 防止",,cet6 ky toefl ielts gre,2
+738,cloak,klәuk,n. 披风；掩饰；vt. 给…披上披风，覆盖，笼罩；掩饰,,"n. 斗蓬, 大氅, 掩护 / vt. 遮掩, 隐匿, 使披斗蓬",,cet4 cet6 ky,1
+739,snatch,snætʃ,v. 强夺；攫取；n. 片段,,"n. 抢夺, 攫取, 片断 / vt. 夺取, 攫取 / vi. 想抢走, 攫取",,gk cet6 ky ielts gre,2
+740,spare,spєә,vt. 免去,,"n. 剩余, 备用品, 备件, 备用零件, 备用轮胎 / a. 多余的, 备用的, 空闲的, 节约的, 瘦的 / vi. 节约, 省掉, 宽恕 / vt. 节约, 省用, 剩下, 饶恕, 赦免",,zk gk toefl ielts,3
+741,priest,pri:st,n. 教士，神父,,"n. 祭司, 牧师, 神父, 神质人员, 僧侣, 泰斗",,cet4 cet6 ky,3
+742,shiver,'ʃivә,v. 颤抖,,"vi. 颤抖, 哆嗦, 被打碎 / vt. 使迎风飘动, 粉碎 / n. 战栗, 碎块",,cet4 cet6 ky ielts,2
+743,limb,lim,n. 主枝,,"n. 四肢, 枝干, 翼, 边缘 / vt. 切断...之手足",,cet4 cet6 ky toefl ielts gre,2
+744,postulate,'pɒstjuleit,v. 假定……是真的（读作/ ˈpɑstʃəˌleɪt/）,,"n. 假定, 基本条件 / vt. 要求, 假定",,cet6 toefl gre,1
+745,coincidence,kәu'insidәns,n. 巧合，巧事,,"n. 巧合, 同时发生 / [电] 符合计数器",,gk cet6 ky toefl ielts,2
+746,loaf,lәuf,n. 一条（面包）,,"n. 一条面包, 块, 游荡 / v. 游手好闲, 虚度光阴",,gk cet4 cet6 ky ielts gre,1
+747,tenant,'tenәnt,n. 租户，房客,,"n. 承租人, 房客, 居住者 / vt. 租借 / [计] 占据者",,cet4 cet6 ky toefl gre,2
+748,stumble,'stʌmbl,v. 绊跌，绊倒；结结巴巴地说话,,"n. 绊倒, 蹒跚而行, 失足 / vt. 使绊倒, 使困惑 / vi. 绊倒, 失足, 失策, 犯错, 蹒跚, 踌躇",,cet4 cet6 ky toefl ielts,2
+749,terrace,'terәs,n. 梯田,,"n. 阶地, 梯田, 房屋之平顶, 阳台, 沿岸防地, 露台 / a. 叠层式的 / vt. 使成梯田, 使成有平台屋顶",,cet6 toefl ielts gre,2
+750,deteriorate,di'tiәriәreit,vi. 恶化，退化，磨损，变坏，质量下降,,v. (使)恶化,,cet6 ky toefl ielts gre,2
+751,queue,kju:,n. 队，行列,,"n. 辫子, 一队人, 队列 / vt. 使排队, 将...梳成辫子 / vi. 排队 / [计] 队列",,gk cet4 cet6 ky gre,2
+752,bibliography,.bibli'ɒgrәfi,n. 参考书目；文献学,,n. 参考书目 / [计] 书目; 文献目录,,ky ielts gre,1
+753,cereal,'siәriәl,n. 谷物,,"n. 谷类食品, 谷类植物 / a. 谷类的",,cet6 ky ielts gre,2
+754,fusion,'fju:ʒәn,n. 核聚变,,"n. 熔合物, 结合, 熔合 / [化] 熔融; 熔化; 聚变",,toefl ielts gre,1
+755,prone,prәun,adj. 容易…的,,"a. 俯伏的, 面向下的, 有...倾向的 / [医] 旋前的, 伏的, 俯的",,cet6 ky toefl ielts gre,2
+756,mercury,'mә:kjuri,n. 汞，水银,,"n. 水银, 汞, 使者 / [化] 汞Hg",,cet4 cet6 ky toefl,1
+757,bosom,'buzәm,n. 胸部；胸怀,,"n. 胸部, 胸, 胸怀, 内部, 中间 / vt. 怀抱",,cet4 cet6 ky,1
+758,bracket,'brækit,n. 等级段，档次,,"n. 支架, 括弧, 托架 / vt. 装托架, 括入括弧 / [计] 方括号; 括号",,ky ielts gre,1
+759,fetch,fetʃ,vt. 接来，取来,,"n. 取得, 拿, 诡计, 魂 / vt. 接来, 取来, 售得, 带来, 推出, 引出, 杀死, 吸引, 到达 / vi. 取物, 前进 / [计] 取",,zk gk cet4 cet6 ky ielts,2
+760,menace,'menis,n. 具有危险性的人（或物）；v. 威胁，威吓,,"n. 威胁, 胁迫 / v. 威吓, 胁迫",,cet6 ky toefl ielts gre,1
+761,tribe,traib,n. 部落；紧密联系的群体,,"n. 宗族, 部落, 一群人 / [医] 族(生物分类)",,cet4 cet6 ky toefl ielts,2
+762,sob,sɒb,vi. 呜咽，抽泣,,"vi. 啜泣, 呜咽 / vt. 哭诉, 哭得使 / n. 啜泣, 呜咽",,gk cet4 cet6 ky,1
+763,beggar,'begә,n. 乞丐,,"n. 乞丐 / vt. 使贫穷, 使成乞丐",,cet4 cet6,1
+764,pearl,pә:l,n. 珍珠,,"n. 珍珠, 珠灰色, 杰出者, 珍贵之物 / vt. 用珍珠镶, 使成珠状 / vi. 成珠子状, 采珍珠, 用珍珠做",,cet4 cet6 ky toefl,2
+765,jaw,dʒɒ:,n. 颌，颌骨；下巴,,"n. 颚, 颌 / v. 闲谈, 教训, 唠叨",,gk cet4 cet6 ky toefl,2
+766,dilute,dai'lju:t,v. 使变淡，稀释；使削弱,,"vt. 冲淡, 稀释 / a. 淡的, 稀释的",,cet6 ky toefl ielts gre,2
+767,steer,stiә,v. 驾驶,,"vt. 引导, 驾驶, 航行, 控制 / vi. 驾驶, 掌舵, 行驶 / n. 驾驶指示, 劝告",,cet4 cet6 ky toefl ielts gre,2
+768,arithmetic,ә'riθmәtik,n. 算术,,"n. 算术, 算术知识 / [机] 算术; 算术的",,gk cet4 cet6 ky toefl,1
+769,splendid,'spendid,adj. 壮丽的，华丽的,,"a. 光亮的, 了不起的, 灿烂的, 壮丽的, 显著的, 杰出的",,gk cet4 cet6 ky toefl ielts,2
+770,scream,skri:m,v. 尖叫，大哭,,"n. 尖叫声 / vi. 尖叫, 大笑, 尖啸, 令人震惊 / vt. 尖叫着说, 大叫大嚷着要求",,gk cet4 cet6 ky,3
+771,haunt,hɒ:nt,v. 缠绕,,"n. 常到的地方, 生息地 / vt. 常到, 出没于, 萦绕于 / vi. 出没, 作祟",,cet6 toefl ielts gre,2
+772,continent,'kɒntinәnt,n. 大陆，陆地，洲；大洲；欧洲大陆；欧洲大陆；a…,Y,"n. 大陆, 洲 / a. 自制的",,gk cet4 cet6 ky toefl gre,3
+773,continental,.kɒnti'nentl,adj. 大陆的，大陆性的；欧洲大陆的；n. 欧洲大陆人,,"a. 大陆的, 洲的 / n. 欧洲大陆人",,cet6 toefl,2
+774,susceptible,sә'septәbl,adj. 易受影响的,,"a. 易受影响的, 易感动的, 容许...的 / [法] 易感的, 易受影响的, 容许",,cet6 ky toefl ielts gre,1
+775,retrospect,'retrәspekt,n. 回顾，追溯；v. 回顾，回想，追溯,,"n. 回顾, 追忆, 回溯 / v. 回顾, 追忆",,cet6 ky toefl ielts,1
+776,hedge,hedʒ,n. 篱笆，树篱,,"n. 树篱, 障碍, 套头交易 / vt. 用树篱围, 套期保值, 妨碍, 两面下注以防...的损失 / vi. 筑树篱, 躲闪, 两面下注以防损失 / a. 树篱的, 偷偷摸摸的",,cet4 cet6 ky ielts gre,2
+777,ascribe,ә'skraib,v. 把…归因于，把…归属于,,"vt. 归因于, 归咎于 / [法] 归咎于",,cet4 cet6 toefl ielts gre,1
+778,infectious,in'fekʃәs,adj. 传染性的，患有传染病的,,"a. 有传染性的, 易传染的 / [医] 传染性的",,cet6 ky toefl ielts,1
+779,intrinsic,in'trinsik,adj. 内在的，固有的,,"a. 本质的, 原有的, 真正的 / [医] 内部的, 内在的",,cet6 ky toefl ielts,1
+780,hatred,'heitrid,n. 仇恨，厌恶,,"n. 憎恨, 仇恨, 憎恶 / [法] 敌意, 憎恨, 憎恶",,cet4 cet6 ky toefl,2
+781,constituent,kәn'stitjuәnt,n. 成分，部分；选民；adj. 组成的,,"n. 成分, 选民, 构成物 / a. 构成的, 组织的, 选举的",,cet6 ky toefl ielts gre,2
+782,ally,'ælai. ә'lai,n. 同盟国，同盟者（读作/ ˈælaɪ/）,,"n. 同盟者, 同盟国, 助手 / vt. 使联盟, 使联合, 使有关系 / vi. 结盟",,cet6 ky toefl ielts,4
+783,barn,bɑ:n,n. 谷仓，牲口棚,,n. 谷仓 / [化] 靶(恩)(核反应截面单位),,cet4 cet6 ky toefl ielts gre,2
+784,discern,di'zә:n,v. 分辨出；觉察到,,"v. 辨别, 看清楚, 了解",,cet6 ky toefl ielts gre,1
+785,generalize,'dʒenәrәlaiz,v. 概括，归纳,,"vt. 一般化, 概括, 推广 / vi. 形成概念, 笼统讲",,cet6 ky toefl ielts gre,1
+786,segregate,'segrigeit,v. 使…分开，隔离；进行种族隔离,,"a. 分离的, 被隔离的 / vi. 分离, 隔离, 分凝 / vt. 使分离, 使隔离",,cet6 ky toefl ielts,
+787,mortgage,'mɒ:gidʒ,n. 抵押贷款,,"n. 抵押, 约束性义务, 抵押借款 / vt. 抵押, 以...作担保, 把...许给",,cet6 ky ielts gre,4
+788,commentary,'kɒmәntәri,n. 评论,,"n. 注释, 评论, 说明 / [法] 注释, 评注, 评论",,cet6 toefl ielts gre,2
+789,cricket,'krikit,n. 蟋蟀,,"n. 蟋蟀, 板球",,cet4 cet6 ky ielts,3
+790,alternate,'ɒ:ltәnәt,n. 代替者,,"a. 交替的, 轮流的, 间隔的 / v. 轮流, (使)交替",,cet6 ky toefl ielts gre,2
+791,resume,ri'zju:m,n. 简历（读作/ ˈrezjumeɪ/）；摘要；简…,Y,"vt. 重新开始, 取回, 恢复 / vi. 再开始 / n. 摘要, 个人简历 / [计] 继续执行",,cet4 cet6 ky toefl ielts gre,1
+792,peculiar,pi'kju:ljә,adj. 奇怪的；特有的；古怪的；特别的；不舒服的,,"a. 奇特的, 罕见的, 特殊的, 特别的 / n. 特有财产, 特权",,cet4 cet6 ky toefl ielts,2
+793,promise,'prɒmis,n. 成功前景；承诺，诺言；v. 答应，许诺,,"n. 诺言, 约定的事情, 有指望 / vt. 允诺, 约定, 预示 / vi. 允诺, 有前途, 有指望",,zk gk cet4 cet6 ky toefl ielts,4
+794,pottery,'pɒtәri,n. 陶器；陶艺；陶艺厂,,"n. 陶器, 陶器厂 / [化] 陶器",,toefl ielts gre,1
+795,elevate,'eliveit,vt. 提高,,"vt. 举起, 提拔, 鼓舞",,cet6 ky toefl ielts gre,2
+796,prevalent,'prevәlәnt,adj. 流行的，普遍的,,"a. 普遍的, 流行的",,cet6 ky toefl ielts,1
+797,fluctuate,'flʌktʃueit,v. 波动；摇摆不定；（在... 之间）起伏不定,,"vi. 变动, 起伏, 动摇 / vt. 使波动, 使动摇",,cet6 ky toefl ielts gre,1
+798,impulsive,im'pʌlsiv,adj. 冲动的,,"a. 冲动的, 受感情驱使的, 任性的 / [医] 冲动的",,toefl gre,1
+799,plagued,,v. 困扰,,v. 困扰（plague的过去分词）,,,
+800,ceremonial,.seri'mәunjәl,n. 礼节；adj. 礼仪的，用于礼仪的，拘于礼仪的,,n. 仪式 / a. 正式的,,toefl,1
+801,pentatonic,.pentә'tɒnik,adj. 五音的,,a. 五声(音阶)的,,,
+802,remedy,'remidi,v. 纠正，弥补；改正；n. 治疗；改进措施；药品；…,Y,"n. 药物, 治疗法, 治疗, 补救, 赔偿 / vt. 治疗, 补救, 矫正, 改善, 修补, 修缮",,cet4 cet6 ky toefl ielts,2
+803,stigma,'stigmә,n. 耻辱，污名；【植】柱头,,"n. 耻辱, 污名, 烙印 / [医] 柱头; 小孔, 眼点; 气孔; 小斑; 特征",,gre,1
+804,allergy,'ælәdʒi,n. 过敏,,"n. 变应性, 反感, 厌恶 / [化] 变态反应; 变应性",,ielts gre,2
+805,hay,hei,n. 干草；少量的钱,,"n. 干草 / vt. 制干草, 供给干草 / vi. 晒干草",,gk cet4 cet6 ky toefl,1
+806,steroid,'stiәrɒid,n. 类固醇；【生】类固醇,,n. 类固醇 / [化] 甾族化合物,,,1
+807,nasal,'neizl,adj. 鼻的；带鼻音的；n. 鼻音,,"a. 鼻的, 鼻声的, 尖锐的 / n. 鼻音, 鼻音字",,gre,1
+808,epilepsy,'epilepsi,n. 癫痫症,,n. 癫痫症 / [医] 癫痫(羊痫疯),,,1
+809,quarantine,'kwɒrәnti:n,v. 将…隔离；n. 检疫隔离；隔离期,,"n. 隔离, 封锁交通, 检疫期 / vt. 隔离, 排斥",,gre,1
+810,impose,im'pәuz,v. 将…强加于人；强制实行，强行收取；强制实行…,Y,"vt. 征(税), 把...强加于, 以...欺骗 / vi. 利用, 欺骗, 施加影响",,cet4 cet6 ky toefl ielts gre,4
+811,antibiotic,.æntibai'ɒtik,n. 抗菌素，抗生素；【生】抗生素；adj. 抗菌的,,n. 抗生素 / a. 抗生的,,toefl ielts gre,2
+812,gossip,'gɒsip,n. 流言蜚语；爱传流言的人；闲聊；八卦（新闻）…,Y,"n. 闲聊, 随笔, 流言, 爱讲闲话的人 / vi. 说闲话, 闲聊",,cet6 ky toefl ielts,2
+813,molecule,'mɒlikju:l,n. 分子；摩尔；分子；【物】分子；【生】分子,,"n. 分子, 些微 / [化] 分子",,cet4 cet6 ky toefl ielts gre,3
+814,molecular,mә'lekjulә,adj. 分子的,,"a. 分子的, 由分子组成的 / [医] 分子的",,cet6 toefl,
+815,duty,'dju:ti,n. 税；责任，义务，本分,,"n. 责任, 关税, 职务, 尊敬 / [化] 职责",,zk gk cet4 cet6 ky ielts,4
+816,destruction,di'strʌkʃәn,n. 破坏，毁灭；破坏，毁灭，摧毁；【化】破坏，…,Y,"n. 破坏, 毁灭 / [医] 破坏",,cet4 cet6 ky toefl,
+817,exquisite,'ekskwizit,adj. 精致的，精湛的；细腻的；精致的，精美的；强…,Y,"a. 精致的, 细腻的, 敏锐的",,cet6 ky toefl ielts gre,2
+818,singular,'siŋgjulә,adj. 非凡的，显著的,,"n. 单数 / a. 异常的, 单一的",,cet4 cet6 ky ielts,1
+819,exert,ig'zә:t,v. 施加，利用，运用,,"vt. 发挥, 运用, 施以影响 / [法] 施加, 产生, 行使",,cet4 cet6 ky toefl ielts gre,2
+820,flip,flip,v. 轻抛；快速翻动；【数】翻转；按动，开关；发火…,Y,"vt. 掷, 弹, 轻击, 空翻 / vi. 用指轻弹, 抽打, 蹦跳 / n. 抛, 弹, 筋斗 / a. 无礼的 / [计] 翻转",,toefl ielts gre,2
