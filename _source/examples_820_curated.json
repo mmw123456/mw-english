@@ -1,0 +1,2844 @@
+{
+ "source": "Tatoeba",
+ "license": "CC-BY 2.0 FR",
+ "url": "https://tatoeba.org",
+ "reviewed": "2026-11-27 人工逐条过一遍（329 句）",
+ "stats": {
+  "words_with_examples": 188,
+  "words_removed_by_review": 4,
+  "sentences": 306,
+  "sentences_deleted": 23,
+  "sentences_edited": 35,
+  "dist": {
+   "1": 110,
+   "2": 38,
+   "3": 40
+  }
+ },
+ "examples": {
+  "eliminate": [
+   {
+    "en": "Germany was eliminated by South Korea.",
+    "zh": "德国被韩国淘汰。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 7767807,
+    "zh_id": 6967108
+   }
+  ],
+  "concrete": [
+   {
+    "en": "He was only bothered about concrete questions.",
+    "zh": "他一向只关心具体问题。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 2367541,
+    "zh_id": 2367540
+   }
+  ],
+  "assemble": [
+   {
+    "en": "Where are we assembling?",
+    "zh": "我们在哪里集合？",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 5241607,
+    "zh_id": 5153277
+   },
+   {
+    "en": "The teacher assembled the students in the hall.",
+    "zh": "老师在礼堂把学生们集合起来。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 48683,
+    "zh_id": 897263
+   }
+  ],
+  "sketch": [
+   {
+    "en": "He sketched an apple.",
+    "zh": "他画了一张苹果素描。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1715036,
+    "zh_id": 13167226
+   },
+   {
+    "en": "Jiro made a sketch of Mt. Fuji.",
+    "zh": "次郎画了一幅富士山的素描。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 264374,
+    "zh_id": 909454
+   },
+   {
+    "en": "Tom sketched a picture of an elephant for Mary.",
+    "zh": "汤姆给玛丽画了大象的素描。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1103056,
+    "zh_id": 5691237
+   }
+  ],
+  "permanent": [
+   {
+    "en": "Please give me your permanent address.",
+    "zh": "请给我你的永久地址。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 16859,
+    "zh_id": 859134
+   }
+  ],
+  "abundant": [
+   {
+    "en": "The United States is abundant in natural resources.",
+    "zh": "美国的自然资源很丰富。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 320221,
+    "zh_id": 334791
+   }
+  ],
+  "slip": [
+   {
+    "en": "Don't let this chance slip by.",
+    "zh": "不要让这个机会溜走。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 59314,
+    "zh_id": 13907693
+   }
+  ],
+  "deceive": [
+   {
+    "en": "Some are deceived by fair words.",
+    "zh": "一些人被甜言蜜语欺骗。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 21004,
+    "zh_id": 4969996
+   },
+   {
+    "en": "This will be the last time you're deceived.",
+    "zh": "这将是你最后一次被欺骗了。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 10253655,
+    "zh_id": 333147
+   },
+   {
+    "en": "Nature never deceives us; it is always we who deceive ourselves.",
+    "zh": "自然从不会欺骗我们，骗我们的永远是我们自己。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 412880,
+    "zh_id": 464877
+   }
+  ],
+  "dissolve": [
+   {
+    "en": "The prime minister dissolved the Diet.",
+    "zh": "首相解散了国会。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 266155,
+    "zh_id": 4764642
+   }
+  ],
+  "remote": [
+   {
+    "en": "Hand me the remote.",
+    "zh": "把遥控器递给我。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1522624,
+    "zh_id": 8589622
+   },
+   {
+    "en": "The TV remote control is under the couch.",
+    "zh": "电视遥控器在沙发下面。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 496550,
+    "zh_id": 8744085
+   },
+   {
+    "en": "She was born in a remote village in Nepal.",
+    "zh": "她出生于尼泊尔的一个偏远小山村。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 682324,
+    "zh_id": 1891237
+   }
+  ],
+  "circumstance": [
+   {
+    "en": "The circumstances did not allow me to go abroad.",
+    "zh": "情况不允许我出国。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 22200,
+    "zh_id": 8709399
+   },
+   {
+    "en": "Please consider that the maximum doesn't exist in some circumstances.",
+    "zh": "请考虑一下，最大值在有些情况下是不存在的。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 7265201,
+    "zh_id": 1785896
+   }
+  ],
+  "appropriate": [
+   {
+    "en": "Do you think it's appropriate to talk like that?",
+    "zh": "你觉得说这种话合适吗？",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 10540376,
+    "zh_id": 9990126
+   }
+  ],
+  "indispensable": [
+   {
+    "en": "Air is indispensable to life.",
+    "zh": "空气是生命中不可或缺的。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 18240,
+    "zh_id": 339489
+   },
+   {
+    "en": "If someone is indispensable to a company, then that company is not well-organized.",
+    "zh": "若是有人对公司来说是不可或缺的，那么这家公司组织得不好。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 11548494,
+    "zh_id": 3742580
+   }
+  ],
+  "hint": [
+   {
+    "en": "What are you hinting at?",
+    "zh": "你在暗示什么？",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 551304,
+    "zh_id": 551301
+   }
+  ],
+  "adequate": [
+   {
+    "en": "This meal is adequate for three.",
+    "zh": "这饭足够三个人吃。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 72682,
+    "zh_id": 1397137
+   }
+  ],
+  "accuse": [
+   {
+    "en": "Why do you accuse my son?",
+    "zh": "你为什么指责我儿子？",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 16453,
+    "zh_id": 471327
+   },
+   {
+    "en": "She was accused of telling a lie.",
+    "zh": "她被指责说了谎。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 310536,
+    "zh_id": 345855
+   }
+  ],
+  "insurance": [
+   {
+    "en": "Why did you buy travel insurance?",
+    "zh": "为什么你买了旅行保险？",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 6953275,
+    "zh_id": 9932501
+   },
+   {
+    "en": "The company medical treatment insurance covered all the medical treatment costs.",
+    "zh": "公司的医疗保险覆盖了全部的医疗费用。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 5870613,
+    "zh_id": 805555
+   }
+  ],
+  "feasible": [
+   {
+    "en": "We have come to the conclusion that this plan is not feasible currently.",
+    "zh": "我们得出结论，这个计划目前是不可行的。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 2915560,
+    "zh_id": 2915559
+   }
+  ],
+  "divorce": [
+   {
+    "en": "My parents are divorced.",
+    "zh": "我父母离婚了。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 456461,
+    "zh_id": 2109174
+   },
+   {
+    "en": "Has your friend divorced?",
+    "zh": "你朋友离婚了吗？",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 3378190,
+    "zh_id": 3378189
+   },
+   {
+    "en": "She intends to get divorced.",
+    "zh": "她打算离婚。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 8585258,
+    "zh_id": 10002087
+   }
+  ],
+  "inflation": [
+   {
+    "en": "Interest rates and inflation were high.",
+    "zh": "利率和通货膨胀很高。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 807356,
+    "zh_id": 5663599
+   }
+  ],
+  "representative": [
+   {
+    "en": "Who is the current representative from France?",
+    "zh": "法国现任代表是谁？",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1179145,
+    "zh_id": 579142
+   },
+   {
+    "en": "He attended the meeting as the company representative.",
+    "zh": "他代表我们公司出席了会议。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 431672,
+    "zh_id": 346085
+   },
+   {
+    "en": "Prospectuses must be signed by two sponsor representatives.",
+    "zh": "招股说明书必须由两名保荐代表人签字。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 696002,
+    "zh_id": 629975
+   }
+  ],
+  "implement": [
+   {
+    "en": "Our company will implement new price standards regarding this product.",
+    "zh": "关于这个产品，我公司将执行新的价格标准。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 7768927,
+    "zh_id": 2482670
+   },
+   {
+    "en": "Although the decision to implement this plan has already been made, the finer points still need to be planned out.",
+    "zh": "这个计划虽然已经决定实施了，但是具体细节还需要从长计议。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 3537596,
+    "zh_id": 3537595
+   }
+  ],
+  "insult": [
+   {
+    "en": "Tom didn't mean to insult anybody.",
+    "zh": "汤姆没想侮辱谁。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 5853783,
+    "zh_id": 13138104
+   }
+  ],
+  "primitive": [
+   {
+    "en": "Magic plays an important part in primitive society.",
+    "zh": "巫术在原始社会扮演重要角色。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 266199,
+    "zh_id": 884702
+   }
+  ],
+  "assume": [
+   {
+    "en": "Let's assume that'll happen.",
+    "zh": "让我们假定那会发生。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 5736648,
+    "zh_id": 6064674
+   }
+  ],
+  "asset": [
+   {
+    "en": "Assets have earning power or some other value to their owner.",
+    "zh": "资产对所有者来说，具有盈利能力或一些其他的价值。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1834907,
+    "zh_id": 1834906
+   }
+  ],
+  "scene": [
+   {
+    "en": "A crowd gathered at the scene.",
+    "zh": "一群人聚集在现场。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 237748,
+    "zh_id": 8886337
+   },
+   {
+    "en": "The terrible scene sent shivers down his spine.",
+    "zh": "恐怖的场面让他浑身发抖。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1316055,
+    "zh_id": 1316087
+   },
+   {
+    "en": "The police got to the scene of the accident.",
+    "zh": "警察到达了事故现场。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 238179,
+    "zh_id": 11254308
+   }
+  ],
+  "suppose": [
+   {
+    "en": "We are supposed to know the rules.",
+    "zh": "我们应该了解相应的规则。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 248066,
+    "zh_id": 2456042
+   },
+   {
+    "en": "You're not supposed to be here now.",
+    "zh": "你现在不应该在这里。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 2835621,
+    "zh_id": 9959038
+   },
+   {
+    "en": "You're not supposed to be in this area.",
+    "zh": "你不应该待在这里。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 2835585,
+    "zh_id": 3770515
+   }
+  ],
+  "sensible": [
+   {
+    "en": "His advice is always very sensible.",
+    "zh": "他的忠告总是很明智。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 287149,
+    "zh_id": 332936
+   },
+   {
+    "en": "It was sensible of you to follow her advice.",
+    "zh": "你听从她的忠告是明智的。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 71312,
+    "zh_id": 785149
+   }
+  ],
+  "scale": [
+   {
+    "en": "It seems the rural area will be developed on a large scale.",
+    "zh": "农村好像要大规模发展了。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 45119,
+    "zh_id": 345945
+   }
+  ],
+  "journal": [
+   {
+    "en": "Do you keep a journal?",
+    "zh": "你记日记吗？",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 6013598,
+    "zh_id": 396625
+   },
+   {
+    "en": "My dad keeps a journal every day.",
+    "zh": "我爸爸每天都记日记。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1266470,
+    "zh_id": 345920
+   }
+  ],
+  "interval": [
+   {
+    "en": "There was a long interval before he replied.",
+    "zh": "他隔了很久才作答。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 284058,
+    "zh_id": 2394999
+   }
+  ],
+  "regulate": [
+   {
+    "en": "Traffic lights are used to regulate traffic.",
+    "zh": "交通灯是用来控制交通的。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 240363,
+    "zh_id": 1570036
+   }
+  ],
+  "via": [
+   {
+    "en": "He went to London via Paris.",
+    "zh": "他经由巴黎去了伦敦。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 292442,
+    "zh_id": 1450416
+   }
+  ],
+  "aspect": [
+   {
+    "en": "Only some students understand that aspect.",
+    "zh": "只有一些学生理解那个方面。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 7768493,
+    "zh_id": 829297
+   },
+   {
+    "en": "Imagination affects every aspect of our lives.",
+    "zh": "想像力影响着我们生活的各个方面。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1601,
+    "zh_id": 334165
+   },
+   {
+    "en": "We must consider the financial aspects of this project.",
+    "zh": "我们必须考虑这个项目的财务方面。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 59874,
+    "zh_id": 339286
+   }
+  ],
+  "abstract": [
+   {
+    "en": "This description is too abstract.",
+    "zh": "这个描述太抽象了。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 4800241,
+    "zh_id": 8635820
+   },
+   {
+    "en": "Some abstract art is difficult to understand.",
+    "zh": "一些抽象艺术是很难理解的。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 277567,
+    "zh_id": 798166
+   },
+   {
+    "en": "To him, hunger was an abstract concept; he always had enough to eat.",
+    "zh": "对他来说，“肚子饿”是个抽象的概念，因为他从来就没有饿过。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1933,
+    "zh_id": 408448
+   }
+  ],
+  "format": [
+   {
+    "en": "I've formatted your hard disk by mistake.",
+    "zh": "我不小心格式化了你的硬盘。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 3522476,
+    "zh_id": 10472678
+   }
+  ],
+  "pop": [
+   {
+    "en": "She likes Russian pop.",
+    "zh": "她喜欢听俄罗斯流行音乐。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 398998,
+    "zh_id": 399003
+   }
+  ],
+  "attempt": [
+   {
+    "en": "Tom didn't attempt to reply.",
+    "zh": "汤姆没有试图回答。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 3729916,
+    "zh_id": 9962262
+   }
+  ],
+  "victim": [
+   {
+    "en": "She is not the victim.",
+    "zh": "她不是受害者。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1159733,
+    "zh_id": 382441
+   },
+   {
+    "en": "Who would be its next victim?",
+    "zh": "谁会是下一个受害者?",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 276338,
+    "zh_id": 779034
+   },
+   {
+    "en": "She is the victim of this incident.",
+    "zh": "她是这件事的受害者。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 7789282,
+    "zh_id": 5685753
+   }
+  ],
+  "spur": [
+   {
+    "en": "More money for education will spur economic growth.",
+    "zh": "增加教育投入将刺激经济增长。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 19132,
+    "zh_id": 772166
+   }
+  ],
+  "manufacture": [
+   {
+    "en": "This factory manufactures electric stoves.",
+    "zh": "这家工厂生产电炉。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 681420,
+    "zh_id": 2599872
+   },
+   {
+    "en": "This factory manufactures automobile parts.",
+    "zh": "这家工厂生产汽车配件。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 236776,
+    "zh_id": 2599865
+   },
+   {
+    "en": "We are planning changes to the manufacturing process.",
+    "zh": "我们正计划改进生产流程。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 4728321,
+    "zh_id": 4717470
+   }
+  ],
+  "offend": [
+   {
+    "en": "I'm afraid I've offended you.",
+    "zh": "我怕我冒犯了你。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 237703,
+    "zh_id": 835456
+   },
+   {
+    "en": "Tom didn't mean to offend you.",
+    "zh": "汤姆没想冒犯你。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 11290576,
+    "zh_id": 13137912
+   }
+  ],
+  "competent": [
+   {
+    "en": "I've been told that you're a very competent person.",
+    "zh": "有人说你是个很有能力的人。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 3699690,
+    "zh_id": 6148394
+   }
+  ],
+  "sole": [
+   {
+    "en": "That's my sole concern.",
+    "zh": "这是我唯一关心的。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 42050,
+    "zh_id": 2032133
+   }
+  ],
+  "access": [
+   {
+    "en": "Turkey has blocked access to Twitter.",
+    "zh": "土耳其禁止了推特的访问。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 3114553,
+    "zh_id": 8853819
+   }
+  ],
+  "estimate": [
+   {
+    "en": "How much time do you estimate it'll take you to do that?",
+    "zh": "你估计做那件事需要花费你多少时间呢？",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 6229900,
+    "zh_id": 8751437
+   }
+  ],
+  "burden": [
+   {
+    "en": "That responsibility is a burden to him.",
+    "zh": "那个责任对他是个负担。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 45877,
+    "zh_id": 336466
+   }
+  ],
+  "private": [
+   {
+    "en": "He has a private jet.",
+    "zh": "他有私人飞机。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 10475225,
+    "zh_id": 10470535
+   },
+   {
+    "en": "She takes private piano lessons.",
+    "zh": "她上私人钢琴课。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 312032,
+    "zh_id": 844463
+   },
+   {
+    "en": "She hired a private investigator.",
+    "zh": "她请了个私人调查员。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1740887,
+    "zh_id": 5670786
+   }
+  ],
+  "term": [
+   {
+    "en": "'Radioactivity' is a chemistry term.",
+    "zh": "“放射性”是一个化学术语。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 492548,
+    "zh_id": 784563
+   },
+   {
+    "en": "I'm not familiar with that term.",
+    "zh": "我对那个术语不熟悉。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 6558783,
+    "zh_id": 6559070
+   }
+  ],
+  "remain": [
+   {
+    "en": "Only two days remain.",
+    "zh": "只剩下两天了。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 8160397,
+    "zh_id": 939892
+   },
+   {
+    "en": "Nothing remained in the refrigerator.",
+    "zh": "冰箱里什么都没剩下。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 326081,
+    "zh_id": 8635477
+   },
+   {
+    "en": "There were few students remaining in the classroom.",
+    "zh": "教室里没剩下几个学生了。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 19041,
+    "zh_id": 1516104
+   }
+  ],
+  "vanish": [
+   {
+    "en": "The ghost vanished suddenly.",
+    "zh": "幽灵突然消失了。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 280727,
+    "zh_id": 13117587
+   }
+  ],
+  "vacant": [
+   {
+    "en": "He was standing there with a vacant look.",
+    "zh": "他站在那里,一脸茫然。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 292718,
+    "zh_id": 602901
+   }
+  ],
+  "summit": [
+   {
+    "en": "The summit of Mt. Fuji was covered in snow.",
+    "zh": "富士山顶盖满了雪。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 388015,
+    "zh_id": 349929
+   }
+  ],
+  "treaty": [
+   {
+    "en": "In 1978 a peace treaty was concluded between Japan and China.",
+    "zh": "1978年中国和日本签署了和平条约。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 73276,
+    "zh_id": 1314147
+   }
+  ],
+  "consent": [
+   {
+    "en": "He consented to help the old lady.",
+    "zh": "他同意帮助这位老太太。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 291386,
+    "zh_id": 889114
+   },
+   {
+    "en": "We will only consent on that condition.",
+    "zh": "我们只会在那样的条件下同意。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 46178,
+    "zh_id": 336875
+   },
+   {
+    "en": "Do you give your consent to the operation?",
+    "zh": "你是否同意手术？",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 5073894,
+    "zh_id": 8655329
+   }
+  ],
+  "antique": [
+   {
+    "en": "He has an eye for antiques.",
+    "zh": "他对古董很有鉴赏力。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 296454,
+    "zh_id": 1423371
+   },
+   {
+    "en": "Can you tell me where the nearest antique shop is?",
+    "zh": "你能告诉我最近的古玩店在哪里吗？",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 27272,
+    "zh_id": 5670809
+   }
+  ],
+  "sacrifice": [
+   {
+    "en": "Would it be ethical to sacrifice one person to save many?",
+    "zh": "为了救许多人牺牲一个人是否道德？",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 652444,
+    "zh_id": 812366
+   },
+   {
+    "en": "He did not sacrifice his life, nor did he sell out his organization.",
+    "zh": "他没有牺牲生命，也没有出卖组织。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 8932627,
+    "zh_id": 8709527
+   }
+  ],
+  "diplomat": [
+   {
+    "en": "You should be a diplomat.",
+    "zh": "你应该做一个外交官。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 4834914,
+    "zh_id": 4844783
+   },
+   {
+    "en": "Diplomats are allowed various privileges.",
+    "zh": "外交官有多种特权。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 21965,
+    "zh_id": 5591008
+   },
+   {
+    "en": "He is a diplomat at the American Embassy.",
+    "zh": "他是美国大使馆的外交官。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 288865,
+    "zh_id": 404459
+   }
+  ],
+  "approximate": [
+   {
+    "en": "This is all very approximate.",
+    "zh": "这一切都非常近似。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 6163309,
+    "zh_id": 13524157
+   },
+   {
+    "en": "The story approximates to historical truth.",
+    "zh": "故事与历史真相接近。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 44138,
+    "zh_id": 10484122
+   }
+  ],
+  "deed": [
+   {
+    "en": "A man is responsible for his deeds.",
+    "zh": "一个人要为他的行为负责。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 270082,
+    "zh_id": 332831
+   }
+  ],
+  "illuminate": [
+   {
+    "en": "The room was illuminated with red lights.",
+    "zh": "这个房间被红色的灯照亮了。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 44195,
+    "zh_id": 875043
+   },
+   {
+    "en": "The street is illuminated by many lights.",
+    "zh": "许多灯照亮了街道。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 6452089,
+    "zh_id": 6452088
+   },
+   {
+    "en": "The square was illuminated by bright lights.",
+    "zh": "广场被鲜明的灯火照亮。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 240854,
+    "zh_id": 3080265
+   }
+  ],
+  "restrain": [
+   {
+    "en": "You should learn to restrain yourself.",
+    "zh": "你应该学会克制自己。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 16033,
+    "zh_id": 406578
+   }
+  ],
+  "converse": [
+   {
+    "en": "It was nice to converse with her.",
+    "zh": "和她交谈很愉快。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 749488,
+    "zh_id": 817637
+   }
+  ],
+  "constitution": [
+   {
+    "en": "Equality is guaranteed by the Constitution.",
+    "zh": "平等是由宪法保障的。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 320163,
+    "zh_id": 397099
+   }
+  ],
+  "humid": [
+   {
+    "en": "Summer is always hot and humid.",
+    "zh": "夏天总是闷热而又潮湿。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 10055156,
+    "zh_id": 10024462
+   },
+   {
+    "en": "It is extremely hot and humid in Bali in December.",
+    "zh": "12月份巴厘岛极其炎热和潮湿。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 35033,
+    "zh_id": 787169
+   }
+  ],
+  "principal": [
+   {
+    "en": "Our school's principal is very old.",
+    "zh": "我校校长很老了。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 426384,
+    "zh_id": 1468435
+   },
+   {
+    "en": "The principal wants to talk to you.",
+    "zh": "校长想跟你谈话。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1358628,
+    "zh_id": 5555771
+   }
+  ],
+  "punctual": [
+   {
+    "en": "Tom has never been punctual.",
+    "zh": "汤姆从不准时。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1221648,
+    "zh_id": 2254403
+   },
+   {
+    "en": "She doesn't like people who aren't punctual.",
+    "zh": "她不喜欢不守时的人。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 314531,
+    "zh_id": 1807070
+   }
+  ],
+  "abolish": [
+   {
+    "en": "We should abolish the death penalty.",
+    "zh": "我们应该废除死刑。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 266987,
+    "zh_id": 2077797
+   }
+  ],
+  "pregnant": [
+   {
+    "en": "No thanks, I'm pregnant.",
+    "zh": "不用，谢谢，我怀孕了。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 3283007,
+    "zh_id": 3283113
+   },
+   {
+    "en": "I'm four months pregnant.",
+    "zh": "我怀孕四个月了。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 281964,
+    "zh_id": 389818
+   },
+   {
+    "en": "She lied about being pregnant.",
+    "zh": "她谎称自己怀孕了。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1324368,
+    "zh_id": 1471501
+   }
+  ],
+  "script": [
+   {
+    "en": "Overall, the movie was a success from script to screen.",
+    "zh": "总的来说，这部电影从剧本到银幕是成功的。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 11544182,
+    "zh_id": 3709276
+   }
+  ],
+  "defect": [
+   {
+    "en": "This system has obvious defects.",
+    "zh": "这个系统有些明显的缺陷。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 61050,
+    "zh_id": 1261466
+   }
+  ],
+  "take advantage of": [
+   {
+    "en": "Tom is taking advantage of you.",
+    "zh": "汤姆在利用你。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 10784930,
+    "zh_id": 12253227
+   },
+   {
+    "en": "Let's take advantage of the long weekend.",
+    "zh": "来好好利用大周末吧。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 278050,
+    "zh_id": 1397017
+   },
+   {
+    "en": "She took full advantage of her stay in London to improve her English.",
+    "zh": "她充分利用在伦敦逗留的时间来提高英语。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 312449,
+    "zh_id": 863949
+   }
+  ],
+  "suitcase": [
+   {
+    "en": "She helped me pack my suitcase.",
+    "zh": "她帮我收拾行李箱。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 314046,
+    "zh_id": 861016
+   },
+   {
+    "en": "I'm looking for a small suitcase.",
+    "zh": "我正在找一个小手提箱。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 267519,
+    "zh_id": 819246
+   },
+   {
+    "en": "Who does this suitcase belong to?",
+    "zh": "这个手提箱是谁的?",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 55525,
+    "zh_id": 866150
+   }
+  ],
+  "deprive": [
+   {
+    "en": "This law will deprive us of our basic rights.",
+    "zh": "这项法律会剥夺我们的基本权利。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 57140,
+    "zh_id": 1409040
+   }
+  ],
+  "postpone": [
+   {
+    "en": "We postponed the meeting.",
+    "zh": "我们推迟了会议。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 5226431,
+    "zh_id": 5762983
+   }
+  ],
+  "proficient": [
+   {
+    "en": "He is proficient in Farsi.",
+    "zh": "他精通波斯语。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 810865,
+    "zh_id": 805117
+   },
+   {
+    "en": "She is proficient in French.",
+    "zh": "她精通法语。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 312105,
+    "zh_id": 757627
+   }
+  ],
+  "delegate": [
+   {
+    "en": "Delegates from many countries participated in the conference.",
+    "zh": "许多国家的代表出席了会议。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 274962,
+    "zh_id": 736984
+   }
+  ],
+  "alleviate": [
+   {
+    "en": "In order to alleviate employment pressures, the nation has established a series of relevant policies.",
+    "zh": "为了缓解就业压力，国家已经制定了一系列相关政策。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 3537574,
+    "zh_id": 3537572
+   }
+  ],
+  "confess": [
+   {
+    "en": "He confessed that he was guilty.",
+    "zh": "他承认有罪。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 298536,
+    "zh_id": 363879
+   },
+   {
+    "en": "Tom confessed that he had stolen the money.",
+    "zh": "汤姆承认偷了钱。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1095230,
+    "zh_id": 1944858
+   }
+  ],
+  "exceed": [
+   {
+    "en": "The population of China has already exceeded 1.3 billion.",
+    "zh": "中国的人口已经超过了十三亿。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 717311,
+    "zh_id": 717310
+   },
+   {
+    "en": "This year, the speed of development in our company far exceeds that of last year.",
+    "zh": "今年我们公司的发展速度大大超过去年。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 717315,
+    "zh_id": 717313
+   }
+  ],
+  "recession": [
+   {
+    "en": "Recession is a temporary falling off of business activity during a period when such activity is generally increasing.",
+    "zh": "经济萧条是一段时间内，当这样的经济活动普遍增长而造成的一种临时性的经济活动衰退。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 29685,
+    "zh_id": 336867
+   }
+  ],
+  "handicap": [
+   {
+    "en": "Having no will is the worst handicap.",
+    "zh": "没有意志力是最大的障碍。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 28216,
+    "zh_id": 1394908
+   }
+  ],
+  "execute": [
+   {
+    "en": "The plan was executed.",
+    "zh": "计划被执行了。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 7765389,
+    "zh_id": 829599
+   },
+   {
+    "en": "We must execute his orders.",
+    "zh": "我们必须执行他的命令。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 287670,
+    "zh_id": 8800301
+   }
+  ],
+  "scarce": [
+   {
+    "en": "The trees were very scarce.",
+    "zh": "树木很稀少。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 406015,
+    "zh_id": 10252131
+   }
+  ],
+  "property": [
+   {
+    "en": "He succeeded to his father's property.",
+    "zh": "他继承了他父亲的财产。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 302512,
+    "zh_id": 397539
+   },
+   {
+    "en": "He passed his property on to his son.",
+    "zh": "他把他的财产传给了他儿子。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 296846,
+    "zh_id": 847881
+   }
+  ],
+  "infinite": [
+   {
+    "en": "There's no doubt: the universe is infinite.",
+    "zh": "宇宙毫无疑问是无限的。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 414845,
+    "zh_id": 64
+   }
+  ],
+  "referee": [
+   {
+    "en": "They seemed to offend the referee.",
+    "zh": "他们似乎得罪了裁判。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 7767804,
+    "zh_id": 7015501
+   },
+   {
+    "en": "The assistant referee held up his flag to show the referee that the ball was still in play.",
+    "zh": "助理裁判向主裁判举旗示意比赛继续。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 3579501,
+    "zh_id": 3579499
+   }
+  ],
+  "radar": [
+   {
+    "en": "The ship is not equipped with radar.",
+    "zh": "这艘船没有配备雷达。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 45698,
+    "zh_id": 471152
+   }
+  ],
+  "compel": [
+   {
+    "en": "No one may be compelled to belong to an association.",
+    "zh": "不可以强迫任何人加入某个协会。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 554848,
+    "zh_id": 9961259
+   }
+  ],
+  "pulse": [
+   {
+    "en": "My pulse is fast.",
+    "zh": "我的脉搏很快。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 322672,
+    "zh_id": 8725289
+   },
+   {
+    "en": "Check Tom's pulse again.",
+    "zh": "再检查一下汤姆的脉搏。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 3319247,
+    "zh_id": 8606824
+   },
+   {
+    "en": "The doctor is taking the patient's pulse.",
+    "zh": "医生正在量病人的脉搏。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 3890961,
+    "zh_id": 3890959
+   }
+  ],
+  "illusion": [
+   {
+    "en": "He had the illusion that he was a genius.",
+    "zh": "他幻想自己是个天才。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 298547,
+    "zh_id": 886528
+   }
+  ],
+  "vampire": [
+   {
+    "en": "Are you a vampire?",
+    "zh": "你是吸血鬼吗？",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 2869060,
+    "zh_id": 3724698
+   },
+   {
+    "en": "Tom believes in vampires.",
+    "zh": "汤姆相信吸血鬼的存在。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 9536166,
+    "zh_id": 13861375
+   },
+   {
+    "en": "Ziri hates vampire movies.",
+    "zh": "齐里讨厌吸血鬼电影。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 10213310,
+    "zh_id": 13861364
+   }
+  ],
+  "hypothesis": [
+   {
+    "en": "This is just a hypothesis.",
+    "zh": "这只是个假设。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 2110836,
+    "zh_id": 1316987
+   },
+   {
+    "en": "The result confirmed my hypothesis.",
+    "zh": "这一结果证实了我的猜想。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 48379,
+    "zh_id": 528035
+   }
+  ],
+  "essence": [
+   {
+    "en": "The essence of liberty is mathematics.",
+    "zh": "自由的本质就是数学。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 2138,
+    "zh_id": 404340
+   },
+   {
+    "en": "That is the essence of the matter.",
+    "zh": "这就是事情的本质。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 2889550,
+    "zh_id": 3068709
+   },
+   {
+    "en": "It's really unfortunate. You don't understand at all its essence.",
+    "zh": "太可惜了，你一点也不懂它的精髓。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 794455,
+    "zh_id": 794454
+   }
+  ],
+  "flourish": [
+   {
+    "en": "For how long did the Maya culture flourish?",
+    "zh": "玛雅文明繁荣了多久？",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 32407,
+    "zh_id": 1948457
+   }
+  ],
+  "corrupt": [
+   {
+    "en": "The file is corrupt.",
+    "zh": "文件已损坏。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 965928,
+    "zh_id": 7773121
+   }
+  ],
+  "yearn": [
+   {
+    "en": "Nothing can keep me from yearning for freedom.",
+    "zh": "没有什么能阻挡我对自由的向往。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 4844629,
+    "zh_id": 4813366
+   }
+  ],
+  "magnet": [
+   {
+    "en": "Earth is like a big magnet.",
+    "zh": "地球像一块大吸铁石一样。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 3973221,
+    "zh_id": 12497641
+   }
+  ],
+  "geometry": [
+   {
+    "en": "If geometry is the science of space, what is the science of time?",
+    "zh": "如果说几何学是空间的科学，那时间的科学是什么？",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 601958,
+    "zh_id": 818813
+   }
+  ],
+  "thermometer": [
+   {
+    "en": "The thermometer reads 10 degrees.",
+    "zh": "温度计显示十度。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 2442907,
+    "zh_id": 2442232
+   },
+   {
+    "en": "Thermometers often go below zero.",
+    "zh": "温度计往往低于零度。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 21122,
+    "zh_id": 332485
+   },
+   {
+    "en": "The thermometer fell to zero last night.",
+    "zh": "昨夜温度计显示气温下降到零度。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1605977,
+    "zh_id": 1605976
+   }
+  ],
+  "venture": [
+   {
+    "en": "Who will provide capital for the venture?",
+    "zh": "谁来为风险投资提供资金？",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 47257,
+    "zh_id": 332673
+   }
+  ],
+  "atomic": [
+   {
+    "en": "The current era is the atomic era.",
+    "zh": "现在的时代是原子时代。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 7767721,
+    "zh_id": 3526214
+   },
+   {
+    "en": "The scientist is working on atomic energy.",
+    "zh": "这个科学家正在研究原子能。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 49302,
+    "zh_id": 1366049
+   },
+   {
+    "en": "We are in the era of atomic energy.",
+    "zh": "我们身在原子能时代。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 22976,
+    "zh_id": 780364
+   }
+  ],
+  "diminish": [
+   {
+    "en": "The population of this country is gradually diminishing.",
+    "zh": "这个国家的人口正在逐渐减少。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 2595671,
+    "zh_id": 9972834
+   }
+  ],
+  "commerce": [
+   {
+    "en": "Osaka is the center of commerce in Japan.",
+    "zh": "大阪是日本的商业中心。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 275690,
+    "zh_id": 817264
+   }
+  ],
+  "garage": [
+   {
+    "en": "The car is in the garage.",
+    "zh": "车在车库里。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 882715,
+    "zh_id": 8831892
+   }
+  ],
+  "devil": [
+   {
+    "en": "Impulsiveness is the devil.",
+    "zh": "冲动是魔鬼。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 2628656,
+    "zh_id": 2615163
+   },
+   {
+    "en": "The Devil made me do it.",
+    "zh": "魔鬼逼我这么做的。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 564194,
+    "zh_id": 3076569
+   },
+   {
+    "en": "The man sold his soul to the devil.",
+    "zh": "这人把灵魂卖给魔鬼。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 45341,
+    "zh_id": 5967631
+   }
+  ],
+  "fate": [
+   {
+    "en": "This is your fate.",
+    "zh": "这是你的命运。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1797652,
+    "zh_id": 9467057
+   },
+   {
+    "en": "She had to accept her fate.",
+    "zh": "她不得不接受自己的命运。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 314636,
+    "zh_id": 396380
+   },
+   {
+    "en": "God knows what their fate will be.",
+    "zh": "天知道他们的命运到底是什么。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1565739,
+    "zh_id": 1565726
+   }
+  ],
+  "gamble": [
+   {
+    "en": "Do you like to gamble?",
+    "zh": "你喜欢赌博吗?",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 3390698,
+    "zh_id": 3577756
+   }
+  ],
+  "govern": [
+   {
+    "en": "To govern a country is no easy job.",
+    "zh": "统治一个国家并不简单。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1395383,
+    "zh_id": 8631019
+   }
+  ],
+  "league": [
+   {
+    "en": "All the top teams in England are in the Premier League.",
+    "zh": "英国所有的顶尖球队都在超级联赛中。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 13562314,
+    "zh_id": 3579616
+   },
+   {
+    "en": "Because all of the teams in the Premier League are really strong, the goal difference is usually small.",
+    "zh": "因为超级联赛中所有球队都很强，净胜球通常很小。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 3579589,
+    "zh_id": 3579588
+   }
+  ],
+  "miserable": [
+   {
+    "en": "Kate glanced at Chris and then ignored him, making him feel miserable.",
+    "zh": "凯特看了克里斯一眼，然后不理睬他，使他感到痛苦。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 62710,
+    "zh_id": 803797
+   }
+  ],
+  "intuition": [
+   {
+    "en": "By intuition he knew she was lying.",
+    "zh": "他凭直觉发现她在撒谎。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 301664,
+    "zh_id": 9955893
+   }
+  ],
+  "notorious": [
+   {
+    "en": "This junction is notorious for accidents.",
+    "zh": "这个路口因频繁的事故而臭名昭著。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 10537154,
+    "zh_id": 10541559
+   }
+  ],
+  "coward": [
+   {
+    "en": "He is a coward.",
+    "zh": "他是个懦夫。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 7782934,
+    "zh_id": 4249131
+   },
+   {
+    "en": "You're just a coward.",
+    "zh": "你就是胆小鬼。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 4296870,
+    "zh_id": 5845589
+   }
+  ],
+  "destiny": [
+   {
+    "en": "You're the master of your own destiny.",
+    "zh": "你才是自己命运的主人。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 8983794,
+    "zh_id": 1992648
+   }
+  ],
+  "compromise": [
+   {
+    "en": "I'm strongly opposed to a compromise.",
+    "zh": "我强烈反对妥协。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 4970631,
+    "zh_id": 12615419
+   }
+  ],
+  "punish": [
+   {
+    "en": "Tom wanted to punish me.",
+    "zh": "汤姆要惩罚我。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 2011962,
+    "zh_id": 9955804
+   },
+   {
+    "en": "He needs to be punished.",
+    "zh": "他应当受到惩罚。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 5085365,
+    "zh_id": 5085564
+   },
+   {
+    "en": "What are you punishing them for?",
+    "zh": "您为什么惩罚他们？",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 36489,
+    "zh_id": 337876
+   }
+  ],
+  "rational": [
+   {
+    "en": "His argument is rational.",
+    "zh": "他的观点是合理的。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 285874,
+    "zh_id": 912637
+   }
+  ],
+  "refreshment": [
+   {
+    "en": "We will continue the meeting after some light refreshments.",
+    "zh": "茶点过后我们接着开会。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 4763339,
+    "zh_id": 4760079
+   }
+  ],
+  "unveil": [
+   {
+    "en": "Algeria has unveiled a new economic plan.",
+    "zh": "阿尔及利亚公布了新的经济计划。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 10838453,
+    "zh_id": 13175449
+   }
+  ],
+  "meteor": [
+   {
+    "en": "Tomorrow we are going to see the meteor shower!",
+    "zh": "明天要看流星雨啊！",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 7772913,
+    "zh_id": 1160847
+   }
+  ],
+  "corporation": [
+   {
+    "en": "Toyota Corporation announced that it would cut 1,000 positions this year.",
+    "zh": "丰田公司宣布将会在今年裁员一千人。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 36968,
+    "zh_id": 359006
+   }
+  ],
+  "protest": [
+   {
+    "en": "American workers began to protest.",
+    "zh": "美国的工人开始抗议。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 805252,
+    "zh_id": 10188034
+   }
+  ],
+  "contemporary": [
+   {
+    "en": "He studies contemporary literature.",
+    "zh": "他学习现代文学。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 296086,
+    "zh_id": 512869
+   },
+   {
+    "en": "He's contemplating the complexity of contemporary life.",
+    "zh": "他思考着现代生活的复杂性。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1211494,
+    "zh_id": 1187318
+   }
+  ],
+  "democracy": [
+   {
+    "en": "In a democracy, it is important that the press be independent.",
+    "zh": "在民主国家，报刊的独立性是很重要的。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1499310,
+    "zh_id": 698178
+   }
+  ],
+  "democratic": [
+   {
+    "en": "There are two major political parties in the United States: the conservative Republican Party, and the liberal Democratic Party.",
+    "zh": "美国有两大政党，一是较为保守的共和党，一是较为自由的民主党。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1126262,
+    "zh_id": 1957391
+   }
+  ],
+  "industrious": [
+   {
+    "en": "The Japanese are an industrious people.",
+    "zh": "日本人是勤劳的民族。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 281739,
+    "zh_id": 344834
+   },
+   {
+    "en": "An industrious person will succeed in life.",
+    "zh": "勤劳的人将在生活中获得成功。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 3686642,
+    "zh_id": 1738276
+   }
+  ],
+  "renovate": [
+   {
+    "en": "My neighbor renovated her house completely.",
+    "zh": "我的邻居把她的屋子翻新了一遍。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 454517,
+    "zh_id": 6147580
+   }
+  ],
+  "extravagant": [
+   {
+    "en": "This diamond ring is too extravagant for me.",
+    "zh": "我觉得这钻石戒指太奢侈了。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 60917,
+    "zh_id": 364917
+   }
+  ],
+  "stadium": [
+   {
+    "en": "The stadium was flooded with baseball fans.",
+    "zh": "体育场挤满了棒球迷。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 48720,
+    "zh_id": 336623
+   }
+  ],
+  "puppet": [
+   {
+    "en": "The puppets are controlled by wires.",
+    "zh": "木偶由电线控制。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1543282,
+    "zh_id": 10759902
+   }
+  ],
+  "sarcastic": [
+   {
+    "en": "Tom is quite sarcastic.",
+    "zh": "汤姆真会挖苦人。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 3409435,
+    "zh_id": 5663484
+   }
+  ],
+  "native": [
+   {
+    "en": "Tom is a Boston native.",
+    "zh": "汤姆是波士顿本地人。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 4494445,
+    "zh_id": 6132213
+   },
+   {
+    "en": "Native Chinese people are working alongside foreigners to change the culture of Shanghai.",
+    "zh": "本地中国人和外国人一起改变着上海的文化。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1542268,
+    "zh_id": 421276
+   }
+  ],
+  "church": [
+   {
+    "en": "Where's the nearest church?",
+    "zh": "最近的教堂在哪里？",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 27262,
+    "zh_id": 335244
+   },
+   {
+    "en": "Do you go to church?",
+    "zh": "你去教堂吗？",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1887074,
+    "zh_id": 6111744
+   },
+   {
+    "en": "We met at the church.",
+    "zh": "我们在教堂见的面。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 4144820,
+    "zh_id": 4147290
+   }
+  ],
+  "flour": [
+   {
+    "en": "Flour is made from wheat.",
+    "zh": "面粉是小麦制成的。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 267675,
+    "zh_id": 401129
+   }
+  ],
+  "gloomy": [
+   {
+    "en": "The future looked very gloomy.",
+    "zh": "前途一片阴暗。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 2268150,
+    "zh_id": 10019645
+   }
+  ],
+  "appetite": [
+   {
+    "en": "If you want to lose weight, then you need to control your appetite.",
+    "zh": "想要减肥就必须控制食欲。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 7779345,
+    "zh_id": 2454753
+   }
+  ],
+  "stereo": [
+   {
+    "en": "Put a record on the stereo.",
+    "zh": "放张唱片到音响上。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 51894,
+    "zh_id": 1395050
+   }
+  ],
+  "litter": [
+   {
+    "en": "A lot of people climb the railing, and even litter.",
+    "zh": "很多人跳过栏杆，还丢垃圾。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 5573313,
+    "zh_id": 5505598
+   }
+  ],
+  "labor": [
+   {
+    "en": "Jim was afraid of physical labor.",
+    "zh": "吉姆害怕体力劳动。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 53243,
+    "zh_id": 510741
+   },
+   {
+    "en": "Labor is not merely a necessity but a pleasure.",
+    "zh": "劳动不仅是一种需要，也是一种快乐。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 326334,
+    "zh_id": 760653
+   },
+   {
+    "en": "Capital, land and labor are the three key factors of production.",
+    "zh": "资本、土地和劳动是生产的三大要素。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 263567,
+    "zh_id": 397128
+   }
+  ],
+  "aeroplane": [
+   {
+    "en": "Tom likes making paper aeroplanes.",
+    "zh": "汤姆喜欢折纸飞机。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1557637,
+    "zh_id": 2485281
+   }
+  ],
+  "inevitable": [
+   {
+    "en": "War is not inevitable.",
+    "zh": "战争并非不可避免。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 273316,
+    "zh_id": 335257
+   },
+   {
+    "en": "Their meeting was inevitable.",
+    "zh": "他们的相遇是必然的。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 547045,
+    "zh_id": 767126
+   }
+  ],
+  "slave": [
+   {
+    "en": "Don't be a slave to money.",
+    "zh": "不要成为金钱的奴隶。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 5215200,
+    "zh_id": 10201112
+   },
+   {
+    "en": "Tom treated Mary like a slave.",
+    "zh": "汤姆把玛丽当奴隶一样对待。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1092640,
+    "zh_id": 1924007
+   },
+   {
+    "en": "This person is your slave, right?",
+    "zh": "这个人是您的奴隶，是吧？",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 939895,
+    "zh_id": 939899
+   }
+  ],
+  "reckless": [
+   {
+    "en": "It was reckless of her to trust him.",
+    "zh": "她信任他是件鲁莽的事。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 2940571,
+    "zh_id": 3780484
+   }
+  ],
+  "hemisphere": [
+   {
+    "en": "Japan is located in the Northern Hemisphere.",
+    "zh": "日本位于北半球。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 281608,
+    "zh_id": 798334
+   }
+  ],
+  "halt": [
+   {
+    "en": "As the train came to a halt, all of the passengers wondered what was happening.",
+    "zh": "当列车停止时，所有的乘客都想知道发生了什么。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 326154,
+    "zh_id": 1397024
+   }
+  ],
+  "wheat": [
+   {
+    "en": "Flour is made from wheat.",
+    "zh": "面粉是小麦制成的。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 267675,
+    "zh_id": 401129
+   }
+  ],
+  "flame": [
+   {
+    "en": "Sulfur burns with a blue flame.",
+    "zh": "硫磺燃烧着蓝色的火焰。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 325501,
+    "zh_id": 798050
+   }
+  ],
+  "refugee": [
+   {
+    "en": "The refugees struggled against hunger.",
+    "zh": "难民与饥饿作斗争。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 317924,
+    "zh_id": 804794
+   },
+   {
+    "en": "Refugees poured in from all over the country.",
+    "zh": "难民从全国各地涌入。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 280806,
+    "zh_id": 787357
+   }
+  ],
+  "mayor": [
+   {
+    "en": "He knows the mayor.",
+    "zh": "他认识市长。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 9836078,
+    "zh_id": 390545
+   },
+   {
+    "en": "He was elected mayor.",
+    "zh": "他被选为市长。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 297172,
+    "zh_id": 332862
+   },
+   {
+    "en": "You should run for mayor.",
+    "zh": "你应该竞选市长。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 3354955,
+    "zh_id": 8865589
+   }
+  ],
+  "bullet": [
+   {
+    "en": "The dog bolted away like a bullet.",
+    "zh": "那只狗像子弹一样冲了出去。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 10483666,
+    "zh_id": 10484370
+   }
+  ],
+  "collar": [
+   {
+    "en": "Iron the inside of collars first, and then the outside.",
+    "zh": "先熨烫领子的里面，然后是外面。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 65250,
+    "zh_id": 1394904
+   }
+  ],
+  "couch": [
+   {
+    "en": "Tom is asleep on the couch.",
+    "zh": "汤姆在长沙发上睡着了。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1868227,
+    "zh_id": 5585216
+   }
+  ],
+  "murder": [
+   {
+    "en": "He was hanged for murder.",
+    "zh": "他因谋杀罪被绞死。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 296956,
+    "zh_id": 8853880
+   },
+   {
+    "en": "The police are investigating the murder.",
+    "zh": "警方正在调查那起谋杀案。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 238223,
+    "zh_id": 12686423
+   },
+   {
+    "en": "The court declared him innocent on the charge of murder.",
+    "zh": "法庭对他的谋杀罪名作出了无罪判决。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 387431,
+    "zh_id": 8829225
+   }
+  ],
+  "ceiling": [
+   {
+    "en": "He painted the ceiling blue.",
+    "zh": "他把天花板刷成了蓝色。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 301758,
+    "zh_id": 1314449
+   },
+   {
+    "en": "There's a hole in the ceiling.",
+    "zh": "天花板上有洞。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 5509165,
+    "zh_id": 2035068
+   }
+  ],
+  "recipe": [
+   {
+    "en": "This recipe is my grandmother's.",
+    "zh": "这是我奶奶的食谱。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 4133555,
+    "zh_id": 10340680
+   }
+  ],
+  "hare": [
+   {
+    "en": "It is not easy to catch a hare with your bare hands.",
+    "zh": "赤手空拳抓野兔并不容易。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 627421,
+    "zh_id": 761273
+   }
+  ],
+  "roughly": [
+   {
+    "en": "The population of the country is roughly estimated at 50,000,000.",
+    "zh": "这个国家的人口粗略估计是五千万左右。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 59258,
+    "zh_id": 567376
+   }
+  ],
+  "throne": [
+   {
+    "en": "He will succeed to the throne.",
+    "zh": "他会继承王位。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 294164,
+    "zh_id": 5794153
+   },
+   {
+    "en": "The prince succeeded to the throne.",
+    "zh": "王子继承了王位。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 25624,
+    "zh_id": 845127
+   },
+   {
+    "en": "Prince William is second in line to the English throne.",
+    "zh": "威廉王子是英国王位第二顺位继承人。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 727118,
+    "zh_id": 864291
+   }
+  ],
+  "fountain": [
+   {
+    "en": "The fountain is over there.",
+    "zh": "喷泉在那里。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1098318,
+    "zh_id": 8853850
+   }
+  ],
+  "scorn": [
+   {
+    "en": "She scorned the boy.",
+    "zh": "她鄙视那个男孩。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 311303,
+    "zh_id": 604459
+   }
+  ],
+  "rot": [
+   {
+    "en": "Fruit generally rots soon.",
+    "zh": "水果一般不久就会腐烂。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 13573026,
+    "zh_id": 1737865
+   },
+   {
+    "en": "This apple is starting to rot.",
+    "zh": "这个苹果开始腐烂了。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 6900113,
+    "zh_id": 6884326
+   }
+  ],
+  "vague": [
+   {
+    "en": "She gave us a vague answer.",
+    "zh": "她给了我们一个模糊的答案。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 314067,
+    "zh_id": 805027
+   }
+  ],
+  "versatile": [
+   {
+    "en": "The programming language Java is highly versatile.",
+    "zh": "编程语言 Java 用途很广。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 2420824,
+    "zh_id": 8928662
+   }
+  ],
+  "groan": [
+   {
+    "en": "The soldier groaned with pain.",
+    "zh": "这名士兵痛苦地呻吟。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 320118,
+    "zh_id": 842308
+   }
+  ],
+  "absorb": [
+   {
+    "en": "I'd like to know how the body absorbs these substances.",
+    "zh": "我想知道这些物质是怎么被人体吸收的。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 5144265,
+    "zh_id": 358974
+   }
+  ],
+  "gum": [
+   {
+    "en": "She's chewing gum, isn't she?",
+    "zh": "她在嚼口香糖，是吗？",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 8527141,
+    "zh_id": 8969799
+   },
+   {
+    "en": "Some gum stuck to his shoes.",
+    "zh": "口香糖粘到他的鞋子上了。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 63568,
+    "zh_id": 8940749
+   },
+   {
+    "en": "There was some chewing gum on the sole of Tom's shoe.",
+    "zh": "汤姆的鞋底粘了口香糖。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 10626015,
+    "zh_id": 8673761
+   }
+  ],
+  "skeleton": [
+   {
+    "en": "Tom found a skeleton in the cave.",
+    "zh": "汤姆在洞穴里找到了一具骨架。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 8560547,
+    "zh_id": 8560799
+   }
+  ],
+  "rifle": [
+   {
+    "en": "Did you lose your rifle?",
+    "zh": "你丢了步枪吗？",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 8303367,
+    "zh_id": 8744636
+   }
+  ],
+  "mend": [
+   {
+    "en": "My watch needs mending.",
+    "zh": "我的手表需要修理。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 250365,
+    "zh_id": 651177
+   },
+   {
+    "en": "Mend the tap in the kitchen.",
+    "zh": "修一下厨房的水龙头。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 9139995,
+    "zh_id": 13992598
+   }
+  ],
+  "porch": [
+   {
+    "en": "Three men are waiting for you on the porch.",
+    "zh": "三个男人在门廊上等你。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 8034470,
+    "zh_id": 8932006
+   }
+  ],
+  "shiver": [
+   {
+    "en": "The terrible scene sent shivers down his spine.",
+    "zh": "恐怖的场面让他浑身发抖。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1316055,
+    "zh_id": 1316087
+   }
+  ],
+  "coincidence": [
+   {
+    "en": "It must be a coincidence.",
+    "zh": "这一定是个巧合。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 2645050,
+    "zh_id": 5542972
+   },
+   {
+    "en": "It could be just a coincidence.",
+    "zh": "可能只是巧合。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 2953038,
+    "zh_id": 5900173
+   },
+   {
+    "en": "Maybe it was just a coincidence.",
+    "zh": "也许这只是巧合。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 2932103,
+    "zh_id": 13071576
+   }
+  ],
+  "tenant": [
+   {
+    "en": "When the landlord's away, the tenants will play.",
+    "zh": "当房东不在, 房客就会大玩特玩。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 780197,
+    "zh_id": 781554
+   }
+  ],
+  "deteriorate": [
+   {
+    "en": "Air quality has deteriorated these past few years.",
+    "zh": "这些年空气质量恶化了。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 18242,
+    "zh_id": 426309
+   },
+   {
+    "en": "Tom's health has been deteriorating for some time.",
+    "zh": "汤姆的病情这段时间一直在恶化。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 2059906,
+    "zh_id": 13894740
+   }
+  ],
+  "tribe": [
+   {
+    "en": "Members of that tribe settled along the river.",
+    "zh": "部落成员沿着河岸定居了。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 44185,
+    "zh_id": 955378
+   },
+   {
+    "en": "Ewondo is the language spoken by the Ewondo tribe of Cameroon.",
+    "zh": "埃翁多语是喀麦隆埃翁多部落所说的语言。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 852269,
+    "zh_id": 1193448
+   }
+  ],
+  "beggar": [
+   {
+    "en": "I'm not a beggar.",
+    "zh": "我不是乞丐。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1891028,
+    "zh_id": 6150017
+   },
+   {
+    "en": "The beggar is collecting stale bread.",
+    "zh": "这名乞丐在收集干面包。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 11552523,
+    "zh_id": 2254186
+   },
+   {
+    "en": "He is rich yet he lives like a beggar.",
+    "zh": "他很富有，但活得像个乞丐。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 18533,
+    "zh_id": 408246
+   }
+  ],
+  "pearl": [
+   {
+    "en": "These pearls are genuine, not artificial.",
+    "zh": "这些珍珠是真的，不是人造的。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 55161,
+    "zh_id": 791686
+   },
+   {
+    "en": "His teeth are white like a pearl.",
+    "zh": "他的牙齿白得像珍珠一样。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 873996,
+    "zh_id": 7768145
+   },
+   {
+    "en": "The Japanese attacked Pearl Harbor on December 7, 1941.",
+    "zh": "日本人在一九四一年十二月七日袭击珍珠港。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 281728,
+    "zh_id": 5989634
+   }
+  ],
+  "jaw": [
+   {
+    "en": "He got a broken jaw and lost some teeth.",
+    "zh": "他磕碎了下巴，掉了几颗牙。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 294880,
+    "zh_id": 812212
+   }
+  ],
+  "scream": [
+   {
+    "en": "Helen screamed in fear.",
+    "zh": "海伦害怕地发出尖叫。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 9675410,
+    "zh_id": 13050401
+   },
+   {
+    "en": "He doesn't speak; he screams!",
+    "zh": "他不说话，他尖叫！",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 12259600,
+    "zh_id": 12550042
+   },
+   {
+    "en": "This time, it was James who screamed.",
+    "zh": "这次换詹姆斯尖叫了。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 11511198,
+    "zh_id": 13889015
+   }
+  ],
+  "continent": [
+   {
+    "en": "Africa is a very large continent.",
+    "zh": "非洲是一块非常大的大陆。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 2882570,
+    "zh_id": 2882569
+   },
+   {
+    "en": "There are seven continents on the earth.",
+    "zh": "地球上有七大洲。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 271117,
+    "zh_id": 2109213
+   }
+  ],
+  "ally": [
+   {
+    "en": "Germany was once allied with Italy.",
+    "zh": "德国曾是意大利的同盟国。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 38963,
+    "zh_id": 472966
+   }
+  ],
+  "barn": [
+   {
+    "en": "We took refuge from the storm in a nearby barn.",
+    "zh": "为躲避风暴，我们躲到了附近的一个谷仓内。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 325314,
+    "zh_id": 2298341
+   },
+   {
+    "en": "He could be found at 6 o'clock every morning in the barn, milking the cows.",
+    "zh": "他每天早上六点都会在牲口棚给母牛挤牛奶。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 934456,
+    "zh_id": 1455171
+   }
+  ],
+  "cricket": [
+   {
+    "en": "Why are there crickets in my room?",
+    "zh": "我的房间里为什么有蟋蟀？",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 446059,
+    "zh_id": 446057
+   },
+   {
+    "en": "A caged cricket eats just as much as a free cricket.",
+    "zh": "笼子里的蟋蟀吃得跟野生的蟋蟀一样多。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 646789,
+    "zh_id": 761298
+   }
+  ],
+  "peculiar": [
+   {
+    "en": "Language is peculiar to man.",
+    "zh": "语言是人类特有的。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 239736,
+    "zh_id": 1454420
+   }
+  ],
+  "promise": [
+   {
+    "en": "He kept his promise.",
+    "zh": "他信守了他的承诺。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 1682873,
+    "zh_id": 7780801
+   },
+   {
+    "en": "That's what Tom promised.",
+    "zh": "那是汤姆承诺的。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 2869540,
+    "zh_id": 5555670
+   },
+   {
+    "en": "We can't promise anything.",
+    "zh": "我们什么都不能承诺。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 4328606,
+    "zh_id": 9961409
+   }
+  ],
+  "duty": [
+   {
+    "en": "It's my duty to help you.",
+    "zh": "帮助你是我的责任。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 68789,
+    "zh_id": 472326
+   },
+   {
+    "en": "It was my duty to do that.",
+    "zh": "做那事是我的责任。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 3820208,
+    "zh_id": 5624889
+   },
+   {
+    "en": "He has completely lost all sense of duty.",
+    "zh": "他完全丧失了责任心。",
+    "source": "Tatoeba",
+    "license": "CC-BY 2.0 FR",
+    "en_id": 295154,
+    "zh_id": 1395077
+   }
+  ]
+ }
+}
